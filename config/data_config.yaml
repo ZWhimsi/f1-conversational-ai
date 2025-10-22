@@ -1,0 +1,108 @@
+# Data Configuration for F1 Conversational AI
+
+# Data Sources
+sources:
+  web_scraping:
+    enabled: true
+    sources:
+      - "https://www.formula1.com"
+      - "https://www.espn.com/f1"
+      - "https://www.bbc.com/sport/formula1"
+    selectors:
+      title: "h1, h2, h3"
+      content: "p, div.article-content"
+      metadata: "time, .date, .author"
+
+  kaggle:
+    enabled: true
+    datasets:
+      - "rohanrao/formula-1-world-championship-1950-2020"
+      - "jgrijalv/formula-1-race-data-1950-2020"
+    api_key_path: "config/kaggle.json"
+
+  fastf1:
+    enabled: true
+    years: [2020, 2021, 2022, 2023, 2024]
+    sessions: ["FP1", "FP2", "FP3", "Q", "R"]
+    cache_dir: "data/raw/fastf1_cache"
+
+# Data Processing
+processing:
+  text_cleaning:
+    remove_html: true
+    remove_special_chars: true
+    normalize_whitespace: true
+    remove_duplicates: true
+
+  tokenization:
+    max_length: 2048
+    padding: "max_length"
+    truncation: true
+    return_tensors: "pt"
+
+  filtering:
+    min_length: 10
+    max_length: 2000
+    language: "en"
+    quality_threshold: 0.7
+
+# Dataset Splits
+splits:
+  train: 0.8
+  validation: 0.1
+  test: 0.1
+  random_seed: 42
+
+# Data Storage
+storage:
+  local_dir: "data"
+  cloud_storage:
+    provider: "gcs" # gcs, s3, azure
+    bucket: "f1-ai-data"
+    prefix: "datasets"
+
+  formats:
+    raw: "jsonl"
+    processed: "parquet"
+    final: "jsonl"
+
+# Data Quality
+quality:
+  validation:
+    check_duplicates: true
+    check_format: true
+    check_completeness: true
+
+  metrics:
+    min_samples: 1000
+    max_samples: 100000
+    target_distribution: "balanced"
+
+# API Configuration
+apis:
+  openai:
+    model: "gpt-4"
+    max_tokens: 2000
+    temperature: 0.7
+    api_key_path: "config/.env"
+
+  anthropic:
+    model: "claude-3-sonnet-20240229"
+    max_tokens: 2000
+    temperature: 0.7
+    api_key_path: "config/.env"
+
+# Data Generation
+generation:
+  instruction_templates:
+    - "Explain the following F1 concept: {concept}"
+    - "What happened in the {race} race?"
+    - "Compare {driver1} and {driver2} performance"
+    - "Analyze the {team} strategy for {race}"
+    - "What are the key rules in F1 regarding {topic}?"
+
+  response_guidelines:
+    accuracy: "high"
+    detail_level: "comprehensive"
+    tone: "informative"
+    style: "conversational"

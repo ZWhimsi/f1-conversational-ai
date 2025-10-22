@@ -1,0 +1,123 @@
+# Evaluation Configuration for F1 Conversational AI
+
+# Evaluation Models
+evaluation_models:
+  llm_judge:
+    model: "gpt-4"
+    temperature: 0.0
+    max_tokens: 1000
+    api_key_path: "config/.env"
+
+  baseline_models:
+    - "google/gemma-7b"
+    - "meta-llama/Llama-2-7b-hf"
+
+  fine_tuned_models:
+    - "models/artifacts/gemma-7b-full-finetuned"
+    - "models/artifacts/gemma-7b-lora-finetuned"
+    - "models/artifacts/llama-2-7b-full-finetuned"
+    - "models/artifacts/llama-2-7b-lora-finetuned"
+
+# Evaluation Metrics
+metrics:
+  qualitative:
+    - "relevance"
+    - "accuracy"
+    - "completeness"
+    - "clarity"
+    - "factual_consistency"
+
+  quantitative:
+    - "bleu"
+    - "rouge"
+    - "bert_score"
+    - "perplexity"
+    - "response_length"
+
+  system:
+    - "inference_time"
+    - "memory_usage"
+    - "gpu_utilization"
+    - "throughput"
+
+# Test Datasets
+test_datasets:
+  f1_knowledge:
+    file: "data/curated/test_f1_knowledge.jsonl"
+    description: "F1-specific knowledge questions"
+
+  conversational:
+    file: "data/curated/test_conversational.jsonl"
+    description: "Conversational F1 scenarios"
+
+  technical:
+    file: "data/curated/test_technical.jsonl"
+    description: "Technical F1 concepts and rules"
+
+# Evaluation Settings
+settings:
+  batch_size: 8
+  max_length: 2048
+  temperature: 0.7
+  top_p: 0.9
+  num_beams: 4
+  early_stopping: true
+
+  # LLM-as-Judge Settings
+  judge_prompts:
+    relevance: "Rate the relevance of this response to the F1 question (1-10)"
+    accuracy: "Rate the factual accuracy of this F1 response (1-10)"
+    completeness: "Rate how complete this F1 answer is (1-10)"
+    clarity: "Rate the clarity and readability of this response (1-10)"
+
+# Evaluation Process
+process:
+  phases:
+    - "baseline_evaluation"
+    - "fine_tuned_evaluation"
+    - "comparative_analysis"
+    - "statistical_testing"
+
+  parallel_evaluation: true
+  max_workers: 4
+  timeout: 300 # seconds
+
+# Output Configuration
+output:
+  results_dir: "results/evaluation"
+  formats:
+    - "json"
+    - "csv"
+    - "html"
+
+  visualizations:
+    - "performance_comparison"
+    - "metric_distributions"
+    - "error_analysis"
+    - "system_metrics"
+
+# Statistical Analysis
+statistical:
+  significance_level: 0.05
+  multiple_comparison_correction: "bonferroni"
+  confidence_interval: 0.95
+
+  tests:
+    - "t_test"
+    - "wilcoxon"
+    - "mann_whitney"
+
+# Reporting
+reporting:
+  generate_report: true
+  include_visualizations: true
+  include_statistical_analysis: true
+  export_raw_results: true
+
+  report_sections:
+    - "executive_summary"
+    - "methodology"
+    - "results"
+    - "statistical_analysis"
+    - "discussion"
+    - "conclusions"
