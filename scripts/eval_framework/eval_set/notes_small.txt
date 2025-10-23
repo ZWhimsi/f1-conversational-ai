@@ -1,0 +1,5 @@
+The answer should not mention a constructors' or teams' champion: constructors' championships were established in 1958. 
+The answer should mention both drivers, optionally indicating they both won 7 championships.
+The answer can mention it was won at the Portuguese Grand Prix, driving for Lotus
+The answer's wording of the constructor name can vary: "Mercedes-AMG" and "Mercedes-AMG Petronas Formula One Team" are acceptable, for instance.
+The answer's wording of the track name can vary: just "Spa-Francorchamps" or "Spa" is fine. Only mentioning the associated grand prix (Belgian Grand Prix) is incorrect. Track length is ~7km or 4.352mi.

@@ -1,0 +1,100 @@
+The answer should not mention a constructors' or teams' champion: constructors' championships were established in 1958. 
+The answer should mention both drivers, optionally indicating they both won 7 championships.
+The answer can mention it was won at the Portuguese Grand Prix, driving for Lotus
+The answer's wording of the constructor name can vary: "Mercedes-AMG" and "Mercedes-AMG Petronas Formula One Team" are acceptable, for instance.
+The answer's wording of the track name can vary: just "Spa-Francorchamps" or "Spa" is fine. Only mentioning the associated grand prix (Belgian Grand Prix) is incorrect. Track length is ~7km or 4.352mi.
+The answer can optionally include a mention that Hamilton's first year with Mercedes was 2013 for context.
+The answer can use "Italian Grand Prix" (full credit) or "Gran Premio d'Italia" (partial credit for using Italian language). "Monza Grand Prix" is considered incorrect.
+The answer should include some form of "Pirelli".
+The answer can optionally mention that Max's earliest podium finish was during the 2016 Spanish Grand Prix, at the age of 18 years and 228 days.
+The answer can optionally elaborate on the double diffuser concept: a second diffuer placed further forward to increase the overall volume of the diffuser, creating greater expansion and lower pressure under the car, thus affecting the amount of downforce.
+The answer should include some form of "Belgium".
+The answer can optionally mention the number of times Hamilton was one pole as of the 2023 Hungarian Grand Prix: 104.
+The answer must include some form of "2014" (full credit) or the abbreviated form of "'14" (partial credit)
+The answer must include some form of "Ferrari" or "Scuderia Ferrari".
+The answer should primarily reference Alberto Ascari.
+The answer can optionally include the model of the safety car: the Vantage
+The answer must mention some form of the Belgian Grand Prix. An answer citing the track's name (Circuit de Spa-Francorchamps) or equivalent is incorrect.
+The answer should primarily reference Lewis Hamilton. The answer can optionally mention how it was one by just one point over Felipe Massa at the final race in Brazil, with Hamilton finishing 5th.
+The answer must include the number "27" or some form of it (e.g. "twenty seven")
+The answer can optionally include how the Grand Prix Drivers' Association in particular was reformed, and various track layouts and car designs were changed due to the incident.
+The answer can optionally mention the full team name of "Mild Seven Benetton", but not required.
+The answer must mention "1977" or some equivalent value.
+The answer must mention "Silverstone" or "Silverstone Circuit".
+The answer should primarily reference Phil Hill.
+The answer must include the half-point. For example, just "369" or "370" or some other fraction is incorrect.
+The answer must both define what DRS stands for and its purpose. Only answering one of the questions is incorrect.
+The answer can optionally mention that Red Bulls were powered by Renault engines from 2005 through 2013.
+The answer should primarily reference Juan Manuel Fangio. An answer of William Grover-Williams is incorrect.
+The answer must include answers to both questions: the correct driver ("Max Verstappen" or just "Verstappen") as well as the correct number of grand prix won (19).
+The answer should primarily reference Lewis Hamilton. It can optionally mention that it was set during the 2020 Italian Grand Prix and/or the average speed set of 264.36 km/h.
+The answer must include "Ferrari" or "Scuderia Ferrari"
+The answer must mention both the correct number (100) and the corresponding units (either kg/h or kilograms per hour).
+The answer should primarily reference Olivier Panis. It can optionally mention how it was Olivier's first and only win in his F1 career.
+The answer must include "Singapore" or "Singapore Grand Prix". Solely an answer of the circuit name, "Marina Bay Street Circuit", is incorrect. It can optionally say that the first night race was held on September 28, 2008.
+The answer can optionally include how the design was inspired by earlier designs such as the BRM P83, Lotus 43, and Lotus 38 Indycar.
+The answer must include the year 2010 (or the abbreviated form "'10").
+The answer must include all diacritics. For example, an answer of "Kimi Raikkonen" is technically incorrect.
+There are multiple valid answers here: the answer could mention that only 6 cars started, cars using Michelin tires withdrew, and/or how Michelin tires were not well suited to the track surface at the time.
+The answer must include the term "Hungaroring", optionally mentioning its location in Mogyoród, Hungary.
+The answer should primarily reference Jean Todt.
+The answer must include "UK", "United Kingdom", or "England", optionally including the circuit's name of "Silverstone".
+The answer should include a time measured to the nearest thousandth of a second: "1:46.988". A time rounded to the nearest tenth or hundredth of a second is okay, but not ideal.
+The answer to this can vary: as long as at least one of the items in the answer key is mentioned, it is considered a valid answer, though ideally 2 or more items are mentioned.
+The answer should primarily reference Nico Rosberg.
+The answer should include something about lap times ultimately being used to determine starting/grid position for a race.
+The answer should primarily reference Max Verstappen, though it may optionally discuss that he won 10 races in the 2023 season.
+The answer should primarily reference Copse corner or Turn 9.
+The answer should primarily reference Maria Teresa de Filippis, optionally noted that she entered 5 grand prix and started 3.
+The answer should primarily reference the 2021 season, optionally citing a cost cap of $140 million
+The answer should primarily reference that the driver for whom the flag is being waved at is about to be lapped by a driver on the lead lap, and thus the flagged driver must let the driver on the lead lap pass.
+The answer must reference both George Russell and Max Verstappen, optionally citing that their qualifying times were 1:12.000 and how Russell got pole position since he set it first.
+The answer should primarily reference Jack Brabham, though it can optionally note how he won the 1959 championship with the T51 car.
+The answer should primarily reference Honda, though it can also acknowledge how they initially re-entered alongside McLaren.
+There are multiple possible answers, though some items to reference include pitting earlier than some rival, being able to set faster lap times earlier on, having tyres in a better working window to overtake an opponent on cold tyres, etc.
+The answer should primarily reference Ayrton Senna, though it can optionally mention how he drove for McLaren during that season.
+The answer should primarily reference Sergio Perez or Checo Perez, optionally highlighting his exceptionally strong defense driving.
+The answer should primarily reference "The Halo" or the halo cockpit protection device, optionally detailing the ring-like structure above the driver's cockpit.
+The answer should primarily reference Michael Schumacher, optionally detailing how he has 77 fastest laps.
+The answer should primarily reference the Lotus F1 team.
+The answer should primarily reference carbon fiber (composite).
+The answer should primarily reference Nico Rosberg, optionally noting how this win was achieved at the 2012 Chinese GP.
+The answer should primarily reference the term "Carlando", optionally mentioning how it is a combination of the two drivers' names.
+The answer should primarily reference how an overcut strategy has a driver stay out on track longer (perhaps longer than a rival), optionally noting how pitting for new/cold tyres may be less advantageous than staying on track.
+The answer should primarily reference the Canadian Grand Prix or the Grand Prix du Canada
+The answer should primarily reference Max Verstappen, optionally noting that the win was at the 2021 British Grand Prix.
+The answer should primarily reference the Monza circuit.
+The answer must primarily reference the correct year: 2010 (or just "'10").
+The answer should primarily reference Emerson Fittipaldi, optionally noting the year he won in was 1974.
+The answer should primarily reference the driver's nationality of being American or from the United States of America.
+The answer must mention the correct fastest pitstop time: 1.80 seconds or equivalent.
+The answer should primarily reference the tifosi.
+The answer should primarily reference the United Arab Emirates / UAE, optionally noting the track's location in Abu Dhabi.
+The answer should primarily reference Sergio Perez or Checo Perez, optionally noting that the race was the 2020 Sakhir Grand Prix.
+The answer should primarily reference David Coulthard.
+The answer must mention all three events: US Grand Prix, Miami Grand Prix, and Las Vegas Grand Prix. Partial answers are incorrect.
+The answer should primarily reference Otmar Szafnauer.
+The answer should primarily reference the Bahrain Grand Prix.
+The answer should primarily reference Daniel Ricciardo, optionally detailing how the "Shoey" was when Daniel would drink champagne from his shoe.
+The answer should primarily reference how "the meatball flag" indicates that a car has mechanical issues and must pit to fix them. It could also mention how "the meatball flag" is equivalent to the "black flag with an orange circle".
+The answer must mention both drivers: Sebastian Vettel and Lance Stroll
+The answer should primarily reference Carlos Sainz, optionally highlighting how he was driving for Ferrari.
+The answer should primarily reference the Red Bull Racing team/constructor, optionally highlighting the team's constructors' championship win in 2022.
+The answer should primarily reference the McLaren team/constructor.
+The answer must include the correct fastest lap time: 1.16:330, optionally indicating that Max Verstappen set that time.
+The answer should primarily reference the Russian Grand Prix, though including the year (2021) is technically optional.
+The answer should primarily reference Alain Prost.
+The answer should primarily reference how tyre durability is reduced compared to the hard compound.
+The answer should primarily reference Sebastian Vettel, optionally noting his age at the time of the win being 21 years, 2 months, and 11 days.
+The answer should primarily reference Adrian Newey, optionally discussing some of his developments.
+The answer must correctly address both parts of the prompt: ERS stands for Energy Recovery System, and it is primarily intended to both recover and deploy electrical energy (e.g. for an overtake).
+The answer should primarily reference Red Bull Racing, optionally detailing how the high rake setup has the rear of the car positioned much higher than the front, affecting downforce.
+The answer must reference both Ayrton Senna and Alain Prost, optionally detailing how the collision led to Senna becoming champion.
+The answer must reference how a double-stack is when both drivers of a team pit on the same lap, optionally indicating the risks and gains of this strategy.
+The answer should primarily reference the Belgian Grand Prix
+The answer should primarily reference the reduced time lost from pitting would help drivers to lose less positions from pitting.
+The answer should primarily reference the Circuit de Barcelona-Catalunya.
+The answer should touch upon at least some of the key points like how the formation lap is before the first lap of the race (and doesn't count towards the lap total for the race), and allows drivers to warm up tyres prior to the start of the race.
+The answer should primarily reference the Ferrari 640 F1 car.
+The answer should primarily reference the Brabham BT46B. Note that an answer of "Brabham BT46" (without the last B) is incorrect.
+The answer should correctly address both parts of the prompt: MGU-K converts kinetic energy from braking into electricity, and MGU-H converts exhaust heat energy into electricity.
