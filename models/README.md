@@ -18,12 +18,11 @@ This directory contains the downloaded language models for the F1 Conversational
    - Status: ✅ Complete and verified
    - Description: Microsoft's efficient 3.8B parameter instruction-tuned model
 
-### 🔄 Partially Downloaded Models
-
-3. **Qwen 7B Chat** (`qwen-7b-chat/`)
-   - Model: `Qwen/Qwen-7B-Chat`
-   - Status: 🔄 Partial download (missing tokenizer files)
-   - Description: Alibaba's 7B parameter conversational model
+3. **Falcon 7B Instruct** (`falcon-7b-instruct/`)
+   - Model: `tiiuae/falcon-7b-instruct`
+   - Size: ~13.6 GB
+   - Status: ✅ Complete and verified
+   - Description: Technology Innovation Institute's 7B parameter instruction-tuned model
 
 ## Model Usage
 
@@ -37,6 +36,9 @@ model, tokenizer = load_model_and_tokenizer("models/base/mistral-7b")
 
 # Load Phi-3 Mini
 model, tokenizer = load_model_and_tokenizer("models/base/phi-3-mini")
+
+# Load Falcon 7B Instruct
+model, tokenizer = load_model_and_tokenizer("models/base/falcon-7b-instruct")
 ```
 
 ## Download Scripts
@@ -49,12 +51,12 @@ model, tokenizer = load_model_and_tokenizer("models/base/phi-3-mini")
 
 - Models are stored in the `base/` subdirectory
 - Each model includes configuration files, tokenizers, and model weights
-- The Qwen model download was interrupted and may need to be re-downloaded
+- All 3 models are fully downloaded and verified
 - All models are compatible with the Hugging Face Transformers library
 
 ## Next Steps
 
-1. Complete the Qwen model download if needed
-2. Add model-specific evaluation wrappers
-3. Test model performance on F1-specific tasks
-4. Fine-tune models on F1 conversational data
+1. Add model-specific evaluation wrappers for the F1 evaluation framework
+2. Test model performance on F1-specific tasks
+3. Fine-tune models on F1 conversational data
+4. Integrate models into the evaluation pipeline

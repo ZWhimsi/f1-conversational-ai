@@ -17,8 +17,7 @@ logger = logging.getLogger(__name__)
 MODELS = {
     "mistral-7b": "mistralai/Mistral-7B-v0.1",
     "phi-3-mini": "microsoft/Phi-3-mini-4k-instruct", 
-    "qwen-7b-chat": "Qwen/Qwen-7B-Chat",
-    "llama-3-8b-instruct": "meta-llama/Meta-Llama-3-8B-Instruct"
+    "falcon-7b-instruct": "tiiuae/falcon-7b-instruct"
 }
 
 def download_model(model_name: str, model_id: str, models_dir: Path) -> bool:
