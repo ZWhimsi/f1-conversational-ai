@@ -5,6 +5,7 @@ datasets>=2.12.0
 accelerate>=0.20.0
 peft>=0.4.0
 bitsandbytes>=0.39.0
+huggingface_hub>=0.16.0
 
 # Data Processing and Analysis
 pandas>=2.0.0
