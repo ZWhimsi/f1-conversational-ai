@@ -12,6 +12,7 @@ This directory contains Jupyter notebooks for analysis and experimentation.
 ## Usage
 
 Notebooks in this directory are organized by phase:
+
 - Data analysis notebooks
 - Model evaluation notebooks
 - Visualization notebooks
