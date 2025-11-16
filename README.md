@@ -152,9 +152,8 @@ Key dependencies include:
 
 **Scripts**:
 
-- `scripts/phase1_data_curation/scrape_f1_data.py`
-- `scripts/phase1_data_curation/process_kaggle_data.py`
-- `scripts/phase1_data_curation/generate_training_data.py`
+- `notebooks/f1_data_aggregator.ipynb`
+- `notebooks/f1_data_preprocessing.ipynb `
 
 ### Phase 2: Baseline Modeling
 
