@@ -1,0 +1,36 @@
+{
+  "article_number": 17,
+  "source": "Motorsport Magazine",
+  "title": "Who can win the 2025 F1 title — how Verstappen can still beat Piastri and Norris",
+  "summary": "Time's running out for Oscar Piastri's rivals to catch him in the 2025 F1 championship, but recent races have shown Lando Norris and Max Verstappen a path to the title",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-can-win-the-2025-f1-title-how-verstappen-can-still-beat-piastri-and-norris/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently leading the 2025 F1 championship?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lando Norris",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What are two key drivers who have a chance to challenge for the 2025 F1 title against Piastri?",
+      "correct_answer": "Max Verstappen and Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc and Sergio Perez",
+        "George Russell and Fernando Alonso",
+        "Sebastian Vettel and Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is crucial for a driver to catch up in a championship race?",
+      "correct_answer": "Consistent performance and strong race strategies",
+      "wrong_options": [
+        "High-speed pit stops",
+        "Team orders",
+        "Public popularity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 11,
+  "source": "Motorsport Magazine",
+  "title": "Mayer slams 'illusion of democracy' as Ben Sulayem will face no opponents in FIA election",
+  "summary": "Neither of Ben Sulayem's opponents have been able to meet the new requirements introduced by the FIA president earlier this year",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mayer-slams-illusion-of-democracy-as-ben-sulayem-will-face-no-opponents-in-fia-election/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What organization does Mohammed Ben Sulayem lead?",
+      "correct_answer": "FIA (Fédération Internationale de l'Automobile)",
+      "wrong_options": [
+        "FOM (Formula One Management)",
+        "FIA Formula E",
+        "GPDA (Grand Prix Drivers' Association)"
+      ]
+    },
+    {
+      "question": "What is a recent requirement introduced by the FIA president for election candidates?",
+      "correct_answer": "New qualification criteria",
+      "wrong_options": [
+        "Increased financial backing",
+        "Mandatory prior experience in F1",
+        "Approval from team principals"
+      ]
+    }
+  ]
+}

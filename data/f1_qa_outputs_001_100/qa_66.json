@@ -1,0 +1,36 @@
+{
+  "article_number": 66,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Horner GP — Will ex-Red Bull boss return as F1 team owner?",
+  "summary": "Christian Horner's disruptive instincts mean his F1 story may be far from over. The only question is where he resurfaces.Mark Hugheslooks at his options",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-horner-gp-will-ex-red-bull-boss-return-as-f1-team-owner/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Zhou Guanyu"
+      ]
+    },
+    {
+      "question": "What role did Christian Horner have at Red Bull Racing before any potential departure?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Chief Engineer",
+        "Driver",
+        "Technical Director"
+      ]
+    },
+    {
+      "question": "Which team is known for its strong performance in recent Formula 1 seasons, often competing for championships?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "Alpine",
+        "Haas"
+      ]
+    }
+  ]
+}

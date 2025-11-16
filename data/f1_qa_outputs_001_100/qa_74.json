@@ -1,0 +1,36 @@
+{
+  "article_number": 74,
+  "source": "Motorsport Magazine",
+  "title": "Christian Horner set for F1 return? Team boss officially departs Red Bull after settlement",
+  "summary": "Christian Horner has now officially left Red Bull after the former F1 team principal finally reached a settlement with his former employer",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/christian-horner-officially-departs-red-bull-after-settlement/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Christian Horner lead as team principal before his departure?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What role did Christian Horner hold at Red Bull Racing?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Chief Engineer",
+        "Technical Director",
+        "Race Strategist"
+      ]
+    },
+    {
+      "question": "What is a common reason for a team principal to leave their position in Formula 1?",
+      "correct_answer": "Settlement or mutual agreement",
+      "wrong_options": [
+        "Injury",
+        "Driver conflict",
+        "Technical failure"
+      ]
+    }
+  ]
+}

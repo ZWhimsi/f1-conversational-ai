@@ -1,0 +1,36 @@
+{
+  "article_number": 100,
+  "source": "Motorsport Magazine",
+  "title": "Is Oscar Piastri being too nice for his own good?",
+  "summary": "Oscar Piastri's willingness to give up second place at Monza kept McLaren happy, but will he regret lacking the ruthlessness that defines modern Formula 1 champions?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-oscar-piastri-being-too-nice-for-his-own-good/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What position did Oscar Piastri give up during the Monza race?",
+      "correct_answer": "Second place",
+      "wrong_options": [
+        "First place",
+        "Third place",
+        "Fourth place"
+      ]
+    },
+    {
+      "question": "What trait is often associated with successful Formula 1 champions?",
+      "correct_answer": "Ruthlessness",
+      "wrong_options": [
+        "Teamwork",
+        "Caution",
+        "Consistency"
+      ]
+    }
+  ]
+}

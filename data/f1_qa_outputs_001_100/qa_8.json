@@ -1,0 +1,36 @@
+{
+  "article_number": 8,
+  "source": "Motorsport Magazine",
+  "title": "When is the next F1 sprint race? 2025 calendar and schedule",
+  "summary": "The next sprint race on the 2025 Formula 1 calendar takes place in November at Interlagos in Brazil, before the Sao Paulo GP. See the full sprint schedule for this season, as well as circuit guides and details on the format",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/when-are-the-f1-sprint-races-calendar-and-schedule/",
+  "qa_pairs": [
+    {
+      "question": "Which circuit is set to host the next sprint race in 2025?",
+      "correct_answer": "Interlagos",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "In what month will the next sprint race occur in 2025?",
+      "correct_answer": "November",
+      "wrong_options": [
+        "September",
+        "October",
+        "December"
+      ]
+    },
+    {
+      "question": "What event follows the sprint race at Interlagos in 2025?",
+      "correct_answer": "Sao Paulo GP",
+      "wrong_options": [
+        "Miami GP",
+        "Canadian GP",
+        "Austrian GP"
+      ]
+    }
+  ]
+}

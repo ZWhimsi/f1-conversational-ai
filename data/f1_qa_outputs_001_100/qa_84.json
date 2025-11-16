@@ -1,0 +1,36 @@
+{
+  "article_number": 84,
+  "source": "Motorsport Magazine",
+  "title": "Race driver Villars becomes first female candidate for FIA presidency",
+  "summary": "28-year-old Swiss racer intends to run against Ben Sulayem and Mayer",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/race-driver-villars-becomes-first-female-candidate-for-fia-presidency/",
+  "qa_pairs": [
+    {
+      "question": "Who is the first female candidate for the FIA presidency?",
+      "correct_answer": "Villars",
+      "wrong_options": [
+        "Ben Sulayem",
+        "Mayer",
+        "Angela Merkel"
+      ]
+    },
+    {
+      "question": "Which country does the first female candidate for FIA presidency, Villars, represent?",
+      "correct_answer": "Switzerland",
+      "wrong_options": [
+        "Germany",
+        "France",
+        "Italy"
+      ]
+    },
+    {
+      "question": "Who are the candidates Villars is running against for the FIA presidency?",
+      "correct_answer": "Ben Sulayem and Mayer",
+      "wrong_options": [
+        "Toto Wolff and Christian Horner",
+        "Jean Todt and Ross Brawn",
+        "Lewis Hamilton and Sebastian Vettel"
+      ]
+    }
+  ]
+}

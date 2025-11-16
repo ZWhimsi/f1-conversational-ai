@@ -1,0 +1,36 @@
+{
+  "article_number": 53,
+  "source": "Motorsport Magazine",
+  "title": "McLaren boss 'deceived' Alex Palou about F1 seat, court hears in $20m case",
+  "summary": "McLaren claims it was \"plunged into crisis\" and lost $20.7m when Alex Palou broke his contract with the team. But  Palou's lawyers say that team boss Zak Brown deceived him into believing he'd have an F1 drive",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/mclaren-boss-deceived-alex-palou-about-f1-seat-court-hears-in-20m-case/",
+  "qa_pairs": [
+    {
+      "question": "Which team is involved in a legal dispute over a contract with Alex Palou?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What amount is McLaren claiming to have lost due to the contract dispute with Alex Palou?",
+      "correct_answer": "$20.7 million",
+      "wrong_options": [
+        "$15 million",
+        "$25 million",
+        "$10 million"
+      ]
+    },
+    {
+      "question": "Who is the McLaren team boss mentioned in the legal case regarding Alex Palou?",
+      "correct_answer": "Zak Brown",
+      "wrong_options": [
+        "Andreas Seidl",
+        "Toto Wolff",
+        "Christian Horner"
+      ]
+    }
+  ]
+}

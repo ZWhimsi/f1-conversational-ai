@@ -1,0 +1,36 @@
+{
+  "article_number": 79,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Oscar Piastri could be on F1 sidelines if it wasn't for Pierre Gasly",
+  "summary": "He's currently leading the Formula 1 championship, but Oscar Piastri could just as easily be languishing as a frustrated reserve driver for Alpine — if it wasn't for Pierre Gasly, writesMark Hughes.",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-oscar-piastri-could-be-on-f1-sidelines-if-it-wasnt-for-pierre-gasly/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Oscar Piastri currently racing for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Alpine",
+        "Ferrari",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "Who is the driver mentioned as having an impact on Oscar Piastri's current position in Formula 1?",
+      "correct_answer": "Pierre Gasly",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What role might Oscar Piastri have held if not for Pierre Gasly's influence?",
+      "correct_answer": "Reserve driver",
+      "wrong_options": [
+        "Team Principal",
+        "Race Engineer",
+        "Technical Director"
+      ]
+    }
+  ]
+}

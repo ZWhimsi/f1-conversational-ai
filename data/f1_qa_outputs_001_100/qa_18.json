@@ -1,0 +1,36 @@
+{
+  "article_number": 18,
+  "source": "Motorsport Magazine",
+  "title": "F1 2026 driver line-ups: latest contract news and rumours",
+  "summary": "Mercedes will keep its current pairing, while new team Cadillac will bring back familiar faces in the 2026 F1 driver line-ups. Here are the contracts in place, rumoured deals and who could end up where during silly season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-2026-driver-line-ups-latest-contract-news-and-rumours/",
+  "qa_pairs": [
+    {
+      "question": "Which team is confirmed to retain its current driver lineup for the 2026 season?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Which new team is set to join Formula 1 in 2026?",
+      "correct_answer": "Cadillac",
+      "wrong_options": [
+        "Porsche",
+        "Audi",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "What is the term used for the period when driver contracts are negotiated and changed in Formula 1?",
+      "correct_answer": "Silly season",
+      "wrong_options": [
+        "Race season",
+        "Off-season",
+        "Contract period"
+      ]
+    }
+  ]
+}

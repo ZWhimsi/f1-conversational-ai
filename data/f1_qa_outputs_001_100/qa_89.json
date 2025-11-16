@@ -1,0 +1,36 @@
+{
+  "article_number": 89,
+  "source": "Motorsport Magazine",
+  "title": "The F1 records set to fall as McLaren marches to 2025 constructors' title",
+  "summary": "McLaren's dominant 2025 season could rewrite Formula 1's record books. These are the benchmarks that the team can break before the end of the year",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-records-mclaren-can-break-in-the-2025-f1-season/",
+  "qa_pairs": [
+    {
+      "question": "What is the constructors' championship in Formula 1?",
+      "correct_answer": "An annual competition that awards points to teams based on the performance of their drivers in races.",
+      "wrong_options": [
+        "A competition for individual drivers only.",
+        "A trophy awarded for the fastest lap in each race.",
+        "A championship for the best pit stop team."
+      ]
+    },
+    {
+      "question": "Which team is predicted to dominate the 2025 Formula 1 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What might McLaren's potential dominance in 2025 lead to?",
+      "correct_answer": "Breaking existing F1 records.",
+      "wrong_options": [
+        "An increase in the number of race weekends.",
+        "The introduction of new technical regulations.",
+        "A change in the scoring system for drivers."
+      ]
+    }
+  ]
+}

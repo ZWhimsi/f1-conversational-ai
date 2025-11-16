@@ -1,0 +1,36 @@
+{
+  "article_number": 30,
+  "source": "Motorsport Magazine",
+  "title": "From Rosberg to Rovanperä - Motor sport's most shocking retirements",
+  "summary": "Led by the news of Kalle Rovanperä's unexpected decision to leave the WRC, we explore some of the most shocking retirements in motor sport history",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/from-rosberg-to-rovanpera-motor-sports-most-shocking-retirements/",
+  "qa_pairs": [
+    {
+      "question": "Which championship did Kalle Rovanperä compete in before announcing his retirement?",
+      "correct_answer": "WRC",
+      "wrong_options": [
+        "F1",
+        "Formula E",
+        "DTM"
+      ]
+    },
+    {
+      "question": "What is a common reason for drivers to retire unexpectedly in motorsport?",
+      "correct_answer": "Personal decisions or changes in career direction",
+      "wrong_options": [
+        "Injury during a race",
+        "Team performance issues",
+        "Technical failures"
+      ]
+    },
+    {
+      "question": "Who was the Formula 1 driver that shocked the motorsport world with his retirement in 2016?",
+      "correct_answer": "Nico Rosberg",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Fernando Alonso"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 27,
+  "source": "Motorsport Magazine",
+  "title": "Ford's F1 return with Red Bull — how it will work",
+  "summary": "Ford is coming back to Formula 1 in 2026, partnering with Red Bull to support the team as it builds its first ever engine. Here's everything to know about the partnership",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fords-f1-return-how-it-will-work/",
+  "qa_pairs": [
+    {
+      "question": "In what year is Ford set to return to Formula 1?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2024",
+        "2025",
+        "2027"
+      ]
+    },
+    {
+      "question": "Which team will Ford partner with for its return to F1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What will Ford provide to Red Bull as part of their partnership?",
+      "correct_answer": "An engine",
+      "wrong_options": [
+        "Chassis",
+        "Tyres",
+        "Aerodynamic support"
+      ]
+    }
+  ]
+}

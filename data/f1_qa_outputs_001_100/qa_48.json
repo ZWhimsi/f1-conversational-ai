@@ -1,0 +1,36 @@
+{
+  "article_number": 48,
+  "source": "Motorsport Magazine",
+  "title": "Ella Lloyd on her breakout year - why F1 Academy star keeps getting better",
+  "summary": "She's backed by McLaren and is an F1 Academy race-winner in her debut season. Ella Lloyd tellsJames Elsonher racing career is going \"pretty well\"",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/ella-lloyd-on-her-breakout-year-why-f1-academy-star-keeps-getting-better/",
+  "qa_pairs": [
+    {
+      "question": "Which team is backing Ella Lloyd in her racing career?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What achievement has Ella Lloyd accomplished in her debut season in the F1 Academy?",
+      "correct_answer": "She is a race-winner.",
+      "wrong_options": [
+        "She secured pole position.",
+        "She finished in the top three in every race.",
+        "She received the rookie of the year award."
+      ]
+    },
+    {
+      "question": "What is the F1 Academy?",
+      "correct_answer": "A racing series designed to promote female drivers.",
+      "wrong_options": [
+        "A driver training program for F1 teams.",
+        "A youth formula racing series.",
+        "A technical development initiative for F1 cars."
+      ]
+    }
+  ]
+}

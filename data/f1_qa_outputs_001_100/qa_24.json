@@ -1,0 +1,36 @@
+{
+  "article_number": 24,
+  "source": "Motorsport Magazine",
+  "title": "Alex Palou: 'McLaren contract was based on lies – I’ll be paying for years'",
+  "summary": "Alex Palou has dominated IndyCar racing in recent seasons but claims that he's not even among the series' highest-earners as a result of McLaren's $20.7m case against him",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/palou-mclaren-contract-was-based-on-lies-ill-be-paying-for-years/",
+  "qa_pairs": [
+    {
+      "question": "Which racing series has Alex Palou dominated in recent seasons?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula 1",
+        "NASCAR",
+        "Formula E"
+      ]
+    },
+    {
+      "question": "What was the legal case amount that McLaren filed against Alex Palou?",
+      "correct_answer": "$20.7 million",
+      "wrong_options": [
+        "$15 million",
+        "$25 million",
+        "$10 million"
+      ]
+    },
+    {
+      "question": "What issue does Alex Palou claim affects his earnings in IndyCar?",
+      "correct_answer": "McLaren's legal case against him",
+      "wrong_options": [
+        "Contract negotiations with other teams",
+        "Sponsorship deals",
+        "Performance bonuses"
+      ]
+    }
+  ]
+}

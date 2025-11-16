@@ -1,0 +1,36 @@
+{
+  "article_number": 49,
+  "source": "Motorsport Magazine",
+  "title": "Piastri fastest as Norris, Leclerc crash in pitlane - Singapore GP FP2 results",
+  "summary": "Piastri goes fastest amid interruptions and a pitlane crash between Leclerc and Norris",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-tops-red-flag-hit-night-practice-2025-singapore-gp-fp2-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved the fastest time in the second practice session of the Singapore GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What incident occurred in the pitlane during the Singapore GP FP2?",
+      "correct_answer": "A crash between Leclerc and Norris",
+      "wrong_options": [
+        "A tire failure",
+        "A fuel spill",
+        "A driver collision with a team member"
+      ]
+    },
+    {
+      "question": "Which two drivers were involved in a crash during the Singapore GP FP2?",
+      "correct_answer": "Lando Norris and Charles Leclerc",
+      "wrong_options": [
+        "Max Verstappen and Sergio Perez",
+        "Carlos Sainz and Daniel Ricciardo",
+        "George Russell and Valtteri Bottas"
+      ]
+    }
+  ]
+}

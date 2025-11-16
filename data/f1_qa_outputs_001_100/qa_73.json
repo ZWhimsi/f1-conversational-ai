@@ -1,0 +1,36 @@
+{
+  "article_number": 73,
+  "source": "Motorsport Magazine",
+  "title": "Oscar Piastri is F1's luckiest man – Up/Down in Azerbaijan 2025",
+  "summary": "Lando Norris managed to snatch victory form the jaws of defeat in Baku, writesJames Elson",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/oscar-piastri-is-f1s-luckiest-man-up-down-in-azerbaijan-2025/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the Azerbaijan Grand Prix in 2025?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What is the significance of the Baku Grand Prix for F1 drivers?",
+      "correct_answer": "It is known for its challenging street circuit and potential for dramatic race outcomes.",
+      "wrong_options": [
+        "It has the shortest lap time of the season.",
+        "It is held at high altitude.",
+        "It is the final race of the season."
+      ]
+    },
+    {
+      "question": "Which team does Lando Norris drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 85,
+  "source": "Motorsport Magazine",
+  "title": "The strange failure of F1 rivals to copy McLaren’s key advantage",
+  "summary": "McLaren’s F1 dominance in 2025 has been underpinned by a deceptively simple factor that none of its key challengers has been able to replicate.",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-strange-failure-of-f1-rivals-to-copy-mclarens-key-advantage/",
+  "qa_pairs": [
+    {
+      "question": "What has been a key advantage for McLaren in their 2025 F1 dominance?",
+      "correct_answer": "A deceptively simple factor that rivals have not replicated.",
+      "wrong_options": [
+        "Advanced hybrid power unit technology",
+        "Superior tire strategy",
+        "Innovative aerodynamic design"
+      ]
+    },
+    {
+      "question": "In which year did McLaren experience significant success in Formula 1?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2021",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "question": "Which aspect of McLaren's performance has rivals failed to copy?",
+      "correct_answer": "A key advantage that is deceptively simple.",
+      "wrong_options": [
+        "Their pit stop efficiency",
+        "Driver skill development",
+        "Data analytics in race strategy"
+      ]
+    }
+  ]
+}

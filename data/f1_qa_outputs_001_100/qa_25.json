@@ -1,0 +1,36 @@
+{
+  "article_number": 25,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Rovanperä might just have enough time to reach F1",
+  "summary": "Kalle Rovanperä is quitting rallying to move to single-seaters with the aim of reaching Formula 1, andMark Hughesreckons the Finn's goal is within reach",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-rovanpera-might-just-have-enough-time-to-reach-f1/",
+  "qa_pairs": [
+    {
+      "question": "Which motorsport discipline is Kalle Rovanperä transitioning from?",
+      "correct_answer": "Rallying",
+      "wrong_options": [
+        "Formula E",
+        "IndyCar",
+        "Touring Car Racing"
+      ]
+    },
+    {
+      "question": "What is Kalle Rovanperä's goal in motorsport?",
+      "correct_answer": "To reach Formula 1",
+      "wrong_options": [
+        "To win the World Rally Championship",
+        "To compete in Formula E",
+        "To become a test driver for Ferrari"
+      ]
+    },
+    {
+      "question": "What type of racing vehicles is Rovanperä moving to?",
+      "correct_answer": "Single-seaters",
+      "wrong_options": [
+        "Rally cars",
+        "Sports cars",
+        "Touring cars"
+      ]
+    }
+  ]
+}

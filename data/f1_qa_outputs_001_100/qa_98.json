@@ -1,0 +1,36 @@
+{
+  "article_number": 98,
+  "source": "Motorsport Magazine",
+  "title": "Berger reunited with Honda F1 V12 engine 33 years on",
+  "summary": "More than 30 years after his podium at Estoril, Berger has been reunited with the very Honda V12 engine that powered his McLaren",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/berger-reunited-with-honda-f1-v12-engine-33-years-on/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Gerhard Berger drive for when he used the Honda V12 engine?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Williams",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "In which year did Gerhard Berger achieve a podium finish at the Estoril race?",
+      "correct_answer": "1990",
+      "wrong_options": [
+        "1989",
+        "1991",
+        "1992"
+      ]
+    },
+    {
+      "question": "What type of engine is the Honda V12 that Berger was reunited with?",
+      "correct_answer": "V12 engine",
+      "wrong_options": [
+        "V6 engine",
+        "V10 engine",
+        "V8 engine"
+      ]
+    }
+  ]
+}

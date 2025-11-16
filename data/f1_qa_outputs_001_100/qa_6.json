@@ -1,0 +1,36 @@
+{
+  "article_number": 6,
+  "source": "Motorsport Magazine",
+  "title": "Today's F1 starting grid for the 2025 US Grand Prix",
+  "summary": "Max Verstappen dominated again as he clinched pole position for the 2025 US Grand Prix, while championship leader Oscar Piastri was just sixth fastest. Here's the starting grid for Sunday's race at Circuit of the Americas",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-starting-grid-for-the-2025-us-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Who secured pole position for the 2025 US Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What position did championship leader Oscar Piastri qualify for the 2025 US Grand Prix?",
+      "correct_answer": "Sixth",
+      "wrong_options": [
+        "First",
+        "Second",
+        "Fifth"
+      ]
+    },
+    {
+      "question": "Which circuit hosted the 2025 US Grand Prix?",
+      "correct_answer": "Circuit of the Americas",
+      "wrong_options": [
+        "Miami International Autodrome",
+        "Indianapolis Motor Speedway",
+        "Austin Grand Prix Circuit"
+      ]
+    }
+  ]
+}

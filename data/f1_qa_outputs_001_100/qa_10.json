@@ -1,0 +1,36 @@
+{
+  "article_number": 10,
+  "source": "Motorsport Magazine",
+  "title": "2025 US Grand Prix: Qualifying start time and Saturday schedule",
+  "summary": "Start time for qualifying ahead of the 2025 United States Grand Prix: Saturday schedule, including how to watch and stream",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-us-grand-prix-f1-sprint-race-start-time-and-saturday-qualifying-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the typical format of a Formula 1 qualifying session?",
+      "correct_answer": "Three knockout rounds: Q1, Q2, and Q3.",
+      "wrong_options": [
+        "Single lap time trial for all drivers.",
+        "Two 30-minute sessions.",
+        "A reverse grid format."
+      ]
+    },
+    {
+      "question": "In which city is the United States Grand Prix traditionally held?",
+      "correct_answer": "Austin, Texas.",
+      "wrong_options": [
+        "Miami, Florida.",
+        "Los Angeles, California.",
+        "New York City, New York."
+      ]
+    },
+    {
+      "question": "What is the main purpose of the qualifying session in Formula 1?",
+      "correct_answer": "To determine the starting grid for the race.",
+      "wrong_options": [
+        "To set the fastest lap for championship points.",
+        "To test car performance under race conditions.",
+        "To practice pit stop strategies."
+      ]
+    }
+  ]
+}

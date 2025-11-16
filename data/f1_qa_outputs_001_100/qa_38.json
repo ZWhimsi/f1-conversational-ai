@@ -1,0 +1,36 @@
+{
+  "article_number": 38,
+  "source": "Motorsport Magazine",
+  "title": "Piastri was right to be angry - 2025 Singapore GP takeaways",
+  "summary": "A tense Singapore Grand Prix mixed team rivalries, redemption drives and F1's ongoing battle to make races less predictable",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-was-right-to-be-angry-2025-singapore-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which driver expressed anger during the 2025 Singapore Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What has been a focus for Formula 1 in recent seasons regarding race outcomes?",
+      "correct_answer": "Making races less predictable",
+      "wrong_options": [
+        "Increasing the number of pit stops",
+        "Reducing car performance disparities",
+        "Enhancing driver penalties"
+      ]
+    },
+    {
+      "question": "The Singapore Grand Prix is known for its unique setting. What is notable about this race?",
+      "correct_answer": "It is a night race held on a street circuit.",
+      "wrong_options": [
+        "It is the only race held in July",
+        "It features a high-speed oval layout",
+        "It is run in the rain every year"
+      ]
+    }
+  ]
+}

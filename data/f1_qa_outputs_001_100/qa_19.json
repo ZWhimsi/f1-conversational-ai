@@ -1,0 +1,36 @@
+{
+  "article_number": 19,
+  "source": "Motorsport Magazine",
+  "title": "How 2025 F1 sprint races work: qualifying, points and schedule",
+  "summary": "How F1 sprint race weekends work in 2025, including points awarded, the sprint shootout qualifying format, race length and results so far",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-sprint-races-what-are-they-and-how-will-they-work/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary purpose of a sprint race in Formula 1?",
+      "correct_answer": "To provide an additional competitive event that determines the starting grid for the main race.",
+      "wrong_options": [
+        "To replace the main race entirely",
+        "To test new car technologies",
+        "To award double points for the championship"
+      ]
+    },
+    {
+      "question": "How are points awarded during a sprint race weekend in Formula 1?",
+      "correct_answer": "Points are awarded to the top finishers in the sprint race, contributing to the drivers' and constructors' championships.",
+      "wrong_options": [
+        "Only the winner receives points",
+        "Points are awarded based on qualifying times",
+        "Points are not awarded during sprint races"
+      ]
+    },
+    {
+      "question": "What is the format of the sprint shootout qualifying session?",
+      "correct_answer": "It is a shorter qualifying session designed to set the grid for the sprint race.",
+      "wrong_options": [
+        "It consists of two separate qualifying sessions",
+        "It is held after the main race",
+        "It has no time limit"
+      ]
+    }
+  ]
+}

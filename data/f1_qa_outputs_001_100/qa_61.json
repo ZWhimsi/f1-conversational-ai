@@ -1,0 +1,36 @@
+{
+  "article_number": 61,
+  "source": "Motorsport Magazine",
+  "title": "Max is back in the 2025 championship: F1 GP reports",
+  "summary": "Max Verstappen’s hopes were not high for his home track of Zandvoort. It’s exactly the sort of medium-speed, long-corner layout which so rewards the McLaren and hurts the Red Bull.…",
+  "link": "https://www.motorsportmagazine.com/archive/article/november-2025/82/max-is-back-in-the-2025-championship-f1-gp-reports/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is highlighted as having concerns about performance at the Zandvoort circuit?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Pérez"
+      ]
+    },
+    {
+      "question": "Which team is noted to perform well on medium-speed, long-corner layouts like Zandvoort?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Alpine",
+        "Aston Martin"
+      ]
+    },
+    {
+      "question": "What type of circuit layout is Zandvoort characterized as?",
+      "correct_answer": "Medium-speed, long-corner layout",
+      "wrong_options": [
+        "High-speed, short-corner layout",
+        "Street circuit",
+        "Technical, twisty layout"
+      ]
+    }
+  ]
+}

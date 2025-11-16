@@ -1,0 +1,36 @@
+{
+  "article_number": 88,
+  "source": "Motorsport Magazine",
+  "title": "Does Formula 1 need more sprint races? 'Absolutely not!' - fans have their say",
+  "summary": "Formula 1's sprint races have added some drama to the calendar, but with rumours of the format expanding to as many as 10 or 12 weekends, the series faces a key question: is more always better?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/does-formula-1-need-even-more-sprint-races-fans-have-their-say/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of sprint races in Formula 1?",
+      "correct_answer": "To add drama and excitement to the race weekend.",
+      "wrong_options": [
+        "To replace traditional qualifying sessions.",
+        "To increase the total points available in the championship.",
+        "To provide teams with additional testing opportunities."
+      ]
+    },
+    {
+      "question": "How many sprint races were initially introduced in Formula 1?",
+      "correct_answer": "Three.",
+      "wrong_options": [
+        "Five.",
+        "Ten.",
+        "One."
+      ]
+    },
+    {
+      "question": "What is a common concern among fans regarding the potential increase in sprint races?",
+      "correct_answer": "That more races may dilute the excitement and significance of the main race weekend.",
+      "wrong_options": [
+        "That it will lead to fewer teams participating.",
+        "That it will make the races shorter than traditional distances.",
+        "That it will increase the cost of participating in the sport."
+      ]
+    }
+  ]
+}

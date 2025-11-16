@@ -1,0 +1,36 @@
+{
+  "article_number": 9,
+  "source": "Motorsport Magazine",
+  "title": "2025 United States GP start time: today's F1 schedule, plus how to watch & stream",
+  "summary": "How to watch the 2025 US Grand Prix - including TV coverage, live streaming options, and highlights. Full timetable for round 19 of the 2025 season, with session and race start times in Austin",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-us-gp-start-time-how-to-watch-live-stream-f1-schedule-and-weather/",
+  "qa_pairs": [
+    {
+      "question": "What is the venue for the United States Grand Prix?",
+      "correct_answer": "Circuit of the Americas",
+      "wrong_options": [
+        "Indianapolis Motor Speedway",
+        "Miami International Autodrome",
+        "Long Beach Street Circuit"
+      ]
+    },
+    {
+      "question": "In which month is the United States Grand Prix typically held?",
+      "correct_answer": "October",
+      "wrong_options": [
+        "April",
+        "July",
+        "September"
+      ]
+    },
+    {
+      "question": "What is generally included in the timetable for a Formula 1 race weekend?",
+      "correct_answer": "Practice sessions, qualifying, and the race",
+      "wrong_options": [
+        "Only the race",
+        "Only practice sessions",
+        "Race and qualifying only"
+      ]
+    }
+  ]
+}

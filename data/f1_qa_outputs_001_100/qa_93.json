@@ -1,0 +1,36 @@
+{
+  "article_number": 93,
+  "source": "Motorsport Magazine",
+  "title": "Max Verstappen can race Nürburgring 24 Hours after Nordschleife debut",
+  "summary": "Max Verstappen has earned the licence that will allow him to race at the Nürburgring 24 Hours, and could compete in the 2026 running of the historic race",
+  "link": "https://www.motorsportmagazine.com/articles/sports-cars/max-verstappen-can-race-in-nurburgring-24-hours-after-race-debut-at-circuit/",
+  "qa_pairs": [
+    {
+      "question": "What is the Nürburgring 24 Hours?",
+      "correct_answer": "A 24-hour endurance race held at the Nürburgring circuit in Germany.",
+      "wrong_options": [
+        "A Formula 1 Grand Prix held at the Nürburgring.",
+        "A motorcycle racing event at the Nürburgring.",
+        "A rally event in the Nürburgring area."
+      ]
+    },
+    {
+      "question": "Which driver recently earned a licence to compete in the Nürburgring 24 Hours?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "In which year could Max Verstappen potentially compete in the Nürburgring 24 Hours?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2023"
+      ]
+    }
+  ]
+}

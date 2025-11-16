@@ -1,0 +1,36 @@
+{
+  "article_number": 45,
+  "source": "Motorsport Magazine",
+  "title": "2025 Singapore GP start time: today's F1 schedule, plus how to watch & stream",
+  "summary": "F1 returns to the streets of Marina Bay for a hot and humid night race, with McLaren aiming to stop Verstappen's streak of victories. Here's the full weekend schedule and how to watch",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-singapore-gp-start-time-tomorrows-f1-schedule-plus-how-to-watch-stream/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Singapore Grand Prix in the F1 calendar?",
+      "correct_answer": "It's known for being a night race held on street circuits with challenging conditions.",
+      "wrong_options": [
+        "It's the first race of the season.",
+        "It's a race held in the summer.",
+        "It's known for being a dirt track event."
+      ]
+    },
+    {
+      "question": "Which team is trying to end Max Verstappen's winning streak at the 2025 Singapore Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What type of conditions are drivers likely to face during the Singapore GP?",
+      "correct_answer": "Hot and humid conditions",
+      "wrong_options": [
+        "Cold and rainy conditions",
+        "Dry and windy conditions",
+        "Snowy conditions"
+      ]
+    }
+  ]
+}

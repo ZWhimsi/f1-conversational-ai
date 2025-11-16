@@ -1,0 +1,36 @@
+{
+  "article_number": 16,
+  "source": "Motorsport Magazine",
+  "title": "How fast is the current generation of F1 cars?",
+  "summary": "Formula 1's 2025 cars are pushing the limits of speed, with top speeds and average laptimes rivalling some of the fastest eras in the series' history. Here's how the current machinery stacks up",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-fast-is-the-current-generation-of-f1-cars/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of top speeds in Formula 1?",
+      "correct_answer": "Top speeds demonstrate the performance capabilities of the cars and influence race strategies.",
+      "wrong_options": [
+        "Top speeds determine the points awarded in a race.",
+        "Top speeds are irrelevant in wet conditions.",
+        "Top speeds are only important for qualifying sessions."
+      ]
+    },
+    {
+      "question": "Which era of Formula 1 is often referenced for having some of the fastest cars?",
+      "correct_answer": "The V10 era in the late 1990s and early 2000s is often referenced for its high-speed performance.",
+      "wrong_options": [
+        "The hybrid era beginning in 2014.",
+        "The turbo era of the 1980s.",
+        "The 2010s when DRS was introduced."
+      ]
+    },
+    {
+      "question": "What factors can influence the average lap times of F1 cars?",
+      "correct_answer": "Factors include track conditions, tire performance, and car setup.",
+      "wrong_options": [
+        "Driver popularity and fan attendance.",
+        "Weather patterns from previous races.",
+        "The length of the pit stop."
+      ]
+    }
+  ]
+}

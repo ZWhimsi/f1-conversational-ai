@@ -1,0 +1,36 @@
+{
+  "article_number": 94,
+  "source": "Motorsport Magazine",
+  "title": "MPH: The F1 force that could split Leclerc & Ferrari — and even McLaren",
+  "summary": "Formula 1 history shows that success and failure alike can rupture partnerships. Could Ferrari and Leclerc be next?Mark Hugheswonders",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-the-f1-force-that-could-split-leclerc-ferrari-and-even-mclaren/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently associated with Ferrari in Formula 1?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Carlos Sainz",
+        "Sebastian Vettel",
+        "Kimi Räikkönen"
+      ]
+    },
+    {
+      "question": "What is a potential reason for partnerships in Formula 1 to end?",
+      "correct_answer": "Lack of success or performance issues",
+      "wrong_options": [
+        "Change of team ownership",
+        "Driver retirements",
+        "Regulatory changes"
+      ]
+    },
+    {
+      "question": "Which team is also mentioned in the context of possible splits alongside Ferrari?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Alpine",
+        "Aston Martin"
+      ]
+    }
+  ]
+}

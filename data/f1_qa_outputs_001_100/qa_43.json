@@ -1,0 +1,36 @@
+{
+  "article_number": 43,
+  "source": "Motorsport Magazine",
+  "title": "Russell dominates as McLaren drivers clash - Singapore GP results",
+  "summary": "Russell dominates the Singapore Grand Prix as McLaren clinches constructors' title amid controversy",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/russell-dominates-as-mclaren-drivers-clash-singapore-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the Singapore Grand Prix?",
+      "correct_answer": "George Russell",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Lando Norris",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which team secured the constructors' title during the Singapore Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "What was a notable incident involving the McLaren drivers during the Singapore GP?",
+      "correct_answer": "They clashed on track.",
+      "wrong_options": [
+        "They achieved a 1-2 finish.",
+        "They both retired from the race.",
+        "They set the fastest lap together."
+      ]
+    }
+  ]
+}

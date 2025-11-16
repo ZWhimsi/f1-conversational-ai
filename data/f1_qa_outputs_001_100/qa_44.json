@@ -1,0 +1,36 @@
+{
+  "article_number": 44,
+  "source": "Motorsport Magazine",
+  "title": "How McLaren can win its 10th F1 constructors' title in Singapore",
+  "summary": "Poised with a commanding points lead in the 2025 constructors' championship, McLaren is on the brink of securing the title at the Singapore Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-mclaren-can-win-its-10th-f1-title-in-singapore/",
+  "qa_pairs": [
+    {
+      "question": "Which team is leading the 2025 F1 constructors' championship?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which location is McLaren expected to potentially secure its 10th constructors' title?",
+      "correct_answer": "Singapore",
+      "wrong_options": [
+        "Monaco",
+        "Suzuka",
+        "Silverstone"
+      ]
+    },
+    {
+      "question": "How many constructors' titles is McLaren aiming to win with their performance in 2025?",
+      "correct_answer": "10th",
+      "wrong_options": [
+        "8th",
+        "9th",
+        "11th"
+      ]
+    }
+  ]
+}

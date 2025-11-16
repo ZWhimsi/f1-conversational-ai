@@ -1,0 +1,36 @@
+{
+  "article_number": 63,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: FIA president wants V8s back in F1. But it’s not his decision",
+  "summary": "A populist president trying to reverse our environmental progress? Not Donald Trump. We’re talking Formula 1. F1’s future is being shaped not only by developments in the real world but…",
+  "link": "https://www.motorsportmagazine.com/archive/article/november-2025/10/mark-hughes-fia-president-wants-v8s-back-in-f1-but-its-not-his-decision/",
+  "qa_pairs": [
+    {
+      "question": "What type of engine configuration is being discussed for a potential return to Formula 1?",
+      "correct_answer": "V8 engines",
+      "wrong_options": [
+        "V6 engines",
+        "V10 engines",
+        "V12 engines"
+      ]
+    },
+    {
+      "question": "Who is the current president of the FIA as of 2023?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What significant factor is influencing the direction of Formula 1's regulations and engine choices?",
+      "correct_answer": "Environmental progress",
+      "wrong_options": [
+        "Cost reduction",
+        "Driver safety",
+        "Fan engagement"
+      ]
+    }
+  ]
+}

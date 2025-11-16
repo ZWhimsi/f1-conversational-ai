@@ -1,0 +1,36 @@
+{
+  "article_number": 99,
+  "source": "Motorsport Magazine",
+  "title": "Grand chelem: Is the 'perfect weekend' important in modern F1?",
+  "summary": "The 'grand chelem' indicates total F1 mastery – butMatt Bishopponders whether it still matters in today's grand prix world",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/grand-chelem-is-the-perfect-weekend-important-in-modern-f1/",
+  "qa_pairs": [
+    {
+      "question": "What does the term 'grand chelem' refer to in Formula 1?",
+      "correct_answer": "Achieving pole position, winning the race, and setting the fastest lap.",
+      "wrong_options": [
+        "Winning the Constructors' Championship",
+        "Leading every lap of the race",
+        "Finishing in the top three"
+      ]
+    },
+    {
+      "question": "Which driver holds the record for the most grand chelem achievements in Formula 1 history?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Michael Schumacher",
+        "Sebastian Vettel",
+        "Alain Prost"
+      ]
+    },
+    {
+      "question": "How many components are required to achieve a grand chelem in a Formula 1 race?",
+      "correct_answer": "Four components.",
+      "wrong_options": [
+        "Three components",
+        "Five components",
+        "Two components"
+      ]
+    }
+  ]
+}

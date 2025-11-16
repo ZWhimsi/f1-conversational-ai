@@ -1,0 +1,36 @@
+{
+  "article_number": 86,
+  "source": "Motorsport Magazine",
+  "title": "Who would replace Oliver Bearman if he gets an F1 race ban?",
+  "summary": "With Oliver Bearman facing the threat of an F1 race ban for the next four grands prix, Haas could soon be forced to find a stand-in. We look at the drivers who could replace him",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-would-replace-oliver-bearman-if-he-gets-an-f1-race-ban/",
+  "qa_pairs": [
+    {
+      "question": "What is the maximum number of races a driver can be banned from participating in for a serious infraction in Formula 1?",
+      "correct_answer": "4",
+      "wrong_options": [
+        "2",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "question": "Which team does Oliver Bearman currently drive for in Formula 1?",
+      "correct_answer": "Haas",
+      "wrong_options": [
+        "Alfa Romeo",
+        "Williams",
+        "AlphaTauri"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is typically the consequence for a driver who accumulates too many penalties over a season?",
+      "correct_answer": "Race ban",
+      "wrong_options": [
+        "Points deduction",
+        "Team suspension",
+        "Increased car weight"
+      ]
+    }
+  ]
+}

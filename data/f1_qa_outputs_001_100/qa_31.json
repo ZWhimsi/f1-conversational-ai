@@ -1,0 +1,36 @@
+{
+  "article_number": 31,
+  "source": "Motorsport Magazine",
+  "title": "All the potential candidates seeking to dethrone Ben Sulayem as FIA president",
+  "summary": "Mohammed Ben Sulayem faces a rare challenge to his FIA presidency as three potential candidates have thrown their hat into the ring",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/all-the-potential-candidates-seeking-to-dethrone-ben-sulayem-as-fia-president/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Charlie Whiting",
+        "Max Mosley"
+      ]
+    },
+    {
+      "question": "What is the role of the FIA in Formula 1?",
+      "correct_answer": "Regulating and governing the sport",
+      "wrong_options": [
+        "Providing technical support to teams",
+        "Sponsoring races",
+        "Organizing driver training programs"
+      ]
+    },
+    {
+      "question": "How often do elections for the FIA presidency typically occur?",
+      "correct_answer": "Every four years",
+      "wrong_options": [
+        "Every two years",
+        "Every year",
+        "Every five years"
+      ]
+    }
+  ]
+}

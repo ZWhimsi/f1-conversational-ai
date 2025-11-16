@@ -1,0 +1,36 @@
+{
+  "article_number": 68,
+  "source": "Motorsport Magazine",
+  "title": "Tsunoda, Lawson, Hadjar - Who should join Verstappen in 2026? Our verdict",
+  "summary": "Who should join Max Verstappen at Red Bull in 2026 - Tsunoda, Lawson or Hadjar? Our writers offer their views",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/tsunoda-lawson-hadjar-who-should-join-verstappen-in-2026-our-verdict/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Max Verstappen currently drive for?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What year is being discussed for potential driver line-up changes at Red Bull?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2027",
+        "2024"
+      ]
+    },
+    {
+      "question": "Yuki Tsunoda, Liam Lawson, and Isack Hadjar are all associated with which sport?",
+      "correct_answer": "Formula 1",
+      "wrong_options": [
+        "Formula E",
+        "IndyCar",
+        "NASCAR"
+      ]
+    }
+  ]
+}

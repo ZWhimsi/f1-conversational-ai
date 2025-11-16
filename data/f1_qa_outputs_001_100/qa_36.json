@@ -1,0 +1,36 @@
+{
+  "article_number": 36,
+  "source": "Motorsport Magazine",
+  "title": "Brown denies 'shafting' and misleading drivers as Palou case continues",
+  "summary": "McLaren chief has dismissed accusations that he misled drivers in contract discussions, amid the ongoing court case involving IndyCar champion Palou",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/brown-denies-shafting-and-misleading-drivers-as-palou-case-continues/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current chief of McLaren F1 Team?",
+      "correct_answer": "Zak Brown",
+      "wrong_options": [
+        "Toto Wolff",
+        "Christian Horner",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "What championship did Alex Palou win before being involved in a contract dispute?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula E",
+        "NASCAR",
+        "Formula 2"
+      ]
+    },
+    {
+      "question": "What type of accusations is Zak Brown denying regarding contract discussions?",
+      "correct_answer": "Misleading drivers",
+      "wrong_options": [
+        "Financial misconduct",
+        "Team favoritism",
+        "Technical violations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 58,
+  "source": "Motorsport Magazine",
+  "title": "Reborn in the USA: Schumacher win that changed F1 history",
+  "summary": "A turning point for Michael Schumacher, and for Formula 1 in America as well.Matt Bishopremembers the monumental weekend when the Indianapolis Motor Speedway hosted its first F1 grand prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-f1-race-that-gave-michael-schumacher-his-swagger/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is known for his pivotal win at the first Formula 1 Grand Prix held at the Indianapolis Motor Speedway?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Alain Prost"
+      ]
+    },
+    {
+      "question": "In what year did the first Formula 1 Grand Prix take place at the Indianapolis Motor Speedway?",
+      "correct_answer": "2000",
+      "wrong_options": [
+        "1995",
+        "2003",
+        "1998"
+      ]
+    },
+    {
+      "question": "What impact did Michael Schumacher's victory at Indianapolis have on Formula 1 in America?",
+      "correct_answer": "It marked a turning point in the popularity of F1 in the USA.",
+      "wrong_options": [
+        "It had no significant impact.",
+        "It led to the cancellation of future races.",
+        "It resulted in a decline in viewership."
+      ]
+    }
+  ]
+}

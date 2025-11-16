@@ -1,0 +1,36 @@
+{
+  "article_number": 80,
+  "source": "Motorsport Magazine",
+  "title": "From Tyrrell shed via Brawn fairytale: the evolution of Mercedes' F1 team",
+  "summary": "Tracing its roots from Tyrrell to BAR, Honda, Brawn GP, and finally Mercedes, the Brackley-based Formula 1 team has experienced a remarkable evolution marked by changing identities, technical innovation, and success and failure",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/from-tyrrell-shed-via-brawn-fairytale-the-evolution-of-mercedes-f1-team/",
+  "qa_pairs": [
+    {
+      "question": "What team did Mercedes' F1 team evolve from before becoming Brawn GP?",
+      "correct_answer": "Honda",
+      "wrong_options": [
+        "BAR",
+        "Tyrrell",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "Which notable F1 team was known for its success in the 2009 season before being acquired by Mercedes?",
+      "correct_answer": "Brawn GP",
+      "wrong_options": [
+        "Renault",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is a key factor that has contributed to the success of Mercedes' F1 team?",
+      "correct_answer": "Technical innovation",
+      "wrong_options": [
+        "Driver popularity",
+        "Sponsorship deals",
+        "Historical legacy"
+      ]
+    }
+  ]
+}

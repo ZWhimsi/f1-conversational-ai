@@ -1,0 +1,36 @@
+{
+  "article_number": 3,
+  "source": "Motorsport Magazine",
+  "title": "Apple's F1 gamble gets mixed response - What you missed at the US GP",
+  "summary": "Cadillac's quiet confidence, Apple's broadcasting gamble and a few overlooked stories all shaped an eventful 2025 United States Grand Prix weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/apples-f1-gamble-gets-mixed-response-what-you-missed-at-the-us-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is associated with the 2025 United States Grand Prix alongside Apple's broadcasting initiatives?",
+      "correct_answer": "Cadillac",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Alfa Romeo"
+      ]
+    },
+    {
+      "question": "In what year did the United States Grand Prix take place that featured a mix of broadcasting strategies and team performances?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    },
+    {
+      "question": "What type of response did Apple's broadcasting gamble receive during the 2025 US GP weekend?",
+      "correct_answer": "Mixed response",
+      "wrong_options": [
+        "Unanimous praise",
+        "Strong criticism",
+        "Indifference"
+      ]
+    }
+  ]
+}

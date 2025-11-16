@@ -1,0 +1,36 @@
+{
+  "article_number": 54,
+  "source": "Motorsport Magazine",
+  "title": "'We're all pretty jealous' - F1 drivers on Verstappen's Nürburgring outing",
+  "summary": "F1 rivals react to Verstappen's incredible GT3 outing at the Nordschleife",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/were-all-pretty-jealous-f1-drivers-on-verstappens-nurburgring-outing/",
+  "qa_pairs": [
+    {
+      "question": "Which driver had an impressive outing at the Nürburgring in a GT3 car?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What type of car did Max Verstappen drive during his Nürburgring outing?",
+      "correct_answer": "GT3 car",
+      "wrong_options": [
+        "F1 car",
+        "LMP car",
+        "Formula E car"
+      ]
+    },
+    {
+      "question": "What is the name of the famous track at the Nürburgring where Verstappen drove?",
+      "correct_answer": "Nordschleife",
+      "wrong_options": [
+        "GP-Strecke",
+        "Hockenheimring",
+        "Monza"
+      ]
+    }
+  ]
+}

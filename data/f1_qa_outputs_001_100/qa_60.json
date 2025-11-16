@@ -1,0 +1,36 @@
+{
+  "article_number": 60,
+  "source": "Motorsport Magazine",
+  "title": "‘Pitstops are part of racing’",
+  "summary": "The big controversy at Monza was McLaren’s dilemma in asking Oscar Piastri to surrender second position to team-mate Lando Norris after the latter had suffered a delay at his pitstop.…",
+  "link": "https://www.motorsportmagazine.com/archive/article/november-2025/85/pitstops-are-part-of-racing/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary role of a pitstop in Formula 1 racing?",
+      "correct_answer": "To change tires and make adjustments to the car.",
+      "wrong_options": [
+        "To refuel the car",
+        "To discuss strategy with the driver",
+        "To allow the driver to rest"
+      ]
+    },
+    {
+      "question": "Which team did Oscar Piastri and Lando Norris drive for during the Monza race?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What was the main issue that prompted the controversy regarding team orders at Monza?",
+      "correct_answer": "Lando Norris's delayed pitstop.",
+      "wrong_options": [
+        "A collision between drivers",
+        "Weather conditions affecting performance",
+        "Tire strategy complications"
+      ]
+    }
+  ]
+}

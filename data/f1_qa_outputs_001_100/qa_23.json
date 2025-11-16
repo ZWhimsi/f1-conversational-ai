@@ -1,0 +1,36 @@
+{
+  "article_number": 23,
+  "source": "Motorsport Magazine",
+  "title": "Jean Alesi to auction rare 1992 V12-powered Ferrari F92A",
+  "summary": "Ex-F1 star Alesi is putting his beloved 1992 Ferrari up for sale next year",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/jean-alesi-to-auction-rare-1992-v12-powered-ferrari-f92a/",
+  "qa_pairs": [
+    {
+      "question": "What engine configuration did the Ferrari F92A feature?",
+      "correct_answer": "V12",
+      "wrong_options": [
+        "V10",
+        "V8",
+        "V6"
+      ]
+    },
+    {
+      "question": "In which year was the Ferrari F92A first raced?",
+      "correct_answer": "1992",
+      "wrong_options": [
+        "1991",
+        "1993",
+        "1994"
+      ]
+    },
+    {
+      "question": "Who was the driver that raced the Ferrari F92A?",
+      "correct_answer": "Jean Alesi",
+      "wrong_options": [
+        "Mika Hakkinen",
+        "Alain Prost",
+        "Nigel Mansell"
+      ]
+    }
+  ]
+}

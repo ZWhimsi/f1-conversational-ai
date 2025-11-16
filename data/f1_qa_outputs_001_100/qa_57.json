@@ -1,0 +1,36 @@
+{
+  "article_number": 57,
+  "source": "Motorsport Magazine",
+  "title": "The race that will reveal Verstappen's true F1 title hopes - What to watch for at the Singapore GP",
+  "summary": "Verstappen's winning streak, McLaren's title push and the challenges of Marina Bay set the stage for the 2025 Singapore Grand Prix. We look at what's likely to be making the F1 headlines this weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-race-that-will-reveal-verstappens-true-title-hopes-what-to-watch-for-at-the-2025-singapore-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Singapore Grand Prix for Max Verstappen's title hopes in 2025?",
+      "correct_answer": "It will reveal the true potential of his chances for the championship.",
+      "wrong_options": [
+        "It is a non-championship event.",
+        "It is the final race of the season.",
+        "It will determine the best team for the next season."
+      ]
+    },
+    {
+      "question": "Which team is identified as making a title push alongside Verstappen in the 2025 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is a notable challenge of racing at the Marina Bay circuit during the Singapore GP?",
+      "correct_answer": "The street circuit layout and humid conditions.",
+      "wrong_options": [
+        "High altitude",
+        "Wet weather",
+        "Flat track surface"
+      ]
+    }
+  ]
+}

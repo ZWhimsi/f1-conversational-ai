@@ -1,0 +1,36 @@
+{
+  "article_number": 51,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Christian Horner's already talking to Aston Martin about F1 return",
+  "summary": "Christian Horner looks set on a return to Formula 1 and the timing could be perfect for Aston Martin, writesMark Hughes. Lawrence Stroll may well agree — he's already spoken to the ex-Red Bull boss",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-christian-horner-has-spoken-to-aston-martin-about-f1-return/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "Which team is owned by Lawrence Stroll?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What role did Christian Horner previously hold in Formula 1?",
+      "correct_answer": "Team Principal of Red Bull Racing",
+      "wrong_options": [
+        "Driver",
+        "Race Engineer",
+        "Technical Director"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 26,
+  "source": "Motorsport Magazine",
+  "title": "Alex Palou was ready to give up on IndyCar to be F1 reserve driver",
+  "summary": "IndyCar champion Alex Palou insists Formula 1 continues to be his \"dream\" and admits he was ready to give up on his drive in the American series",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/palou-was-ready-to-give-up-on-indycar-to-be-f1-reserve-driver/",
+  "qa_pairs": [
+    {
+      "question": "Which racing series did Alex Palou win a championship in?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula 1",
+        "NASCAR",
+        "Formula E"
+      ]
+    },
+    {
+      "question": "What role was Alex Palou considering in Formula 1?",
+      "correct_answer": "Reserve driver",
+      "wrong_options": [
+        "Race driver",
+        "Team principal",
+        "Technical director"
+      ]
+    },
+    {
+      "question": "What has Alex Palou described Formula 1 as?",
+      "correct_answer": "His dream",
+      "wrong_options": [
+        "A hobby",
+        "A challenge",
+        "His past"
+      ]
+    }
+  ]
+}

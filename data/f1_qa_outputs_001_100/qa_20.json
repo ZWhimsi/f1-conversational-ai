@@ -1,0 +1,36 @@
+{
+  "article_number": 20,
+  "source": "Motorsport Magazine",
+  "title": "Revealed: How rookie drivers can buy F1 free practice seats for $3.5m",
+  "summary": "McLaren's court case against IndyCar champion Alex Palou has exposed the price that some drivers will pay to join a Formula 1 free practice session",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/revealed-how-rookie-drivers-can-buy-f1-free-practice-seats-for-3-5m/",
+  "qa_pairs": [
+    {
+      "question": "What is the reported price a rookie driver can pay to secure a free practice seat in Formula 1?",
+      "correct_answer": "$3.5 million",
+      "wrong_options": [
+        "$1 million",
+        "$5 million",
+        "$2 million"
+      ]
+    },
+    {
+      "question": "Which team is involved in a court case related to rookie drivers and free practice seats?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What type of racing champion is Alex Palou, who is mentioned in relation to the free practice seat controversy?",
+      "correct_answer": "IndyCar champion",
+      "wrong_options": [
+        "NASCAR champion",
+        "Formula E champion",
+        "Formula 2 champion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 82,
+  "source": "Motorsport Magazine",
+  "title": "Hamilton tops FP2 as McLarens hit the wall - 2025 Azerbaijan GP practice results",
+  "summary": "Hamilton tops second practice from Leclerc as Piastri and Norris finish down the order",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hamilton-tops-fp2-as-mclaren-struggle-2025-azerbaijan-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver topped the second practice session at the 2025 Azerbaijan GP?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Oscar Piastri",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "In the 2025 Azerbaijan GP, which team did Oscar Piastri and Lando Norris represent?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What notable incident occurred involving the McLaren drivers during the practice sessions in Azerbaijan?",
+      "correct_answer": "They hit the wall",
+      "wrong_options": [
+        "They set the fastest lap",
+        "They had mechanical failures",
+        "They collided with each other"
+      ]
+    }
+  ]
+}

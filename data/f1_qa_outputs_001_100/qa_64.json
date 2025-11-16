@@ -1,0 +1,36 @@
+{
+  "article_number": 64,
+  "source": "Motorsport Magazine",
+  "title": "Romain Grosjean completes Haas F1 test five years after fireball crash",
+  "summary": "Five years after his horrific accident, Romain Grosjean has returned to an F1 car, in a test with his former team, Haas",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/romain-grosjean-to-drive-f1-car-for-first-time-since-fireball-crash-five-years-ago/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Romain Grosjean drive for before his accident in Formula 1?",
+      "correct_answer": "Haas",
+      "wrong_options": [
+        "Renault",
+        "Sauber",
+        "Toro Rosso"
+      ]
+    },
+    {
+      "question": "What significant event occurred to Romain Grosjean during the 2020 Bahrain Grand Prix?",
+      "correct_answer": "He had a horrific crash and a fireball incident.",
+      "wrong_options": [
+        "He won the race",
+        "He was disqualified",
+        "He suffered a mechanical failure"
+      ]
+    },
+    {
+      "question": "How many years passed between Romain Grosjean's accident and his return to testing an F1 car?",
+      "correct_answer": "Five years",
+      "wrong_options": [
+        "Three years",
+        "Four years",
+        "Six years"
+      ]
+    }
+  ]
+}

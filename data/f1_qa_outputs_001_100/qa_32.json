@@ -1,0 +1,36 @@
+{
+  "article_number": 32,
+  "source": "Motorsport Magazine",
+  "title": "Zak Brown denies destroying evidence in McLaren case against Alex Palou",
+  "summary": "McLaren Racing CEO Zak Brown was accused in court of deleting crucial WhatsApp messages, on his second day of giving evidence in the $20.7m case between his team and IndyCar champion Alex Palou",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/zak-brown-denies-destroying-evidence-in-mclaren-case-against-alex-palou/",
+  "qa_pairs": [
+    {
+      "question": "Who is the CEO of McLaren Racing?",
+      "correct_answer": "Zak Brown",
+      "wrong_options": [
+        "Andreas Seidl",
+        "Martin Whitmarsh",
+        "Ron Dennis"
+      ]
+    },
+    {
+      "question": "What is the amount involved in the legal case between McLaren and Alex Palou?",
+      "correct_answer": "$20.7 million",
+      "wrong_options": [
+        "$15 million",
+        "$25 million",
+        "$30 million"
+      ]
+    },
+    {
+      "question": "Which racing series does Alex Palou compete in?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula 1",
+        "NASCAR",
+        "Formula E"
+      ]
+    }
+  ]
+}

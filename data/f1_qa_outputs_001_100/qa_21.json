@@ -1,0 +1,36 @@
+{
+  "article_number": 21,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: When grief-fuelled McLaren honoured its founder the best way — with F1 victory",
+  "summary": "McLaren's victory celebrations, after winning its tenth F1 constructors' championship in Singapore, sentMatt Bishopcontemplating its very first title — in 1974 — that was formed from the tragedy of founder Bruce McLaren's death",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-when-grief-fuelled-mclaren-honoured-its-founder-the-best-way-with-f1-victory/",
+  "qa_pairs": [
+    {
+      "question": "In which year did McLaren win its first F1 constructors' championship?",
+      "correct_answer": "1974",
+      "wrong_options": [
+        "1984",
+        "1991",
+        "2001"
+      ]
+    },
+    {
+      "question": "Who was the founder of the McLaren Racing team?",
+      "correct_answer": "Bruce McLaren",
+      "wrong_options": [
+        "Ron Dennis",
+        "Martin Whitmarsh",
+        "Zac Brown"
+      ]
+    },
+    {
+      "question": "What significant milestone did McLaren achieve at the Singapore Grand Prix?",
+      "correct_answer": "Winning its tenth F1 constructors' championship",
+      "wrong_options": [
+        "Securing pole position",
+        "Winning the drivers' championship",
+        "Completing a 1-2 finish"
+      ]
+    }
+  ]
+}

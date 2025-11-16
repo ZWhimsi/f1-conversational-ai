@@ -1,0 +1,36 @@
+{
+  "article_number": 1,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen nears historic F1 comeback - US GP takeaways",
+  "summary": "Verstappen's double win in Austin moved him closer to a historic comeback while McLaren faced tough questions over its strategy and the fans were left to watch another processional race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-nears-historic-f1-comeback-us-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved a double win at the US Grand Prix in Austin?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Pérez"
+      ]
+    },
+    {
+      "question": "What challenge did McLaren face during the US Grand Prix?",
+      "correct_answer": "Tough questions over its strategy",
+      "wrong_options": [
+        "Performance issues with the car",
+        "Driver penalties",
+        "Pirelli tire failures"
+      ]
+    },
+    {
+      "question": "What type of race experience did fans have during the US GP?",
+      "correct_answer": "Another processional race",
+      "wrong_options": [
+        "An exciting battle for the lead",
+        "Multiple safety car periods",
+        "Frequent position changes"
+      ]
+    }
+  ]
+}

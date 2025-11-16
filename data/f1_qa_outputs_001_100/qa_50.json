@@ -1,0 +1,36 @@
+{
+  "article_number": 50,
+  "source": "Motorsport Magazine",
+  "title": "Alonso quickest from Leclerc, Verstappen - 2025 Singapore GP FP1 results",
+  "summary": "Spaniard Alonso led FP1 from Leclerc and championship contender Verstappen",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/alonso-quickest-from-leclerc-verstappen-2025-singapore-gp-fp1-results/",
+  "qa_pairs": [
+    {
+      "question": "Who topped the timesheets in the FP1 session of the 2025 Singapore GP?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which driver is noted as the championship contender in the 2025 season?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Fernando Alonso",
+        "Charles Leclerc",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "In the 2025 Singapore GP FP1, which two drivers finished behind Alonso?",
+      "correct_answer": "Charles Leclerc and Max Verstappen",
+      "wrong_options": [
+        "Carlos Sainz and George Russell",
+        "Sergio Pérez and Lewis Hamilton",
+        "Lando Norris and Charles Leclerc"
+      ]
+    }
+  ]
+}

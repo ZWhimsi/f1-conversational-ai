@@ -1,0 +1,36 @@
+{
+  "article_number": 71,
+  "source": "Motorsport Magazine",
+  "title": "F1 race contracts: How long each circuit will stay on the calendar",
+  "summary": "As F1 expands globally, the future of each grand prix depends on complex, evolving contracts between race promoters and commercial rights holders, with some circuits secured long-term and others facing uncertainty",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-race-contracts-how-long-each-circuit-will-stay-on-the-calendar/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary factor influencing the duration of F1 races on the calendar?",
+      "correct_answer": "Contracts between race promoters and commercial rights holders.",
+      "wrong_options": [
+        "Driver performance",
+        "Team budget allocations",
+        "Weather conditions"
+      ]
+    },
+    {
+      "question": "Which of the following could lead to a grand prix being removed from the F1 calendar?",
+      "correct_answer": "Uncertainty in the contract between the race promoter and F1.",
+      "wrong_options": [
+        "A driver's retirement",
+        "Technical failures during the race",
+        "Changes in team management"
+      ]
+    },
+    {
+      "question": "How does F1's global expansion affect individual circuits?",
+      "correct_answer": "It creates varying levels of contract security for each grand prix.",
+      "wrong_options": [
+        "It guarantees all circuits will remain on the calendar indefinitely",
+        "It ensures equal financial support for all teams",
+        "It standardizes race formats across all venues"
+      ]
+    }
+  ]
+}

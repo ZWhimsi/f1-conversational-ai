@@ -1,0 +1,36 @@
+{
+  "article_number": 39,
+  "source": "Motorsport Magazine",
+  "title": "How can you fix beige F1? 2025 Singapore GP – Up/Down",
+  "summary": "This year's Singapore GP was the 2025 F1 season in a microcosm, writesJames Elson",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-can-you-fix-beige-f1-2025-singapore-gp-going-up-going-down/",
+  "qa_pairs": [
+    {
+      "question": "Which event is often cited as a highlight of the Formula 1 calendar due to its night race format and unique city backdrop?",
+      "correct_answer": "Singapore Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Australian Grand Prix",
+        "Abu Dhabi Grand Prix"
+      ]
+    },
+    {
+      "question": "What is a common term used to describe a season with lackluster or unexciting races in Formula 1?",
+      "correct_answer": "Beige F1",
+      "wrong_options": [
+        "Red Flag F1",
+        "Green Light F1",
+        "Blue Flag F1"
+      ]
+    },
+    {
+      "question": "In the context of F1, what does a 'microcosm' refer to regarding a race?",
+      "correct_answer": "A race that reflects the overall trends and dynamics of the entire season.",
+      "wrong_options": [
+        "A race that is run on a smaller circuit",
+        "A race held with fewer teams",
+        "A race focused on a single driver"
+      ]
+    }
+  ]
+}

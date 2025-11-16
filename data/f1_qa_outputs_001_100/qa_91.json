@@ -1,0 +1,36 @@
+{
+  "article_number": 91,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: Alonso & Stroll are about to make mind-boggling F1 history",
+  "summary": "On one side of the Aston Martin garage is one of F1's most devastatingly effective drivers. On the other is one who's frequently lacklustre. And yet Fernando Alonso and Lance Stroll are about to hit a historic benchmark",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-alonso-stroll-are-about-to-make-mind-boggling-f1-history/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is known for being one of F1's most effective competitors?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lance Stroll",
+        "Sebastian Vettel",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What team do Fernando Alonso and Lance Stroll drive for?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "Which driver is often described as frequently lacklustre in performance?",
+      "correct_answer": "Lance Stroll",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "George Russell"
+      ]
+    }
+  ]
+}

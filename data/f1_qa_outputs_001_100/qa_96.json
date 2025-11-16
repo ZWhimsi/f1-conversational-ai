@@ -1,0 +1,36 @@
+{
+  "article_number": 96,
+  "source": "Motorsport Magazine",
+  "title": "Boullier recalls horror of Kubica's 2011 crash: 'We thought he might die'",
+  "summary": "Robert Kubica was poised to become one of F1's leading lights when a violent rally crash during the off-season ended his hopes. Eric Boullier, his then team manager, has described the aftermath toMotor Sport",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/boullier-recalls-horror-of-kubicas-2011-crash-we-thought-he-might-die/",
+  "qa_pairs": [
+    {
+      "question": "What year did Robert Kubica suffer his rally crash that affected his Formula 1 career?",
+      "correct_answer": "2011",
+      "wrong_options": [
+        "2009",
+        "2010",
+        "2012"
+      ]
+    },
+    {
+      "question": "Which team was Robert Kubica driving for when he had his crash in 2011?",
+      "correct_answer": "Lotus Renault GP",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Williams"
+      ]
+    },
+    {
+      "question": "Who was Robert Kubica's team manager at the time of his crash?",
+      "correct_answer": "Eric Boullier",
+      "wrong_options": [
+        "Franz Tost",
+        "Christian Horner",
+        "Pat Symonds"
+      ]
+    }
+  ]
+}

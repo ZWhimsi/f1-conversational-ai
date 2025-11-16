@@ -1,0 +1,36 @@
+{
+  "article_number": 22,
+  "source": "Motorsport Magazine",
+  "title": "Can McLaren keep the peace? - What to watch out for in the US GP",
+  "summary": "The title fight heats up in Austin as McLaren's internal rivalry, Verstappen's resurgence, Russell's momentum and a sprint weekend promise a dramatic United States Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/can-mclaren-keep-the-peace-what-to-watch-out-for-in-the-us-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is experiencing an internal rivalry that could impact their performance at the US Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What type of weekend format is expected at the United States Grand Prix, which adds to the excitement of the event?",
+      "correct_answer": "Sprint weekend",
+      "wrong_options": [
+        "Standard race weekend",
+        "Double-header weekend",
+        "Night race weekend"
+      ]
+    },
+    {
+      "question": "Who is noted for their resurgence heading into the US Grand Prix, potentially affecting the championship battle?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    }
+  ]
+}

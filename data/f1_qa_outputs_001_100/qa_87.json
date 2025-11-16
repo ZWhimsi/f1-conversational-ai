@@ -1,0 +1,36 @@
+{
+  "article_number": 87,
+  "source": "Motorsport Magazine",
+  "title": "Why Red Bull resurgence could be real - What to watch at 2025 Azerbaijan GP",
+  "summary": "From Red Bull's potential resurgence to McLaren's title duel, tyre strategy gambles, Bearman's race-ban threat and renewed scrutiny on driving rules, Baku promises another weekend of intrigue",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-red-bull-resurgence-could-be-real-what-to-watch-at-2025-azerbaijan-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently recognized for its potential resurgence in the 2025 season?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What key factor in race strategy could significantly impact team performance at the Baku GP?",
+      "correct_answer": "Tyre strategy",
+      "wrong_options": [
+        "Fuel load",
+        "Pit stop timing",
+        "Driver changes"
+      ]
+    },
+    {
+      "question": "Which team is mentioned as being in a title duel alongside Red Bull?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Alpine",
+        "Aston Martin",
+        "Williams"
+      ]
+    }
+  ]
+}

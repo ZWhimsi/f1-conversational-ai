@@ -1,0 +1,36 @@
+{
+  "article_number": 12,
+  "source": "Motorsport Magazine",
+  "title": "Will Apple TV fight for Sky F1 rights after exclusive $700m US deal?",
+  "summary": "Apple will replace ESPN as Formula 1’s exclusive US broadcaster from 2026 in a deal worth around $700 million",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-apple-tv-fight-for-sky-f1-rights-after-exclusive-700m-us-deal/",
+  "qa_pairs": [
+    {
+      "question": "Which company will become the exclusive US broadcaster for Formula 1 starting in 2026?",
+      "correct_answer": "Apple TV",
+      "wrong_options": [
+        "ESPN",
+        "NBC Sports",
+        "Fox Sports"
+      ]
+    },
+    {
+      "question": "What amount is reported for the deal between Formula 1 and Apple TV?",
+      "correct_answer": "$700 million",
+      "wrong_options": [
+        "$500 million",
+        "$1 billion",
+        "$300 million"
+      ]
+    },
+    {
+      "question": "Who is Apple TV replacing as the US broadcaster for Formula 1?",
+      "correct_answer": "ESPN",
+      "wrong_options": [
+        "NBC",
+        "CBS",
+        "Sky Sports"
+      ]
+    }
+  ]
+}

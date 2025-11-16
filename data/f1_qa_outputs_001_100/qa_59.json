@@ -1,0 +1,36 @@
+{
+  "article_number": 59,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat : November 2025",
+  "summary": "Ligier European Series driver Laura Villars has announced herself as a surprise third candidate for the FIA presidency vote in December in addition to sitting president Mohammed Ben Sulayem and…",
+  "link": "https://www.motorsportmagazine.com/archive/article/november-2025/88/word-on-the-beat-november-2025/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current sitting president of the FIA as of November 2025?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What role does Laura Villars hold in the Ligier European Series?",
+      "correct_answer": "Driver",
+      "wrong_options": [
+        "Team Principal",
+        "Engineer",
+        "Technical Director"
+      ]
+    },
+    {
+      "question": "What is the main event taking place in December 2025 regarding the FIA?",
+      "correct_answer": "Presidency vote",
+      "wrong_options": [
+        "World Championship finale",
+        "Regulatory meeting",
+        "Technical upgrades announcement"
+      ]
+    }
+  ]
+}

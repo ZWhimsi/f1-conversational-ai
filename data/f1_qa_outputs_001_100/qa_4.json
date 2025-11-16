@@ -1,0 +1,36 @@
+{
+  "article_number": 4,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: How Verstappen crushed McLaren after Norris took ‘consequences’",
+  "summary": "Behind Max Verstappen’s perfect 2025 United States GP weekend was a much-improved Red Bull, some rapid sim work, and a bit of strategic luck. But how much did Lando Norris’s ‘consequences’ play in McLaren’s defeat?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-how-verstappen-crushed-mclaren-after-norris-took-punishment/",
+  "qa_pairs": [
+    {
+      "question": "What team did Max Verstappen drive for during the 2025 United States Grand Prix?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What was a key factor that contributed to McLaren's defeat at the 2025 United States GP?",
+      "correct_answer": "Lando Norris's consequences",
+      "wrong_options": [
+        "Pit stop strategy",
+        "Engine failure",
+        "Weather conditions"
+      ]
+    },
+    {
+      "question": "Which driver had a perfect weekend at the 2025 United States GP?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    }
+  ]
+}

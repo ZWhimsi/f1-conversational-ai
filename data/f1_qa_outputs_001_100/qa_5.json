@@ -1,0 +1,36 @@
+{
+  "article_number": 5,
+  "source": "Motorsport Magazine",
+  "title": "When is the next F1 race? Full calendar for 2025 season",
+  "summary": "Full F1 schedule for the year, including the next F1 race of 2025: the Mexico City Grand Prix at Autódromo Hermanos Rodríguez. The whole calendar and circuit guides for the 24-race Formula 1 season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/when-is-the-next-grand-prix-full-2025-f1-schedule-and-results/",
+  "qa_pairs": [
+    {
+      "question": "What is the venue for the Mexico City Grand Prix?",
+      "correct_answer": "Autódromo Hermanos Rodríguez",
+      "wrong_options": [
+        "Circuit de Monaco",
+        "Silverstone Circuit",
+        "Suzuka International Racing Course"
+      ]
+    },
+    {
+      "question": "How many races are scheduled in the 2025 Formula 1 season?",
+      "correct_answer": "24 races",
+      "wrong_options": [
+        "20 races",
+        "22 races",
+        "26 races"
+      ]
+    },
+    {
+      "question": "Which city's Grand Prix is part of the 2025 F1 calendar?",
+      "correct_answer": "Mexico City",
+      "wrong_options": [
+        "Paris",
+        "Tokyo",
+        "Berlin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 52,
+  "source": "Motorsport Magazine",
+  "title": "F1's next generation: the young F2 drivers backed by GP teams",
+  "summary": "From Red Bull to McLaren, F1 teams are backing promising young talent with junior driver programmes. Meet the F2 hotshots jostling for a place on the Formula 1 grid",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1s-next-generation-the-young-f2-drivers-backed-by-gp-teams/",
+  "qa_pairs": [
+    {
+      "question": "Which Formula 1 team is known for its strong junior driver programme that has produced several successful drivers?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of junior driver programmes in Formula 1?",
+      "correct_answer": "To develop and promote young racing talent to the F1 grid",
+      "wrong_options": [
+        "To provide financial support to struggling teams",
+        "To create partnerships with other motorsport series",
+        "To organize F1 promotional events"
+      ]
+    },
+    {
+      "question": "Which racing series do many young drivers compete in before moving to Formula 1?",
+      "correct_answer": "Formula 2",
+      "wrong_options": [
+        "Formula E",
+        "IndyCar",
+        "GT Racing"
+      ]
+    }
+  ]
+}

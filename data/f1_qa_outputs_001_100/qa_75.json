@@ -1,0 +1,36 @@
+{
+  "article_number": 75,
+  "source": "Motorsport Magazine",
+  "title": "The downfall of Christian Horner",
+  "summary": "From Sebastian Vettel to sexting: the rise and fall of Christian Horner, F1's greatest pantomime villain",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/red-bull-sacks-f1-team-principal-christian-horner/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Christian Horner lead to multiple Constructors' Championships during the Vettel era?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "Who is considered one of the greatest drivers under Christian Horner's management at Red Bull Racing?",
+      "correct_answer": "Sebastian Vettel",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Kimi Räikkönen"
+      ]
+    },
+    {
+      "question": "What was a significant off-track controversy involving Christian Horner that gained media attention?",
+      "correct_answer": "Sexting scandal",
+      "wrong_options": [
+        "Team budget cap breach",
+        "Driver contract dispute",
+        "Technical regulations violation"
+      ]
+    }
+  ]
+}

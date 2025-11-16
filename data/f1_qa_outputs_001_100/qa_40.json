@@ -1,0 +1,36 @@
+{
+  "article_number": 40,
+  "source": "Motorsport Magazine",
+  "title": "Why is Alex Dunne leaving resurgent McLaren? What you missed at the Singapore GP",
+  "summary": "Coulthard praises McLaren's recovery from the doldrums but Dunne is looking elsewhere; Doohan’s potential Haas move; and the looming US‑Apple broadcast overhaul. Here's what you missed during the Singapore GP weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-is-alex-dunne-leaving-resurgent-mclaren-what-you-missed-at-the-singapore-gp/",
+  "qa_pairs": [
+    {
+      "question": "What notable performance improvement has McLaren achieved in recent races?",
+      "correct_answer": "They have recovered from poor performance to become competitive.",
+      "wrong_options": [
+        "They have consistently finished in the bottom two.",
+        "They have dominated every race this season.",
+        "They switched to a different engine supplier."
+      ]
+    },
+    {
+      "question": "Which team is reportedly considering a move for driver Jack Doohan?",
+      "correct_answer": "Haas.",
+      "wrong_options": [
+        "Alfa Romeo",
+        "Williams",
+        "Aston Martin"
+      ]
+    },
+    {
+      "question": "What major change in broadcasting is expected to happen in the US regarding Formula 1?",
+      "correct_answer": "An overhaul involving Apple as a broadcaster.",
+      "wrong_options": [
+        "A return to traditional cable networks",
+        "Increased ad breaks during races",
+        "Streaming exclusively on YouTube"
+      ]
+    }
+  ]
+}

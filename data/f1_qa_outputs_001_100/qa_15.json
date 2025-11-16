@@ -1,0 +1,36 @@
+{
+  "article_number": 15,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Russell deal leaves Mercedes F1 door ajar for Verstappen",
+  "summary": "George Russell will drive for Mercedes in 2026 but behind the announcement of their renewed F1 commitment, both sides are looking at alternative options",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-russell-deal-leaves-mercedes-f1-door-ajar-for-verstappen/",
+  "qa_pairs": [
+    {
+      "question": "Which team is George Russell contracted to drive for in 2026?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What potential future consideration is mentioned regarding Mercedes F1?",
+      "correct_answer": "Exploring alternative options",
+      "wrong_options": [
+        "Expanding to a third car",
+        "Signing a new engine supplier",
+        "Reducing their budget"
+      ]
+    },
+    {
+      "question": "What is the significance of George Russell's deal for Mercedes in the context of driver lineup?",
+      "correct_answer": "It indicates a commitment to their current drivers while considering future changes.",
+      "wrong_options": [
+        "It means they will only focus on young drivers",
+        "It confirms the departure of Lewis Hamilton",
+        "It guarantees a championship win in 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 56,
+  "source": "Motorsport Magazine",
+  "title": "The Cadillac F1 team explained: Origins, people and goals",
+  "summary": "Cadillac's F1 team, backed by General Motors, will join the grid in 2026, combining veteran drivers, a Ferrari-powered car, and long-term plans for a full works operation. Here's all you need to know about the project",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-cadillac-f1-team-explained-origins-people-and-goals/",
+  "qa_pairs": [
+    {
+      "question": "In what year is the Cadillac F1 team set to join the Formula 1 grid?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2027"
+      ]
+    },
+    {
+      "question": "Which engine supplier will power the Cadillac F1 team?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Honda",
+        "Renault"
+      ]
+    },
+    {
+      "question": "Who is backing the Cadillac F1 team?",
+      "correct_answer": "General Motors",
+      "wrong_options": [
+        "Ford",
+        "Toyota",
+        "Volkswagen"
+      ]
+    }
+  ]
+}

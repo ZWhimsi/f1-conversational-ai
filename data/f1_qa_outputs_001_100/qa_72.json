@@ -1,0 +1,36 @@
+{
+  "article_number": 72,
+  "source": "Motorsport Magazine",
+  "title": "Singing Sainz might have been right all along — Azerbaijan GP takeaways",
+  "summary": "The streets of Baku didn't deliver chaos this time, but there was plenty of elation, frustration and vindication as the 2025 Formula 1 season enters its final stretch",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/sainzs-podium-is-a-timely-vindication-azerbaijan-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which city is known for hosting the Azerbaijan Grand Prix?",
+      "correct_answer": "Baku",
+      "wrong_options": [
+        "Baku",
+        "Istanbul",
+        "Sochi"
+      ]
+    },
+    {
+      "question": "What is typically expected from the Azerbaijan Grand Prix in terms of race conditions?",
+      "correct_answer": "Chaos and unpredictability",
+      "wrong_options": [
+        "Predictable outcomes",
+        "Rainy weather",
+        "High tire wear"
+      ]
+    },
+    {
+      "question": "In which season did the events described in the title and summary take place?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    }
+  ]
+}

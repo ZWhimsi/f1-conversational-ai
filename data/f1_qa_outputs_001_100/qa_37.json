@@ -1,0 +1,36 @@
+{
+  "article_number": 37,
+  "source": "Motorsport Magazine",
+  "title": "The making of Mansell: Brands Hatch race that fuelled him to F1 title",
+  "summary": "Forty years after Nigel Mansell's breakthrough victory at Brands Hatch, the day that transformed him from underdog to national hero still stands as one of British motor sport's most stirring moments",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-making-of-mansell-brands-hatch-race-that-fuelled-him-to-f1-title/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Nigel Mansell achieve his breakthrough victory at Brands Hatch?",
+      "correct_answer": "1985",
+      "wrong_options": [
+        "1983",
+        "1987",
+        "1989"
+      ]
+    },
+    {
+      "question": "Which title did Nigel Mansell go on to win after his victory at Brands Hatch?",
+      "correct_answer": "F1 World Championship",
+      "wrong_options": [
+        "British Touring Car Championship",
+        "Le Mans 24 Hours",
+        "IndyCar Championship"
+      ]
+    },
+    {
+      "question": "What was significant about Mansell's victory at Brands Hatch for British motorsport?",
+      "correct_answer": "It transformed him from underdog to national hero.",
+      "wrong_options": [
+        "It marked the first British driver win in F1",
+        "It was his only victory in F1",
+        "It secured his place at Ferrari"
+      ]
+    }
+  ]
+}

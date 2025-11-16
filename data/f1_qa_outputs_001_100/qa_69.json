@@ -1,0 +1,36 @@
+{
+  "article_number": 69,
+  "source": "Motorsport Magazine",
+  "title": "Not just genius: Why Verstappen and Senna still needed the right car on the day",
+  "summary": "Max Verstappen showed his driving genius in steering a flawed F1 car to victory at Baku, just as Ayrton Senna did at Donington in 1993. Or did they? Don't overlook the full picture, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/not-just-genius-why-verstappen-and-senna-still-needed-the-right-car-on-the-day/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2023 Baku Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "At which circuit did Ayrton Senna showcase his driving skill in 1993?",
+      "correct_answer": "Donington Park",
+      "wrong_options": [
+        "Monaco",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "What is a key factor that can influence a driver's performance in Formula 1?",
+      "correct_answer": "The car's technical capabilities",
+      "wrong_options": [
+        "The driver's nationality",
+        "The team's pit crew",
+        "The weather conditions"
+      ]
+    }
+  ]
+}

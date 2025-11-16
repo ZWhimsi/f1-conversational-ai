@@ -1,0 +1,36 @@
+{
+  "article_number": 28,
+  "source": "Motorsport Magazine",
+  "title": "Alex Palou: 'I was upset and angry' when McLaren signed Piastri",
+  "summary": "Alex Palou says that the \"only attraction\" in signing an IndyCar deal with McLaren was the chance to move to F1. But he decided to breach that contract after the team signed Oscar Piastri, according to a High Court witness statement",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/alex-palou-i-was-upset-and-angry-when-mclaren-signed-piastri/",
+  "qa_pairs": [
+    {
+      "question": "Which racing series does Alex Palou primarily compete in?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula E",
+        "NASCAR",
+        "Formula 1"
+      ]
+    },
+    {
+      "question": "Who did McLaren sign that led Alex Palou to breach his contract?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Daniel Ricciardo",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What was the main reason Alex Palou was attracted to sign with McLaren?",
+      "correct_answer": "The chance to move to F1",
+      "wrong_options": [
+        "Higher salary",
+        "Better car performance",
+        "Team reputation"
+      ]
+    }
+  ]
+}

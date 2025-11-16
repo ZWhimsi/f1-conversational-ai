@@ -1,0 +1,36 @@
+{
+  "article_number": 34,
+  "source": "Motorsport Magazine",
+  "title": "Celebrities over track action? Why the Singapore GP was better than it looked on TV",
+  "summary": "As his radio messages were highlighted again, Fernando Alonso told F1 after the Singapore GP to focus on improving its TV coverage instead - and judging by what fans didn't see, he might have a point",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/did-tv-direction-make-the-singapore-gp-look-more-boring-than-it-was/",
+  "qa_pairs": [
+    {
+      "question": "Which driver emphasized the need for improved TV coverage after the Singapore GP?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What significant event is referred to in the context of the Singapore GP?",
+      "correct_answer": "Radio messages from drivers",
+      "wrong_options": [
+        "Pit stop strategies",
+        "Safety car deployments",
+        "Qualifying results"
+      ]
+    },
+    {
+      "question": "What does the discussion imply about the fan experience during the Singapore GP?",
+      "correct_answer": "Fans may have missed important on-track action.",
+      "wrong_options": [
+        "The race was heavily dominated by one driver.",
+        "The weather conditions were unfavorable.",
+        "There were numerous technical failures."
+      ]
+    }
+  ]
+}

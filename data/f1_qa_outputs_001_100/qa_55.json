@@ -1,0 +1,36 @@
+{
+  "article_number": 55,
+  "source": "Motorsport Magazine",
+  "title": "FIA declares F1 'heat hazard' for Singapore GP - What it means",
+  "summary": "Formula 1 has declared a \"heat hazard\" at the Singapore GP - here's what it means, and how new cooling vests are set to protect drivers in extreme conditions",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fia-declares-f1-heat-hazard-for-singapore-gp-what-it-means/",
+  "qa_pairs": [
+    {
+      "question": "What is a significant safety concern for drivers during the Singapore Grand Prix?",
+      "correct_answer": "Extreme heat conditions.",
+      "wrong_options": [
+        "Heavy rain showers.",
+        "High altitude pressure.",
+        "Low visibility due to fog."
+      ]
+    },
+    {
+      "question": "What innovative equipment is being used to protect F1 drivers from extreme heat?",
+      "correct_answer": "Cooling vests.",
+      "wrong_options": [
+        "Heated suits.",
+        "Advanced helmets.",
+        "Waterproof overalls."
+      ]
+    },
+    {
+      "question": "Which Grand Prix is referred to as having a 'heat hazard' by Formula 1?",
+      "correct_answer": "Singapore GP.",
+      "wrong_options": [
+        "Monaco GP.",
+        "Italian GP.",
+        "Dutch GP."
+      ]
+    }
+  ]
+}

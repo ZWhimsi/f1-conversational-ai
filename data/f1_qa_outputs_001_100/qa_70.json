@@ -1,0 +1,36 @@
+{
+  "article_number": 70,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: 'Juan Pablo Montoya raced on gut instinct. It was sublime - when it worked'",
+  "summary": "When Juan Pablo Montoya gets into a car, people sit up and take notice, from F1 to IndyCar and NASCAR to IMSA. As the gifted, instinctive racer turns 50, is there still time for one more dazzling drive?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-juan-pablo-montoya-raced-on-gut-instinct-it-was-sublime-when-it-worked/",
+  "qa_pairs": [
+    {
+      "question": "Which racing series did Juan Pablo Montoya compete in besides Formula 1?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "NASCAR",
+        "WEC",
+        "DTM"
+      ]
+    },
+    {
+      "question": "What characteristic is Juan Pablo Montoya particularly known for in his racing style?",
+      "correct_answer": "Racing on gut instinct",
+      "wrong_options": [
+        "Technical precision",
+        "Conservative driving",
+        "Team-oriented strategy"
+      ]
+    },
+    {
+      "question": "At what age did Juan Pablo Montoya recently turn 50?",
+      "correct_answer": "50 years old",
+      "wrong_options": [
+        "45 years old",
+        "55 years old",
+        "40 years old"
+      ]
+    }
+  ]
+}

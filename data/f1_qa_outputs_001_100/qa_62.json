@@ -1,0 +1,36 @@
+{
+  "article_number": 62,
+  "source": "Motorsport Magazine",
+  "title": "Karun Chandhok: Red Bull’s hot seat - the candidates for F1 drive",
+  "summary": "As we march into the final third of the 2025 Formula 1 season, there are some fascinating storylines unfolding which will have an impact not just on this year but…",
+  "link": "https://www.motorsportmagazine.com/archive/article/november-2025/13/karun-chandhok-red-bulls-hot-seat-the-candidates-for-f1-drive/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for having a competitive driver lineup and is often a title contender in Formula 1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is a key factor influencing driver selection for Formula 1 teams towards the end of a season?",
+      "correct_answer": "Performance in races",
+      "wrong_options": [
+        "Social media presence",
+        "Team color preference",
+        "Driver nationality"
+      ]
+    },
+    {
+      "question": "In Formula 1, what does the term 'hot seat' refer to?",
+      "correct_answer": "A position in a team that is under scrutiny for potential changes",
+      "wrong_options": [
+        "A driver's seat with advanced cooling technology",
+        "A seat reserved for test drivers",
+        "A seat used during wet weather conditions"
+      ]
+    }
+  ]
+}

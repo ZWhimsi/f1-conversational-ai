@@ -1,0 +1,36 @@
+{
+  "article_number": 65,
+  "source": "Motorsport Magazine",
+  "title": "From false dawn to lost year: How Ferrari is facing winless F1 2025",
+  "summary": "What began as a year of hope with Hamilton's arrival has turned into Ferrari's bleakest season in years and with the prospect of finishing it without a win",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/from-false-dawn-to-lost-year-how-ferrari-is-facing-winless-f1-2025/",
+  "qa_pairs": [
+    {
+      "question": "Which driver joined Ferrari in 2025, initially bringing hope to the team?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Sebastian Vettel",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What is the primary concern for Ferrari regarding the F1 2025 season?",
+      "correct_answer": "Finishing the season without a win",
+      "wrong_options": [
+        "Qualifying in the top 5 consistently",
+        "Having the fastest car on the grid",
+        "Securing the most podiums"
+      ]
+    },
+    {
+      "question": "In which year did Ferrari face the prospect of a winless season after initial optimism?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 47,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Singapore GP",
+  "summary": "Can Oscar Piastri fight back from his Baku disaster? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-singapore-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is looking to recover from a poor performance at the Baku Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What is the significance of the Singapore Grand Prix in the F1 calendar?",
+      "correct_answer": "It is a night race held on a street circuit.",
+      "wrong_options": [
+        "It is the season opener.",
+        "It features a wet weather race.",
+        "It is known for its high-speed straights."
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is a common strategy for selecting drivers?",
+      "correct_answer": "Choosing drivers based on recent performance and track characteristics.",
+      "wrong_options": [
+        "Selecting only championship contenders.",
+        "Prioritizing drivers from the same team.",
+        "Avoiding all rookies regardless of track"
+      ]
+    }
+  ]
+}

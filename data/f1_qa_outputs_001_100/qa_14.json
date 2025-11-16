@@ -1,0 +1,36 @@
+{
+  "article_number": 14,
+  "source": "Motorsport Magazine",
+  "title": "'Poor' F1 radio broadcasts make us look like whingers, say drivers",
+  "summary": "\"Unnecessary sometimes, poorly broadcast ... Misunderstood 99.9% of the time\". Fernando Alonso was scathing about the choice of F1 radio messages heard in race coverage, and he wasn't the only driver expressing concerns",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/poor-f1-radio-broadcasts-make-us-look-like-whingers-say-drivers/",
+  "qa_pairs": [
+    {
+      "question": "Which driver expressed concerns about the quality of F1 radio broadcasts?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What percentage of F1 radio messages did Alonso claim are misunderstood?",
+      "correct_answer": "99.9%",
+      "wrong_options": [
+        "75%",
+        "50%",
+        "90%"
+      ]
+    },
+    {
+      "question": "What aspect of F1 radio broadcasts did drivers find problematic?",
+      "correct_answer": "Poorly broadcast and unnecessary messages",
+      "wrong_options": [
+        "Lack of communication",
+        "Too many technical terms",
+        "Inconsistent frequency"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 7,
+  "source": "Motorsport Magazine",
+  "title": "McLaren disaster as Norris & Piastri crash in US GP sprint race while Verstappen wins",
+  "summary": "A catastrophic start to the 2025 United States Grand Prix sprint race saw Oscar Piastri bumped into Lando Norris, taking both McLarens out of the race. Victory for Max Verstappen saw him close in the title race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-disaster-as-norris-piastri-crash-in-us-gp-sprint-race-while-verstappen-wins/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 United States Grand Prix sprint race?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "Which team had both of its drivers crash out during the sprint race in the 2025 US GP?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What was the outcome for Lando Norris and Oscar Piastri in the sprint race at the 2025 US GP?",
+      "correct_answer": "Both crashed out of the race",
+      "wrong_options": [
+        "Finished in the points",
+        "Finished in the top 10",
+        "Both retired due to mechanical failure"
+      ]
+    }
+  ]
+}

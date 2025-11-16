@@ -1,0 +1,36 @@
+{
+  "article_number": 2,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen's saving F1 from papaya coporate protocol: Up/Down in Austin",
+  "summary": "Could F1 2025 be about to wake from its slumber?James Elsonidentifies the culprit poking the bear",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappens-saving-f1-from-papaya-coporate-protocol-up-down-in-austin/",
+  "qa_pairs": [
+    {
+      "question": "Which team is commonly associated with the color 'papaya' in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Renault"
+      ]
+    },
+    {
+      "question": "Who is the current dominant driver in Formula 1 as of 2023?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What major changes or events are being anticipated for Formula 1 in 2025?",
+      "correct_answer": "Potential regulatory changes or new team dynamics",
+      "wrong_options": [
+        "Introduction of electric engines",
+        "Return to 2.4L V8 engines",
+        "Elimination of DRS"
+      ]
+    }
+  ]
+}

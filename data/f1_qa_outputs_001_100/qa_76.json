@@ -1,0 +1,36 @@
+{
+  "article_number": 76,
+  "source": "Motorsport Magazine",
+  "title": "'S*** happens': Piastri's revealing verdict on Baku crash - What you missed at the Azerbaijan GP",
+  "summary": "From Piastri's rare error to Red Bull's second-seat dilemma and fresh debate over F1's driving standards, Baku delivered plenty to unpack beyond the headline results",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/s-happens-piastris-revealing-verdict-on-baku-crash-what-you-missed-at-the-azerbaijan-gp/",
+  "qa_pairs": [
+    {
+      "question": "Who is the driver that made a rare error during the Azerbaijan GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "Which team is currently facing a dilemma regarding their second seat?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What topic was debated following the events of the Azerbaijan GP?",
+      "correct_answer": "F1's driving standards",
+      "wrong_options": [
+        "Team budgets",
+        "Tire performance",
+        "Driver contracts"
+      ]
+    }
+  ]
+}

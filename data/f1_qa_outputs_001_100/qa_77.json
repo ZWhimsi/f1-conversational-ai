@@ -1,0 +1,36 @@
+{
+  "article_number": 77,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: The post-Horner change behind Red Bull's F1 revival",
+  "summary": "Max Verstappen's push for a more driver-led set-up has reshaped Red Bull's approach and sparked a return to winning form, as seen in the 2025 Azerbaijan Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-the-philosophy-shift-behind-red-bulls-f1-revival/",
+  "qa_pairs": [
+    {
+      "question": "What role did Max Verstappen play in reshaping Red Bull's approach in Formula 1?",
+      "correct_answer": "He advocated for a more driver-led set-up.",
+      "wrong_options": [
+        "He requested a change in team management.",
+        "He pushed for a different engine supplier.",
+        "He demanded a new chassis design."
+      ]
+    },
+    {
+      "question": "In which race did Red Bull demonstrate a return to winning form in 2025?",
+      "correct_answer": "Azerbaijan Grand Prix.",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "British Grand Prix"
+      ]
+    },
+    {
+      "question": "What significant change occurred at Red Bull that contributed to their revival in Formula 1?",
+      "correct_answer": "A shift towards a more driver-focused team strategy.",
+      "wrong_options": [
+        "A complete overhaul of the engineering team.",
+        "The introduction of a new car model.",
+        "Changing tire suppliers."
+      ]
+    }
+  ]
+}

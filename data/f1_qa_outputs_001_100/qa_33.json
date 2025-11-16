@@ -1,0 +1,36 @@
+{
+  "article_number": 33,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: How McLaren could have won in Singapore — if its drivers weren't fighting",
+  "summary": "When Lando Norris pitted to avoid being overtaken by Oscar Piastri at the Singapore Grand Prix, he closed off the strategy that could have won him the F1 race; one that was proven by Lewis Hamilton back in 2014",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-how-mclaren-could-have-won-in-singapore-if-its-drivers-werent-fighting/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Lando Norris and Oscar Piastri drive for during the Singapore Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which year did Lewis Hamilton showcase a winning strategy at the Singapore Grand Prix?",
+      "correct_answer": "2014",
+      "wrong_options": [
+        "2016",
+        "2018",
+        "2019"
+      ]
+    },
+    {
+      "question": "What was the consequence of Lando Norris pitting during the race?",
+      "correct_answer": "It closed off the strategy that could have won him the race.",
+      "wrong_options": [
+        "He gained track position over Piastri.",
+        "He suffered a time penalty.",
+        "He improved his tire performance."
+      ]
+    }
+  ]
+}

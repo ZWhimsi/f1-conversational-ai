@@ -1,0 +1,36 @@
+{
+  "article_number": 13,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 US GP",
+  "summary": "Which F1 Fantasy star will dominate out on the range at the 2025 US GP? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-us-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for its strong performance in recent US Grands Prix?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What strategic advantage can drivers gain by using fantasy chips in F1 Fantasy?",
+      "correct_answer": "Maximizing points for specific races",
+      "wrong_options": [
+        "Improving car performance",
+        "Reducing pit stop times",
+        "Increasing driver contracts"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what type of drivers should be avoided if they have a history of poor performance on a specific track?",
+      "correct_answer": "Underperforming drivers",
+      "wrong_options": [
+        "Rookie drivers",
+        "Experienced drivers",
+        "Drivers from top teams"
+      ]
+    }
+  ]
+}

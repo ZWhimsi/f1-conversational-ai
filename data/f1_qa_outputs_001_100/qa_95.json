@@ -1,0 +1,36 @@
+{
+  "article_number": 95,
+  "source": "Motorsport Magazine",
+  "title": "F1 drivers who raced on weekends off — as Max Verstappen joins exclusive group",
+  "summary": "Only a few modern F1 drivers have raced outside the championship mid-season. As Max Verstappen prepares to race at the Nürburgring, here's how his predecessors did",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-drivers-who-raced-on-their-weekends-off-as-max-verstappen-joins-exclusive-group/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is noted for joining an exclusive group of F1 drivers who raced outside the championship mid-season?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What notable circuit is mentioned in relation to Max Verstappen's participation outside of F1's championship?",
+      "correct_answer": "Nürburgring",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "How common is it for F1 drivers to race on weekends that are not part of the championship season?",
+      "correct_answer": "Very rare",
+      "wrong_options": [
+        "Common",
+        "Moderately common",
+        "Somewhat rare"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 97,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Why McLaren team orders brought painful F1 flashback for Coulthard",
+  "summary": "In a race where McLaren colluded with Williams against Ferrari, David Coulthard was ordered to move over for team-mate Mika Häkkinen — a raw wound reopened three decades on by Oscar Piastri and Lando Norris's Monza switch",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-why-mclaren-team-orders-brought-painful-f1-flashback-for-coulthard/",
+  "qa_pairs": [
+    {
+      "question": "Which McLaren driver was ordered to let his teammate pass during a race against Ferrari?",
+      "correct_answer": "David Coulthard",
+      "wrong_options": [
+        "Mika Häkkinen",
+        "Lando Norris",
+        "Oscar Piastri"
+      ]
+    },
+    {
+      "question": "In which race did McLaren employ team orders that were reminiscent of past strategies against Ferrari?",
+      "correct_answer": "Monza",
+      "wrong_options": [
+        "Silverstone",
+        "Spa-Francorchamps",
+        "Monaco"
+      ]
+    },
+    {
+      "question": "Who were the two McLaren drivers involved in the recent team order incident at Monza?",
+      "correct_answer": "Oscar Piastri and Lando Norris",
+      "wrong_options": [
+        "Mika Häkkinen and David Coulthard",
+        "Daniel Ricciardo and Lando Norris",
+        "Fernando Alonso and Jenson Button"
+      ]
+    }
+  ]
+}

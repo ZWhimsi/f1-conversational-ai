@@ -1,0 +1,36 @@
+{
+  "article_number": 81,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Azerbaijan GP",
+  "summary": "Will you survive the chaos in Baku? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis to strike back at the 2025 Azerbaijan GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy/f1-fantasy-top-picks-predictions-for-the-2025-azerbaijan-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which type of strategy is often crucial for success in the Azerbaijan GP due to its tight and narrow street circuit?",
+      "correct_answer": "Qualifying performance and tire management.",
+      "wrong_options": [
+        "Long-distance fuel management",
+        "High-speed straight-line acceleration",
+        "Overtaking during pit stops"
+      ]
+    },
+    {
+      "question": "What is a common characteristic of the Baku City Circuit that impacts driver performance?",
+      "correct_answer": "It features a mix of long straights and narrow corners.",
+      "wrong_options": [
+        "It has a completely flat layout",
+        "It is primarily an oval circuit",
+        "It has no elevation changes"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, why might a driver with a strong track record in street races be a top pick for the Azerbaijan GP?",
+      "correct_answer": "They are typically better at navigating tight corners and managing tire wear.",
+      "wrong_options": [
+        "They usually have the fastest pit stop times",
+        "They excel in wet weather conditions",
+        "They are known for their endurance racing skills"
+      ]
+    }
+  ]
+}

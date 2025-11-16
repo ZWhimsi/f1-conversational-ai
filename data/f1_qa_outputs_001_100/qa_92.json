@@ -1,0 +1,36 @@
+{
+  "article_number": 92,
+  "source": "Motorsport Magazine",
+  "title": "2025 Azerbaijan GP start time: how to watch, live stream, F1 schedule and weather",
+  "summary": "How to follow all the Formula 1 action from the 2025 Azerbaijan Grand Prix with TV, live stream and highlights packages. Full schedule for the 17th round of the 2025 season, including the start time in Baku",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-azerbaijan-gp-start-time-how-to-watch-live-stream-f1-schedule-and-weather/",
+  "qa_pairs": [
+    {
+      "question": "In which city is the Azerbaijan Grand Prix held?",
+      "correct_answer": "Baku",
+      "wrong_options": [
+        "Baku",
+        "Baku",
+        "Baku"
+      ]
+    },
+    {
+      "question": "What is the total number of races in the 2025 Formula 1 season before the Azerbaijan Grand Prix?",
+      "correct_answer": "16",
+      "wrong_options": [
+        "15",
+        "14",
+        "17"
+      ]
+    },
+    {
+      "question": "What is the primary way to watch the Azerbaijan Grand Prix?",
+      "correct_answer": "TV and live stream",
+      "wrong_options": [
+        "Radio broadcast",
+        "Social media",
+        "In-person attendance"
+      ]
+    }
+  ]
+}

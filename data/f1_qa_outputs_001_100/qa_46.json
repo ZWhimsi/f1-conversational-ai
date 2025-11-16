@@ -1,0 +1,36 @@
+{
+  "article_number": 46,
+  "source": "Motorsport Magazine",
+  "title": "The story of F1's most famous 'taxi rides'",
+  "summary": "From Webber and Alonso to Senna and Mansell, Formula 1’s history of 'taxi rides' has delivered some of the championship's most memorable - and occasionally controversial — moments",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-story-of-f1s-most-famous-taxi-rides/",
+  "qa_pairs": [
+    {
+      "question": "What is a 'taxi ride' in the context of Formula 1?",
+      "correct_answer": "A situation where a driver gives a lift to another driver during a race or after an incident.",
+      "wrong_options": [
+        "A strategy to change tires quickly during a pit stop.",
+        "A type of car setup for low-speed circuits.",
+        "A penalty given for unsportsmanlike conduct."
+      ]
+    },
+    {
+      "question": "Which two famous drivers were involved in a notable taxi ride incident during the 2013 season?",
+      "correct_answer": "Mark Webber and Fernando Alonso.",
+      "wrong_options": [
+        "Lewis Hamilton and Sebastian Vettel.",
+        "Ayrton Senna and Nigel Mansell.",
+        "Michael Schumacher and Kimi Räikkönen."
+      ]
+    },
+    {
+      "question": "Who is known for being part of several memorable taxi ride moments in F1 history?",
+      "correct_answer": "Ayrton Senna.",
+      "wrong_options": [
+        "Lewis Hamilton.",
+        "Alain Prost.",
+        "Niki Lauda."
+      ]
+    }
+  ]
+}

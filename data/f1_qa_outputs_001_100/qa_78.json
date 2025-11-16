@@ -1,0 +1,36 @@
+{
+  "article_number": 78,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen cruises to win as Piastri crashes out - 2025 Azerbaijan GP results",
+  "summary": "World champion Verstappen dominated the Baku race to take his second consecutive victory as Piastri retired",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-cruises-to-win-as-piastri-crashes-out-2025-azerbaijan-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 Azerbaijan Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What significant event happened to Oscar Piastri during the 2025 Azerbaijan GP?",
+      "correct_answer": "He crashed out of the race.",
+      "wrong_options": [
+        "He finished in second place.",
+        "He won the race.",
+        "He retired due to engine failure."
+      ]
+    },
+    {
+      "question": "How many consecutive victories did Verstappen achieve with his win in Azerbaijan?",
+      "correct_answer": "Two",
+      "wrong_options": [
+        "One",
+        "Three",
+        "Four"
+      ]
+    }
+  ]
+}

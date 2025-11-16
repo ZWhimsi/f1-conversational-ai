@@ -1,0 +1,36 @@
+{
+  "article_number": 35,
+  "source": "Motorsport Magazine",
+  "title": "McLaren boss Zak Brown clashes with Alex Palou lawyer: 'You are talking rubbish!'",
+  "summary": "Zak Brown came under attack in court today, but wasn't afraid to shoot back, as he attempted to justify why his McLaren team is owed $20.7m by IndyCar champion Alex Palou.",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/mclaren-boss-zak-brown-clashes-with-alex-palou-lawyer-you-are-talking-rubbish/",
+  "qa_pairs": [
+    {
+      "question": "What position does Zak Brown hold in McLaren?",
+      "correct_answer": "CEO",
+      "wrong_options": [
+        "Team Principal",
+        "Technical Director",
+        "Chief Engineer"
+      ]
+    },
+    {
+      "question": "Which championship did Alex Palou win?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula E",
+        "NASCAR",
+        "Formula 2"
+      ]
+    },
+    {
+      "question": "How much money is McLaren claiming from Alex Palou?",
+      "correct_answer": "$20.7 million",
+      "wrong_options": [
+        "$15 million",
+        "$25 million",
+        "$10 million"
+      ]
+    }
+  ]
+}

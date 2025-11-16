@@ -1,0 +1,36 @@
+{
+  "article_number": 67,
+  "source": "Motorsport Magazine",
+  "title": "Senna vs Sonic: When McLaren taunted Williams with a squashed hedgehog",
+  "summary": "Sega's Formula 1 sponsorship deal with Williams ignited one of racing's most light-hearted and creative feuds. But no playful graphics could match the moment that Ayrton Senna seized Sonic the Hedgehog as his own",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/senna-vs-sonic-when-mclaren-taunted-williams-with-a-squashed-hedgehog/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Ayrton Senna drive for during his career?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Williams",
+        "Ferrari",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "What character was used in a playful rivalry between McLaren and Williams?",
+      "correct_answer": "Sonic the Hedgehog",
+      "wrong_options": [
+        "Mario",
+        "Crash Bandicoot",
+        "Pac-Man"
+      ]
+    },
+    {
+      "question": "What type of sponsorship deal did Sega have with Williams?",
+      "correct_answer": "Formula 1 sponsorship",
+      "wrong_options": [
+        "Clothing sponsorship",
+        "Technical partnership",
+        "Advertising campaign"
+      ]
+    }
+  ]
+}
