@@ -47,7 +47,8 @@ This repository contains the complete implementation of a research project focus
 │   ├── f1_data_aggregator.ipynb                       # Complete pipeline for aggregating various Formula 1 data sources
 │   ├── f1_data_preprocessing.ipynb                    # Covers the tasks for preprocessing and cleaning the raw data collected in the previous steps
 │   ├── f1_lora_finetune.ipynb                         # End-to-end pipeline for fine-tuning small open models on a Formula 1 QA dataset using LoRA, then evaluating them on a large multiple-choice benchmark
-│   └── f1_qa_utils.py                                 # F1 QA Evaluation Utilities, reusable functions for loading QA dataset and formatting multiple choice questions
+│   ├── f1_qa_utils.py                                 # F1 QA Evaluation Utilities, reusable functions for loading QA dataset and formatting multiple choice questions
+│   └── gpt_evaluation.ipynb                           # Evaluates GPT models (GPT 4.1 Nano, GPT 4o Mini, GPT 5 Mini) on the F1 QA dataset with multiple choice questions
 ├── scripts/                                           # Phase-specific execution scripts
 │   ├── eval_framework/                                # Python-based system designed to automatically evaluate and score AI models using a powerful LLM (like GPT-4) as a "judge"
 │   │   ├── eval_set/                                  # Datasets for evaluation purpose
