@@ -2,8 +2,6 @@
 
 ## Quick Start (Recommended)
 
-Your friend was right! Using Hugging Face Hub is much faster and more reliable than Google Drive uploads.
-
 ### What's Changed:
 
 - **No more slow Google Drive uploads** - models load directly from Hugging Face
@@ -56,4 +54,3 @@ You can still use the old approach by running notebook 01 first, but it's much s
 3. Set your OpenAI API key in Colab secrets for notebook 03
 4. Enjoy much faster evaluation!
 
-Your friend's suggestion was spot on - this is definitely the better approach! 🚀
