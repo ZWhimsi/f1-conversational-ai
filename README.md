@@ -26,9 +26,7 @@ This repository contains the complete implementation of a research project focus
 │   ├── f1_qa_outputs_201_300/                         # Refined question answer pairs json files (201-300)
 │   ├── f1_qa_outputs_301_400/                         # Refined question answer pairs json files (301-400)
 │   ├── f1_qa_outputs_401_500/                         # Refined question answer pairs json files (401-500)
-│   ├── f1_qa_outputs_501_512/                         # Refined question answer pairs json files (501-512)
-│   ├── f1_data_aggregator.ipynb                       # Complete pipeline for aggregating various Formula 1 data sources
-│   └── f1_data_preprocessing.ipynb                    # Covers the tasks for preprocessing and cleaning the raw data collected in the previous steps
+│   └── f1_qa_outputs_501_512/                         # Refined question answer pairs json files (501-512)
 ├── docs/                                              # Documentation
 │   └── README.md                                      # Initial repository setup for F1 Conversational AI project
 ├── models/                                            # Model storage and management
@@ -46,6 +44,8 @@ This repository contains the complete implementation of a research project focus
 │   ├── HUGGINGFACE_APPROACH.md                        # Outlines a faster and more reliable F1 QA evaluation workflow that now loads models directly from Hugging Face Hub instead of Google Drive.
 │   ├── README.md                                      # ExpJupyter notebooks for analysis
 │   ├── Readme_f1_lora_finetune.md                     # README file of f1_lora_finetune.ipynb file
+│   ├── f1_data_aggregator.ipynb                       # Complete pipeline for aggregating various Formula 1 data sources
+│   ├── f1_data_preprocessing.ipynb                    # Covers the tasks for preprocessing and cleaning the raw data collected in the previous steps
 │   ├── f1_lora_finetune.ipynb                         # End-to-end pipeline for fine-tuning small open models on a Formula 1 QA dataset using LoRA, then evaluating them on a large multiple-choice benchmark
 │   └── f1_qa_utils.py                                 # F1 QA Evaluation Utilities, reusable functions for loading QA dataset and formatting multiple choice questions
 ├── scripts/                                           # Phase-specific execution scripts
