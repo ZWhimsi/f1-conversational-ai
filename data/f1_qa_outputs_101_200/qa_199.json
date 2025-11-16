@@ -1,0 +1,36 @@
+{
+  "article_number": 199,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: Sparks fly when genius meets brilliance at the Hungarian GP",
+  "summary": "Hungary has hosted thrilling duels between Tazio Nuvolari and Bernd Rosemeyer; between Ayrton Senna and Nelson Piquet. Will 2025 bring another battle between Formula 1's brightest talents? asksMatt Bishop",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-sparks-fly-when-genius-meets-brilliance-at-the-hungarian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which two legendary drivers had memorable duels in Hungary during their careers?",
+      "correct_answer": "Ayrton Senna and Nelson Piquet",
+      "wrong_options": [
+        "Michael Schumacher and Mika Häkkinen",
+        "Lewis Hamilton and Sebastian Vettel",
+        "Alain Prost and Nigel Mansell"
+      ]
+    },
+    {
+      "question": "What year is speculated to potentially feature exciting battles among Formula 1's top talents?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    },
+    {
+      "question": "Who was involved in historic races against Tazio Nuvolari in Hungary?",
+      "correct_answer": "Bernd Rosemeyer",
+      "wrong_options": [
+        "Juan Manuel Fangio",
+        "Niki Lauda",
+        "Gilles Villeneuve"
+      ]
+    }
+  ]
+}

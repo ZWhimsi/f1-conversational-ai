@@ -1,0 +1,36 @@
+{
+  "article_number": 171,
+  "source": "Motorsport Magazine",
+  "title": "Stoffel Vandoorne: ‘I guess my Mclaren F1 career is a classic case of right place, wrong time’",
+  "summary": "A hard-earned grand prix career may have ended in tears, but there’s much more to this Belgian star than being just another F1 nearly-man. From single-seater success to tackling Le…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/110/stoffel-vandoorne-i-guess-my-mclaren-f1-career-is-a-classic-case-of-right-place-wrong-time/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Stoffel Vandoorne drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is a common phrase used to describe a driver who shows potential but does not achieve significant success?",
+      "correct_answer": "Nearly-man",
+      "wrong_options": [
+        "Dark horse",
+        "Fan favorite",
+        "Wild card"
+      ]
+    },
+    {
+      "question": "What type of racing did Stoffel Vandoorne succeed in before his F1 career?",
+      "correct_answer": "Single-seater racing",
+      "wrong_options": [
+        "Touring car racing",
+        "Rally racing",
+        "Sports car racing"
+      ]
+    }
+  ]
+}

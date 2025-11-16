@@ -1,0 +1,36 @@
+{
+  "article_number": 196,
+  "source": "Motorsport Magazine",
+  "title": "2025 Hungarian GP start time: how to watch, live stream, F1 schedule and weather",
+  "summary": "F1 returns to the Hungaroring for the Hungarian Grand Prix, the final race before the summer break. Here's your quick guide to the start time, how to watch, live stream options, full F1 schedule, and weather forecast",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-hungarian-gp-start-time-how-to-watch-live-stream-f1-schedule-and-weather/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Hungarian Grand Prix in the F1 calendar?",
+      "correct_answer": "It is the final race before the summer break.",
+      "wrong_options": [
+        "It is the season opener.",
+        "It is the championship-deciding race.",
+        "It is held in a different country each year."
+      ]
+    },
+    {
+      "question": "Where is the Hungarian Grand Prix held?",
+      "correct_answer": "Hungaroring.",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "What can fans expect regarding the weather during the Hungarian Grand Prix?",
+      "correct_answer": "A weather forecast is provided for the event.",
+      "wrong_options": [
+        "It will definitely rain.",
+        "There will be snow.",
+        "Temperatures will be below freezing."
+      ]
+    }
+  ]
+}

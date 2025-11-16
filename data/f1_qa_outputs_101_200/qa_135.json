@@ -1,0 +1,36 @@
+{
+  "article_number": 135,
+  "source": "Motorsport Magazine",
+  "title": "Should David Coulthard have been Williams’ world champion?",
+  "summary": "Thirty years ago, in September 1995, David Coulthard scored the first of his eventual 13 grand prix wins at only his 21st attempt, and what turned out to be his…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/62/should-david-coulthard-have-been-williams-world-champion/",
+  "qa_pairs": [
+    {
+      "question": "How many grand prix wins did David Coulthard achieve in his Formula 1 career?",
+      "correct_answer": "13",
+      "wrong_options": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "question": "At which grand prix did David Coulthard score his first victory?",
+      "correct_answer": "Portuguese Grand Prix",
+      "wrong_options": [
+        "Spanish Grand Prix",
+        "British Grand Prix",
+        "Monaco Grand Prix"
+      ]
+    },
+    {
+      "question": "What year did David Coulthard score his first win in Formula 1?",
+      "correct_answer": "1995",
+      "wrong_options": [
+        "1994",
+        "1996",
+        "1997"
+      ]
+    }
+  ]
+}

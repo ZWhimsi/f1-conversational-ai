@@ -1,0 +1,36 @@
+{
+  "article_number": 185,
+  "source": "Motorsport Magazine",
+  "title": "Norris leads FP2 as McLaren dominates - 2025 Hungarian GP results",
+  "summary": "Norris goes quickest in second practice in Hungary by nearly three tenths from Piastri",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-leads-fp2-as-mclaren-dominates-2025-hungarian-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver topped the timesheet in the second practice session at the 2025 Hungarian GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "How much faster was Lando Norris compared to Oscar Piastri during FP2 at the 2025 Hungarian GP?",
+      "correct_answer": "Nearly three tenths",
+      "wrong_options": [
+        "One tenth",
+        "Five tenths",
+        "Two tenths"
+      ]
+    },
+    {
+      "question": "Which team did Lando Norris and Oscar Piastri represent during FP2 at the 2025 Hungarian GP?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    }
+  ]
+}

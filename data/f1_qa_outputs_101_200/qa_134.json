@@ -1,0 +1,36 @@
+{
+  "article_number": 134,
+  "source": "Motorsport Magazine",
+  "title": "When Renault ruled F1",
+  "summary": "I remember an early 1978 argument over the chassis of the RS10 and the use of the engine,” said Renault Formula 1 team driver Jean-Pierre Jabouille. “Whether to put a twin…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/76/when-renault-ruled-f1/",
+  "qa_pairs": [
+    {
+      "question": "Which car was the first Formula 1 car to use a turbocharged engine?",
+      "correct_answer": "Renault RS01",
+      "wrong_options": [
+        "Ferrari 312T",
+        "Lotus 79",
+        "McLaren MP4/2"
+      ]
+    },
+    {
+      "question": "Who was the driver for Renault during their successful seasons in the late 1970s?",
+      "correct_answer": "Jean-Pierre Jabouille",
+      "wrong_options": [
+        "Alain Prost",
+        "Nigel Mansell",
+        "Riccardo Patrese"
+      ]
+    },
+    {
+      "question": "In what year did Renault's RS10 chassis compete in Formula 1?",
+      "correct_answer": "1978",
+      "wrong_options": [
+        "1975",
+        "1980",
+        "1985"
+      ]
+    }
+  ]
+}

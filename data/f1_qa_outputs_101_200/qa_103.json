@@ -1,0 +1,36 @@
+{
+  "article_number": 103,
+  "source": "Motorsport Magazine",
+  "title": "Even F1 drivers don't understand overtaking rules - What you missed at the Italian GP",
+  "summary": "As F1 drivers fall foul of opaque overtaking rules, hopes of an early return to V8 engines fade, and there's a split opinion in the paddock: what you missed at the 2025 Italian Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/early-v8-revival-plan-fading-what-you-missed-at-the-2025-italian-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a common challenge faced by F1 drivers regarding race regulations?",
+      "correct_answer": "Understanding overtaking rules.",
+      "wrong_options": [
+        "Managing tire wear.",
+        "Adhering to pit stop regulations.",
+        "Complying with fuel limits."
+      ]
+    },
+    {
+      "question": "What type of engines were hoped to return to F1, which now seems unlikely?",
+      "correct_answer": "V8 engines.",
+      "wrong_options": [
+        "V6 engines.",
+        "Hybrid engines.",
+        "V10 engines."
+      ]
+    },
+    {
+      "question": "What event does the summary refer to that took place in 2025?",
+      "correct_answer": "The Italian Grand Prix.",
+      "wrong_options": [
+        "The Monaco Grand Prix.",
+        "The British Grand Prix.",
+        "The Singapore Grand Prix."
+      ]
+    }
+  ]
+}

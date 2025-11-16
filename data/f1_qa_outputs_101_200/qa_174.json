@@ -1,0 +1,36 @@
+{
+  "article_number": 174,
+  "source": "Motorsport Magazine",
+  "title": "Playing F1 chess against itself: McLaren’s strategy calls",
+  "summary": "Lap 11 of the Belgian Grand Prix and the initially wet track was drying out. Oscar Piastri and Lando Norris were separated by less than 2sec and Piastri was around…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/94/playing-f1-chess-against-itself-mclarens-strategy-calls/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of lap 11 during a race?",
+      "correct_answer": "It is often a crucial point for teams to assess tire strategy as track conditions change.",
+      "wrong_options": [
+        "It marks the end of the first pit stop window.",
+        "It is when the safety car usually comes out.",
+        "It is the lap where qualifying times are set."
+      ]
+    },
+    {
+      "question": "Which teams are known for their strong strategic calls in Formula 1?",
+      "correct_answer": "McLaren, Ferrari, and Mercedes are known for their strategic prowess.",
+      "wrong_options": [
+        "Haas, AlphaTauri, and Williams",
+        "Red Bull Racing, Alfa Romeo, and Aston Martin",
+        "Renault, McLaren, and Sauber"
+      ]
+    },
+    {
+      "question": "What does it indicate when drivers are separated by less than 2 seconds during a race?",
+      "correct_answer": "It suggests a close battle for position and potential for overtaking.",
+      "wrong_options": [
+        "It indicates they are preparing for a pit stop.",
+        "It means they are in a DRS zone.",
+        "It shows one driver is significantly faster."
+      ]
+    }
+  ]
+}

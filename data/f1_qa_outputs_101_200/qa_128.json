@@ -1,0 +1,36 @@
+{
+  "article_number": 128,
+  "source": "Motorsport Magazine",
+  "title": "Norris tops FP1 as McLaren dominates - 2025 Dutch GP practice results",
+  "summary": "Norris leads first practice from Piastri; Aston Martin shines again and Verstappen goes off",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-tops-fp1-as-mclaren-dominates-2025-dutch-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver topped the first practice session at the 2025 Dutch GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Max Verstappen",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "Which team had a strong performance in the first practice session alongside McLaren?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What notable incident occurred involving Max Verstappen during FP1 of the 2025 Dutch GP?",
+      "correct_answer": "He went off the track",
+      "wrong_options": [
+        "He set the fastest lap",
+        "He was involved in a collision",
+        "He had technical issues"
+      ]
+    }
+  ]
+}

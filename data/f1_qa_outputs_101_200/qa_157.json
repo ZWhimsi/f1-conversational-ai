@@ -1,0 +1,36 @@
+{
+  "article_number": 157,
+  "source": "Motorsport Magazine",
+  "title": "Rating every 2025 F1 driver so far: the good, the bad and the lovely",
+  "summary": "James Elsonruns the slide rule over the performances of the 2025 F1 grid so far – who's impressed, and who's flopped?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/rating-every-2025-f1-driver-so-far-the-good-the-bad-and-the-lovely/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is known for consistently impressing in the 2025 F1 season?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What is a common term used to describe a driver who is underperforming compared to expectations?",
+      "correct_answer": "Flop",
+      "wrong_options": [
+        "Rookie",
+        "Star",
+        "Veteran"
+      ]
+    },
+    {
+      "question": "In F1, what is the significance of evaluating driver performances mid-season?",
+      "correct_answer": "It helps teams assess their competitiveness and make strategic decisions.",
+      "wrong_options": [
+        "It determines the championship winner.",
+        "It influences the car design for the next season.",
+        "It affects driver contracts for the following year."
+      ]
+    }
+  ]
+}

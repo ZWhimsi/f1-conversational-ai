@@ -1,0 +1,36 @@
+{
+  "article_number": 117,
+  "source": "Motorsport Magazine",
+  "title": "F1: The Movie streaming: Where to watch Brad Pitt's film online",
+  "summary": "After its cinema release,F1: The Movieis now available on streaming services. Here's how to watch the Brad Pitt blockbuster",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-the-movie-streaming-where-to-watch-brad-pitts-film-online/",
+  "qa_pairs": [
+    {
+      "question": "Which actor plays a significant role in 'F1: The Movie'?",
+      "correct_answer": "Brad Pitt",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Daniel Ricciardo",
+        "Christian Horner"
+      ]
+    },
+    {
+      "question": "What type of film is 'F1: The Movie'?",
+      "correct_answer": "A sports drama",
+      "wrong_options": [
+        "A documentary",
+        "A thriller",
+        "A comedy"
+      ]
+    },
+    {
+      "question": "What is a key theme of movies related to Formula 1 racing?",
+      "correct_answer": "The competitive nature of motorsport",
+      "wrong_options": [
+        "Environmental issues",
+        "Historical battles",
+        "Space exploration"
+      ]
+    }
+  ]
+}

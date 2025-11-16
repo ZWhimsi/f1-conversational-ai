@@ -1,0 +1,36 @@
+{
+  "article_number": 114,
+  "source": "Motorsport Magazine",
+  "title": "Cadillac F1 team names IndyCar star Colton Herta as test driver",
+  "summary": "Herta has been named Cadillac's first American driver, joining the outfit ahead of its 2026 debut alongside race drivers Bottas and Perez",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/cadillac-f1-team-names-indycar-star-colton-herta-as-test-driver/",
+  "qa_pairs": [
+    {
+      "question": "Which team is set to debut in Formula 1 in 2026?",
+      "correct_answer": "Cadillac",
+      "wrong_options": [
+        "Porsche",
+        "Andretti",
+        "Sauber"
+      ]
+    },
+    {
+      "question": "Which driver has been named as Cadillac's first American driver?",
+      "correct_answer": "Colton Herta",
+      "wrong_options": [
+        "Alexander Rossi",
+        "Graham Rahal",
+        "Scott Dixon"
+      ]
+    },
+    {
+      "question": "Which two drivers are confirmed to race for Cadillac alongside Colton Herta?",
+      "correct_answer": "Valtteri Bottas and Sergio Perez",
+      "wrong_options": [
+        "Lewis Hamilton and Charles Leclerc",
+        "Max Verstappen and Carlos Sainz",
+        "Lando Norris and Daniel Ricciardo"
+      ]
+    }
+  ]
+}

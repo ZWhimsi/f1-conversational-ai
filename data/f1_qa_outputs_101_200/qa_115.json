@@ -1,0 +1,36 @@
+{
+  "article_number": 115,
+  "source": "Motorsport Magazine",
+  "title": "Ferrari's best one-off F1 liveries - How does new Lauda tribute rank?",
+  "summary": "Ferrari will honour Lauda's first title with a special livery at the Italian Grand Prix, but does it make it into the list of best-looking one-off Scuderia paint schemes?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/ferraris-best-one-off-f1-liveries-does-2025-italian-gp-lauda-tribute-make-it/",
+  "qa_pairs": [
+    {
+      "question": "Who was the first driver to win a World Championship title for Ferrari?",
+      "correct_answer": "Niki Lauda",
+      "wrong_options": [
+        "Michael Schumacher",
+        "Kimi Räikkönen",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is a common reason for Formula 1 teams to create one-off liveries?",
+      "correct_answer": "To honor a special occasion or commemorate an important figure.",
+      "wrong_options": [
+        "To test new aerodynamic features",
+        "To advertise a new sponsor",
+        "To celebrate a race win"
+      ]
+    },
+    {
+      "question": "Which Grand Prix is typically associated with Ferrari's tribute liveries?",
+      "correct_answer": "Italian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "German Grand Prix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 122,
+  "source": "Motorsport Magazine",
+  "title": "Sainz gets no explanation for mystery penalty - 2025 Dutch GP takeaways",
+  "summary": "From Piastri's long-overdue luck to Ferrari's nightmare and Sainz's heartbreak, the 2025 Dutch GP left few drivers unscathed and plenty of questions for the season ahead",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/sainz-gets-no-explanation-for-mystery-penalty-2025-dutch-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is mentioned as having a stroke of luck during the 2025 Dutch GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Carlos Sainz",
+        "Charles Leclerc",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "Which team faced a challenging race during the 2025 Dutch GP, according to the takeaways?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What was Carlos Sainz's experience during the 2025 Dutch GP?",
+      "correct_answer": "He received a mystery penalty.",
+      "wrong_options": [
+        "He won the race.",
+        "He retired early.",
+        "He finished on the podium."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 164,
+  "source": "Motorsport Magazine",
+  "title": "Badass Brambilla: the day F1's 'Monza Gorilla' won at deadly Österreichring",
+  "summary": "Vittorio Brambilla won just a single grand prix in his Formula 1 career but, writesMatt Bishop, it was a spectacularly skilful and determined victory at an Austrian race blanketed by rain and tragedy",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/badass-brambilla-the-day-f1s-monza-gorilla-won-at-deadly-osterreichring/",
+  "qa_pairs": [
+    {
+      "question": "Who is known as the 'Monza Gorilla' in Formula 1?",
+      "correct_answer": "Vittorio Brambilla",
+      "wrong_options": [
+        "Niki Lauda",
+        "Gilles Villeneuve",
+        "Mika Hakkinen"
+      ]
+    },
+    {
+      "question": "At which circuit did Vittorio Brambilla achieve his only Formula 1 victory?",
+      "correct_answer": "Österreichring",
+      "wrong_options": [
+        "Monza",
+        "Spa-Francorchamps",
+        "Silverstone"
+      ]
+    },
+    {
+      "question": "What weather conditions characterized the race where Brambilla won his Grand Prix?",
+      "correct_answer": "Rain",
+      "wrong_options": [
+        "Sunny",
+        "Foggy",
+        "Windy"
+      ]
+    }
+  ]
+}

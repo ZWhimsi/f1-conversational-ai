@@ -1,0 +1,36 @@
+{
+  "article_number": 156,
+  "source": "Motorsport Magazine",
+  "title": "Why have F1's 75th anniversary celebrations fizzled out?",
+  "summary": "F1's 75th anniversary celebrations burst into life at an elaborate season-opening show. Since then, it's missed plenty of opportunities to mark the momentous occasion, saysKaty Fairman",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-have-f1s-75th-anniversary-celebrations-fizzled-out/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Formula 1 celebrate its 75th anniversary?",
+      "correct_answer": "2023",
+      "wrong_options": [
+        "2022",
+        "2024",
+        "2021"
+      ]
+    },
+    {
+      "question": "What was the initial event that marked the start of the 75th anniversary celebrations in Formula 1?",
+      "correct_answer": "Season-opening show",
+      "wrong_options": [
+        "Mid-season race",
+        "Driver awards ceremony",
+        "Team launch event"
+      ]
+    },
+    {
+      "question": "Which key aspect has been criticized regarding F1's 75th anniversary celebrations?",
+      "correct_answer": "Missed opportunities to celebrate the occasion",
+      "wrong_options": [
+        "Lack of sponsor involvement",
+        "Insufficient media coverage",
+        "Inadequate fan engagement"
+      ]
+    }
+  ]
+}

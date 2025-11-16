@@ -1,0 +1,36 @@
+{
+  "article_number": 133,
+  "source": "Motorsport Magazine",
+  "title": "F1 race report: Hungarian Grand Prix",
+  "summary": "In the last race before Formula 1’s summer break, McLaren drivers Lando Norris and Oscar Piastri gave a definitive confirmation that the second half of the season is going to…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/86/f1-race-report-hungarian-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Lando Norris and Oscar Piastri race for during the Hungarian Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What significant event does the Hungarian Grand Prix precede in the Formula 1 calendar?",
+      "correct_answer": "Summer break",
+      "wrong_options": [
+        "Season finale",
+        "Mid-season testing",
+        "Driver transfer window"
+      ]
+    },
+    {
+      "question": "What is the primary focus for McLaren in the second half of the Formula 1 season following the Hungarian Grand Prix?",
+      "correct_answer": "Improving performance",
+      "wrong_options": [
+        "Changing drivers",
+        "Developing a new car",
+        "Focusing on sponsorships"
+      ]
+    }
+  ]
+}

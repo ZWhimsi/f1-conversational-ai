@@ -1,0 +1,36 @@
+{
+  "article_number": 147,
+  "source": "Motorsport Magazine",
+  "title": "2025 Dutch Grand Prix start time: how to watch, live stream, F1 schedule and weather",
+  "summary": "With the summer break now over, Formula 1 returns to the iconic Circuit Zandvoort for the 2025 Dutch Grand Prix, a crucial race in the heart of the championship battle",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-dutch-grand-prix-start-time-how-to-watch-live-stream-f1-schedule-and-weather/",
+  "qa_pairs": [
+    {
+      "question": "Which circuit hosts the Dutch Grand Prix?",
+      "correct_answer": "Circuit Zandvoort",
+      "wrong_options": [
+        "Circuit de Spa-Francorchamps",
+        "Monza Circuit",
+        "Silverstone Circuit"
+      ]
+    },
+    {
+      "question": "What is the significance of the Dutch Grand Prix in the F1 season?",
+      "correct_answer": "It is a crucial race in the heart of the championship battle.",
+      "wrong_options": [
+        "It is the season opener.",
+        "It determines the pole position for the next race.",
+        "It is a night race."
+      ]
+    },
+    {
+      "question": "When does the summer break in Formula 1 typically end?",
+      "correct_answer": "After the summer break, races resume, such as the Dutch Grand Prix.",
+      "wrong_options": [
+        "Before the Monaco Grand Prix",
+        "After the Canadian Grand Prix",
+        "Before the Singapore Grand Prix"
+      ]
+    }
+  ]
+}

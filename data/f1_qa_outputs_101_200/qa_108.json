@@ -1,0 +1,36 @@
+{
+  "article_number": 108,
+  "source": "Motorsport Magazine",
+  "title": "Norris quickest from Leclerc, Sainz - 2025 Italian Grand Prix FP2 results",
+  "summary": "Norris topped the times in second Monza practice as Antonelli spun off in the Mercedes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-quickest-from-leclerc-sainz-2025-italian-grand-prix-fp2-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved the fastest time in the second practice session at the 2025 Italian Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Carlos Sainz",
+        "George Russell"
+      ]
+    },
+    {
+      "question": "At which circuit did the 2025 Italian Grand Prix take place?",
+      "correct_answer": "Monza",
+      "wrong_options": [
+        "Imola",
+        "Monaco",
+        "Silverstone"
+      ]
+    },
+    {
+      "question": "Which team did the driver Antonelli represent during the second practice session?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    }
+  ]
+}

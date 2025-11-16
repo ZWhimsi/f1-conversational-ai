@@ -1,0 +1,36 @@
+{
+  "article_number": 151,
+  "source": "Motorsport Magazine",
+  "title": "Lauda vs Prost in 1985: The last time Zandvoort said goodbye",
+  "summary": "40 years ago the Dutch GP held its last F1 race, until the Verstappen phenomenon brought it back in 2021 –Matt Bishopremembers a fine contest between two grand prix legends",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lauda-vs-prost-in-1985-the-last-time-zandvoort-said-goodbye/",
+  "qa_pairs": [
+    {
+      "question": "Which two legendary drivers had a notable rivalry during the 1985 Dutch Grand Prix?",
+      "correct_answer": "Niki Lauda and Alain Prost",
+      "wrong_options": [
+        "Ayrton Senna and Nelson Piquet",
+        "Michael Schumacher and Mika Hakkinen",
+        "Lewis Hamilton and Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "When did the Dutch Grand Prix officially return to the Formula 1 calendar after a long absence?",
+      "correct_answer": "2021",
+      "wrong_options": [
+        "2019",
+        "2020",
+        "2022"
+      ]
+    },
+    {
+      "question": "What significant event took place in Zandvoort in 1985 regarding the Formula 1 calendar?",
+      "correct_answer": "It held its last F1 race until its return in 2021.",
+      "wrong_options": [
+        "It was the first time F1 raced there",
+        "It hosted the final race of the season",
+        "It became a night race for the first time"
+      ]
+    }
+  ]
+}

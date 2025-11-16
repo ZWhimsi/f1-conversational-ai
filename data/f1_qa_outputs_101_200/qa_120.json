@@ -1,0 +1,36 @@
+{
+  "article_number": 120,
+  "source": "Motorsport Magazine",
+  "title": "Why Ron Dennis had to apologise for McLaren's Honda disaster",
+  "summary": "In a new interview withMatt Bishop, former McLaren F1 boss Eric Boullier has revealed what Ron Dennis said when it became clear the Honda partnership was a grave error",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-ron-dennis-had-to-apologise-for-mclarens-honda-disaster/",
+  "qa_pairs": [
+    {
+      "question": "Which two teams formed a partnership during the Honda engine era in Formula 1?",
+      "correct_answer": "McLaren and Honda",
+      "wrong_options": [
+        "Ferrari and Honda",
+        "Red Bull and Honda",
+        "Williams and Honda"
+      ]
+    },
+    {
+      "question": "Who was the former McLaren F1 boss that discussed the Honda partnership issues?",
+      "correct_answer": "Eric Boullier",
+      "wrong_options": [
+        "Ron Dennis",
+        "Martin Whitmarsh",
+        "Zak Brown"
+      ]
+    },
+    {
+      "question": "What was the main issue that led to apologies regarding the McLaren and Honda partnership?",
+      "correct_answer": "Poor performance and reliability of Honda engines",
+      "wrong_options": [
+        "Technical regulations changes",
+        "Driver errors",
+        "Financial disputes"
+      ]
+    }
+  ]
+}

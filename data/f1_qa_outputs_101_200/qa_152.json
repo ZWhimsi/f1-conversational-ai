@@ -1,0 +1,36 @@
+{
+  "article_number": 152,
+  "source": "Motorsport Magazine",
+  "title": "Rubens Barrichello wins NASCAR championship – aged 53",
+  "summary": "Rubens Barrichello managed to secure another tin-top title in his long career last weekend",
+  "link": "https://www.motorsportmagazine.com/articles/touring-cars/rubens-barrichello-wins-nascar-championship-aged-53/",
+  "qa_pairs": [
+    {
+      "question": "Which Brazilian driver is known for having a long career in both Formula 1 and NASCAR?",
+      "correct_answer": "Rubens Barrichello",
+      "wrong_options": [
+        "Felipe Massa",
+        "Ayrton Senna",
+        "Nelson Piquet"
+      ]
+    },
+    {
+      "question": "What type of racing is referred to as 'tin-top' racing?",
+      "correct_answer": "Touring car racing",
+      "wrong_options": [
+        "Formula racing",
+        "Kart racing",
+        "Rally racing"
+      ]
+    },
+    {
+      "question": "At what age did Rubens Barrichello win a NASCAR championship?",
+      "correct_answer": "53",
+      "wrong_options": [
+        "50",
+        "55",
+        "48"
+      ]
+    }
+  ]
+}

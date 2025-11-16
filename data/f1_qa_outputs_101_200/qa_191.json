@@ -1,0 +1,36 @@
+{
+  "article_number": 191,
+  "source": "Motorsport Magazine",
+  "title": "'I'm staying': Max Verstappen confirms his F1 future at Red Bull",
+  "summary": "Max Verstappen has sought to end speculation about his F1 future with Red Bull by announcing that he will stay with the team in 2026",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/im-staying-max-verstappen-confirms-his-future-at-red-bull-racing/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Max Verstappen confirm he would stay with Red Bull Racing?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2024",
+        "2025",
+        "2027"
+      ]
+    },
+    {
+      "question": "What team is Max Verstappen currently driving for as of his announcement?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is a common reason for drivers to announce their future plans in Formula 1?",
+      "correct_answer": "To end speculation about their contracts",
+      "wrong_options": [
+        "To negotiate higher salaries",
+        "To promote their personal brands",
+        "To change teams"
+      ]
+    }
+  ]
+}

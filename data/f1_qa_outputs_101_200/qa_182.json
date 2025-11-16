@@ -1,0 +1,36 @@
+{
+  "article_number": 182,
+  "source": "Motorsport Magazine",
+  "title": "Why did Ferrari fade in high-pressure Hungarian GP?",
+  "summary": "Charles Leclerc took a surprise pole for the 2025 Hungarian GP, but his chances of a race win went awry in the second half of the race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-did-ferrari-fade-in-high-pressure-hungarian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Who secured pole position at the 2025 Hungarian Grand Prix?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What was the outcome for Charles Leclerc during the second half of the 2025 Hungarian Grand Prix?",
+      "correct_answer": "His chances of a race win diminished.",
+      "wrong_options": [
+        "He maintained the lead.",
+        "He retired from the race.",
+        "He finished in second place."
+      ]
+    },
+    {
+      "question": "Which team does Charles Leclerc drive for?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    }
+  ]
+}

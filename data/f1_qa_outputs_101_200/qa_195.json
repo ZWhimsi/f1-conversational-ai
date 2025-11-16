@@ -1,0 +1,36 @@
+{
+  "article_number": 195,
+  "source": "Motorsport Magazine",
+  "title": "The day only one F1 car took the Hungarian GP start",
+  "summary": "The 2021 Hungarian Grand Prix delivered one of the most bizarre moments in F1 history - a restart with just one car on the grid. Here's how that happened",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-day-only-one-f1-car-took-the-hungarian-gp-start/",
+  "qa_pairs": [
+    {
+      "question": "In which year did the Hungarian Grand Prix feature a restart with only one car on the grid?",
+      "correct_answer": "2021",
+      "wrong_options": [
+        "2020",
+        "2019",
+        "2022"
+      ]
+    },
+    {
+      "question": "What unusual event occurred during the 2021 Hungarian Grand Prix?",
+      "correct_answer": "Only one car took the start.",
+      "wrong_options": [
+        "Multiple cars crashed before the start",
+        "A driver refused to race",
+        "The race was canceled due to weather"
+      ]
+    },
+    {
+      "question": "Which team was likely to be involved in a scenario where only one car could restart a race?",
+      "correct_answer": "Any F1 team with a single car remaining on the grid.",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    }
+  ]
+}

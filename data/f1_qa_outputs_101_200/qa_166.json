@@ -1,0 +1,36 @@
+{
+  "article_number": 166,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Last-placed Alpine could fight for wins in 2026. Two corners show why",
+  "summary": "Alpine sits at the bottom of the F1 championship table this year; its drivers struggling with the car. But one change due in 2026 could transform its fortunes, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-last-placed-alpine-could-fight-for-wins-in-2026-two-corners-show-why/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently at the bottom of the F1 championship table?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "AlphaTauri"
+      ]
+    },
+    {
+      "question": "What significant change is expected to potentially improve Alpine's performance in 2026?",
+      "correct_answer": "A car redesign or technical regulation change",
+      "wrong_options": [
+        "New driver lineup",
+        "Different tire supplier",
+        "Change of team ownership"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is often the main factor that affects a team's performance in a season?",
+      "correct_answer": "Car performance and development",
+      "wrong_options": [
+        "Driver popularity",
+        "Sponsorship deals",
+        "Team nationality"
+      ]
+    }
+  ]
+}

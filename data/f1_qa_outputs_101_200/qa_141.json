@@ -1,0 +1,36 @@
+{
+  "article_number": 141,
+  "source": "Motorsport Magazine",
+  "title": "Top 5: Goodwood’s finest F1 non-championship races",
+  "summary": "1. 1960 Glover Trophy Innes Ireland, above, had already beaten him in the F2 Lavant Cup. Now Stirling Moss found himself chasing Ireland, who was in a Lotus 18, in the…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/17/top-5-goodwoods-finest-f1-non-championship-races/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 1960 Glover Trophy non-championship race?",
+      "correct_answer": "Innes Ireland",
+      "wrong_options": [
+        "Stirling Moss",
+        "Jim Clark",
+        "Graham Hill"
+      ]
+    },
+    {
+      "question": "What type of car did Innes Ireland drive in the 1960 Glover Trophy?",
+      "correct_answer": "Lotus 18",
+      "wrong_options": [
+        "Ferrari 246",
+        "BRM P57",
+        "Cooper T53"
+      ]
+    },
+    {
+      "question": "In which year did the Glover Trophy, featuring Stirling Moss and Innes Ireland, take place?",
+      "correct_answer": "1960",
+      "wrong_options": [
+        "1958",
+        "1962",
+        "1964"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 170,
+  "source": "Motorsport Magazine",
+  "title": "Will Apple shake up F1 coverage? What you missed at the Hungarian GP",
+  "summary": "Is Apple looking global as it bids for F1 broadcasting rights? Plus: Lots of love for Laurent Mekies, and James Vowles' juggling act",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-apple-shake-up-f1-coverage-what-you-missed-from-the-hungarian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which technology company is reportedly bidding for F1 broadcasting rights?",
+      "correct_answer": "Apple",
+      "wrong_options": [
+        "Amazon",
+        "Google",
+        "Microsoft"
+      ]
+    },
+    {
+      "question": "Who is Laurent Mekies in the context of Formula 1?",
+      "correct_answer": "A prominent figure in F1 management, often associated with team strategy.",
+      "wrong_options": [
+        "A race engineer",
+        "A team principal",
+        "A driver"
+      ]
+    },
+    {
+      "question": "What role does James Vowles hold in Formula 1?",
+      "correct_answer": "Team principal of Williams Racing",
+      "wrong_options": [
+        "Technical director of Mercedes",
+        "Chief strategist of Ferrari",
+        "Race engineer for Red Bull"
+      ]
+    }
+  ]
+}

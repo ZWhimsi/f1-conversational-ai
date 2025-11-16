@@ -1,0 +1,36 @@
+{
+  "article_number": 165,
+  "source": "Motorsport Magazine",
+  "title": "F1's 75-year legacy takes centre stage at 2025 Monterey Motorsports Reunion",
+  "summary": "The Monterey Motorsports Reunion returns to Laguna Seca this August with four days of historic racing, rare machinery, and a special celebration of Formula 1's 75th anniversary",
+  "link": "https://www.motorsportmagazine.com/articles/historic-racing/f1s-75-year-legacy-takes-centre-stage-at-2025-monterey-motorsports-reunion/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Formula 1 celebrate its 75th anniversary?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2020",
+        "2022",
+        "2023"
+      ]
+    },
+    {
+      "question": "Where is the Monterey Motorsports Reunion held?",
+      "correct_answer": "Laguna Seca",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "What type of event is the Monterey Motorsports Reunion known for?",
+      "correct_answer": "Historic racing",
+      "wrong_options": [
+        "Formula E racing",
+        "Endurance racing",
+        "Rally racing"
+      ]
+    }
+  ]
+}

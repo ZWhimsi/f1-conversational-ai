@@ -1,0 +1,36 @@
+{
+  "article_number": 136,
+  "source": "Motorsport Magazine",
+  "title": "Williams: 25 years of pain",
+  "summary": "It had seemed just a temporary setback for Williams when its engine partner Renault withdrew from F1 at the end of 1997. Yes, it meant a couple of seasons as…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/56/williams-25-years-of-pain/",
+  "qa_pairs": [
+    {
+      "question": "What year did Renault officially withdraw from Formula 1 as an engine partner for Williams?",
+      "correct_answer": "1997",
+      "wrong_options": [
+        "1995",
+        "1998",
+        "2000"
+      ]
+    },
+    {
+      "question": "Which team partnered with Williams for engines prior to their withdrawal in 1997?",
+      "correct_answer": "Renault",
+      "wrong_options": [
+        "Ford",
+        "BMW",
+        "Honda"
+      ]
+    },
+    {
+      "question": "What impact did Renault's withdrawal have on Williams' performance in the following seasons?",
+      "correct_answer": "It led to a couple of seasons of struggle.",
+      "wrong_options": [
+        "Immediate championship wins",
+        "Consistent podium finishes",
+        "A successful transition to another engine supplier"
+      ]
+    }
+  ]
+}

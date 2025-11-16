@@ -1,0 +1,36 @@
+{
+  "article_number": 179,
+  "source": "Motorsport Magazine",
+  "title": "Has Lewis lost it? Going up, going down in Hungary",
+  "summary": "Lewis Hamilton will hope to use the F1 summer break to regroup and turn his ailing season around",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/has-lewis-lost-it-going-up-going-down-in-hungary/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is seeking to improve their performance during the F1 summer break?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is the typical purpose of the F1 summer break for teams and drivers?",
+      "correct_answer": "To regroup and reflect on performance",
+      "wrong_options": [
+        "To develop new car parts",
+        "To conduct testing for the next season",
+        "To finalize driver contracts"
+      ]
+    },
+    {
+      "question": "In which country did the recent race mentioned in the context of Lewis Hamilton's performance take place?",
+      "correct_answer": "Hungary",
+      "wrong_options": [
+        "Germany",
+        "Italy",
+        "France"
+      ]
+    }
+  ]
+}

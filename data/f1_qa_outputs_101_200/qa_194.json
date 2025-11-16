@@ -1,0 +1,36 @@
+{
+  "article_number": 194,
+  "source": "Motorsport Magazine",
+  "title": "Fred Vasseur has a new Ferrari contract. But there are strings attached",
+  "summary": "New Ferrari F1 contract offers stability for its team principal, but the real test is yet to come for Fred Vasseur",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fred-vasseur-has-a-new-ferrari-contract-but-there-are-strings-attached/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current team principal of Scuderia Ferrari as of 2023?",
+      "correct_answer": "Fred Vasseur",
+      "wrong_options": [
+        "Mattia Binotto",
+        "Toto Wolff",
+        "Christian Horner"
+      ]
+    },
+    {
+      "question": "What is a key factor that can contribute to a team principal's success in Formula 1?",
+      "correct_answer": "Team performance and results",
+      "wrong_options": [
+        "Driver popularity",
+        "Car color",
+        "Sponsorship deals"
+      ]
+    },
+    {
+      "question": "What is the primary goal for team principals in Formula 1?",
+      "correct_answer": "To lead the team to competitive success and championships",
+      "wrong_options": [
+        "To increase team social media presence",
+        "To manage driver contracts",
+        "To create new car designs"
+      ]
+    }
+  ]
+}

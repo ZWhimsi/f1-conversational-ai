@@ -1,0 +1,36 @@
+{
+  "article_number": 107,
+  "source": "Motorsport Magazine",
+  "title": "What are F1's fastest circuits?",
+  "summary": "The Formula 1 world championship has 24 of the fastest races on earth – but which tracks are the quickest of them all?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-are-f1s-fastest-circuits/",
+  "qa_pairs": [
+    {
+      "question": "Which circuit is known for having the fastest average lap times in Formula 1?",
+      "correct_answer": "Monza",
+      "wrong_options": [
+        "Silverstone",
+        "Spa-Francorchamps",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "What characteristic is typically associated with the fastest circuits in Formula 1?",
+      "correct_answer": "A high number of straights",
+      "wrong_options": [
+        "Technical corners",
+        "Elevation changes",
+        "High tire degradation"
+      ]
+    },
+    {
+      "question": "In the context of F1, what is a key factor that contributes to a circuit's speed?",
+      "correct_answer": "Track layout and surface",
+      "wrong_options": [
+        "Weather conditions",
+        "Pit stop strategy",
+        "Driver skill"
+      ]
+    }
+  ]
+}

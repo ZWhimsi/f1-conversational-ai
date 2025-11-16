@@ -1,0 +1,36 @@
+{
+  "article_number": 137,
+  "source": "Motorsport Magazine",
+  "title": "MPH: In a spin – how car rotation is key to F1 driver speed",
+  "summary": "Getting the car turned – and how you do it – is the key to drivers' speed in F1. Some competitors are dealing with the current generation of 200mph beasts better than others",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-in-a-spin-how-car-rotation-is-key-to-f1-driver-speed/",
+  "qa_pairs": [
+    {
+      "question": "What is a crucial factor that affects F1 driver speed during races?",
+      "correct_answer": "Car rotation",
+      "wrong_options": [
+        "Tire pressure",
+        "Aerodynamic drag",
+        "Fuel load"
+      ]
+    },
+    {
+      "question": "What speed do modern Formula 1 cars typically reach during races?",
+      "correct_answer": "200 mph",
+      "wrong_options": [
+        "150 mph",
+        "250 mph",
+        "180 mph"
+      ]
+    },
+    {
+      "question": "Which aspect of driving can significantly impact how well a driver performs in F1?",
+      "correct_answer": "Turning techniques",
+      "wrong_options": [
+        "Straight-line speed",
+        "Pit stop strategy",
+        "Brake balance"
+      ]
+    }
+  ]
+}

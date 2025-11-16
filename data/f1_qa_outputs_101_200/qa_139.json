@@ -1,0 +1,36 @@
+{
+  "article_number": 139,
+  "source": "Motorsport Magazine",
+  "title": "Williams: the big comeback",
+  "summary": "In August 2020 Dorilton Capital purchased Williams from the Williams family for a reported £152m. Its mission statement was to return Williams to the top, investing however much time and…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/44/williams-the-big-comeback/",
+  "qa_pairs": [
+    {
+      "question": "Which investment firm purchased the Williams F1 team in 2020?",
+      "correct_answer": "Dorilton Capital",
+      "wrong_options": [
+        "Liberty Media",
+        "CVC Capital Partners",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "In what year did Dorilton Capital acquire the Williams F1 team?",
+      "correct_answer": "2020",
+      "wrong_options": [
+        "2019",
+        "2021",
+        "2022"
+      ]
+    },
+    {
+      "question": "What was the reported purchase price for the Williams F1 team when it was sold?",
+      "correct_answer": "£152 million",
+      "wrong_options": [
+        "£100 million",
+        "£200 million",
+        "£250 million"
+      ]
+    }
+  ]
+}

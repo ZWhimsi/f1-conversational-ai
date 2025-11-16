@@ -1,0 +1,36 @@
+{
+  "article_number": 138,
+  "source": "Motorsport Magazine",
+  "title": "Karun Chandhok’s top Williams F1 cars",
+  "summary": "Over the past 20 years, I’ve driven 34 different Formula 1 cars in total, including 14 world championship winners and one from every decade from the pre-war 1937 Aston Martin…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/52/karun-chandhoks-top-williams-f1-cars/",
+  "qa_pairs": [
+    {
+      "question": "How many different Formula 1 cars has Karun Chandhok driven in total?",
+      "correct_answer": "34",
+      "wrong_options": [
+        "28",
+        "40",
+        "31"
+      ]
+    },
+    {
+      "question": "What notable achievement does Karun Chandhok have among the cars he has driven?",
+      "correct_answer": "14 world championship winners",
+      "wrong_options": [
+        "10 race-winning cars",
+        "12 podium finishers",
+        "5 constructors' champions"
+      ]
+    },
+    {
+      "question": "From which decade did Karun Chandhok drive a pre-war Formula 1 car?",
+      "correct_answer": "1930s",
+      "wrong_options": [
+        "1920s",
+        "1940s",
+        "1950s"
+      ]
+    }
+  ]
+}

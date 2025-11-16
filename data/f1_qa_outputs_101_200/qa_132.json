@@ -1,0 +1,36 @@
+{
+  "article_number": 132,
+  "source": "Motorsport Magazine",
+  "title": "Ferrari walks the plank",
+  "summary": "Ferrari reckoned the Hungaroring’s layout offered one of its best chances of being competitive in the remaining races after a dispiriting first half of the season in which it had…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/89/ferrari-walks-the-plank/",
+  "qa_pairs": [
+    {
+      "question": "Which track is known for providing a good opportunity for Ferrari to be competitive in the 2023 F1 season?",
+      "correct_answer": "Hungaroring",
+      "wrong_options": [
+        "Monza",
+        "Spa-Francorchamps",
+        "Silverstone"
+      ]
+    },
+    {
+      "question": "What has Ferrari experienced in the first half of the 2023 F1 season?",
+      "correct_answer": "A dispiriting performance",
+      "wrong_options": [
+        "Consistent podium finishes",
+        "Leading the Constructors' Championship",
+        "Winning multiple races"
+      ]
+    },
+    {
+      "question": "In which season did Ferrari express optimism about their competitiveness at the Hungaroring?",
+      "correct_answer": "2023",
+      "wrong_options": [
+        "2022",
+        "2021",
+        "2020"
+      ]
+    }
+  ]
+}

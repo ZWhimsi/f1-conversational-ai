@@ -1,0 +1,36 @@
+{
+  "article_number": 154,
+  "source": "Motorsport Magazine",
+  "title": "Is 2025 F1's most boring title battle ever?",
+  "summary": "The 2025 F1 title is as close as it gets –James Elsonasks why it all feels so uneventful",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-2025-f1s-most-boring-title-battle-ever/",
+  "qa_pairs": [
+    {
+      "question": "Which team won the Constructors' Championship in the 2025 F1 season?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who were the main contenders for the 2025 Drivers' Championship?",
+      "correct_answer": "James Elson and another driver",
+      "wrong_options": [
+        "Lewis Hamilton and Max Verstappen",
+        "Charles Leclerc and Lando Norris",
+        "Sebastian Vettel and Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What aspect of the 2025 F1 title battle has been criticized for being uneventful?",
+      "correct_answer": "Lack of dramatic moments",
+      "wrong_options": [
+        "Frequent driver penalties",
+        "High number of retirements",
+        "Weather conditions affecting races"
+      ]
+    }
+  ]
+}

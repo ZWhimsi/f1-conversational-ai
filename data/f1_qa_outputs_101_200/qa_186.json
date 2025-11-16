@@ -1,0 +1,36 @@
+{
+  "article_number": 186,
+  "source": "Motorsport Magazine",
+  "title": "The change that transformed Hungaroring from Mickey Mouse to magnificent",
+  "summary": "The twisting, dusty asphalt of Hungaroring rarely made for exciting racing until a layout tweak in the early 2000s set it on a path to being one of F1's best-loved venues",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-change-that-transformed-hungaroring-from-mickey-mouse-to-magnificent/",
+  "qa_pairs": [
+    {
+      "question": "What significant change occurred at the Hungaroring in the early 2000s?",
+      "correct_answer": "A layout tweak was made to improve racing.",
+      "wrong_options": [
+        "The race was moved to a new location.",
+        "The circuit was repaved with new asphalt.",
+        "A chicane was added to the final sector."
+      ]
+    },
+    {
+      "question": "What was the reputation of the Hungaroring before the layout changes?",
+      "correct_answer": "It was considered to have boring and unexciting racing.",
+      "wrong_options": [
+        "It was known for its high-speed straights.",
+        "It was a favorite among drivers for its technical challenge.",
+        "It had the highest average speeds in F1."
+      ]
+    },
+    {
+      "question": "Which characteristic of the Hungaroring was highlighted before its transformation?",
+      "correct_answer": "The twisting and dusty asphalt.",
+      "wrong_options": [
+        "Its long straights and high-speed corners.",
+        "Its unique elevation changes.",
+        "The presence of multiple overtaking zones."
+      ]
+    }
+  ]
+}

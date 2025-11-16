@@ -1,0 +1,36 @@
+{
+  "article_number": 116,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Zandvoort repeats McLaren duel from 40 years ago",
+  "summary": "Piastri and Norris’s Dutch GP drama echoed McLaren’s past, 40 years on from Lauda and Prost’s fierce Zandvoort duel, asMark Hughesrecalls",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-zandvoort-repeats-mclaren-duel-from-40-years-ago/",
+  "qa_pairs": [
+    {
+      "question": "Which two McLaren drivers were involved in a notable duel during the 1980 Dutch Grand Prix?",
+      "correct_answer": "Niki Lauda and Alain Prost",
+      "wrong_options": [
+        "Mika Hakkinen and David Coulthard",
+        "Lewis Hamilton and Jenson Button",
+        "Fernando Alonso and Kimi Räikkönen"
+      ]
+    },
+    {
+      "question": "What recent McLaren drivers were mentioned for their dramatic performance at the Dutch GP?",
+      "correct_answer": "Oscar Piastri and Lando Norris",
+      "wrong_options": [
+        "Daniel Ricciardo and Kevin Magnussen",
+        "Carlos Sainz and Charles Leclerc",
+        "Sergio Pérez and Max Verstappen"
+      ]
+    },
+    {
+      "question": "How many years apart were the duels at Zandvoort involving McLaren drivers when comparing the events from 1980 to the present?",
+      "correct_answer": "40 years",
+      "wrong_options": [
+        "30 years",
+        "50 years",
+        "20 years"
+      ]
+    }
+  ]
+}

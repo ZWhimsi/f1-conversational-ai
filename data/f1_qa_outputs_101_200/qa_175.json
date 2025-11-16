@@ -1,0 +1,36 @@
+{
+  "article_number": 175,
+  "source": "Motorsport Magazine",
+  "title": "Controversial Piastri Penalty Sparks Debate at British GP",
+  "summary": "“I’m not going to say too much or I’ll get myself in trouble,” said a hacked off Oscar Piastri after the British GP. “Apparently you can’t brake behind the safety…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/91/controversial-piastri-penalty-sparks-debate-at-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the main purpose of a safety car in Formula 1?",
+      "correct_answer": "To control the speed of the cars during dangerous conditions on the track.",
+      "wrong_options": [
+        "To allow teams to change tires freely",
+        "To provide a pace car for formation laps",
+        "To increase the gap between leading drivers"
+      ]
+    },
+    {
+      "question": "Which team does Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Alpine",
+        "Mercedes",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "What can lead to a penalty during a race in Formula 1?",
+      "correct_answer": "Infringing track limits or unsafe driving practices.",
+      "wrong_options": [
+        "Using a different tire compound",
+        "Changing the fuel mixture mid-race",
+        "Being slower than the pace car"
+      ]
+    }
+  ]
+}

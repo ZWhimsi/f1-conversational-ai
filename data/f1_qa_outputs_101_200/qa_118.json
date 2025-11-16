@@ -1,0 +1,36 @@
+{
+  "article_number": 118,
+  "source": "Motorsport Magazine",
+  "title": "McLaren F1 team taken over by Bahrain and Abu Dhabi wealth funds",
+  "summary": "McLaren Racing has been valued at up to $5 billion as Bahrain's Mumtalakat and Abu Dhabi's CYVN Holdings take full control",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-f1-team-taken-over-by-bahrain-and-abu-dhabi-wealth-funds/",
+  "qa_pairs": [
+    {
+      "question": "Which two wealth funds have taken full control of McLaren Racing?",
+      "correct_answer": "Bahrain's Mumtalakat and Abu Dhabi's CYVN Holdings",
+      "wrong_options": [
+        "Saudi Arabia's PIF and Qatar Investment Authority",
+        "Singapore's Temasek and China's CIC",
+        "Kuwait Investment Authority and Oman's State General Reserve Fund"
+      ]
+    },
+    {
+      "question": "What is the estimated valuation of McLaren Racing following the takeover?",
+      "correct_answer": "$5 billion",
+      "wrong_options": [
+        "$3 billion",
+        "$7 billion",
+        "$4 billion"
+      ]
+    },
+    {
+      "question": "What type of organization is McLaren Racing?",
+      "correct_answer": "Formula 1 team",
+      "wrong_options": [
+        "IndyCar team",
+        "Rally team",
+        "Formula E team"
+      ]
+    }
+  ]
+}

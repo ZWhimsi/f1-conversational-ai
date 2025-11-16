@@ -1,0 +1,36 @@
+{
+  "article_number": 110,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Herta's warning from broken Andretti F1 dream",
+  "summary": "Colton Herta has left behind IndyCar security for the risks of F2, and while his talent is unquestioned, the real hope is that the decision is truly his own,Mark Hughessays",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-hertas-warning-from-broken-andretti-f1-dream/",
+  "qa_pairs": [
+    {
+      "question": "Which racing series did Colton Herta leave to pursue a career in Formula 2?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "NASCAR",
+        "Formula E",
+        "World Endurance Championship"
+      ]
+    },
+    {
+      "question": "What is the primary concern regarding Colton Herta's transition to Formula 2?",
+      "correct_answer": "Whether the decision was truly his own",
+      "wrong_options": [
+        "His ability to compete",
+        "The financial implications",
+        "The team's support"
+      ]
+    },
+    {
+      "question": "Which team was Colton Herta associated with in IndyCar before moving to Formula 2?",
+      "correct_answer": "Andretti Autosport",
+      "wrong_options": [
+        "Chip Ganassi Racing",
+        "Penske Racing",
+        "McLaren Racing"
+      ]
+    }
+  ]
+}

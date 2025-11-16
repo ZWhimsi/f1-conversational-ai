@@ -1,0 +1,36 @@
+{
+  "article_number": 177,
+  "source": "Motorsport Magazine",
+  "title": "The downfall of Christian Horner: F1 power, politics and plots",
+  "summary": "July 8, 2025 London Tuesday morning, two days after the British Grand Prix. Christian Horner is attending a meeting called the previous day by the Red Bull company’s senior Austrian…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/64/the-downfall-of-christian-horner-f1-power-politics-and-plots/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Zoran Stevanovic"
+      ]
+    },
+    {
+      "question": "In which country is the headquarters of Red Bull Racing located?",
+      "correct_answer": "United Kingdom",
+      "wrong_options": [
+        "Austria",
+        "Germany",
+        "Italy"
+      ]
+    },
+    {
+      "question": "What is the significance of the British Grand Prix in the F1 calendar?",
+      "correct_answer": "It is one of the oldest and most prestigious races.",
+      "wrong_options": [
+        "It is the final race of the season.",
+        "It is a night race.",
+        "It has the longest track length."
+      ]
+    }
+  ]
+}

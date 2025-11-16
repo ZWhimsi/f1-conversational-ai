@@ -1,0 +1,36 @@
+{
+  "article_number": 123,
+  "source": "Motorsport Magazine",
+  "title": "Herta's superlicence chase may lead to F2 - What you missed at the Dutch GP",
+  "summary": "From contract wrangles and Red Bull rumours to unexpected twists involving IndyCar stars, Zandvoort delivered plenty off-track intrigue alongside the Dutch GP action",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hertas-superlicence-chase-may-lead-to-f2-what-you-missed-at-the-dutch-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a superlicence in Formula 1?",
+      "correct_answer": "A superlicence is a mandatory license required for drivers to compete in Formula 1, issued by the FIA.",
+      "wrong_options": [
+        "A special team contract for F1 teams",
+        "A type of car modification",
+        "A driver's championship title"
+      ]
+    },
+    {
+      "question": "Which racing series is mentioned in connection with Herta's potential move to F2?",
+      "correct_answer": "IndyCar.",
+      "wrong_options": [
+        "Formula E",
+        "NASCAR",
+        "World Endurance Championship"
+      ]
+    },
+    {
+      "question": "What notable event took place during the Dutch GP weekend aside from the race?",
+      "correct_answer": "Contract wrangles and rumors involving Red Bull.",
+      "wrong_options": [
+        "A major car redesign announcement",
+        "The introduction of new race regulations",
+        "A driver retirement announcement"
+      ]
+    }
+  ]
+}

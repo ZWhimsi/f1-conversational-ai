@@ -1,0 +1,36 @@
+{
+  "article_number": 160,
+  "source": "Motorsport Magazine",
+  "title": "Lewis Hamilton’s Ferrari F1 dream now hinges on 2026",
+  "summary": "Lewis Hamilton's first season at Ferrari has been tougher than expected - but his focus is already on shaping a 2026 car he says will carry \"my DNA\"",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lewis-hamiltons-ferrari-f1-dream-now-hinges-on-2026/",
+  "qa_pairs": [
+    {
+      "question": "In what year is Lewis Hamilton aiming to shape a Ferrari car that he believes will carry 'my DNA'?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2027"
+      ]
+    },
+    {
+      "question": "Which team is Lewis Hamilton currently driving for in Formula 1?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is one of the challenges Hamilton has faced in his first season at Ferrari?",
+      "correct_answer": "It has been tougher than expected",
+      "wrong_options": [
+        "He is leading the championship",
+        "He has won multiple races",
+        "The car is the fastest on the grid"
+      ]
+    }
+  ]
+}

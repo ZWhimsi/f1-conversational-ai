@@ -1,0 +1,36 @@
+{
+  "article_number": 173,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat",
+  "summary": "Max Verstappen is expected to stay with Red Bull for 2026. Steve Nielsen has agreed to be MD of the Alpine F1 team and has accordingly resigned his position with…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/98/word-on-the-beat-16/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Max Verstappen currently expected to remain with until 2026?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "Who has been appointed as the Managing Director of the Alpine F1 team?",
+      "correct_answer": "Steve Nielsen",
+      "wrong_options": [
+        "Otmar Szafnauer",
+        "Christian Horner",
+        "Toto Wolff"
+      ]
+    },
+    {
+      "question": "What year is Max Verstappen's contract with Red Bull expected to extend until?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2027"
+      ]
+    }
+  ]
+}

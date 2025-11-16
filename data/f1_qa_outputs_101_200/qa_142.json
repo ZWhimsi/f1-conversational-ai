@@ -1,0 +1,36 @@
+{
+  "article_number": 142,
+  "source": "Motorsport Magazine",
+  "title": "F1 Summer Break: McLaren’s Title Fight, Ferrari’s Woes & Hamilton’s Drought",
+  "summary": "The summer break is a chance for everyone in Formula 1 to reset. The paddock is full of very driven and competitive people and the only way to actually get…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/13/f1-summer-break-mclarens-title-fight-ferraris-woes-hamiltons-drought/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently in a title fight as the summer break approaches?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What has been a significant issue for Ferrari in the current F1 season?",
+      "correct_answer": "Performance woes",
+      "wrong_options": [
+        "Driver injuries",
+        "Technical penalties",
+        "Pit stop errors"
+      ]
+    },
+    {
+      "question": "Which driver has been experiencing a win drought this season?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Sergio Perez"
+      ]
+    }
+  ]
+}

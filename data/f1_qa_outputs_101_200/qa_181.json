@@ -1,0 +1,36 @@
+{
+  "article_number": 181,
+  "source": "Motorsport Magazine",
+  "title": "Porsche’s ready-made route into F1: will it join the grid at last?",
+  "summary": "The valuation of a Formula 1 team may seem an esoteric consideration for F1 followers. But it can have a huge impact upon events and the landscape upon which the…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/12/porsches-ready-made-route-into-f1-will-it-join-the-grid-at-last/",
+  "qa_pairs": [
+    {
+      "question": "What is one of the primary factors that can influence the valuation of a Formula 1 team?",
+      "correct_answer": "Performance and success on the track.",
+      "wrong_options": [
+        "The color of the car.",
+        "The nationality of the driver.",
+        "The age of the team."
+      ]
+    },
+    {
+      "question": "Which automotive brand is rumored to potentially join Formula 1?",
+      "correct_answer": "Porsche.",
+      "wrong_options": [
+        "Toyota",
+        "Ford",
+        "Honda"
+      ]
+    },
+    {
+      "question": "How can the entry of a new team, such as Porsche, affect the Formula 1 landscape?",
+      "correct_answer": "It could increase competition and change team dynamics.",
+      "wrong_options": [
+        "It will decrease the number of races.",
+        "It will eliminate existing teams.",
+        "It will standardize car designs."
+      ]
+    }
+  ]
+}

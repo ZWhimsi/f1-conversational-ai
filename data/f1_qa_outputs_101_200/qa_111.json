@@ -1,0 +1,36 @@
+{
+  "article_number": 111,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Italian GP",
+  "summary": "It was carnage at Zandvoort – unless you followedMotor Sport'sF1 Fantasy advice. Here are our predictions; tips on drivers to avoid; which chips to play and further analysis to strike back at the 2025 Italian GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-italian-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a common strategy in F1 Fantasy for maximizing points during a race weekend?",
+      "correct_answer": "Using chips to enhance performance, such as the 'Mega Driver' or 'Wildcard'.",
+      "wrong_options": [
+        "Choosing only the most popular drivers regardless of form.",
+        "Focusing solely on the constructors' championship.",
+        "Ignoring qualifying results and only considering race finishes."
+      ]
+    },
+    {
+      "question": "What can influence a driver's performance at the Italian GP?",
+      "correct_answer": "Track characteristics and team setup for the high-speed layout.",
+      "wrong_options": [
+        "The driver's home country support.",
+        "The weather conditions at the previous race.",
+        "The number of pit stops in the previous season."
+      ]
+    },
+    {
+      "question": "Which factor is crucial to consider when selecting drivers for F1 Fantasy in a specific race?",
+      "correct_answer": "Driver form and past performance on the specific track.",
+      "wrong_options": [
+        "The popularity of the drivers among fans.",
+        "The number of social media followers a driver has.",
+        "The number of races remaining in the season."
+      ]
+    }
+  ]
+}

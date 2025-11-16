@@ -1,0 +1,36 @@
+{
+  "article_number": 129,
+  "source": "Motorsport Magazine",
+  "title": "1985: a classic F1 season reviewed",
+  "summary": "Ah, 1985: heart of the decade of Cold War superpowers and Dayglo socks. The year of Marty McFly and Back to the Future – “You made a time machine –…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/102/1985-a-classic-f1-season-reviewed/",
+  "qa_pairs": [
+    {
+      "question": "Which team won the Constructors' Championship in the 1985 Formula 1 season?",
+      "correct_answer": "Williams",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "Who was the driver that secured the World Drivers' Championship in 1985?",
+      "correct_answer": "Alain Prost",
+      "wrong_options": [
+        "Niki Lauda",
+        "Nelson Piquet",
+        "Ayrton Senna"
+      ]
+    },
+    {
+      "question": "What significant change in tire technology was introduced in the mid-1980s that impacted the 1985 season?",
+      "correct_answer": "Radial tires",
+      "wrong_options": [
+        "Bias-ply tires",
+        "Soft compound tires",
+        "Wide tires"
+      ]
+    }
+  ]
+}

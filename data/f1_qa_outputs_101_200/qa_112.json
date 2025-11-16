@@ -1,0 +1,36 @@
+{
+  "article_number": 112,
+  "source": "Motorsport Magazine",
+  "title": "Will Oscar Piastri become Australia's greatest F1 driver?",
+  "summary": "Oscar Piastri is now racking up the F1 wins in McLaren's dominant car – will he become the best ever from Down Under?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-oscar-piastri-become-australias-greatest-f1-driver/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Oscar Piastri currently driving for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "Which country is Oscar Piastri representing in Formula 1?",
+      "correct_answer": "Australia",
+      "wrong_options": [
+        "New Zealand",
+        "United Kingdom",
+        "Canada"
+      ]
+    },
+    {
+      "question": "What is a significant factor contributing to Oscar Piastri's success in Formula 1?",
+      "correct_answer": "McLaren's dominant car",
+      "wrong_options": [
+        "Aero improvements",
+        "Tire strategy",
+        "Driver experience"
+      ]
+    }
+  ]
+}

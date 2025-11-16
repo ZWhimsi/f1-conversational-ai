@@ -1,0 +1,36 @@
+{
+  "article_number": 155,
+  "source": "Motorsport Magazine",
+  "title": "Aero, engine, or driver: What will define F1's 2026 revolution?",
+  "summary": "The 2026 Formula 1 season's radical overhaul will reveal whether aero, engine, or driver skill holds the key to the championship's future",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/aero-engine-or-driver-what-will-define-f1s-2026-revolution/",
+  "qa_pairs": [
+    {
+      "question": "What major changes are expected in the Formula 1 2026 season?",
+      "correct_answer": "A radical overhaul of regulations.",
+      "wrong_options": [
+        "Introduction of new teams",
+        "Reduction of race distances",
+        "Elimination of pit stops"
+      ]
+    },
+    {
+      "question": "In the context of Formula 1, what does 'aero' refer to?",
+      "correct_answer": "Aerodynamics of the car.",
+      "wrong_options": [
+        "Engine performance",
+        "Driver fitness",
+        "Tire composition"
+      ]
+    },
+    {
+      "question": "Which factors are being considered as potentially key to success in the 2026 F1 championship?",
+      "correct_answer": "Aero, engine, or driver skill.",
+      "wrong_options": [
+        "Team budget, strategy, or pit crew efficiency",
+        "Fan engagement, media coverage, or sponsorship",
+        "Track conditions, weather, or tire choice"
+      ]
+    }
+  ]
+}

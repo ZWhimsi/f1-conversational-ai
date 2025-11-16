@@ -1,0 +1,36 @@
+{
+  "article_number": 178,
+  "source": "Motorsport Magazine",
+  "title": "F1 half-term report cards",
+  "summary": "McLaren Carried momentum from 2024 to soar higher, with nine wins from the first 12 races. Now, which will be its first champion driver since ’08? Oscar Piastri Points 234…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/60/f1-half-term-report-cards/",
+  "qa_pairs": [
+    {
+      "question": "Which team achieved nine wins in the first 12 races of the 2024 Formula 1 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "Who is the McLaren driver mentioned as having 234 points in the 2024 season?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Daniel Ricciardo",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "When was the last time McLaren had a champion driver before the 2024 season?",
+      "correct_answer": "2008",
+      "wrong_options": [
+        "2010",
+        "2012",
+        "2005"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 162,
+  "source": "Motorsport Magazine",
+  "title": "How Dietrich Mateschitz's death set Christian Horner on road to Red Bull F1 exit",
+  "summary": "Red Bull co-founder Dietrich Mateschitz's death didn't just change the company. It marked the begining of the end for Christian Horner's two-decade reign at the head of the F1 team",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-dietrich-mateschitzs-death-set-christian-horner-on-road-to-red-bull-f1-exit/",
+  "qa_pairs": [
+    {
+      "question": "Who was the co-founder of Red Bull Racing who recently passed away?",
+      "correct_answer": "Dietrich Mateschitz",
+      "wrong_options": [
+        "Christian Horner",
+        "Helmut Marko",
+        "Adrian Newey"
+      ]
+    },
+    {
+      "question": "What role did Christian Horner hold at Red Bull Racing?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Chief Engineer",
+        "Driver",
+        "Marketing Director"
+      ]
+    },
+    {
+      "question": "How long did Christian Horner lead Red Bull Racing before facing potential changes?",
+      "correct_answer": "Two decades",
+      "wrong_options": [
+        "One decade",
+        "Five years",
+        "Three decades"
+      ]
+    }
+  ]
+}

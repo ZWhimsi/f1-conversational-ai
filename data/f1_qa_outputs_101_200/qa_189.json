@@ -1,0 +1,36 @@
+{
+  "article_number": 189,
+  "source": "Motorsport Magazine",
+  "title": "Who is Felipe Drugovich? Aston Martin F1 reserve driver will replace Alonso in Hungary",
+  "summary": "Felipe Drugovich could be making his F1 race debut should Fernando Alonso not recover in time for the Hungarian GP. Get to know everything about the Brazilian's career here",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-felipe-drugovich-aston-martin-f1-reserve-driver-is-in-line-to-replace-lance-stroll/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Felipe Drugovich serve as a reserve driver for?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What event could Felipe Drugovich potentially participate in?",
+      "correct_answer": "Hungarian Grand Prix",
+      "wrong_options": [
+        "British Grand Prix",
+        "Italian Grand Prix",
+        "Singapore Grand Prix"
+      ]
+    },
+    {
+      "question": "Who is the current driver that Felipe Drugovich might replace at Aston Martin?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lance Stroll",
+        "Sebastian Vettel",
+        "Daniel Ricciardo"
+      ]
+    }
+  ]
+}

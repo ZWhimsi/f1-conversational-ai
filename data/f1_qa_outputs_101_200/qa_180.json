@@ -1,0 +1,36 @@
+{
+  "article_number": 180,
+  "source": "Motorsport Magazine",
+  "title": "What went wrong for Lewis Hamilton?",
+  "summary": "On paper Lewis Hamilton’s move to Scuderia Ferrari appeared to be a case of perfect timing; it wouldn’t be long, so we thought, before he’d be challenging for race wins.…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/50/what-went-wrong-for-lewis-hamilton/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Lewis Hamilton move to from Mercedes?",
+      "correct_answer": "Scuderia Ferrari",
+      "wrong_options": [
+        "Red Bull Racing",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What was the expectation regarding Hamilton's performance after joining Ferrari?",
+      "correct_answer": "He would be challenging for race wins.",
+      "wrong_options": [
+        "He would focus on team development.",
+        "He would retire from racing.",
+        "He would struggle to score points."
+      ]
+    },
+    {
+      "question": "Before joining Ferrari, which team was Lewis Hamilton associated with?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Williams",
+        "Sauber"
+      ]
+    }
+  ]
+}

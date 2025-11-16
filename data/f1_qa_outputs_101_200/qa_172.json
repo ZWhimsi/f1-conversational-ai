@@ -1,0 +1,36 @@
+{
+  "article_number": 172,
+  "source": "Motorsport Magazine",
+  "title": "Ulf Norinder: the larger-than-life privateer",
+  "summary": "Born into wealth, Ulf Norinder, right, raced a Maserati 200S and Porsche 718 in his twenties when he befriended compatriot Jo Bonnier. In the 1960s, despite his size, he campaigned…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/104/ulf-norinder-the-larger-than-life-privateer/",
+  "qa_pairs": [
+    {
+      "question": "Which car manufacturer did Ulf Norinder race with in his twenties?",
+      "correct_answer": "Maserati",
+      "wrong_options": [
+        "Ferrari",
+        "Lotus",
+        "Brabham"
+      ]
+    },
+    {
+      "question": "Who was Ulf Norinder's compatriot and friend in racing?",
+      "correct_answer": "Jo Bonnier",
+      "wrong_options": [
+        "Gunnar Nilsson",
+        "Kimi Räikkönen",
+        "Mika Hakkinen"
+      ]
+    },
+    {
+      "question": "In which decade did Ulf Norinder actively campaign in racing despite his size?",
+      "correct_answer": "1960s",
+      "wrong_options": [
+        "1950s",
+        "1970s",
+        "1980s"
+      ]
+    }
+  ]
+}

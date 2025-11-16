@@ -1,0 +1,36 @@
+{
+  "article_number": 127,
+  "source": "Motorsport Magazine",
+  "title": "Norris quickest in FP2 after big Stroll shunt - 2025 Dutch GP practice results",
+  "summary": "McLaren's Lando Norris set the pace once more in an eventful FP2 interrupted several times",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-quickest-in-fp2-as-stroll-has-big-crash-2025-dutch-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver set the fastest time in FP2 at the 2025 Dutch GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What event caused interruptions during FP2 of the 2025 Dutch GP?",
+      "correct_answer": "A big shunt by Lance Stroll",
+      "wrong_options": [
+        "A rain delay",
+        "A technical issue with a car",
+        "A track invasion"
+      ]
+    },
+    {
+      "question": "Which team does Lando Norris drive for?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    }
+  ]
+}

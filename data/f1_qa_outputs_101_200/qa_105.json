@@ -1,0 +1,36 @@
+{
+  "article_number": 105,
+  "source": "Motorsport Magazine",
+  "title": "How many penalty points does each F1 driver have in 2025?",
+  "summary": "Here are the total penalty points each 2025 Formula 1 driver has accumulated on their FIA superlicence",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-many-penalty-points-does-each-f1-driver-have-in-2025/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of penalty points on a Formula 1 driver's FIA superlicence?",
+      "correct_answer": "To track and penalize drivers for rule violations.",
+      "wrong_options": [
+        "To determine a driver's starting position in races.",
+        "To rank drivers based on their performance in qualifying.",
+        "To calculate a driver's team championship points."
+      ]
+    },
+    {
+      "question": "What happens when a Formula 1 driver accumulates 12 penalty points on their superlicence?",
+      "correct_answer": "They face a race ban.",
+      "wrong_options": [
+        "They receive a monetary fine.",
+        "They are disqualified from the championship.",
+        "They lose their superlicence."
+      ]
+    },
+    {
+      "question": "Which organization is responsible for issuing penalty points to Formula 1 drivers?",
+      "correct_answer": "Fédération Internationale de l'Automobile (FIA).",
+      "wrong_options": [
+        "Formula One Management (FOM).",
+        "International Automobile Federation (IAF).",
+        "World Motorsport Council (WMC)."
+      ]
+    }
+  ]
+}

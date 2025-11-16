@@ -1,0 +1,36 @@
+{
+  "article_number": 190,
+  "source": "Motorsport Magazine",
+  "title": "2025 F1 reserve drivers: the hopefuls on standby for each GP team",
+  "summary": "Every F1 team's reserve and test drivers for the 2025 season: Felipe Drugovich will replace Fernando Alonso in FP1 for the 2025 Hungarian GP after the Spaniard had back issues",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2023-f1-reserve-drivers-the-hopefuls-on-standby-for-each-gp-team/",
+  "qa_pairs": [
+    {
+      "question": "Who is the reserve driver for Aston Martin in the 2025 season?",
+      "correct_answer": "Felipe Drugovich",
+      "wrong_options": [
+        "Lance Stroll",
+        "Sebastian Vettel",
+        "Nico Hülkenberg"
+      ]
+    },
+    {
+      "question": "In which Grand Prix will Felipe Drugovich replace Fernando Alonso in 2025?",
+      "correct_answer": "Hungarian GP",
+      "wrong_options": [
+        "British GP",
+        "Italian GP",
+        "Singapore GP"
+      ]
+    },
+    {
+      "question": "What was the reason for Fernando Alonso missing the 2025 Hungarian GP's FP1 session?",
+      "correct_answer": "Back issues",
+      "wrong_options": [
+        "Engine failure",
+        "Contract negotiations",
+        "Personal reasons"
+      ]
+    }
+  ]
+}

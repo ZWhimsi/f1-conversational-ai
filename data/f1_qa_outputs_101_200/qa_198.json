@@ -1,0 +1,36 @@
+{
+  "article_number": 198,
+  "source": "Motorsport Magazine",
+  "title": "Splash and dash: How Piastri recreated Ricciardo's greatest race",
+  "summary": "Oscar Piastri's masterful Spa-Francorchamps win was reminiscent of Daniel Ricciardo's finest F1 drive back in 2014, writesMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/splash-and-dash-how-piastri-recreated-ricciardos-greatest-race/",
+  "qa_pairs": [
+    {
+      "question": "Which race is often considered Daniel Ricciardo's greatest drive?",
+      "correct_answer": "2014 Belgian Grand Prix",
+      "wrong_options": [
+        "2015 Monaco Grand Prix",
+        "2016 Singapore Grand Prix",
+        "2017 Australian Grand Prix"
+      ]
+    },
+    {
+      "question": "What notable characteristic did Oscar Piastri's win at Spa-Francorchamps showcase?",
+      "correct_answer": "Masterful race strategy",
+      "wrong_options": [
+        "Consistent lap times",
+        "Exceptional tire management",
+        "Aggressive overtaking"
+      ]
+    },
+    {
+      "question": "In which year did Oscar Piastri win his first Formula 1 race?",
+      "correct_answer": "2023",
+      "wrong_options": [
+        "2021",
+        "2022",
+        "2024"
+      ]
+    }
+  ]
+}

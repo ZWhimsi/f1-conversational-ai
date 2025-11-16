@@ -1,0 +1,36 @@
+{
+  "article_number": 167,
+  "source": "Motorsport Magazine",
+  "title": "F1 2025 team-mate battles - Who’s leading each pair at the summer break?",
+  "summary": "As Formula 1's summer break starts, who’s winning the most revealing battle - the one against their own team-mate?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-2025-team-mate-battles-whos-leading-each-team-at-the-summer-break/",
+  "qa_pairs": [
+    {
+      "question": "Which team has the most competitive intra-team battle for the 2025 season?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the significance of team-mate battles in Formula 1?",
+      "correct_answer": "They reveal the relative performance and skill of drivers within the same team.",
+      "wrong_options": [
+        "They determine the Constructors' Championship points.",
+        "They influence tire strategy choices.",
+        "They are used to decide pit stop timings."
+      ]
+    },
+    {
+      "question": "At the summer break, which driver would likely be considered leading their team-mate if they have more points?",
+      "correct_answer": "The driver with the most points in the championship standings.",
+      "wrong_options": [
+        "The driver with the fastest lap times.",
+        "The driver who has won the most races.",
+        "The driver with the best qualifying positions."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 140,
+  "source": "Motorsport Magazine",
+  "title": "Zandvoort's chequered history: From Nazi parade route to F1 circuit",
+  "summary": "Zandvoort: From wind-swept sand dunes to Max Verstappen mania, this is the story of one of F1’s most atmospheric venues",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/a-circuit-reborn-the-many-lives-of-zandvoort/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is notably associated with the Zandvoort circuit in recent Formula 1 history?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What geographical feature is Zandvoort known for, which influences its atmosphere during races?",
+      "correct_answer": "Sand dunes",
+      "wrong_options": [
+        "Mountains",
+        "Forests",
+        "Lakes"
+      ]
+    },
+    {
+      "question": "What type of event did the Zandvoort circuit historically host prior to its association with Formula 1?",
+      "correct_answer": "Nazi parade route",
+      "wrong_options": [
+        "Olympic Games",
+        "World War II memorials",
+        "Car exhibitions"
+      ]
+    }
+  ]
+}

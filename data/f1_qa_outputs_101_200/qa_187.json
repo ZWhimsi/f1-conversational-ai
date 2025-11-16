@@ -1,0 +1,36 @@
+{
+  "article_number": 187,
+  "source": "Motorsport Magazine",
+  "title": "Norris leads Piastri, Leclerc in FP1 - 2025 Hungarian GP practice results",
+  "summary": "McLaren dominates first practice at the Hungaroring, with Norris ahead of Piastri",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-leads-piastri-leclerc-in-fp1-2025-hungarian-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which team had the fastest lap time during the first practice session at the 2025 Hungarian GP?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "Who finished behind Lando Norris in the first practice session at the 2025 Hungarian GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Sergio Perez",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which circuit hosted the first practice session where McLaren showed strong performance in 2025?",
+      "correct_answer": "Hungaroring",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    }
+  ]
+}

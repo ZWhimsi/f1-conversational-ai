@@ -1,0 +1,36 @@
+{
+  "article_number": 158,
+  "source": "Motorsport Magazine",
+  "title": "Clark, Hill and Scalextric's tribute to a classic Monaco duel",
+  "summary": "Scalextric's 1963 Monaco Grand Prix Twin Car Pack revives the legendary duel between Jim Clark's Lotus 25 and Graham Hill's BRM P57 in 1:32 scale",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/clark-hill-and-scalextrics-tribute-to-a-classic-monaco-duel/",
+  "qa_pairs": [
+    {
+      "question": "Which two drivers were involved in the legendary duel at the 1963 Monaco Grand Prix?",
+      "correct_answer": "Jim Clark and Graham Hill",
+      "wrong_options": [
+        "Jackie Stewart and Niki Lauda",
+        "Ayrton Senna and Alain Prost",
+        "Michael Schumacher and Mika Hakkinen"
+      ]
+    },
+    {
+      "question": "What type of model did Scalextric release to commemorate the 1963 Monaco Grand Prix duel?",
+      "correct_answer": "Twin Car Pack",
+      "wrong_options": [
+        "Single Car Model",
+        "Track Set",
+        "Race Circuit Expansion"
+      ]
+    },
+    {
+      "question": "What car did Jim Clark drive during the 1963 Monaco Grand Prix?",
+      "correct_answer": "Lotus 25",
+      "wrong_options": [
+        "BRM P57",
+        "Ferrari 156",
+        "Cooper T66"
+      ]
+    }
+  ]
+}

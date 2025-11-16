@@ -1,0 +1,36 @@
+{
+  "article_number": 145,
+  "source": "Motorsport Magazine",
+  "title": "Will Verstappen's nightmare continue? - What to watch for at the 2025 Dutch GP",
+  "summary": "The second part of the 2025 F1 season kicks off at Zandvoort, where Verstappen faces the toughest home race of his career, McLaren's title fight gathers pace, and driver-market uncertainty lingers in the background",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-verstappens-nightmare-continue-what-to-watch-at-the-2025-dutch-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is facing significant pressure at the 2025 Dutch GP?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What team is involved in a title fight during the 2025 F1 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "Where is the 2025 Dutch GP held?",
+      "correct_answer": "Zandvoort",
+      "wrong_options": [
+        "Spa-Francorchamps",
+        "Monza",
+        "Silverstone"
+      ]
+    }
+  ]
+}

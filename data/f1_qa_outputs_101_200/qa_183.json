@@ -1,0 +1,36 @@
+{
+  "article_number": 183,
+  "source": "Motorsport Magazine",
+  "title": "Norris holds off Piastri's charge to win - 2025 Hungarian GP results",
+  "summary": "Norris made a one-stop strategy work to beat Piastri as McLaren dominated the Hungaroring race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-holds-off-piastris-charge-to-win-2025-hungarian-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "What strategy did Lando Norris use to secure victory at the 2025 Hungarian GP?",
+      "correct_answer": "One-stop strategy",
+      "wrong_options": [
+        "Two-stop strategy",
+        "Soft tire strategy",
+        "Hard tire strategy"
+      ]
+    },
+    {
+      "question": "Which team did Lando Norris represent during his victory at the 2025 Hungarian GP?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "Who finished in second place behind Lando Norris at the 2025 Hungarian GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    }
+  ]
+}

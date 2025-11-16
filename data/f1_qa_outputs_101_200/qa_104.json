@@ -1,0 +1,36 @@
+{
+  "article_number": 104,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Monza pitstop blunder left McLaren facing a familiar headache",
+  "summary": "A slow pitstop for Lando Norris left McLaren tripping over itself at Monza, turning a straightforward race into another uneasy team orders dilemma, asMark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-how-monza-pitstop-blunder-left-mclaren-facing-a-familiar-headache/",
+  "qa_pairs": [
+    {
+      "question": "What was the primary issue McLaren faced during the Monza race?",
+      "correct_answer": "A slow pitstop for Lando Norris.",
+      "wrong_options": [
+        "A collision between drivers",
+        "Engine failure",
+        "Tire strategy miscalculation"
+      ]
+    },
+    {
+      "question": "What impact did the slow pitstop have on McLaren's race strategy?",
+      "correct_answer": "It created a team orders dilemma.",
+      "wrong_options": [
+        "It ensured a podium finish",
+        "It allowed for an aggressive tire strategy",
+        "It led to a pitlane penalty"
+      ]
+    },
+    {
+      "question": "Which driver was involved in the pitstop blunder at Monza?",
+      "correct_answer": "Lando Norris.",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Oscar Piastri",
+        "Lewis Hamilton"
+      ]
+    }
+  ]
+}

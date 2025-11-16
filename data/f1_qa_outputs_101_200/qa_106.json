@@ -1,0 +1,36 @@
+{
+  "article_number": 106,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen wins as McLaren issues team orders - 2025 Italian GP results",
+  "summary": "Verstappen takes dominant Monza victory ahead of Norris and Piastri",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-wins-as-mclaren-issues-team-orders-2025-italian-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Italian Grand Prix at Monza?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lando Norris",
+        "Oscar Piastri",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which team issued team orders during the 2025 Italian Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What position did Lando Norris finish in the 2025 Italian Grand Prix?",
+      "correct_answer": "Second",
+      "wrong_options": [
+        "First",
+        "Third",
+        "Fourth"
+      ]
+    }
+  ]
+}

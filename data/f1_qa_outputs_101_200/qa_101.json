@@ -1,0 +1,36 @@
+{
+  "article_number": 101,
+  "source": "Motorsport Magazine",
+  "title": "Why rivals are laughing at McLaren bid for fairness - 2025 Italian GP takeaways",
+  "summary": "From McLaren's controversial team orders to Red Bull's Monza revival and Tsunoda's ongoing struggles, the 2025 Italian GP left plenty of talking points off the track",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-rivals-are-laughing-at-mclaren-bid-for-fairness-2025-italian-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of team orders in Formula 1?",
+      "correct_answer": "Team orders are instructions given by a team to its drivers to manage their race positions or strategies, often to maximize points for the team.",
+      "wrong_options": [
+        "Team orders are rules about tire usage during a race.",
+        "Team orders are penalties given to drivers for unsafe driving.",
+        "Team orders are the regulations governing car design."
+      ]
+    },
+    {
+      "question": "Which team had a notable revival during the 2025 Italian Grand Prix?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What challenges has Yuki Tsunoda faced in recent F1 seasons?",
+      "correct_answer": "Tsunoda has struggled with consistency and performance on track.",
+      "wrong_options": [
+        "Tsunoda has had issues with his car's reliability.",
+        "Tsunoda has been penalized for multiple collisions.",
+        "Tsunoda has been competing for podium finishes regularly."
+      ]
+    }
+  ]
+}

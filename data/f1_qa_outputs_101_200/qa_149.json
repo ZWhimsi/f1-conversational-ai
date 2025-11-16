@@ -1,0 +1,36 @@
+{
+  "article_number": 149,
+  "source": "Motorsport Magazine",
+  "title": "Steady hands or missed chance? Pérez and Bottas to drive for Cadillac’s F1 team",
+  "summary": "As Cadillac prepares to enter F1 in 2026, it will pair Sergio Pérez and Valtteri Bottas in its cars. Are they the right choice to lead the ambitious new team's charge?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/steady-hands-or-missed-chance-perez-and-bottas-look-set-to-drive-for-cadillacs-f1-team/",
+  "qa_pairs": [
+    {
+      "question": "Which year is Cadillac set to enter Formula 1?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2027",
+        "2028"
+      ]
+    },
+    {
+      "question": "Who are the two drivers announced to race for Cadillac's F1 team?",
+      "correct_answer": "Sergio Pérez and Valtteri Bottas",
+      "wrong_options": [
+        "Lewis Hamilton and Max Verstappen",
+        "Charles Leclerc and Carlos Sainz",
+        "Lando Norris and Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "What is the primary goal of Cadillac's new F1 team?",
+      "correct_answer": "To compete in Formula 1",
+      "wrong_options": [
+        "To develop new tire technology",
+        "To provide engines for other teams",
+        "To focus on electric racing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 184,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Hungarian GP",
+  "summary": "Should you stick or twist with your F1 Fantasy team at the 2025 Hungarian? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-hungarian-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is F1 Fantasy?",
+      "correct_answer": "A fantasy game where participants create teams based on real Formula 1 drivers and teams, scoring points based on their performance in races.",
+      "wrong_options": [
+        "A simulation racing game",
+        "A documentary series about F1",
+        "A statistical analysis tool"
+      ]
+    },
+    {
+      "question": "Which type of strategy might players consider when managing their F1 Fantasy team?",
+      "correct_answer": "Choosing whether to keep current drivers or replace them based on recent performances.",
+      "wrong_options": [
+        "Changing the team name",
+        "Betting on race outcomes",
+        "Ignoring driver statistics"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is the purpose of using chips?",
+      "correct_answer": "To maximize points in a race by implementing special strategies or boosts.",
+      "wrong_options": [
+        "To select a new race track",
+        "To reduce team costs",
+        "To trade drivers between teams"
+      ]
+    }
+  ]
+}

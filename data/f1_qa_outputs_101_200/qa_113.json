@@ -1,0 +1,36 @@
+{
+  "article_number": 113,
+  "source": "Motorsport Magazine",
+  "title": "Norris may need new approach: 2025 Italian GP – what to watch for",
+  "summary": "Monza brings high stakes and heavy pressure, with storylines ranging from Norris's title fight to Ferrari's home hopes, and Antonelli's redemption bid",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/does-norris-need-to-change-his-approach-2025-italian-gp-what-to-watch-for/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is mentioned as being in a title fight at the 2025 Italian GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What is a key storyline for Ferrari during the Italian GP at Monza?",
+      "correct_answer": "Ferrari's home hopes",
+      "wrong_options": [
+        "Development of new aerodynamics",
+        "Driver changes for the next season",
+        "Strategic pit stops"
+      ]
+    },
+    {
+      "question": "Who is indicated as having a redemption bid during the 2025 Italian GP?",
+      "correct_answer": "Antonelli",
+      "wrong_options": [
+        "Sainz",
+        "Alonso",
+        "Russell"
+      ]
+    }
+  ]
+}

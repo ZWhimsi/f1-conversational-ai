@@ -1,0 +1,36 @@
+{
+  "article_number": 125,
+  "source": "Motorsport Magazine",
+  "title": "Piastri wins as Norris retires; Hadjar on the podium - 2025 Dutch GP results",
+  "summary": "Piastri took a commanding win at Zandvoort as Norris retired and Hadjar scored his first F1 podium",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-wins-as-norris-retires-hadjar-on-the-podium-2025-dutch-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Dutch Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Pierre Gasly",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "Which driver retired during the 2025 Dutch Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Yuki Tsunoda",
+        "Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "Who achieved their first Formula 1 podium finish at the 2025 Dutch GP?",
+      "correct_answer": "Isack Hadjar",
+      "wrong_options": [
+        "Lando Norris",
+        "Oscar Piastri",
+        "Mick Schumacher"
+      ]
+    }
+  ]
+}

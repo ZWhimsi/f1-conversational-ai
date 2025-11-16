@@ -1,0 +1,36 @@
+{
+  "article_number": 131,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat",
+  "summary": "Lewis Hamilton’s dejected comments after qualifying and then the race at the Hungaroring – when he described his performances as “useless” and that Ferrari probably needs “a new driver” –…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/91/word-on-the-beat-17/",
+  "qa_pairs": [
+    {
+      "question": "Which driver expressed disappointment in their performance during the Hungarian Grand Prix weekend?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Sebastian Vettel",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What did Lewis Hamilton suggest about Ferrari's driver situation after the race at the Hungaroring?",
+      "correct_answer": "Ferrari probably needs a new driver",
+      "wrong_options": [
+        "Ferrari should change their technical team",
+        "Ferrari needs better pit strategies",
+        "Ferrari should focus on engine upgrades"
+      ]
+    },
+    {
+      "question": "In what context did Hamilton describe his performances as 'useless'?",
+      "correct_answer": "After qualifying and the race at the Hungaroring",
+      "wrong_options": [
+        "During the team meeting before the race",
+        "After the Monaco Grand Prix",
+        "At the post-season gala"
+      ]
+    }
+  ]
+}

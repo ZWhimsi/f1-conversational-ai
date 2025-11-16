@@ -1,0 +1,36 @@
+{
+  "article_number": 144,
+  "source": "Motorsport Magazine",
+  "title": "'F1 must rotate classic European tracks – for fans and the sport'",
+  "summary": "Zandvoort is set to dissapear off the F1 calendar after 2026 –Katy Fairmanargues F1 should bring in new measures to give fans what they want and protect the championship's history",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-must-rotate-classic-european-tracks-for-fans-and-the-sport/",
+  "qa_pairs": [
+    {
+      "question": "Which track is set to leave the Formula 1 calendar after 2026?",
+      "correct_answer": "Zandvoort",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "What is one proposed measure to enhance the Formula 1 experience for fans?",
+      "correct_answer": "Rotate classic European tracks",
+      "wrong_options": [
+        "Increase the number of night races",
+        "Shorten race distances",
+        "Introduce more street circuits"
+      ]
+    },
+    {
+      "question": "Why is there a call for change in the F1 calendar?",
+      "correct_answer": "To give fans what they want and protect the championship's history",
+      "wrong_options": [
+        "To reduce costs for teams",
+        "To increase the number of races per season",
+        "To enhance car performance regulations"
+      ]
+    }
+  ]
+}

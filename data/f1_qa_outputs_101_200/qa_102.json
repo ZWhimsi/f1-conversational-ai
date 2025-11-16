@@ -1,0 +1,36 @@
+{
+  "article_number": 102,
+  "source": "Motorsport Magazine",
+  "title": "Lance Stroll gives best ever F1 interview: Up/Down 2025 Italian GP",
+  "summary": "A new F1 star was born at the 2025 Italian GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-faulty-wheelgun-decide-f1-2025-up-down-at-2025-italian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved a significant breakthrough in their career at the 2025 Italian GP?",
+      "correct_answer": "Lance Stroll",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "What is the significance of the Italian GP in the F1 calendar?",
+      "correct_answer": "It is one of the oldest and most prestigious races.",
+      "wrong_options": [
+        "It is the season opener.",
+        "It features a unique street circuit layout.",
+        "It has the highest number of overtakes."
+      ]
+    },
+    {
+      "question": "What type of event is the Italian GP classified as in Formula 1?",
+      "correct_answer": "A Grand Prix race",
+      "wrong_options": [
+        "A test session",
+        "A qualifying round",
+        "A sprint race"
+      ]
+    }
+  ]
+}

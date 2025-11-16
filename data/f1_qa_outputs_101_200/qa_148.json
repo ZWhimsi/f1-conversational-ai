@@ -1,0 +1,36 @@
+{
+  "article_number": 148,
+  "source": "Motorsport Magazine",
+  "title": "Bottas says Cadillac has 'mountain of work' before F1 debut",
+  "summary": "Valtteri Bottas has emphasised the daunting task facing the Cadillac F1 team in its attempts to make the 2026 season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/bottas-says-cadillac-has-mountain-of-work-before-f1-debut/",
+  "qa_pairs": [
+    {
+      "question": "Which year is Cadillac expected to make its Formula 1 debut?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2027",
+        "2024"
+      ]
+    },
+    {
+      "question": "Who is the driver that highlighted the challenges faced by the Cadillac F1 team?",
+      "correct_answer": "Valtteri Bottas",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What is a significant challenge that new teams often face before entering Formula 1?",
+      "correct_answer": "Development of the car and infrastructure",
+      "wrong_options": [
+        "Securing a title sponsor",
+        "Hiring experienced drivers",
+        "Choosing the right tire supplier"
+      ]
+    }
+  ]
+}

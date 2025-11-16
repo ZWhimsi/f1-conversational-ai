@@ -1,0 +1,36 @@
+{
+  "article_number": 169,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: How many F1 titles would Didier Pironi have won?",
+  "summary": "Didier Pironi's devil-may-care attitude brought tragedy and disaster to his short career. What could he have achieved in an alternate version of his story? asksMatt Bishop",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-how-many-f1-titles-would-didier-pironi-have-won/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Didier Pironi drive for during his Formula 1 career?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Williams",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "What tragic event cut Didier Pironi's Formula 1 career short?",
+      "correct_answer": "A fatal crash",
+      "wrong_options": [
+        "Engine failure",
+        "Suspension failure",
+        "Tyre blowout"
+      ]
+    },
+    {
+      "question": "In what year did Didier Pironi achieve his first Formula 1 victory?",
+      "correct_answer": "1978",
+      "wrong_options": [
+        "1976",
+        "1980",
+        "1975"
+      ]
+    }
+  ]
+}

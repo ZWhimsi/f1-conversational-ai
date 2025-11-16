@@ -1,0 +1,36 @@
+{
+  "article_number": 124,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Piastri gets payback he deserves in Dutch masterclass",
+  "summary": "Oscar Piastri finally saw fate swing his way at Zandvoort, as Lando Norris' retirement gave the Australian's championship chances a major boost.Mark Hughesanalyses the Dutch GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-piastris-zandvoort-luck-brings-overdue-payback/",
+  "qa_pairs": [
+    {
+      "question": "Which driver experienced a retirement that benefitted Oscar Piastri's championship chances during the Dutch GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "In which country was the Dutch Grand Prix held, where Oscar Piastri had a significant performance?",
+      "correct_answer": "Netherlands",
+      "wrong_options": [
+        "Belgium",
+        "Germany",
+        "France"
+      ]
+    },
+    {
+      "question": "What type of race event was Oscar Piastri participating in when he had a boost in his championship chances?",
+      "correct_answer": "Dutch Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "Italian Grand Prix"
+      ]
+    }
+  ]
+}

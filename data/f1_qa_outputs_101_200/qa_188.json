@@ -1,0 +1,36 @@
+{
+  "article_number": 188,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Radio calls hinted at Norris conspiracy — if you didn't spot the hidden meanings",
+  "summary": "McLaren's radio calls to Lando Norris were wildly misinterpreted at Spa, as F1 viewers missed the hidden meanings in Norris's messages and actions that activated various pre-agreed strategies.Mark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-mclaren-radio-calls-hinted-at-norris-conspiracy-if-you-didnt-spot-the-hidden-meanings/",
+  "qa_pairs": [
+    {
+      "question": "What does the term 'pre-agreed strategies' refer to in Formula 1?",
+      "correct_answer": "Strategies that teams and drivers plan in advance to respond to different race scenarios.",
+      "wrong_options": [
+        "Random strategies decided during the race",
+        "Strategies only used for qualifying",
+        "Strategies based solely on driver preference"
+      ]
+    },
+    {
+      "question": "Which team did Lando Norris drive for during the Spa race mentioned?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "What is the significance of radio communication between drivers and teams in Formula 1?",
+      "correct_answer": "It allows teams to provide real-time information and instructions to optimize performance.",
+      "wrong_options": [
+        "It's only for entertainment purposes",
+        "It can only be used during pit stops",
+        "It is prohibited in races"
+      ]
+    }
+  ]
+}

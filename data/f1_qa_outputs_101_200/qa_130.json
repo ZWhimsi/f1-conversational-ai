@@ -1,0 +1,36 @@
+{
+  "article_number": 130,
+  "source": "Motorsport Magazine",
+  "title": "Motor Sport Interview: Eric Boullier",
+  "summary": "The French expression mon brave – literally ‘my brave’ – more accurately equates to the English phrase ‘my good fellow’. However, both the literal meaning and the common usage apply…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/92/motor-sport-interview-eric-boullier/",
+  "qa_pairs": [
+    {
+      "question": "Who is Eric Boullier in the context of Formula 1?",
+      "correct_answer": "A former team principal and motorsport executive.",
+      "wrong_options": [
+        "A Formula 1 driver",
+        "A team engineer",
+        "A race commentator"
+      ]
+    },
+    {
+      "question": "What role does a team principal play in a Formula 1 team?",
+      "correct_answer": "Overseeing the team's operations and strategy.",
+      "wrong_options": [
+        "Designing the car",
+        "Driving the car",
+        "Managing the pit crew"
+      ]
+    },
+    {
+      "question": "Which team did Eric Boullier notably manage in Formula 1?",
+      "correct_answer": "Lotus F1 Team.",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    }
+  ]
+}

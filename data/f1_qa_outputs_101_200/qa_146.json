@@ -1,0 +1,36 @@
+{
+  "article_number": 146,
+  "source": "Motorsport Magazine",
+  "title": "Can Palou really take on Verstappen as Red Bull team-mate?",
+  "summary": "With Red Bull searching for a long-term partner for Max Verstappen, rumours have linked IndyCar star Alex Palou with the seat - but is he truly ready to make the leap to Formula 1?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/can-palou-really-take-on-verstappen-as-red-bull-team-mate/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently seeking a long-term partner for Max Verstappen?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What series is Alex Palou currently competing in?",
+      "correct_answer": "IndyCar",
+      "wrong_options": [
+        "Formula E",
+        "DTM",
+        "Super Formula"
+      ]
+    },
+    {
+      "question": "Who is the reigning world champion in Formula 1 as of 2023?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    }
+  ]
+}

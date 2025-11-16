@@ -1,0 +1,36 @@
+{
+  "article_number": 168,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: When first's the worst. Why F1 drivers lose to slower team-mates",
+  "summary": "When you're falling behind, there's less risk in trying something different. Which is why F1 drivers can ace grands prix and still get beaten by a slower team-mate — as Oscar Piastri and Lewis Hamilton know too well",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-when-firsts-the-worst-why-f1-drivers-lose-to-slower-team-mates/",
+  "qa_pairs": [
+    {
+      "question": "What strategy might a driver employ when they are falling behind in performance during a race?",
+      "correct_answer": "Trying something different with their race strategy.",
+      "wrong_options": [
+        "Sticking to the same strategy as their teammate.",
+        "Pitting more frequently than necessary.",
+        "Driving more aggressively to overtake."
+      ]
+    },
+    {
+      "question": "Which two drivers are mentioned as having experienced being beaten by slower teammates?",
+      "correct_answer": "Oscar Piastri and Lewis Hamilton.",
+      "wrong_options": [
+        "Max Verstappen and Charles Leclerc.",
+        "Sergio Perez and George Russell.",
+        "Lando Norris and Fernando Alonso."
+      ]
+    },
+    {
+      "question": "In Formula 1, how can a slower teammate sometimes outperform a faster driver in the same team?",
+      "correct_answer": "By adopting a different strategy that proves more effective in the race.",
+      "wrong_options": [
+        "By having better car performance overall.",
+        "By receiving team orders to prioritize their position.",
+        "By being more experienced in race craft."
+      ]
+    }
+  ]
+}

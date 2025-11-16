@@ -1,0 +1,36 @@
+{
+  "article_number": 126,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Dutch GP",
+  "summary": "Will their be a different F1 Fantasy star this weekend? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-dutch-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary focus of F1 Fantasy games?",
+      "correct_answer": "Selecting drivers and teams to earn points based on their real-world performance.",
+      "wrong_options": [
+        "Predicting race winners only.",
+        "Analyzing team finances.",
+        "Managing pit stop strategies."
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is the purpose of using chips?",
+      "correct_answer": "To boost points scoring potential for drivers or teams during a race weekend.",
+      "wrong_options": [
+        "To modify car performance.",
+        "To influence team contracts.",
+        "To change race locations."
+      ]
+    },
+    {
+      "question": "Why might a player choose to avoid certain drivers in F1 Fantasy?",
+      "correct_answer": "Due to their poor recent performance or unfavorable track conditions.",
+      "wrong_options": [
+        "Because of their popularity among fans.",
+        "Due to team sponsorship issues.",
+        "Based on historical race locations."
+      ]
+    }
+  ]
+}

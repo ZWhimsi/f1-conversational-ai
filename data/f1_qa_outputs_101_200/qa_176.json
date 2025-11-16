@@ -1,0 +1,36 @@
+{
+  "article_number": 176,
+  "source": "Motorsport Magazine",
+  "title": "Lando Norris stood tall at Silverstone but Oscar Piastri came back fighting at Spa",
+  "summary": "The 2025 British Grand Prix would be the last race in which Red Bull Racing was led by Christian Horner, his departure from the team announced three days later. The…",
+  "link": "https://www.motorsportmagazine.com/archive/article/september-2025/88/lando-norris-stood-tall-at-silverstone-but-oscar-piastri-came-back-fighting-at-spa/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Red Bull Racing until the 2025 British Grand Prix?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Zoran Stojadinovic"
+      ]
+    },
+    {
+      "question": "Which two drivers are mentioned in connection with the races at Silverstone and Spa?",
+      "correct_answer": "Lando Norris and Oscar Piastri",
+      "wrong_options": [
+        "Lewis Hamilton and George Russell",
+        "Charles Leclerc and Carlos Sainz",
+        "Max Verstappen and Sergio Perez"
+      ]
+    },
+    {
+      "question": "What significant event happened shortly after the 2025 British Grand Prix?",
+      "correct_answer": "Christian Horner announced his departure from Red Bull Racing",
+      "wrong_options": [
+        "Red Bull Racing won the Constructors' Championship",
+        "Lando Norris won his first race",
+        "Oscar Piastri signed with McLaren"
+      ]
+    }
+  ]
+}

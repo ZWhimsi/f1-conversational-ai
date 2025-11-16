@@ -1,0 +1,36 @@
+{
+  "article_number": 161,
+  "source": "Motorsport Magazine",
+  "title": "McLaren to auction future F1, Le Mans and Indy 500 cars",
+  "summary": "McLaren will make motor sport history by auctioning three future competition cars - including a yet-to-be-raced Formula 1 chassis - before they even hit the track",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-to-auction-future-f1-le-mans-and-indy-500-cars/",
+  "qa_pairs": [
+    {
+      "question": "What is significant about McLaren's decision to auction future competition cars?",
+      "correct_answer": "It is the first time a team will auction cars that have not yet raced.",
+      "wrong_options": [
+        "It allows fans to own a piece of racing history.",
+        "It is part of a financial strategy to fund the team.",
+        "It showcases the latest technology in motor racing."
+      ]
+    },
+    {
+      "question": "Which types of racing events are included in McLaren's auction?",
+      "correct_answer": "Formula 1, Le Mans, and Indy 500.",
+      "wrong_options": [
+        "Formula E, NASCAR, and WEC.",
+        "DTM, Rallycross, and MotoGP.",
+        "IndyCar, Supercars, and GT racing."
+      ]
+    },
+    {
+      "question": "What does the auction of a yet-to-be-raced Formula 1 chassis indicate about McLaren's approach to motorsport?",
+      "correct_answer": "It highlights their innovative marketing strategy and engagement with fans.",
+      "wrong_options": [
+        "It shows they are struggling financially.",
+        "It means they are discontinuing their F1 program.",
+        "It indicates they have no confidence in their current car."
+      ]
+    }
+  ]
+}

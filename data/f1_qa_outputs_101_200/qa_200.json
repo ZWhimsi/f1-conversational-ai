@@ -1,0 +1,36 @@
+{
+  "article_number": 200,
+  "source": "Motorsport Magazine",
+  "title": "Spa F1 race doomed by extreme caution - Belgian GP takeaways",
+  "summary": "The 2025 Belgian Grand Prix at Spa was defined by a risk-averse approach. By the time the subdued F1 race had begun, all thrilling unpredictability had evaporated. Here are the main conclusions from the weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/spa-f1-race-doomed-by-extreme-caution-belgian-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Belgian Grand Prix in the F1 calendar?",
+      "correct_answer": "It is one of the oldest and most prestigious races, often known for its unpredictable weather and challenging circuit.",
+      "wrong_options": [
+        "It is the final race of the season.",
+        "It is held in a country with no previous F1 races.",
+        "It features a unique double-header format."
+      ]
+    },
+    {
+      "question": "What does a risk-averse approach in F1 typically refer to?",
+      "correct_answer": "It refers to strategies that prioritize caution and consistency over aggressive racing or risky maneuvers.",
+      "wrong_options": [
+        "It involves maximizing tire wear to gain speed.",
+        "It focuses on overtaking at all costs.",
+        "It means using the fastest pit stop strategies regardless of track conditions."
+      ]
+    },
+    {
+      "question": "Which team is historically known for strong performances at the Belgian Grand Prix due to the circuit's characteristics?",
+      "correct_answer": "Mercedes has historically performed well at Spa due to its powerful engine and aerodynamics.",
+      "wrong_options": [
+        "Haas",
+        "Williams",
+        "Alfa Romeo"
+      ]
+    }
+  ]
+}

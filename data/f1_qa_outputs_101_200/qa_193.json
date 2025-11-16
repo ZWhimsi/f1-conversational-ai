@@ -1,0 +1,36 @@
+{
+  "article_number": 193,
+  "source": "Motorsport Magazine",
+  "title": "F1's summer break: why racing shuts down for a month mid-season",
+  "summary": "Racing will pause for F1's summer break after the Hungarian GP Grand Prix, giving team members a chance for a holiday before the season run-in. Here's why it happens, how long it lasts and details of the summer shutdown that forces factories to close",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1s-summer-break-why-racing-shuts-down-for-a-month-mid-season/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary reason for Formula 1's summer break?",
+      "correct_answer": "To allow team members a chance for a holiday before the season run-in.",
+      "wrong_options": [
+        "To conduct car upgrades during the break.",
+        "To review the first half of the season.",
+        "To hold promotional events for sponsors."
+      ]
+    },
+    {
+      "question": "After which Grand Prix does the F1 summer break typically begin?",
+      "correct_answer": "Hungarian Grand Prix.",
+      "wrong_options": [
+        "British Grand Prix",
+        "Belgian Grand Prix",
+        "Italian Grand Prix"
+      ]
+    },
+    {
+      "question": "What happens to F1 factories during the summer shutdown?",
+      "correct_answer": "They are forced to close.",
+      "wrong_options": [
+        "They operate at reduced capacity.",
+        "They focus on car development.",
+        "They hold team-building activities."
+      ]
+    }
+  ]
+}

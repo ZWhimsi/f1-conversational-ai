@@ -1,0 +1,36 @@
+{
+  "article_number": 163,
+  "source": "Motorsport Magazine",
+  "title": "The F1 champions who slumped: Winners and losers from the 2025 season so far",
+  "summary": "At the 2025 Formula 1 season reached the summer break, clear winners and losers have emerged in a campaign defined by McLaren’s dominance",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-f1-champions-who-slumped-winners-and-losers-from-the-2025-season-so-far/",
+  "qa_pairs": [
+    {
+      "question": "Which team has shown dominance in the 2025 Formula 1 season up to the summer break?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What phase of the 2025 Formula 1 season is highlighted in the context of winners and losers?",
+      "correct_answer": "Summer break",
+      "wrong_options": [
+        "Pre-season testing",
+        "Mid-season races",
+        "Season finale"
+      ]
+    },
+    {
+      "question": "In the context of Formula 1, what is typically analyzed during the summer break?",
+      "correct_answer": "Performance of teams and drivers",
+      "wrong_options": [
+        "Car designs for the next season",
+        "Driver contract negotiations",
+        "Sponsorship deals"
+      ]
+    }
+  ]
+}

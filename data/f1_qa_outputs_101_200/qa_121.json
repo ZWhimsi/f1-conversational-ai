@@ -1,0 +1,36 @@
+{
+  "article_number": 121,
+  "source": "Motorsport Magazine",
+  "title": "Giuseppe Farina: Stylish daredevil who snatched F1's first world title",
+  "summary": "The charismatic Giuseppe Farina won the battle of the 'Three Fs' to become F1's first ever world champion – but he's now a forgotten racing hero, writesMatt Bishop",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/farina-stylish-daredevil-who-snatched-f1s-first-world-title/",
+  "qa_pairs": [
+    {
+      "question": "Who was the first ever Formula 1 world champion?",
+      "correct_answer": "Giuseppe Farina",
+      "wrong_options": [
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Niki Lauda"
+      ]
+    },
+    {
+      "question": "What nickname is associated with the battle for the first Formula 1 championship?",
+      "correct_answer": "The Three Fs",
+      "wrong_options": [
+        "The Big Three",
+        "The Fast Three",
+        "The Legendary Trio"
+      ]
+    },
+    {
+      "question": "Which year did Giuseppe Farina win the first Formula 1 world championship?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1949",
+        "1951",
+        "1952"
+      ]
+    }
+  ]
+}

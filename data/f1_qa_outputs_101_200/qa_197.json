@@ -1,0 +1,36 @@
+{
+  "article_number": 197,
+  "source": "Motorsport Magazine",
+  "title": "Does Antonelli risk burning out? - What to watch for at the Hungarian GP",
+  "summary": "The Hungarian Grand Prix weekend will feature the intense McLaren title battle and the risk of rain shaking up the race. Here are the main storylines ahead of the Hungaroring race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/does-antonelli-risk-burning-out-what-to-watch-for-at-the-hungarian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently engaged in a title battle heading into the Hungarian Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What unpredictable weather condition is anticipated to affect the Hungarian Grand Prix?",
+      "correct_answer": "Rain",
+      "wrong_options": [
+        "Snow",
+        "Fog",
+        "Extreme Heat"
+      ]
+    },
+    {
+      "question": "Where is the Hungarian Grand Prix held?",
+      "correct_answer": "Hungaroring",
+      "wrong_options": [
+        "Monaco",
+        "Silverstone",
+        "Circuit de Spa-Francorchamps"
+      ]
+    }
+  ]
+}

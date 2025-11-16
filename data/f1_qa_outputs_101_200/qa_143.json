@@ -1,0 +1,36 @@
+{
+  "article_number": 143,
+  "source": "Motorsport Magazine",
+  "title": "McLaren’s third wave of greatness",
+  "summary": "As Bruce McLaren drove his Mercedes to Goodwood that fateful June day in 1970 he will have passed wheat fields of golden promise not quite ready for harvest. His own…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2025/10/mclarens-third-wave-of-greatness/",
+  "qa_pairs": [
+    {
+      "question": "What year did Bruce McLaren tragically pass away during the Goodwood testing?",
+      "correct_answer": "1970",
+      "wrong_options": [
+        "1969",
+        "1971",
+        "1972"
+      ]
+    },
+    {
+      "question": "Which car manufacturer was Bruce McLaren driving when he had his fatal accident at Goodwood?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Lotus",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is often referred to as McLaren's 'third wave of greatness'?",
+      "correct_answer": "The resurgence of the McLaren team in the modern era of Formula 1.",
+      "wrong_options": [
+        "Winning the Constructors' Championship in the 1980s",
+        "The introduction of the MP4/4 car",
+        "The partnership with Honda in the late 2000s"
+      ]
+    }
+  ]
+}

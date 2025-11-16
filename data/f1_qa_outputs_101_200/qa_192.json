@@ -1,0 +1,36 @@
+{
+  "article_number": 192,
+  "source": "Motorsport Magazine",
+  "title": "The small, nimble 2026 car that F1 rejected: ‘We ended up with a camel!’",
+  "summary": "F1 drivers have been complaining about the heavy, technical cars they'll be racing from 2026. Now a tantalising glimpse of a smaller alternative has emerged",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-small-nimble-2026-car-that-f1-rejected-we-ended-up-with-a-camel/",
+  "qa_pairs": [
+    {
+      "question": "What significant change is expected in Formula 1 cars starting in 2026?",
+      "correct_answer": "The cars will be heavier and more technical.",
+      "wrong_options": [
+        "The cars will be smaller and lighter.",
+        "The cars will have more powerful engines.",
+        "The cars will use alternative fuels."
+      ]
+    },
+    {
+      "question": "What did drivers express dissatisfaction about regarding the 2026 F1 cars?",
+      "correct_answer": "The heaviness and technical complexity of the cars.",
+      "wrong_options": [
+        "The lack of speed in the cars.",
+        "The color design of the cars.",
+        "The rear wing technology."
+      ]
+    },
+    {
+      "question": "What term is used in the discussion to describe the car that was rejected?",
+      "correct_answer": "Camel.",
+      "wrong_options": [
+        "Elephant.",
+        "Horse.",
+        "Lion."
+      ]
+    }
+  ]
+}
