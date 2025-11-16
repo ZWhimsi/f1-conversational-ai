@@ -1,0 +1,36 @@
+{
+  "article_number": 486,
+  "source": "Motorsport Magazine",
+  "title": "Ex-FIA deputy president Robert Reid: 'speaking up came at a cost'",
+  "summary": "Former FIA second-in command Robert Reid has expanded on the reasons behind his exit, saying that he was excluded after raising concerns over \"fundamental principles\" such as transparency and accountability",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/ex-fia-deputy-president-robert-reid-speaking-up-came-at-a-cost/",
+  "qa_pairs": [
+    {
+      "question": "What is the role of the FIA in Formula 1?",
+      "correct_answer": "The FIA is the governing body that oversees the regulations and organization of Formula 1 and other motorsport events.",
+      "wrong_options": [
+        "The FIA is responsible for team sponsorship deals.",
+        "The FIA determines the tire specifications for each race.",
+        "The FIA manages the broadcasting rights for F1 races."
+      ]
+    },
+    {
+      "question": "Who was Robert Reid in relation to the FIA?",
+      "correct_answer": "Robert Reid was the deputy president of the FIA.",
+      "wrong_options": [
+        "Robert Reid was the chief engineer for Mercedes.",
+        "Robert Reid was a race director for Formula 1.",
+        "Robert Reid was a driver for McLaren."
+      ]
+    },
+    {
+      "question": "What principles did Robert Reid advocate for during his time at the FIA?",
+      "correct_answer": "Transparency and accountability.",
+      "wrong_options": [
+        "Speed and performance metrics.",
+        "Cost-cutting and efficiency.",
+        "Team collaboration and unity."
+      ]
+    }
+  ]
+}

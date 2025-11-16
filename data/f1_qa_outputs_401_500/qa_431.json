@@ -1,0 +1,36 @@
+{
+  "article_number": 431,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The tragic parallels of two American greats",
+  "summary": "American racers Mario Andretti and Phil Hill have a lot of successes in common, but also share some terrible tragedies, asMatt Bishoprecalls",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-tragic-parallels-of-two-american-greats/",
+  "qa_pairs": [
+    {
+      "question": "Which American driver won the Formula 1 World Championship in 1961?",
+      "correct_answer": "Phil Hill",
+      "wrong_options": [
+        "Mario Andretti",
+        "Dan Gurney",
+        "Parnelli Jones"
+      ]
+    },
+    {
+      "question": "What is Mario Andretti widely known for in Formula 1?",
+      "correct_answer": "Winning the Formula 1 World Championship in 1978",
+      "wrong_options": [
+        "Winning the Indianapolis 500",
+        "Setting the fastest lap in F1 history",
+        "Competing for Ferrari"
+      ]
+    },
+    {
+      "question": "Which tragic event is associated with both Mario Andretti and Phil Hill?",
+      "correct_answer": "The loss of fellow racers and friends during their careers",
+      "wrong_options": [
+        "Both suffered severe injuries in a crash",
+        "Both lost a sibling in a racing accident",
+        "Both had their cars banned for technical violations"
+      ]
+    }
+  ]
+}

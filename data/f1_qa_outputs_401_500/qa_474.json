@@ -1,0 +1,36 @@
+{
+  "article_number": 474,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen bites tongue as swearing row rages on - Saudi Arabian GP takeaways",
+  "summary": "The 2025 Saudi Arabian GP delivered a pivotal shake-up in the title battle, as Piastri claimed victory in Jeddah to take the lead the lead in the standings. Here are the main topics from the fifth round of the season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-bites-tongue-as-swearing-row-rages-on-saudi-arabian-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 Saudi Arabian Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What significant impact did the 2025 Saudi Arabian GP have on the championship standings?",
+      "correct_answer": "Piastri took the lead in the standings.",
+      "wrong_options": [
+        "Verstappen extended his lead.",
+        "Hamilton moved up to third.",
+        "Leclerc fell behind in points."
+      ]
+    },
+    {
+      "question": "In which city was the 2025 Saudi Arabian Grand Prix held?",
+      "correct_answer": "Jeddah",
+      "wrong_options": [
+        "Riyadh",
+        "Dammam",
+        "Mecca"
+      ]
+    }
+  ]
+}

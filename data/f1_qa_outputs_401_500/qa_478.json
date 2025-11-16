@@ -1,0 +1,36 @@
+{
+  "article_number": 478,
+  "source": "Motorsport Magazine",
+  "title": "Piastri 'made his case' with Turn 1 move on Verstappen in Saudi Arabia",
+  "summary": "Saudi Arabian GP winner Piastri admits Turn 1 move was key to his victory over Verstappen",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-made-my-case-with-turn-1-move-on-verstappen-in-saudi-arabia/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the Saudi Arabian Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What crucial move did Oscar Piastri make to secure his victory in the Saudi Arabian GP?",
+      "correct_answer": "A move at Turn 1",
+      "wrong_options": [
+        "A last-lap overtake",
+        "A pit strategy change",
+        "An early safety car decision"
+      ]
+    },
+    {
+      "question": "Which team does Oscar Piastri race for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes"
+      ]
+    }
+  ]
+}

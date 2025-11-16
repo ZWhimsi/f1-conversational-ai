@@ -1,0 +1,36 @@
+{
+  "article_number": 472,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The British GP 'prank' that backfired on Ecclestone and Mosley",
+  "summary": "Twenty-five years ago, the British GP was the subject of a 'prank' by the powers that be as Bernie Ecclestone and Max Mosley made the BRDC hold the race on Easter Sunday. But the chaos that ensued didn't have the desired effect, asMatt Bishoprecalls",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-british-gp-prank-that-backfired-on-ecclestone-and-mosley/",
+  "qa_pairs": [
+    {
+      "question": "Who were the key figures involved in the British GP 'prank' 25 years ago?",
+      "correct_answer": "Bernie Ecclestone and Max Mosley",
+      "wrong_options": [
+        "Jean Todt and Ross Brawn",
+        "Frank Williams and Patrick Head",
+        "Luca di Montezemolo and Michael Schumacher"
+      ]
+    },
+    {
+      "question": "What was the unique scheduling of the British GP that was part of the prank?",
+      "correct_answer": "Easter Sunday",
+      "wrong_options": [
+        "Christmas Day",
+        "New Year's Day",
+        "Valentine's Day"
+      ]
+    },
+    {
+      "question": "Which organization was responsible for holding the British GP during the prank?",
+      "correct_answer": "British Racing Drivers' Club (BRDC)",
+      "wrong_options": [
+        "Fédération Internationale de l'Automobile (FIA)",
+        "Formula One Management (FOM)",
+        "International Automobile Federation (IAF)"
+      ]
+    }
+  ]
+}

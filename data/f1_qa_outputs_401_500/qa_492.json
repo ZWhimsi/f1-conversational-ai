@@ -1,0 +1,36 @@
+{
+  "article_number": 492,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The shadow of controversy in Senna's final races",
+  "summary": "Ayrton Senna’s tragic final races in 1994, marked by controversy over illegal traction control and his relentless pursuit of excellence in a challenging car, remain a poignant chapter in F1 history, as Matt Bishop recalls",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-shadow-of-controversy-in-sennas-final-races/",
+  "qa_pairs": [
+    {
+      "question": "What tragic event marked the end of Ayrton Senna's Formula 1 career?",
+      "correct_answer": "His fatal crash at the 1994 San Marino Grand Prix.",
+      "wrong_options": [
+        "His retirement from racing in 1992.",
+        "His disqualification from the 1993 season.",
+        "His crash during the 1991 Monaco Grand Prix."
+      ]
+    },
+    {
+      "question": "What type of technical controversy was associated with Ayrton Senna's final races?",
+      "correct_answer": "Illegal traction control.",
+      "wrong_options": [
+        "Excessive fuel load.",
+        "Unapproved tire compounds.",
+        "Unsanctioned aerodynamic modifications."
+      ]
+    },
+    {
+      "question": "In which year did Ayrton Senna compete in his final races?",
+      "correct_answer": "1994.",
+      "wrong_options": [
+        "1992",
+        "1993",
+        "1995"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 443,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Miami GP",
+  "summary": "It's time to make some big chip decisions for your 2025 F1 Fantasy Miami GP line-up. Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-miami-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of using chips in F1 Fantasy?",
+      "correct_answer": "Chips are used to enhance team performance by providing strategic advantages, such as double points or the ability to transfer drivers.",
+      "wrong_options": [
+        "Chips are used to increase the budget for driver selection.",
+        "Chips allow for automatic qualification into the next race.",
+        "Chips are used to replace a team principal."
+      ]
+    },
+    {
+      "question": "Which type of driver is typically recommended to avoid in F1 Fantasy?",
+      "correct_answer": "Drivers who consistently finish outside the points or have unreliable performance.",
+      "wrong_options": [
+        "Drivers from top-performing teams",
+        "Rookies with potential",
+        "Drivers known for good qualifying performances"
+      ]
+    },
+    {
+      "question": "What is a common strategy for selecting drivers for an F1 Fantasy line-up?",
+      "correct_answer": "Balancing between high-performing star drivers and budget-friendly options.",
+      "wrong_options": [
+        "Only selecting drivers from the same team",
+        "Focusing solely on rookies for potential surprises",
+        "Prioritizing drivers from lower-ranked teams"
+      ]
+    }
+  ]
+}

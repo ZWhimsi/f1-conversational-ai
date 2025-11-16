@@ -1,0 +1,36 @@
+{
+  "article_number": 464,
+  "source": "Motorsport Magazine",
+  "title": "MPH: If F1 wants equal engines, where does artificial competition stop?",
+  "summary": "Fears that one engine manufacturer will dominate F1 from 2026 are likely to see strugglers allowed to catch up. If power units are to be artificially equalised, how much of a technical competition will it be? asksMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-if-f1-wants-equal-engines-where-does-artificial-competition-stop/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary concern regarding engine manufacturers in Formula 1 for the 2026 season?",
+      "correct_answer": "One engine manufacturer may dominate the sport.",
+      "wrong_options": [
+        "All teams will use the same engine.",
+        "There will be no engine changes.",
+        "Engine performance will be irrelevant."
+      ]
+    },
+    {
+      "question": "What potential measure is being discussed to address performance disparities among teams in F1?",
+      "correct_answer": "Allowing strugglers to catch up through artificial equalization of power units.",
+      "wrong_options": [
+        "Implementing a weight limit for all cars.",
+        "Reducing the number of races in a season.",
+        "Increasing the size of the fuel tank."
+      ]
+    },
+    {
+      "question": "What impact could artificially equalizing engines have on the technical competition in Formula 1?",
+      "correct_answer": "It may reduce the degree of technical competition among teams.",
+      "wrong_options": [
+        "It will enhance the innovation of engine designs.",
+        "It will lead to a wider gap in performance.",
+        "It will increase costs for all teams."
+      ]
+    }
+  ]
+}

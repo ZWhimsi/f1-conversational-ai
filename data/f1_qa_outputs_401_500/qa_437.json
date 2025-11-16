@@ -1,0 +1,36 @@
+{
+  "article_number": 437,
+  "source": "Motorsport Magazine",
+  "title": "Top 10 worst F1 liveries ever – does Ferrari make it?",
+  "summary": "The 2025 Miami GP's one-off liveries – particularly Ferrari's – are a timely reminder that 'special' doesn't always mean good",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/top-10-worst-f1-liveries-ever-does-ferrari-make-it/",
+  "qa_pairs": [
+    {
+      "question": "What is a livery in Formula 1?",
+      "correct_answer": "A livery refers to the paint scheme and branding on a team's car.",
+      "wrong_options": [
+        "The type of tires used during a race.",
+        "A term for the team principals' strategies.",
+        "The engine specifications of a car."
+      ]
+    },
+    {
+      "question": "Which team is known for its iconic red livery in Formula 1?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What is the significance of a special livery in F1 races?",
+      "correct_answer": "It is often used to commemorate events or milestones.",
+      "wrong_options": [
+        "It indicates a change in drivers.",
+        "It determines the tire strategy for the race.",
+        "It is related to the car's performance upgrades."
+      ]
+    }
+  ]
+}

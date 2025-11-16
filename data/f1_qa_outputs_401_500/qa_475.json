@@ -1,0 +1,36 @@
+{
+  "article_number": 475,
+  "source": "Motorsport Magazine",
+  "title": "The silly season goes into overdrive - What you missed at Saudi Arabian GP",
+  "summary": "Speculation about Max Verstappen's future was a topic again in Jeddah, but that's nothing new. George Russell was also the centre of attention as the silly season continued to heat up. What you missed from the 2025 Saudi Arabian GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-silly-season-goes-into-overdrive-what-you-missed-at-the-saudi-arabian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver has been a frequent subject of speculation regarding their future in Formula 1?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What term is commonly used to describe the period of driver market speculation and potential team changes in Formula 1?",
+      "correct_answer": "Silly season",
+      "wrong_options": [
+        "Driver carousel",
+        "Contract negotiations",
+        "Transfer window"
+      ]
+    },
+    {
+      "question": "During which Grand Prix did discussions about George Russell's future intensify?",
+      "correct_answer": "Saudi Arabian GP",
+      "wrong_options": [
+        "Monaco GP",
+        "Italian GP",
+        "British GP"
+      ]
+    }
+  ]
+}

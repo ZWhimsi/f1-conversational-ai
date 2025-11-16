@@ -1,0 +1,36 @@
+{
+  "article_number": 494,
+  "source": "Motorsport Magazine",
+  "title": "How 'everything went wrong' for Verstappen and Red Bull in Bahrain",
+  "summary": "A trying Bahrain GP has left Red Bull and Max Verstappen facing the reality that the titles may be slipping away",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-everything-went-wrong-for-verstappen-and-red-bull-in-bahrain/",
+  "qa_pairs": [
+    {
+      "question": "What team does Max Verstappen drive for in Formula 1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the significance of the Bahrain Grand Prix in the context of a Formula 1 season?",
+      "correct_answer": "It can impact the championship standings early in the season.",
+      "wrong_options": [
+        "It is the final race of the season.",
+        "It is exclusively a night race.",
+        "It has no bearing on title standings."
+      ]
+    },
+    {
+      "question": "Which championship titles are typically contested in Formula 1?",
+      "correct_answer": "Drivers' and Constructors' Championships",
+      "wrong_options": [
+        "Team Championships and Individual Championships",
+        "Rookie of the Year and Most Improved Driver",
+        "Nation's Cup and Team Cup"
+      ]
+    }
+  ]
+}

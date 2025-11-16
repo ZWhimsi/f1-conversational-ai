@@ -1,0 +1,36 @@
+{
+  "article_number": 455,
+  "source": "Motorsport Magazine",
+  "title": "Archives August 2021: Ferrari F1-2000",
+  "summary": "Red revolution August 2021 Twenty-one years ago, Ferrari returned to the pinnacle of Formula 1 achievement, adding the Drivers’ World Championship for Michael Schumacher to its second consecutive Formula 1 Constructors’…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/34/archives-august-2021-ferrari-f1-2000/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the Drivers' World Championship for Ferrari in 2000?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Rubens Barrichello",
+        "Kimi Räikkönen",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What significant achievement did Ferrari accomplish in 2000?",
+      "correct_answer": "Winning the Constructors' Championship",
+      "wrong_options": [
+        "Winning the Monaco Grand Prix",
+        "Achieving a Grand Slam",
+        "Securing pole position in every race"
+      ]
+    },
+    {
+      "question": "In which year did Ferrari win both the Drivers' and Constructors' Championships with Michael Schumacher?",
+      "correct_answer": "2000",
+      "wrong_options": [
+        "1998",
+        "2001",
+        "1999"
+      ]
+    }
+  ]
+}

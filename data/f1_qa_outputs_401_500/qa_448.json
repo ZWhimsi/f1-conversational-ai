@@ -1,0 +1,36 @@
+{
+  "article_number": 448,
+  "source": "Motorsport Magazine",
+  "title": "Can Hamilton repeat his F1 sprint win? What to watch for at Miami GP",
+  "summary": "Formula 1 crosses the Atlantic for the second sprint weekend of 2025 before the European season kicks off. Here are the main storylines ahead of the Miami Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/can-hamilton-repeat-his-f1-sprint-win-what-to-watch-for-at-miami-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a sprint race in Formula 1?",
+      "correct_answer": "A shorter race format that sets the grid for the main race and awards points to the top finishers.",
+      "wrong_options": [
+        "A practice session that counts towards qualifying points.",
+        "A full-length race with half the distance.",
+        "A race that only includes the top ten drivers."
+      ]
+    },
+    {
+      "question": "Which driver is known for his past success in sprint races?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is the significance of the Miami Grand Prix in the 2025 F1 season?",
+      "correct_answer": "It is the second sprint weekend before the European season starts.",
+      "wrong_options": [
+        "It is the final race of the season.",
+        "It introduces new technical regulations.",
+        "It is a night race held for the first time."
+      ]
+    }
+  ]
+}

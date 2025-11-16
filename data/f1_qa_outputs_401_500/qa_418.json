@@ -1,0 +1,36 @@
+{
+  "article_number": 418,
+  "source": "Motorsport Magazine",
+  "title": "Video: 1950 British GP in colour for the first time to celebrate birth of F1",
+  "summary": "Formula 1 has released footage of the first-ever world championship grand prix, in colour as never before, to celebrate 75 years since the Silverstone race in 1950",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-releases-colourised-footage-of-first-race-to-celebrate-75th-anniversary/",
+  "qa_pairs": [
+    {
+      "question": "What year did the first-ever Formula 1 World Championship Grand Prix take place?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1947",
+        "1952",
+        "1960"
+      ]
+    },
+    {
+      "question": "Which race is considered the first Grand Prix in the history of Formula 1?",
+      "correct_answer": "British Grand Prix",
+      "wrong_options": [
+        "Italian Grand Prix",
+        "French Grand Prix",
+        "Monaco Grand Prix"
+      ]
+    },
+    {
+      "question": "What significant milestone is being celebrated in relation to the 1950 British Grand Prix?",
+      "correct_answer": "75 years since the race",
+      "wrong_options": [
+        "100 years since the race",
+        "50 years since the race",
+        "25 years since the race"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 473,
+  "source": "Motorsport Magazine",
+  "title": "Déjà vu for Hamilton as Ferrari struggles echo his Mercedes misery",
+  "summary": "Lewis Hamilton left Saudi Arabia in a downbeat mood after finishing 30 seconds behind Charles Leclerc. Like in 2024, the Briton is struggling to find answers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/deja-vu-for-hamilton-as-ferrari-struggles-echo-his-mercedes-misery/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Lewis Hamilton currently drive for?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "Who finished ahead of Lewis Hamilton in the Saudi Arabian Grand Prix?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Max Verstappen",
+        "Carlos Sainz",
+        "George Russell"
+      ]
+    },
+    {
+      "question": "In what year did Lewis Hamilton struggle significantly, similar to his current performance?",
+      "correct_answer": "2024",
+      "wrong_options": [
+        "2022",
+        "2021",
+        "2023"
+      ]
+    }
+  ]
+}

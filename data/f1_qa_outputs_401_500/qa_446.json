@@ -1,0 +1,36 @@
+{
+  "article_number": 446,
+  "source": "Motorsport Magazine",
+  "title": "How to win the Miami Grand Prix",
+  "summary": "Set against the backdrop of the Hard Rock Stadium, the Miami Autodrome challenges Formula 1 teams and drivers with a mix of high-speed straights and tight chicanes. So what does it take to win there?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-to-win-the-miami-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "What is a key feature of the Miami Autodrome that affects race strategy?",
+      "correct_answer": "A mix of high-speed straights and tight chicanes.",
+      "wrong_options": [
+        "Long straight sections only.",
+        "Multiple hairpin turns.",
+        "Only slow-speed corners."
+      ]
+    },
+    {
+      "question": "Which notable venue serves as the backdrop for the Miami Grand Prix?",
+      "correct_answer": "Hard Rock Stadium.",
+      "wrong_options": [
+        "Circuit of the Americas",
+        "Monaco Grand Prix Circuit",
+        "Silverstone Circuit"
+      ]
+    },
+    {
+      "question": "To win at the Miami Grand Prix, teams must adapt to what type of racing environment?",
+      "correct_answer": "A combination of speed and technical handling.",
+      "wrong_options": [
+        "Only focus on tire management.",
+        "Maximize engine power only.",
+        "Prioritize pit stop strategies exclusively."
+      ]
+    }
+  ]
+}

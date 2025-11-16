@@ -1,0 +1,36 @@
+{
+  "article_number": 463,
+  "source": "Motorsport Magazine",
+  "title": "Paradise lost: Montjuïc and the 1975 Spanish Grand Prix",
+  "summary": "Try to imagine your ideal street track, and the only limits are your imagination. It would be fast and challenging; a touch daunting. It would have sharp gradient changes –…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/paradise-lost-montjuic-and-the-1975-spanish-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Which circuit hosted the 1975 Spanish Grand Prix?",
+      "correct_answer": "Montjuïc Circuit",
+      "wrong_options": [
+        "Circuit de Barcelona-Catalunya",
+        "Jarama Circuit",
+        "Valencia Street Circuit"
+      ]
+    },
+    {
+      "question": "What is a notable characteristic of street circuits in Formula 1?",
+      "correct_answer": "They often feature sharp gradient changes and tight corners.",
+      "wrong_options": [
+        "They are always held in closed racing circuits.",
+        "They have wide run-off areas.",
+        "They are exclusively used for night races."
+      ]
+    },
+    {
+      "question": "Who won the 1975 Spanish Grand Prix?",
+      "correct_answer": "Juan Manuel Fangio",
+      "wrong_options": [
+        "Niki Lauda",
+        "James Hunt",
+        "Graham Hill"
+      ]
+    }
+  ]
+}

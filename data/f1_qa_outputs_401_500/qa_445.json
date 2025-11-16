@@ -1,0 +1,36 @@
+{
+  "article_number": 445,
+  "source": "Motorsport Magazine",
+  "title": "Kevin Magnussen: 'McLaren chose me over Button. Then the shareholders overruled everyone'",
+  "summary": "Kevin Magnussen speaks openly about his struggles after losing his McLaren F1 drive in 2015 and the \"unfair\" pressure he had from the team",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/kevin-magnussen-mclaren-chose-me-over-button-then-the-shareholders-overruled-everyone/",
+  "qa_pairs": [
+    {
+      "question": "Which driver did McLaren choose Kevin Magnussen over for a race seat in 2015?",
+      "correct_answer": "Jenson Button",
+      "wrong_options": [
+        "Fernando Alonso",
+        "Sergio Perez",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "In which year did Kevin Magnussen lose his drive with McLaren?",
+      "correct_answer": "2015",
+      "wrong_options": [
+        "2016",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "question": "What type of pressure did Kevin Magnussen describe as 'unfair' during his time at McLaren?",
+      "correct_answer": "Pressure from the team",
+      "wrong_options": [
+        "Pressure from fans",
+        "Pressure from sponsors",
+        "Pressure from other drivers"
+      ]
+    }
+  ]
+}

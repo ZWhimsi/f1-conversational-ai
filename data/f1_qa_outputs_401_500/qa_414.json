@@ -1,0 +1,36 @@
+{
+  "article_number": 414,
+  "source": "Motorsport Magazine",
+  "title": "Victory at Imola without leading a lap: the chaotic tale of Elio de Angelis' final F1 win",
+  "summary": "The final laps of the 1985 San Marino Grand Prix have gone down as some of the most bizarre in F1's history — and the chaos didn't end with the chequered flag",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/victory-at-imola-without-leading-a-lap-the-chaotic-tale-of-elio-de-angelis-final-f1-win/",
+  "qa_pairs": [
+    {
+      "question": "Which race is known for Elio de Angelis' final Formula 1 victory?",
+      "correct_answer": "1985 San Marino Grand Prix",
+      "wrong_options": [
+        "1985 Monaco Grand Prix",
+        "1985 British Grand Prix",
+        "1985 Italian Grand Prix"
+      ]
+    },
+    {
+      "question": "What unusual aspect characterized Elio de Angelis' win at the 1985 San Marino Grand Prix?",
+      "correct_answer": "He did not lead a single lap during the race.",
+      "wrong_options": [
+        "He won by a large margin.",
+        "He crashed out but was declared the winner.",
+        "He had the fastest lap of the race."
+      ]
+    },
+    {
+      "question": "In which year did the San Marino Grand Prix, known for its chaotic ending, take place?",
+      "correct_answer": "1985",
+      "wrong_options": [
+        "1983",
+        "1986",
+        "1984"
+      ]
+    }
+  ]
+}

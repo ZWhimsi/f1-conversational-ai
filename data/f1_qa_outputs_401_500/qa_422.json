@@ -1,0 +1,36 @@
+{
+  "article_number": 422,
+  "source": "Motorsport Magazine",
+  "title": "MPH: F1 2025's competitive landscape after six races",
+  "summary": "Six races into the Formula 1 season, McLaren has taken an early lead as Max Verstappen has kept Red Bull competitive and Mercedes and Ferrari try to gain ground.Mark Hughesanalyses the field's form in the first quarter of 2025",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-f1-2025s-competitive-landscape-after-six-races/",
+  "qa_pairs": [
+    {
+      "question": "Which team is currently leading the Formula 1 standings after six races in 2025?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull",
+        "Mercedes",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "Who is the driver maintaining Red Bull's competitive position in the 2025 season?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Sergio Perez",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which two teams are attempting to gain ground on McLaren in the early 2025 season?",
+      "correct_answer": "Mercedes and Ferrari",
+      "wrong_options": [
+        "Alpine and Aston Martin",
+        "Haas and Alfa Romeo",
+        "Williams and Toro Rosso"
+      ]
+    }
+  ]
+}

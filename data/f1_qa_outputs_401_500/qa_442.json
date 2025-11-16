@@ -1,0 +1,36 @@
+{
+  "article_number": 442,
+  "source": "Motorsport Magazine",
+  "title": "Ferrari 'scrapyard' F1 livery and other one-off designs for 2025 Miami GP",
+  "summary": "There will be some eye-opening special edition F1 car liveries at the Miami Grand Prix this weekend. Here's a look at the one-off paint schemes that have been announced",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/ferrari-scrapyard-f1-livery-and-other-one-off-designs-for-2025-miami-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a special edition livery in Formula 1?",
+      "correct_answer": "A unique paint scheme used on a car for a specific race or event.",
+      "wrong_options": [
+        "A standard paint scheme used throughout the season.",
+        "A livery designed for testing purposes only.",
+        "A livery that features only sponsor logos."
+      ]
+    },
+    {
+      "question": "Which Grand Prix is known for featuring unique one-off liveries in 2025?",
+      "correct_answer": "Miami Grand Prix.",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "British Grand Prix"
+      ]
+    },
+    {
+      "question": "Why might teams choose to create one-off liveries for specific races?",
+      "correct_answer": "To celebrate a special occasion or to attract attention and engage fans.",
+      "wrong_options": [
+        "To comply with technical regulations.",
+        "To experiment with new aerodynamic designs.",
+        "To increase fuel efficiency."
+      ]
+    }
+  ]
+}

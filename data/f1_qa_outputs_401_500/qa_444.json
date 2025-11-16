@@ -1,0 +1,36 @@
+{
+  "article_number": 444,
+  "source": "Motorsport Magazine",
+  "title": "Lando Norris's long list of mistakes that makes Piastri the new F1 title favourite",
+  "summary": "Since scoring his maiden Formula 1 win in Miami a year ago, Lando Norris has enjoyed several highs, but also many lows which threaten to relegate him to second fiddle to Oscar Piastri if he doesn't bounce back quickly",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lando-norriss-long-list-of-mistakes-that-makes-piastri-the-new-f1-title-favourite/",
+  "qa_pairs": [
+    {
+      "question": "Who won their first Formula 1 race in Miami?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which driver is currently considered a title favorite in the context of Lando Norris's performance?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "George Russell",
+        "Sergio Perez",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What has Lando Norris experienced recently in his Formula 1 career that could impact his standing?",
+      "correct_answer": "A mix of highs and lows",
+      "wrong_options": [
+        "Consistent podium finishes",
+        "Multiple race wins",
+        "A contract extension with McLaren"
+      ]
+    }
+  ]
+}

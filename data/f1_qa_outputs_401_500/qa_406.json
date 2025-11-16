@@ -1,0 +1,36 @@
+{
+  "article_number": 406,
+  "source": "Motorsport Magazine",
+  "title": "Why Verstappen was master of Imola's final F1 monster mash",
+  "summary": "A brilliant performance in a pacy Red Bull — plus some lucky timing — pulled Max Verstappen clear of the pack in the 2025 Emilia-Romagna Grand Prix, which looks set to mark F1's final race at Imola",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-verstappen-was-master-of-imolas-final-f1-monster-mash/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Emilia-Romagna Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Pérez"
+      ]
+    },
+    {
+      "question": "Which team did Max Verstappen drive for during the 2025 Emilia-Romagna Grand Prix?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What significance does the 2025 Emilia-Romagna Grand Prix hold in Formula 1 history?",
+      "correct_answer": "It is set to be F1's final race at Imola.",
+      "wrong_options": [
+        "It was the first race of the season.",
+        "It marked the introduction of new regulations.",
+        "It was a night race for the first time."
+      ]
+    }
+  ]
+}

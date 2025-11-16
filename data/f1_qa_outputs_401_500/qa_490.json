@@ -1,0 +1,36 @@
+{
+  "article_number": 490,
+  "source": "Motorsport Magazine",
+  "title": "Madrid finally awards contract to build F1 circuit for 2026 Spanish GP",
+  "summary": "Madrid finally has a consortium to build the new Formula 1 circuit that will host the 2026 Spanish GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/madrid-finally-secures-contract-to-build-f1-circuit-for-2026-spanish-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which city is set to host the 2026 Spanish Grand Prix?",
+      "correct_answer": "Madrid",
+      "wrong_options": [
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ]
+    },
+    {
+      "question": "In what year is the new Formula 1 circuit in Madrid expected to be completed for the Spanish GP?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2027"
+      ]
+    },
+    {
+      "question": "What type of event will the new circuit in Madrid host?",
+      "correct_answer": "Formula 1 Grand Prix",
+      "wrong_options": [
+        "MotoGP race",
+        "World Rally Championship",
+        "IndyCar race"
+      ]
+    }
+  ]
+}

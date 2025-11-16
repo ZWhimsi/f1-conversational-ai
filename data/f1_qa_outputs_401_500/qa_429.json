@@ -1,0 +1,36 @@
+{
+  "article_number": 429,
+  "source": "Motorsport Magazine",
+  "title": "Flavio Briatore: from fraudster to fashion executive to F1 boss",
+  "summary": "Flavio Briatore returned last year to the F1 paddock as a special advisor to Alpine, and has now become a star of the Netflix show Drive to Survive – here's the world champion team boss's rollercoaster story so far",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/flavio-briatore-from-fraudster-to-fashion-executive-to-f1-boss/",
+  "qa_pairs": [
+    {
+      "question": "What role did Flavio Briatore take on at Alpine in Formula 1?",
+      "correct_answer": "Special advisor",
+      "wrong_options": [
+        "Team principal",
+        "Technical director",
+        "Driver coach"
+      ]
+    },
+    {
+      "question": "Which Netflix series features Flavio Briatore, highlighting his return to F1?",
+      "correct_answer": "Drive to Survive",
+      "wrong_options": [
+        "Formula 1: Road to Success",
+        "F1: Beyond the Grid",
+        "Grand Prix Drivers"
+      ]
+    },
+    {
+      "question": "Which team was Flavio Briatore associated with during his previous tenure as a team boss?",
+      "correct_answer": "Renault",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 484,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Will youth trump experience in Saudi GP with a tyre twist?",
+  "summary": "When does a rookie have the edge over an F1 world champion? Perhaps in Jeddah, saysMark Hughes, where the unsettling effect of a softer tyre compound is less likely to faze younger drivers than the likes of Carlos Sainz and Lewis Hamilton",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-will-youth-trump-experience-in-saudi-gp-with-a-tyre-twist/",
+  "qa_pairs": [
+    {
+      "question": "What advantage might younger drivers have over experienced drivers in F1 races?",
+      "correct_answer": "Younger drivers may adapt better to the unsettling effects of softer tyre compounds.",
+      "wrong_options": [
+        "Older drivers have more race strategy experience.",
+        "Younger drivers have less knowledge of the track.",
+        "Experienced drivers have better car control."
+      ]
+    },
+    {
+      "question": "Which circuit is mentioned as potentially favoring rookie drivers due to tyre compounds?",
+      "correct_answer": "Jeddah.",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "Which two drivers are highlighted as examples of experienced F1 champions?",
+      "correct_answer": "Carlos Sainz and Lewis Hamilton.",
+      "wrong_options": [
+        "Max Verstappen and Sebastian Vettel",
+        "Fernando Alonso and Kimi Räikkönen",
+        "Charles Leclerc and Valtteri Bottas"
+      ]
+    }
+  ]
+}

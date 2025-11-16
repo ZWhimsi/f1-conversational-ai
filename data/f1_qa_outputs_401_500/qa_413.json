@@ -1,0 +1,36 @@
+{
+  "article_number": 413,
+  "source": "Motorsport Magazine",
+  "title": "The F1 drivers who conquered Indy",
+  "summary": "From Jim Clark's historic 1965 triumph to Marcus Ericsson's recent victory, a select group of Formula 1 stars have etched their names into Indianapolis 500 lore by conquering IndyCar's legendary race",
+  "link": "https://www.motorsportmagazine.com/articles/us-scene/indycar/the-f1-drivers-who-conquered-indy/",
+  "qa_pairs": [
+    {
+      "question": "Who was the first Formula 1 driver to win the Indianapolis 500?",
+      "correct_answer": "Jim Clark",
+      "wrong_options": [
+        "Graham Hill",
+        "Mario Andretti",
+        "Ayrton Senna"
+      ]
+    },
+    {
+      "question": "Which driver won the Indianapolis 500 in 2022?",
+      "correct_answer": "Marcus Ericsson",
+      "wrong_options": [
+        "Scott Dixon",
+        "Helio Castroneves",
+        "Dario Franchitti"
+      ]
+    },
+    {
+      "question": "What year did Jim Clark achieve his Indianapolis 500 victory?",
+      "correct_answer": "1965",
+      "wrong_options": [
+        "1962",
+        "1970",
+        "1968"
+      ]
+    }
+  ]
+}

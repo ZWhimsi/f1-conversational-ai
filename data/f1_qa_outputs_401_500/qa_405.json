@@ -1,0 +1,36 @@
+{
+  "article_number": 405,
+  "source": "Motorsport Magazine",
+  "title": "Is Mercedes doomed this summer? 2025 Emilia-Romagna GP takeaways",
+  "summary": "Max Verstappen delivered another superb drive to win the 2025 Emilia Romagna GP. Here are the main insights from the Imola weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-mercedes-doomed-this-summer-2025-emilia-romagna-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Emilia Romagna GP?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What team does Max Verstappen drive for?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the significance of the Emilia Romagna GP in the F1 calendar?",
+      "correct_answer": "It is an annual race held in Italy, part of the Formula 1 World Championship.",
+      "wrong_options": [
+        "It is the season opener",
+        "It is a night race",
+        "It is held in Brazil"
+      ]
+    }
+  ]
+}

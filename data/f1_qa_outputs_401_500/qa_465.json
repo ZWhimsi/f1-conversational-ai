@@ -1,0 +1,36 @@
+{
+  "article_number": 465,
+  "source": "Motorsport Magazine",
+  "title": "Fisichella recalls getting dream Ferrari call – to drive one of its worst F1 cars",
+  "summary": "For an Italian F1 driver, few roles are more coveted than a Ferrari race seat, but Giancarlo Fisichella had the misfortune of joining the team during a testing 2009 season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fisichella-recalls-getting-dream-ferrari-call-to-drive-one-of-its-worst-f1-cars/",
+  "qa_pairs": [
+    {
+      "question": "Which team is traditionally considered the most prestigious in Formula 1 history?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Mercedes",
+        "Williams"
+      ]
+    },
+    {
+      "question": "In what year did Giancarlo Fisichella drive for Ferrari?",
+      "correct_answer": "2009",
+      "wrong_options": [
+        "2007",
+        "2011",
+        "2005"
+      ]
+    },
+    {
+      "question": "What is a common term used to describe a season where a team's performance is significantly below expectations?",
+      "correct_answer": "Testing season",
+      "wrong_options": [
+        "Championship season",
+        "Development year",
+        "Revival season"
+      ]
+    }
+  ]
+}

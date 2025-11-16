@@ -1,0 +1,36 @@
+{
+  "article_number": 421,
+  "source": "Motorsport Magazine",
+  "title": "What does the FIA president actually do?",
+  "summary": "What exactly are the duties of the FIA president as the head of the ruling body, and how is he elected? All your questions answered",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-does-the-fia-president-actually-do/",
+  "qa_pairs": [
+    {
+      "question": "What is one of the primary responsibilities of the FIA president in Formula 1?",
+      "correct_answer": "To oversee the regulation and governance of motorsport activities.",
+      "wrong_options": [
+        "To manage team budgets directly.",
+        "To design the F1 cars.",
+        "To make race strategy decisions for teams."
+      ]
+    },
+    {
+      "question": "How is the FIA president elected?",
+      "correct_answer": "Through a vote by the member clubs of the FIA.",
+      "wrong_options": [
+        "By a popular vote from F1 fans.",
+        "By appointment from the Formula 1 teams.",
+        "By the previous FIA president's nomination."
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a role of the FIA president?",
+      "correct_answer": "Competing as a driver in Formula 1 races.",
+      "wrong_options": [
+        "Setting the rules for Formula 1 races.",
+        "Representing the FIA in international motorsport discussions.",
+        "Managing safety standards in motorsport."
+      ]
+    }
+  ]
+}

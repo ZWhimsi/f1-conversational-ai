@@ -1,0 +1,36 @@
+{
+  "article_number": 495,
+  "source": "Motorsport Magazine",
+  "title": "How Bearman went from last to the points in Bahrain GP",
+  "summary": "Oliver Bearman contributed to a great day for Haas in the Bahrain GP by finishing 10th from last on the grid. Here's how he did it",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-bearman-went-from-last-to-the-points-in-bahrain-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Oliver Bearman drive for during the Bahrain GP?",
+      "correct_answer": "Haas",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What position did Oliver Bearman finish in at the Bahrain GP?",
+      "correct_answer": "10th",
+      "wrong_options": [
+        "5th",
+        "12th",
+        "15th"
+      ]
+    },
+    {
+      "question": "From what position on the grid did Oliver Bearman start the Bahrain GP?",
+      "correct_answer": "Last",
+      "wrong_options": [
+        "3rd",
+        "5th",
+        "8th"
+      ]
+    }
+  ]
+}

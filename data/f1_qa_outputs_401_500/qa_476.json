@@ -1,0 +1,36 @@
+{
+  "article_number": 476,
+  "source": "Motorsport Magazine",
+  "title": "How gaming the system cost Verstappen in Saudi Arabian GP",
+  "summary": "Max Verstappen lost his chance of winning the Saudi Arabian GP after being penalised for his Turn 1 incident. But would he have stayed on track given him a chance of winning or was it all lost at the start?Mark Hughesanalyses the Jeddah race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-gaming-the-system-cost-verstappen-in-saudi-arabian-gp/",
+  "qa_pairs": [
+    {
+      "question": "What was the main reason for Max Verstappen's penalty during the Saudi Arabian GP?",
+      "correct_answer": "An incident at Turn 1.",
+      "wrong_options": [
+        "Speeding in the pit lane.",
+        "Causing a collision with another driver.",
+        "Ignoring track limits."
+      ]
+    },
+    {
+      "question": "In which city is the Saudi Arabian Grand Prix held?",
+      "correct_answer": "Jeddah.",
+      "wrong_options": [
+        "Riyadh.",
+        "Dammam.",
+        "Mecca."
+      ]
+    },
+    {
+      "question": "What impact did the penalty have on Verstappen's race outcome?",
+      "correct_answer": "It cost him a chance to win the race.",
+      "wrong_options": [
+        "It improved his finishing position.",
+        "It had no impact on his race strategy.",
+        "It allowed him to pit earlier."
+      ]
+    }
+  ]
+}

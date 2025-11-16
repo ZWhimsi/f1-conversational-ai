@@ -1,0 +1,36 @@
+{
+  "article_number": 409,
+  "source": "Motorsport Magazine",
+  "title": "Everything that happened in Emilia Romagna F1 GP practice",
+  "summary": "F1 championship leader Piastri leads McLaren 1-2 in Friday practice sessions at Imola",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/everything-that-happened-in-emilia-romagna-f1-gp-practice/",
+  "qa_pairs": [
+    {
+      "question": "Who was the championship leader during the Emilia Romagna GP practice sessions?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "Which team achieved a 1-2 finish in the practice sessions at Imola?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which location was the Emilia Romagna Grand Prix practice held?",
+      "correct_answer": "Imola",
+      "wrong_options": [
+        "Monza",
+        "Barcelona",
+        "Silverstone"
+      ]
+    }
+  ]
+}

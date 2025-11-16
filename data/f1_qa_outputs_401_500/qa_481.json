@@ -1,0 +1,36 @@
+{
+  "article_number": 481,
+  "source": "Motorsport Magazine",
+  "title": "How Mohammed Ben Sulayem became FIA president",
+  "summary": "Mohammed Ben Sulayem's first term as FIA president will come to an end in 2025, and he is expected to seek re-election. But how did he become the first non-European president in the FIA's history?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-mohammed-ben-sulayem-became-fia-president/",
+  "qa_pairs": [
+    {
+      "question": "Who is the first non-European president of the FIA?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "When does Mohammed Ben Sulayem's first term as FIA president end?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    },
+    {
+      "question": "What is a key role of the FIA in Formula 1?",
+      "correct_answer": "Regulating the sport and ensuring safety",
+      "wrong_options": [
+        "Managing team budgets",
+        "Developing car technologies",
+        "Conducting driver training programs"
+      ]
+    }
+  ]
+}

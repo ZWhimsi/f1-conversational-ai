@@ -1,0 +1,36 @@
+{
+  "article_number": 424,
+  "source": "Motorsport Magazine",
+  "title": "Briatore is back as an F1 boss: what will he do next?",
+  "summary": "With a shady, but successful past, Flavio Briatore is once more an F1 team principal. But has he been appointed to revive Alpine's fortunes or flog the team?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/briatore-is-back-as-an-f1-boss-what-will-he-do-next/",
+  "qa_pairs": [
+    {
+      "question": "Who is Flavio Briatore?",
+      "correct_answer": "A former F1 team principal known for his controversial leadership and success with Renault.",
+      "wrong_options": [
+        "A current F1 driver for Mercedes.",
+        "The chief engineer at Ferrari.",
+        "A race commentator for Sky Sports."
+      ]
+    },
+    {
+      "question": "Which team is Flavio Briatore associated with in his return to F1?",
+      "correct_answer": "Alpine.",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is a common objective for team principals in Formula 1?",
+      "correct_answer": "To improve team performance and competitiveness.",
+      "wrong_options": [
+        "To design the cars themselves.",
+        "To race in the championship.",
+        "To negotiate driver contracts exclusively."
+      ]
+    }
+  ]
+}

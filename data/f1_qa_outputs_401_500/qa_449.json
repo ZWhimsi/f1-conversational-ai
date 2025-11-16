@@ -1,0 +1,36 @@
+{
+  "article_number": 449,
+  "source": "Motorsport Magazine",
+  "title": "Michele Alboreto: an F1 driver simply addicted to racing",
+  "summary": "As I drive, each July, from Frankfurt airport to Hockenheim, it is my invariable practice to pull off into the rest area by the Langen-Morfelden crossing on the autobahn towards Darmstadt. At…",
+  "link": "https://www.motorsportmagazine.com/archive/article/october-2006/28/nigel-roebucks-legends-11/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Michele Alboreto drive for during his time in Formula 1?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Williams",
+        "Lotus"
+      ]
+    },
+    {
+      "question": "What is the significance of the Hockenheimring in Formula 1?",
+      "correct_answer": "It is a historic race track that has hosted the German Grand Prix.",
+      "wrong_options": [
+        "It is the location of the Monaco Grand Prix.",
+        "It is known for its night race format.",
+        "It is a testing facility for F1 teams."
+      ]
+    },
+    {
+      "question": "In which year did Michele Alboreto achieve his best finish in the Drivers' Championship?",
+      "correct_answer": "1985",
+      "wrong_options": [
+        "1988",
+        "1982",
+        "1990"
+      ]
+    }
+  ]
+}

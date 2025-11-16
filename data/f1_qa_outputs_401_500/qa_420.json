@@ -1,0 +1,36 @@
+{
+  "article_number": 420,
+  "source": "Motorsport Magazine",
+  "title": "Is Franco Colapinto an upgrade over Jack Doohan for Alpine?",
+  "summary": "Jack Doohan was replaced by Alpine after just seven races, for a man with nine grands prix under his belt. So will Franco Colapinto do better than the Australian?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-franco-colapinto-an-upgrade-over-jack-doohan-for-alpine/",
+  "qa_pairs": [
+    {
+      "question": "Which driver was replaced by Franco Colapinto at Alpine?",
+      "correct_answer": "Jack Doohan",
+      "wrong_options": [
+        "Esteban Ocon",
+        "Fernando Alonso",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "How many grands prix has Franco Colapinto competed in prior to joining Alpine?",
+      "correct_answer": "9",
+      "wrong_options": [
+        "5",
+        "7",
+        "11"
+      ]
+    },
+    {
+      "question": "What is a common reason for a Formula 1 team to replace a driver mid-season?",
+      "correct_answer": "Underperformance",
+      "wrong_options": [
+        "Injury",
+        "Contract disputes",
+        "Team dynamics"
+      ]
+    }
+  ]
+}

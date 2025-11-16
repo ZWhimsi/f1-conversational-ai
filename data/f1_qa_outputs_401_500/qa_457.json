@@ -1,0 +1,36 @@
+{
+  "article_number": 457,
+  "source": "Motorsport Magazine",
+  "title": "One year on: How Miami GP kicked off McLaren's F1 turnaround",
+  "summary": "This week Formula 1 returns to Miami, a venue where McLaren began to reap the regards of its transformation into championship contender after years of falling short",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/one-year-on-how-miami-gp-kicked-off-mclarens-f1-turnaround/",
+  "qa_pairs": [
+    {
+      "question": "Which team experienced a turnaround in performance starting from the Miami Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which year did the Miami Grand Prix first take place in Formula 1?",
+      "correct_answer": "2022",
+      "wrong_options": [
+        "2021",
+        "2023",
+        "2020"
+      ]
+    },
+    {
+      "question": "What is the primary significance of the Miami Grand Prix for McLaren?",
+      "correct_answer": "It marked the beginning of their transformation into a championship contender.",
+      "wrong_options": [
+        "It was their first race of the season.",
+        "They won the race.",
+        "They introduced a new car design."
+      ]
+    }
+  ]
+}

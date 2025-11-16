@@ -1,0 +1,36 @@
+{
+  "article_number": 407,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen takes commanding win at Imola - 2025 Emilia Romagna GP results",
+  "summary": "Max Verstappen took his fourth win at Imola after a sensational pass on Oscar Piastri at the start of the race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-takes-commanding-win-at-imola-2025-emilia-romagna-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "How many wins has Max Verstappen achieved at Imola as of 2025?",
+      "correct_answer": "Four",
+      "wrong_options": [
+        "Three",
+        "Five",
+        "Two"
+      ]
+    },
+    {
+      "question": "Who did Max Verstappen pass at the start of the 2025 Emilia Romagna GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "In which year did Max Verstappen secure his fourth victory at Imola?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

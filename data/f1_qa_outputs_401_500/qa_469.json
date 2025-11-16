@@ -1,0 +1,36 @@
+{
+  "article_number": 469,
+  "source": "Motorsport Magazine",
+  "title": "Why Kimi Antonelli was the silver lining in Mercedes' 'worst' F1 race of 2025",
+  "summary": "As Mercedes dropped down the F1 order in Saudi Arabia, team boss Toto Wolff found a hope in Kimi Antonelli's performance for the team",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-kimi-antonelli-was-the-silver-lining-in-mercedes-worst-f1-race-of-2025/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Mercedes in 2025?",
+      "correct_answer": "Toto Wolff",
+      "wrong_options": [
+        "Christian Horner",
+        "Mattia Binotto",
+        "Zoran Stojadinovic"
+      ]
+    },
+    {
+      "question": "In which country did Mercedes experience a challenging race in 2025?",
+      "correct_answer": "Saudi Arabia",
+      "wrong_options": [
+        "Bahrain",
+        "Australia",
+        "Italy"
+      ]
+    },
+    {
+      "question": "Who was highlighted as a positive performer for Mercedes during a difficult race in 2025?",
+      "correct_answer": "Kimi Antonelli",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "George Russell",
+        "Valtteri Bottas"
+      ]
+    }
+  ]
+}

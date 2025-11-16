@@ -1,0 +1,36 @@
+{
+  "article_number": 417,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The comedy amid one of F1's most traumatic weekends",
+  "summary": "The danger of Formula 1 in the 1980s was all too apparent during a tragic weekend at Zolder 44 years ago, writesMatt Bishop. But even that Belgian Grand Prix had its lighter moments",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-comedy-amid-one-of-f1s-most-traumatic-weekends/",
+  "qa_pairs": [
+    {
+      "question": "What significant event occurred at the 1982 Belgian Grand Prix at Zolder?",
+      "correct_answer": "The tragic accident that claimed the life of driver Gilles Villeneuve.",
+      "wrong_options": [
+        "A major tire failure for a leading team.",
+        "The introduction of turbocharged engines.",
+        "The first use of a safety car in F1."
+      ]
+    },
+    {
+      "question": "In what decade did Formula 1 experience a notable increase in danger and fatalities?",
+      "correct_answer": "The 1980s.",
+      "wrong_options": [
+        "The 1970s",
+        "The 1990s",
+        "The 2000s"
+      ]
+    },
+    {
+      "question": "Which driver is often associated with the tragic events of the 1982 Belgian Grand Prix?",
+      "correct_answer": "Gilles Villeneuve.",
+      "wrong_options": [
+        "Ayrton Senna",
+        "Nelson Piquet",
+        "Alain Prost"
+      ]
+    }
+  ]
+}

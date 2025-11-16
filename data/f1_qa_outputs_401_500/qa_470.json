@@ -1,0 +1,36 @@
+{
+  "article_number": 470,
+  "source": "Motorsport Magazine",
+  "title": "McLaren boss says Piastri-Norris crash will be a 'non-event'. Really...?",
+  "summary": "Zak Brown is still adamant on his approach that Lando Norris and Oscar Piastri are ‘number ones’ at McLaren. But how long will it be before history repeats itself and takes a sour turn?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-boss-says-piastri-norris-crash-will-be-a-non-event-really/",
+  "qa_pairs": [
+    {
+      "question": "Who are the two drivers representing McLaren in the current Formula 1 season?",
+      "correct_answer": "Lando Norris and Oscar Piastri",
+      "wrong_options": [
+        "Daniel Ricciardo and Lando Norris",
+        "Lando Norris and Carlos Sainz",
+        "Oscar Piastri and Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "What position does Zak Brown hold at McLaren?",
+      "correct_answer": "CEO",
+      "wrong_options": [
+        "Team Principal",
+        "Head Engineer",
+        "Marketing Director"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is commonly referred to as a 'number one' driver?",
+      "correct_answer": "The primary driver designated to lead the team’s efforts",
+      "wrong_options": [
+        "A driver with the fastest lap time",
+        "The newest driver on the team",
+        "A driver who consistently finishes in the top five"
+      ]
+    }
+  ]
+}

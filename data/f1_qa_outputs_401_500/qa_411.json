@@ -1,0 +1,36 @@
+{
+  "article_number": 411,
+  "source": "Motorsport Magazine",
+  "title": "2025 Emilia-Romagna Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Round 7 of the 2025 Formula 1 season takes us to the Imola for the Emilia-Romagna Grand Prix. These are all the dates, start times and sessions you need to know about",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-emilia-romagna-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the name of the race that takes place in Imola in 2025?",
+      "correct_answer": "Emilia-Romagna Grand Prix",
+      "wrong_options": [
+        "Italian Grand Prix",
+        "San Marino Grand Prix",
+        "Mugello Grand Prix"
+      ]
+    },
+    {
+      "question": "In which round of the 2025 Formula 1 season does the Emilia-Romagna Grand Prix occur?",
+      "correct_answer": "Round 7",
+      "wrong_options": [
+        "Round 5",
+        "Round 6",
+        "Round 8"
+      ]
+    },
+    {
+      "question": "What type of event is the Emilia-Romagna Grand Prix?",
+      "correct_answer": "Formula 1 race",
+      "wrong_options": [
+        "Formula E race",
+        "MotoGP race",
+        "World Rally Championship event"
+      ]
+    }
+  ]
+}

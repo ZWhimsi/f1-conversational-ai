@@ -1,0 +1,36 @@
+{
+  "article_number": 430,
+  "source": "Motorsport Magazine",
+  "title": "The F1 teams and drivers running out of time to save their 2025 season",
+  "summary": "Next week, Imola will kick off the European season and a triple-header that will be key for teams and drivers who want to start easing the pressure after a difficult first part of the year",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-f1-teams-and-drivers-running-out-of-time-to-save-their-2025-season/",
+  "qa_pairs": [
+    {
+      "question": "Which event is set to kick off the European season in Formula 1?",
+      "correct_answer": "Imola",
+      "wrong_options": [
+        "Monaco",
+        "Barcelona",
+        "Silverstone"
+      ]
+    },
+    {
+      "question": "What is the significance of the upcoming triple-header for F1 teams and drivers?",
+      "correct_answer": "It is key for easing pressure after a difficult first part of the year.",
+      "wrong_options": [
+        "It determines grid positions for the next season.",
+        "It is a test for new car developments.",
+        "It introduces new regulations."
+      ]
+    },
+    {
+      "question": "In which year is the F1 season being discussed for potential improvement?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

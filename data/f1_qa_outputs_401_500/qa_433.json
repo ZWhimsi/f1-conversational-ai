@@ -1,0 +1,36 @@
+{
+  "article_number": 433,
+  "source": "Motorsport Magazine",
+  "title": "A ridiculous new contract - What you missed at the Miami GP",
+  "summary": "The Miami Grand Prix weekend was action packed both on and off the track. Here's a look at what you may have missed from the event",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/a-ridiculous-new-contract-what-you-missed-at-the-miami-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team secured the most points at the Miami Grand Prix?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is the significance of the Miami Grand Prix in the Formula 1 calendar?",
+      "correct_answer": "It is one of the newer races added to the F1 calendar.",
+      "wrong_options": [
+        "It is the final race of the season.",
+        "It is held on a traditional European circuit.",
+        "It has the longest race distance."
+      ]
+    },
+    {
+      "question": "Who won the Miami Grand Prix in its inaugural year?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Pérez"
+      ]
+    }
+  ]
+}

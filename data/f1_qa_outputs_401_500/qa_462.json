@@ -1,0 +1,36 @@
+{
+  "article_number": 462,
+  "source": "Motorsport Magazine",
+  "title": "The six F1 races where only half points were awarded",
+  "summary": "Whether it was the tragedy of the 1975 Spanish GP, the controversy at Monaco in 1984, or the farcical scenes at the 2021 Belgian GP, the handful of F1 races to award half world championship points have become legendary footnotes in F1’s history",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-six-f1-races-where-only-half-points-were-awarded-in-the-world-championship/",
+  "qa_pairs": [
+    {
+      "question": "In what year did the Spanish Grand Prix take place, which is known for awarding half points due to a tragic event?",
+      "correct_answer": "1975",
+      "wrong_options": [
+        "1984",
+        "2021",
+        "1994"
+      ]
+    },
+    {
+      "question": "Which Grand Prix in 1984 is famous for its controversy regarding the awarding of half points?",
+      "correct_answer": "Monaco Grand Prix",
+      "wrong_options": [
+        "Italian Grand Prix",
+        "French Grand Prix",
+        "British Grand Prix"
+      ]
+    },
+    {
+      "question": "What notable event occurred during the 2021 Belgian Grand Prix that led to the awarding of half points?",
+      "correct_answer": "Farcical race conditions with minimal racing laps",
+      "wrong_options": [
+        "Heavy rain causing a red flag",
+        "A multi-car collision",
+        "Technical failures of multiple cars"
+      ]
+    }
+  ]
+}

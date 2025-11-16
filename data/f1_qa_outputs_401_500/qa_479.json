@@ -1,0 +1,36 @@
+{
+  "article_number": 479,
+  "source": "Motorsport Magazine",
+  "title": "2025 Saudi Arabian GP results - Piastri wins as Verstappen is penalised",
+  "summary": "Piastri scored his second consecutive victory of 2025 in the Saudi Arabian GP after Verstappen was penalised for a start incident",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-saudi-arabian-gp-results-piastri-wins-as-verstappen-is-penalised/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 Saudi Arabian Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What was the reason for Max Verstappen's penalty during the 2025 Saudi Arabian GP?",
+      "correct_answer": "Start incident",
+      "wrong_options": [
+        "Pit lane violation",
+        "Unsafe release",
+        "Track limits infringement"
+      ]
+    },
+    {
+      "question": "How many consecutive victories did Oscar Piastri achieve with his win in the 2025 Saudi Arabian GP?",
+      "correct_answer": "Two",
+      "wrong_options": [
+        "One",
+        "Three",
+        "Four"
+      ]
+    }
+  ]
+}

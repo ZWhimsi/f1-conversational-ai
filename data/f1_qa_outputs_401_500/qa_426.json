@@ -1,0 +1,36 @@
+{
+  "article_number": 426,
+  "source": "Motorsport Magazine",
+  "title": "Was Jack Doohan always doomed at Alpine?",
+  "summary": "Jack Doohan's Alpine seat has been under threat from Franco Colapinto since the start of the 2025 season. Was his fate always sealed?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/was-jack-doohan-always-doomed-at-alpine/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Jack Doohan associated with in the 2025 season?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "Who has been a competitor for Jack Doohan's seat at Alpine?",
+      "correct_answer": "Franco Colapinto",
+      "wrong_options": [
+        "Liam Lawson",
+        "Oscar Piastri",
+        "Mick Schumacher"
+      ]
+    },
+    {
+      "question": "In which year did the competition for Jack Doohan's seat at Alpine become prominent?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    }
+  ]
+}

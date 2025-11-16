@@ -1,0 +1,36 @@
+{
+  "article_number": 458,
+  "source": "Motorsport Magazine",
+  "title": "Karun Chandhok: 'Cool-headed Piastri is favourite for the title'",
+  "summary": "We’ve had four different winners across the first five races – including the sprint in China – but as I write this on the flight home from Bahrain, I wonder…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/15/oscar-piastri-a-favourite-for-the-title/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current driver for McLaren that has been highlighted as a title favorite?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Daniel Ricciardo",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "How many different race winners have there been in the first five races of the season?",
+      "correct_answer": "Four",
+      "wrong_options": [
+        "Three",
+        "Five",
+        "Six"
+      ]
+    },
+    {
+      "question": "Which event is mentioned as having a winner that contributes to the total count of different winners?",
+      "correct_answer": "Sprint in China",
+      "wrong_options": [
+        "Grand Prix in Bahrain",
+        "Monaco Grand Prix",
+        "Italian Grand Prix"
+      ]
+    }
+  ]
+}

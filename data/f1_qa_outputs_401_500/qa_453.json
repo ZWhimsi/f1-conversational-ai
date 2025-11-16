@@ -1,0 +1,36 @@
+{
+  "article_number": 453,
+  "source": "Motorsport Magazine",
+  "title": "Lando Norris: ‘I’m letting the team down’",
+  "summary": "With a possible world title at stake, the McLaren intra-team battle between Oscar Piastri and Lando Norris is beginning to take shape. So far it’s been characterised by Piastri’s flat-line…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/101/im-letting-the-team-down/",
+  "qa_pairs": [
+    {
+      "question": "Which team do Lando Norris and Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is a common term used to describe a driver's performance consistently improving or remaining stable?",
+      "correct_answer": "Flat-line performance",
+      "wrong_options": [
+        "Overtaking",
+        "Understeering",
+        "Pit stop"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is often at stake when drivers are competing closely within a team?",
+      "correct_answer": "World Championship title",
+      "wrong_options": [
+        "Constructors' Championship",
+        "Pole position",
+        "Fastest lap"
+      ]
+    }
+  ]
+}

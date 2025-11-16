@@ -1,0 +1,36 @@
+{
+  "article_number": 410,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Aston Martin's moment of truth. Why F1 masterplan will flourish or flop at Imola",
+  "summary": "After losing its way last year, Aston Martin's F1 team has been reshaping itself into a force that can fight for world championships. This weekend's Emilia-Romagna Grand Prix is where it must start to deliver, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-aston-martins-moment-of-truth-why-f1-masterplan-will-flourish-or-flop-at-imola/",
+  "qa_pairs": [
+    {
+      "question": "Which F1 team is focusing on reshaping itself to compete for world championships in the current season?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What significant event is Aston Martin looking to prove its performance at?",
+      "correct_answer": "Emilia-Romagna Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "Singapore Grand Prix"
+      ]
+    },
+    {
+      "question": "What was Aston Martin's status in the previous season before their restructuring?",
+      "correct_answer": "They lost their way",
+      "wrong_options": [
+        "They won multiple races",
+        "They finished in the top three",
+        "They were consistent podium finishers"
+      ]
+    }
+  ]
+}

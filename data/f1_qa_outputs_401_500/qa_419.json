@@ -1,0 +1,36 @@
+{
+  "article_number": 419,
+  "source": "Motorsport Magazine",
+  "title": "Who is Oliver Oakes? From karting champion to fleeting F1 team principal",
+  "summary": "Oliver Oakes briefly led the Alpine F1 team before abruptly resigning after the 2025 Miami Grand Prix. Here's his career story so far",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-oliver-oakes-from-karting-champion-to-fleeting-f1-team-principal/",
+  "qa_pairs": [
+    {
+      "question": "Which F1 team did Oliver Oakes briefly lead as team principal?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "In what year did Oliver Oakes resign from his position as team principal?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2026",
+        "2023"
+      ]
+    },
+    {
+      "question": "What type of racing did Oliver Oakes compete in before joining Formula 1?",
+      "correct_answer": "Karting",
+      "wrong_options": [
+        "Formula Renault",
+        "IndyCar",
+        "Touring Cars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 456,
+  "source": "Motorsport Magazine",
+  "title": "Fat F1 drivers in 1995",
+  "summary": "It’s an unfortunate fact that rather more Formula 1 drivers are better remembered for misfortunes than achievement. For me 30 years ago the Japanese hopeful Taki Inoue fitted this bill.…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/33/fat-f1-drivers-in-1995/",
+  "qa_pairs": [
+    {
+      "question": "Which Japanese driver is often remembered for his misfortunes in Formula 1 during the 1990s?",
+      "correct_answer": "Taki Inoue",
+      "wrong_options": [
+        "Kazuki Nakajima",
+        "Yuki Tsunoda",
+        "Takuma Sato"
+      ]
+    },
+    {
+      "question": "In what year did Taki Inoue compete in Formula 1?",
+      "correct_answer": "1995",
+      "wrong_options": [
+        "1992",
+        "1997",
+        "1990"
+      ]
+    },
+    {
+      "question": "What is a common theme associated with various Formula 1 drivers from the 1990s?",
+      "correct_answer": "Being better remembered for misfortunes than achievements",
+      "wrong_options": [
+        "Consistent podium finishes",
+        "Winning multiple championships",
+        "Breaking lap records"
+      ]
+    }
+  ]
+}

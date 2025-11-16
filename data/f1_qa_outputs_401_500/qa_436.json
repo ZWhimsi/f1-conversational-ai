@@ -1,0 +1,36 @@
+{
+  "article_number": 436,
+  "source": "Motorsport Magazine",
+  "title": "2025 Miami GP sprint results - Norris benefits from safety car again to win",
+  "summary": "In a repeat of the 2024 race, Norris got lucky with the timing of a late safety car to win Miami's sprint race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-miami-gp-sprint-results-norris-benefits-from-safety-car-again-to-win/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 Miami GP sprint race?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What advantage did Lando Norris gain during the 2025 Miami GP sprint race?",
+      "correct_answer": "Timing of a late safety car",
+      "wrong_options": [
+        "Pole position",
+        "Tire strategy",
+        "Team orders"
+      ]
+    },
+    {
+      "question": "In which year did Lando Norris also benefit from a late safety car during the Miami GP sprint race?",
+      "correct_answer": "2024",
+      "wrong_options": [
+        "2023",
+        "2022",
+        "2021"
+      ]
+    }
+  ]
+}

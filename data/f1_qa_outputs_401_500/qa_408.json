@@ -1,0 +1,36 @@
+{
+  "article_number": 408,
+  "source": "Motorsport Magazine",
+  "title": "45 years of grands prix at Imola: the circuit's greatest F1 races",
+  "summary": "Ahead of what may be Imola's last grand prix for some time, we look back at some of the circuit's greatest moments - from its first F1 grand prix to Ferrari's most recent heartbreak",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/70-years-of-racing-at-imola-the-circuits-greatest-f1-races/",
+  "qa_pairs": [
+    {
+      "question": "Which team has historically had a strong connection to the Imola circuit, particularly during its significant races?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Mercedes",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What significant milestone is being highlighted in relation to the Imola circuit?",
+      "correct_answer": "45 years of grands prix",
+      "wrong_options": [
+        "50 years of safety innovations",
+        "30 years of F1 technology",
+        "25 years of night races"
+      ]
+    },
+    {
+      "question": "What is a notable emotional aspect of Ferrari's history at Imola?",
+      "correct_answer": "Ferrari's recent heartbreak",
+      "wrong_options": [
+        "Ferrari's championship victories",
+        "Ferrari's technical innovations",
+        "Ferrari's driver changes"
+      ]
+    }
+  ]
+}

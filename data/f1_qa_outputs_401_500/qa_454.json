@@ -1,0 +1,36 @@
+{
+  "article_number": 454,
+  "source": "Motorsport Magazine",
+  "title": "Formula 1 race reports: Japan, Bahrain and Saudi Arabia",
+  "summary": "As the teams have developed their cars going into the final season of these particular ground effect regulations, so a new limitation has become evident. It was first signposted by…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/98/formula-1-race-reports-japan-bahrain-and-saudi-arabia/",
+  "qa_pairs": [
+    {
+      "question": "What type of car design regulations are being referenced in the current Formula 1 season?",
+      "correct_answer": "Ground effect regulations",
+      "wrong_options": [
+        "Aerodynamic regulations",
+        "Turbo engine regulations",
+        "Hybrid power regulations"
+      ]
+    },
+    {
+      "question": "Which of the following races is NOT mentioned in the context of the reports?",
+      "correct_answer": "Monaco Grand Prix",
+      "wrong_options": [
+        "Japan",
+        "Bahrain",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "question": "What is one key focus for teams as they develop their cars in the current season?",
+      "correct_answer": "Adapting to new limitations in regulations",
+      "wrong_options": [
+        "Increasing engine power",
+        "Reducing tire wear",
+        "Improving pit stop efficiency"
+      ]
+    }
+  ]
+}

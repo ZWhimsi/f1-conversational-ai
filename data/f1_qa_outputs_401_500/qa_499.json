@@ -1,0 +1,36 @@
+{
+  "article_number": 499,
+  "source": "Motorsport Magazine",
+  "title": "Why F1 superstars were out of sorts as Piastri took control in Bahrain",
+  "summary": "Oscar Piastri and McLaren's MCL39 car showed that they were a duo in sync at the 2025 Bahrain Grand Prix, writesMark Hughes. The same couldn't be said for many of F1's other big names",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-f1-superstars-were-out-of-sorts-as-piastri-took-control-in-bahrain/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Oscar Piastri drive for during the 2025 Bahrain Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What was notable about Oscar Piastri's performance at the 2025 Bahrain Grand Prix?",
+      "correct_answer": "He and his car were in sync.",
+      "wrong_options": [
+        "He finished outside the top 10.",
+        "He had mechanical issues.",
+        "He crashed out of the race."
+      ]
+    },
+    {
+      "question": "In the 2025 Bahrain Grand Prix, which aspect of many F1 superstars' performances was highlighted?",
+      "correct_answer": "They were out of sorts.",
+      "wrong_options": [
+        "They dominated the race.",
+        "They achieved personal bests.",
+        "They had flawless pit stops."
+      ]
+    }
+  ]
+}

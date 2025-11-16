@@ -1,0 +1,36 @@
+{
+  "article_number": 460,
+  "source": "Motorsport Magazine",
+  "title": "Brawn F1 car owned by Button to be sold at Miami this weekend",
+  "summary": "A Brawn GP F1 car – one of just three, and once owned by Jenson Button – is going up for auction this weekend at the Miami GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/brawn-f1-car-once-owned-by-jenson-button-to-be-sold/",
+  "qa_pairs": [
+    {
+      "question": "Which F1 team did Jenson Button drive for when he won his first and only World Championship?",
+      "correct_answer": "Brawn GP",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Williams"
+      ]
+    },
+    {
+      "question": "In what year did Brawn GP win the Constructors' Championship?",
+      "correct_answer": "2009",
+      "wrong_options": [
+        "2010",
+        "2008",
+        "2007"
+      ]
+    },
+    {
+      "question": "What is significant about the Brawn GP F1 car being auctioned?",
+      "correct_answer": "It is one of only three ever made.",
+      "wrong_options": [
+        "It has won the Monaco GP",
+        "It was the first hybrid F1 car",
+        "It was driven by multiple champions"
+      ]
+    }
+  ]
+}

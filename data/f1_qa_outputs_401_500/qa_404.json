@@ -1,0 +1,36 @@
+{
+  "article_number": 404,
+  "source": "Motorsport Magazine",
+  "title": "Alpine — making mediocre F1 look exciting: Up/Down at Imola",
+  "summary": "Alpine's on-track performance has not been much to write home about, but at least it kept people entertained in Imola",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/alpine-making-mediocre-f1-look-exciting-up-down-imola/",
+  "qa_pairs": [
+    {
+      "question": "Which Formula 1 team is mentioned as having an entertaining performance despite mediocre results?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What circuit hosted the race where Alpine's performance was described as entertaining?",
+      "correct_answer": "Imola",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Barcelona"
+      ]
+    },
+    {
+      "question": "In Formula 1, what term is often used to describe a team's performance that does not meet expectations?",
+      "correct_answer": "Mediocre",
+      "wrong_options": [
+        "Dominant",
+        "Competitive",
+        "Subpar"
+      ]
+    }
+  ]
+}

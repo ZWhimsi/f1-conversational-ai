@@ -1,0 +1,36 @@
+{
+  "article_number": 452,
+  "source": "Motorsport Magazine",
+  "title": "Red Bull tyre plan lacks grip in the 2025 Bahrain GP",
+  "summary": "History played a part in Red Bull’s attempts to bring Max Verstappen into play for the Bahrain Grand Prix. He had won both previous races here using an offset tyre…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/104/red-bull-tyre-plan-lacks-grip-in-bahrain/",
+  "qa_pairs": [
+    {
+      "question": "Which driver has won the last two Bahrain Grands Prix prior to 2025?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What was Red Bull's strategy involving tyres for the 2025 Bahrain GP?",
+      "correct_answer": "Using an offset tyre strategy",
+      "wrong_options": [
+        "One-stop strategy",
+        "Soft tyre only",
+        "Wet weather tyres"
+      ]
+    },
+    {
+      "question": "Which team does Max Verstappen drive for?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    }
+  ]
+}

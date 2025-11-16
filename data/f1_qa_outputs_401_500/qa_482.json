@@ -1,0 +1,36 @@
+{
+  "article_number": 482,
+  "source": "Motorsport Magazine",
+  "title": "2025 Saudi Arabian GP FP2 results - Norris fastest as Tsunoda crashes",
+  "summary": "Norris led a McLaren 1-2 in second practice at Jeddah as Red Bull's Tsunoda crashed against the wall",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-saudi-arabian-gp-fp2-results-norris-fastest-as-tsunoda-crashes/",
+  "qa_pairs": [
+    {
+      "question": "Which driver recorded the fastest time in the second practice session of the 2025 Saudi Arabian Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Yuki Tsunoda",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What was the team performance outcome for McLaren during the second practice session in Jeddah?",
+      "correct_answer": "McLaren achieved a 1-2 finish",
+      "wrong_options": [
+        "McLaren finished outside the top 5",
+        "McLaren had the slowest times",
+        "McLaren did not participate"
+      ]
+    },
+    {
+      "question": "Which team was Yuki Tsunoda representing when he crashed during the practice session?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Ferrari",
+        "Alpine",
+        "Mercedes"
+      ]
+    }
+  ]
+}

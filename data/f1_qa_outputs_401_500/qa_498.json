@@ -1,0 +1,36 @@
+{
+  "article_number": 498,
+  "source": "Motorsport Magazine",
+  "title": "An old face piles more pressure on Ferrari: what you missed at the 2025 Bahrain GP",
+  "summary": "A figure from Ferrari's past returned at the 2025 Bahrain GP. Also: Michael Schumacher signs Sir Jackie Stewart's very special crash helmet; F1 rules out a quick return of V10s; and the pasta dish named after Lewis Hamilton",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/an-old-face-piles-more-pressure-on-ferrari-what-you-missed-at-the-2025-bahrain-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which former Ferrari driver made a notable appearance at the 2025 Bahrain GP?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Kimi Räikkönen",
+        "Fernando Alonso",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What type of engine does Formula 1 currently rule out returning to?",
+      "correct_answer": "V10 engines",
+      "wrong_options": [
+        "V8 engines",
+        "V6 engines",
+        "Hybrid engines"
+      ]
+    },
+    {
+      "question": "What is the name of the dish that was named after Lewis Hamilton?",
+      "correct_answer": "Pasta dish",
+      "wrong_options": [
+        "Salad",
+        "Pizza",
+        "Risotto"
+      ]
+    }
+  ]
+}

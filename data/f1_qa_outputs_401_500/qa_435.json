@@ -1,0 +1,36 @@
+{
+  "article_number": 435,
+  "source": "Motorsport Magazine",
+  "title": "2025 Miami GP results - Piastri wins from Norris as McLaren crushes rivals",
+  "summary": "Piastri wins the Miami GP to take his third consecutive victory to consolidate his championship lead ahead of Norris",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-miami-gp-results-piastri-wins-from-norris-as-mclaren-crushes-opposition/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Miami Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which team achieved a strong performance at the 2025 Miami GP, finishing ahead of their rivals?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "How many consecutive victories did Oscar Piastri achieve with his win at the Miami GP?",
+      "correct_answer": "Three",
+      "wrong_options": [
+        "Two",
+        "Four",
+        "Five"
+      ]
+    }
+  ]
+}

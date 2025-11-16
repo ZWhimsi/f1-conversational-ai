@@ -1,0 +1,36 @@
+{
+  "article_number": 402,
+  "source": "Motorsport Magazine",
+  "title": "2025 F1 driver line-up: latest grid changes and contracts",
+  "summary": "The F1 driver line-up for 2025 was already drastically altered before Red Bull and Alpine changed their squads. Here's your guide to the new-look grid, including the team changes, fresh-faced rookies and contract details for all 20 drivers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-f1-driver-line-ups-latest-contract-news-and-rumours/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for having a strong driver line-up that includes multiple championship contenders?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Alpine",
+        "Williams",
+        "Haas"
+      ]
+    },
+    {
+      "question": "What is one common reason for teams to change their driver line-up in Formula 1?",
+      "correct_answer": "Performance improvement",
+      "wrong_options": [
+        "Increased sponsorship",
+        "Driver retirement age",
+        "Weather conditions"
+      ]
+    },
+    {
+      "question": "What term is used to describe a new driver entering Formula 1 for the first time?",
+      "correct_answer": "Rookie",
+      "wrong_options": [
+        "Veteran",
+        "Test driver",
+        "Reserve driver"
+      ]
+    }
+  ]
+}

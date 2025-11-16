@@ -1,0 +1,36 @@
+{
+  "article_number": 489,
+  "source": "Motorsport Magazine",
+  "title": "Why isn't 2025 F1 season as close as predicted? The past explains why",
+  "summary": "McLaren's breakthrough in a near-four-year-old ruleset shows F1 rules convergence is a myth – just like Sebastian Vettel, Red Bull and Renault did in 2013, writesMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-isnt-2025-f1-season-as-close-as-predicted-the-past-explains-why/",
+  "qa_pairs": [
+    {
+      "question": "Which team had a significant breakthrough in the 2025 F1 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is the main theme discussed regarding the 2025 F1 season?",
+      "correct_answer": "The myth of rules convergence",
+      "wrong_options": [
+        "Increased driver penalties",
+        "Expansion of sprint races",
+        "Introduction of hybrid engines"
+      ]
+    },
+    {
+      "question": "Which driver and team combination dominated in 2013, similar to the current situation in 2025?",
+      "correct_answer": "Sebastian Vettel with Red Bull",
+      "wrong_options": [
+        "Lewis Hamilton with Mercedes",
+        "Fernando Alonso with Ferrari",
+        "Kimi Räikkönen with Lotus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 425,
+  "source": "Motorsport Magazine",
+  "title": "Miami showed Verstappen exploiting F1 rules to max – again",
+  "summary": "Max Verstappen preserved his lead at the start of the Miami GP by knowing the letter of the F1 law – probably costing Lando Norris the win",
+  "link": "https://www.motorsportmagazine.com/articles/mark-hughes/apex-gp-verstappen-exploits-f1-rules-to-max-again/",
+  "qa_pairs": [
+    {
+      "question": "What is one of the key strategies that drivers often use at the start of a Formula 1 race?",
+      "correct_answer": "Preserving their lead through optimal positioning and knowledge of race regulations.",
+      "wrong_options": [
+        "Aggressively overtaking all competitors at the first corner.",
+        "Driving in a straight line to maintain speed.",
+        "Pitting early to lose track position."
+      ]
+    },
+    {
+      "question": "Which driver was notably impacted by Max Verstappen's strategy during the Miami GP?",
+      "correct_answer": "Lando Norris.",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What is a common term for a driver who effectively utilizes the rules of Formula 1 to their advantage?",
+      "correct_answer": "Exploiting the regulations.",
+      "wrong_options": [
+        "Breaking the rules",
+        "Ignoring the regulations",
+        "Following the rules strictly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 447,
+  "source": "Motorsport Magazine",
+  "title": "The tragic Montjuich '75 race that was platform for F1 trailblazer",
+  "summary": "The 1975 Spanish Grand Prix became one of F1's darkest days – but it was also where a groundbreaking female racer made history",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-tragic-montjuich-75-race-was-platform-for-f1-trailblazer/",
+  "qa_pairs": [
+    {
+      "question": "Which event in 1975 is considered one of Formula 1's darkest days?",
+      "correct_answer": "The Spanish Grand Prix at Montjuich.",
+      "wrong_options": [
+        "The Monaco Grand Prix",
+        "The Italian Grand Prix",
+        "The British Grand Prix"
+      ]
+    },
+    {
+      "question": "Who is a notable female racer that made history in Formula 1 during the 1975 Spanish Grand Prix?",
+      "correct_answer": "Lella Lombardi.",
+      "wrong_options": [
+        "Danica Patrick",
+        "Susie Wolff",
+        "Michelle Mouton"
+      ]
+    },
+    {
+      "question": "What significant achievement is associated with the 1975 Spanish Grand Prix?",
+      "correct_answer": "It was the race where a female driver scored points in Formula 1.",
+      "wrong_options": [
+        "It was the first night race in F1 history.",
+        "It featured the first use of turbocharged engines.",
+        "It was the longest race in F1 history."
+      ]
+    }
+  ]
+}

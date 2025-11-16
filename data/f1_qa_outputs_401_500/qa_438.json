@@ -1,0 +1,36 @@
+{
+  "article_number": 438,
+  "source": "Motorsport Magazine",
+  "title": "2025 Miami GP sprint qualifying results - Antonelli beats Piastri to grab pole",
+  "summary": "Mercedes star Antonelli secures Miami Grand Prix sprint pole at 18 years of age",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-miami-gp-sprint-qualifying-results-antonelli-beats-piastri-to-grab-pole/",
+  "qa_pairs": [
+    {
+      "question": "Who secured the pole position in the 2025 Miami Grand Prix sprint qualifying?",
+      "correct_answer": "Antonelli",
+      "wrong_options": [
+        "Piastri",
+        "Leclerc",
+        "Verstappen"
+      ]
+    },
+    {
+      "question": "At what age did Antonelli achieve pole position in the Miami GP sprint qualifying?",
+      "correct_answer": "18 years old",
+      "wrong_options": [
+        "20 years old",
+        "19 years old",
+        "21 years old"
+      ]
+    },
+    {
+      "question": "Which team does Antonelli drive for in Formula 1?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    }
+  ]
+}

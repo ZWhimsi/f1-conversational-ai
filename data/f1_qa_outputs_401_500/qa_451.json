@@ -1,0 +1,36 @@
+{
+  "article_number": 451,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat",
+  "summary": "“No I wouldn’t say that,” said Mercedes F1 boss Toto Wolff on whether he was planning to negotiate with Max Verstappen. “I always say I don’t flirt outside if I’m…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/106/word-on-the-beat-13/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current boss of the Mercedes F1 team?",
+      "correct_answer": "Toto Wolff",
+      "wrong_options": [
+        "Christian Horner",
+        "Mattia Binotto",
+        "Zach Brown"
+      ]
+    },
+    {
+      "question": "What is the relationship between Toto Wolff and Max Verstappen in terms of negotiation?",
+      "correct_answer": "Wolff is not planning to negotiate with Verstappen.",
+      "wrong_options": [
+        "They are negotiating a contract.",
+        "Wolff is actively pursuing Verstappen.",
+        "Verstappen is joining Mercedes."
+      ]
+    },
+    {
+      "question": "In Formula 1, what does it mean when a team principal says they do not 'flirt' outside their team?",
+      "correct_answer": "It means they are not looking to recruit drivers from rival teams.",
+      "wrong_options": [
+        "It indicates a lack of interest in team partnerships.",
+        "It suggests they are looking for sponsorships.",
+        "It means they are open to driver swaps."
+      ]
+    }
+  ]
+}

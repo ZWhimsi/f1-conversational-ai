@@ -1,0 +1,36 @@
+{
+  "article_number": 480,
+  "source": "Motorsport Magazine",
+  "title": "Today’s F1 starting grid for the 2025 Saudi Arabian Grand Prix",
+  "summary": "Max Verstappen is set to start on pole for the 2025 Saudi Arabian Grand Prix after Lando Norris crashed out of Q3. Here's how the starting grid looks for Sunday's race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/tomorrows-f1-starting-grid-for-the-2025-saudi-arabian-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Who is starting on pole position for the 2025 Saudi Arabian Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What incident caused Lando Norris to not qualify for a better position in Q3?",
+      "correct_answer": "He crashed out",
+      "wrong_options": [
+        "He received a penalty",
+        "He had a mechanical failure",
+        "He ran out of fuel"
+      ]
+    },
+    {
+      "question": "Which event does the starting grid mentioned in the title pertain to?",
+      "correct_answer": "2025 Saudi Arabian Grand Prix",
+      "wrong_options": [
+        "2025 Monaco Grand Prix",
+        "2025 Italian Grand Prix",
+        "2025 Canadian Grand Prix"
+      ]
+    }
+  ]
+}

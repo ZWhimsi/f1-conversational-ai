@@ -1,0 +1,36 @@
+{
+  "article_number": 491,
+  "source": "Motorsport Magazine",
+  "title": "How real are Red Bull's concerns that Verstappen could leave early?",
+  "summary": "Helmut Marko caused a stir after the Bahrain GP with his worries that Max Verstappen could leave Red Bull early. But how real are those fears?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-real-are-red-bulls-concerns-that-verstappen-could-leave-early/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Max Verstappen currently drive for in Formula 1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who is the head of Red Bull Racing's driver development program and has expressed concerns about Verstappen's future?",
+      "correct_answer": "Helmut Marko",
+      "wrong_options": [
+        "Christian Horner",
+        "Adrian Newey",
+        "Dr. Helmut Marko"
+      ]
+    },
+    {
+      "question": "What major event is referenced in the context of Red Bull's concerns about Verstappen leaving?",
+      "correct_answer": "Bahrain Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "French Grand Prix"
+      ]
+    }
+  ]
+}

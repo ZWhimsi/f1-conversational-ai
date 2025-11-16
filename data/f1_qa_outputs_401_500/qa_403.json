@@ -1,0 +1,36 @@
+{
+  "article_number": 403,
+  "source": "Motorsport Magazine",
+  "title": "Passionate F1 fans take it too far: what you missed at the Emilia-Romagna GP",
+  "summary": "Imola showed us what F1 is rejecting; some Franco Colapinto fans weigh in; and there's another FIA row: what you missed at the 2025 Emilia Romagna GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/passionate-f1-fans-take-it-too-far-what-you-missed-at-the-emilia-romagna-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which Grand Prix was held in Imola in 2025?",
+      "correct_answer": "Emilia Romagna GP",
+      "wrong_options": [
+        "Italian GP",
+        "San Marino GP",
+        "Tuscan GP"
+      ]
+    },
+    {
+      "question": "What is the role of the FIA in Formula 1?",
+      "correct_answer": "Regulating and governing the sport",
+      "wrong_options": [
+        "Managing team budgets",
+        "Designing race circuits",
+        "Sponsoring teams"
+      ]
+    },
+    {
+      "question": "Who is Franco Colapinto in relation to Formula 1?",
+      "correct_answer": "A racing driver",
+      "wrong_options": [
+        "A team principal",
+        "A race engineer",
+        "A commentator"
+      ]
+    }
+  ]
+}

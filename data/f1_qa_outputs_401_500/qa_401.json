@@ -1,0 +1,36 @@
+{
+  "article_number": 401,
+  "source": "Motorsport Magazine",
+  "title": "2025 Monaco Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Whether you want to watch every second live or catch up with the highlights, here’s everything UK fans need to know about how to watch, live stream, and follow the full schedule for the Monaco Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-monaco-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the traditional start time for the Monaco Grand Prix?",
+      "correct_answer": "15:00 CEST",
+      "wrong_options": [
+        "14:00 CEST",
+        "16:00 CEST",
+        "13:00 CEST"
+      ]
+    },
+    {
+      "question": "Which platform is commonly used for live streaming Formula 1 races in the UK?",
+      "correct_answer": "Sky Sports F1",
+      "wrong_options": [
+        "BBC Sport",
+        "ESPN",
+        "Formula 1 TV"
+      ]
+    },
+    {
+      "question": "What is the main feature of the Monaco Grand Prix that makes it unique compared to other circuits?",
+      "correct_answer": "Street circuit layout",
+      "wrong_options": [
+        "High-speed straights",
+        "Banked corners",
+        "Wide overtaking zones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 459,
+  "source": "Motorsport Magazine",
+  "title": "What next for Lewis Hamilton?",
+  "summary": "Juan Pablo Montoya has always had an interesting take on things Formula 1 and he clearly follows it closely even though he left it mid-season 19 years ago. His views…",
+  "link": "https://www.motorsportmagazine.com/archive/article/june-2025/12/what-next-for-lewis-hamilton/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Lewis Hamilton drive for during the majority of his Formula 1 career?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who is Juan Pablo Montoya?",
+      "correct_answer": "A former Formula 1 driver",
+      "wrong_options": [
+        "A current Formula 1 team principal",
+        "A Formula 1 commentator",
+        "A Formula 1 engineer"
+      ]
+    },
+    {
+      "question": "In what year did Lewis Hamilton make his Formula 1 debut?",
+      "correct_answer": "2007",
+      "wrong_options": [
+        "2005",
+        "2008",
+        "2010"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 412,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Emilia Romagna GP",
+  "summary": "It's time to make some big changes to your F1 Fantasy line-up at the 2025 Emilia Romagna GP. Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy/f1-fantasy-top-picks-predictions-for-the-2025-emilia-romagna-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is historically known for strong performances at the Emilia Romagna GP?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is the primary strategy teams often consider at the Emilia Romagna GP?",
+      "correct_answer": "Tire management",
+      "wrong_options": [
+        "Fuel saving",
+        "Overtaking strategy",
+        "Pit stop frequency"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is the purpose of playing chips?",
+      "correct_answer": "To maximize points for a specific race",
+      "wrong_options": [
+        "To reduce team costs",
+        "To trade drivers mid-season",
+        "To change race strategies"
+      ]
+    }
+  ]
+}

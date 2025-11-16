@@ -1,0 +1,36 @@
+{
+  "article_number": 428,
+  "source": "Motorsport Magazine",
+  "title": "Franco Colapinto to replace Jack Doohan at Alpine — confirmed",
+  "summary": "After months of speculation, Jack Doohan has lost his F1 seat at Alpine to Franco Colapinto — but will it only be a temporary change?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/franco-colapinto-to-replace-jack-doohan-at-alpine-confirmed/",
+  "qa_pairs": [
+    {
+      "question": "Which driver has been confirmed to replace Jack Doohan at Alpine?",
+      "correct_answer": "Franco Colapinto",
+      "wrong_options": [
+        "Liam Lawson",
+        "Oscar Piastri",
+        "Mick Schumacher"
+      ]
+    },
+    {
+      "question": "What team did Jack Doohan lose his seat at in Formula 1?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What is the nature of Franco Colapinto's replacement of Jack Doohan at Alpine?",
+      "correct_answer": "It may be temporary",
+      "wrong_options": [
+        "Permanent",
+        "For the entire season",
+        "Only for one race"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 439,
+  "source": "Motorsport Magazine",
+  "title": "2025 Miami GP FP1 results - Piastri quickest as Bearman causes red flag",
+  "summary": "Formula 1 championship leader Oscar Piastri topped Friday practice for the Miami Grand Prix, which was interrupted by a late red flag. The McLaren driver, the winner of the last…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-miami-gp-fp1-results-piastri-quickest-as-bearman-causes-red-flag/",
+  "qa_pairs": [
+    {
+      "question": "Who topped the first practice session for the 2025 Miami Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "What caused the interruption during the first practice session at the Miami GP?",
+      "correct_answer": "A red flag due to Bearman's incident",
+      "wrong_options": [
+        "Weather conditions",
+        "Technical issues",
+        "Another driver's crash"
+      ]
+    },
+    {
+      "question": "Which team does championship leader Oscar Piastri drive for?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    }
+  ]
+}

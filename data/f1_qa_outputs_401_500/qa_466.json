@@ -1,0 +1,36 @@
+{
+  "article_number": 466,
+  "source": "Motorsport Magazine",
+  "title": "F1 Commission discussing engine catch-up rules tweak",
+  "summary": "F1 moves closer to changing its rules in a bid to avoid one engine manufacturer dominating for years, and looks to spark out the grass fires that plagued Suzuka",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-commission-discussing-engine-catch-up-rules-tweak/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary goal of the proposed changes to engine rules in Formula 1?",
+      "correct_answer": "To prevent one engine manufacturer from dominating for years.",
+      "wrong_options": [
+        "To increase the number of engine manufacturers in F1.",
+        "To reduce the overall horsepower of the engines.",
+        "To extend the lifespan of the engines."
+      ]
+    },
+    {
+      "question": "What was one of the issues faced during the Suzuka race that the F1 Commission is addressing?",
+      "correct_answer": "Grass fires.",
+      "wrong_options": [
+        "Rain delays.",
+        "Technical failures.",
+        "Track surface degradation."
+      ]
+    },
+    {
+      "question": "Which governing body is responsible for discussing and implementing rule changes in Formula 1?",
+      "correct_answer": "The F1 Commission.",
+      "wrong_options": [
+        "The FIA (Fédération Internationale de l'Automobile).",
+        "The Formula One Group.",
+        "The teams' association."
+      ]
+    }
+  ]
+}

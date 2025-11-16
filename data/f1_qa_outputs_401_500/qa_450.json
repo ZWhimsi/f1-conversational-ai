@@ -1,0 +1,36 @@
+{
+  "article_number": 450,
+  "source": "Motorsport Magazine",
+  "title": "2025 Miami Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Round 6 of the 2025 Formula 1 season takes us to the Miami International Autodrome, Florida. These are all the dates, start times and sessions you need to know about",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-miami-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the venue for the 2025 Miami Grand Prix?",
+      "correct_answer": "Miami International Autodrome",
+      "wrong_options": [
+        "Circuit de Monaco",
+        "Silverstone Circuit",
+        "Suzuka International Racing Course"
+      ]
+    },
+    {
+      "question": "In which round of the 2025 Formula 1 season does the Miami Grand Prix take place?",
+      "correct_answer": "Round 6",
+      "wrong_options": [
+        "Round 5",
+        "Round 7",
+        "Round 8"
+      ]
+    },
+    {
+      "question": "What type of event is the Miami Grand Prix in the context of Formula 1?",
+      "correct_answer": "A race",
+      "wrong_options": [
+        "A practice session",
+        "A qualifying session",
+        "A test session"
+      ]
+    }
+  ]
+}

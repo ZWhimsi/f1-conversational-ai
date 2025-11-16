@@ -1,0 +1,36 @@
+{
+  "article_number": 434,
+  "source": "Motorsport Magazine",
+  "title": "The two key questions posed by McLaren's Miami GP dominance",
+  "summary": "McLaren crushed the opposition in the Miami Grand Prix, with Piastri taking his third straight win in a race that looked like Norris's to lose.Mark Hughesanswers the main questions from the sixth round of the 2025 season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-two-key-questions-posed-by-mclarens-miami-gp-dominance/",
+  "qa_pairs": [
+    {
+      "question": "Who secured their third consecutive win at the 2025 Miami Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which team dominated the Miami Grand Prix in 2025?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What position was Lando Norris expected to finish in during the Miami GP?",
+      "correct_answer": "First",
+      "wrong_options": [
+        "Second",
+        "Third",
+        "Fourth"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 416,
+  "source": "Motorsport Magazine",
+  "title": "Can Piastri match a Senna F1 record? - What to watch out for at Imola",
+  "summary": "The Emilia Romagna GP will kick off the European F1 season, and the second triple-header of 2025, this weekend. Here are the main topics to watch out for at Imola",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/can-piastri-match-a-senna-record-what-to-watch-out-for-at-the-emilia-romagna-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which Grand Prix is referred to as the Emilia Romagna GP?",
+      "correct_answer": "The race held at Imola.",
+      "wrong_options": [
+        "The race held at Monza.",
+        "The race held at Mugello.",
+        "The race held at Monza."
+      ]
+    },
+    {
+      "question": "In which year did the Emilia Romagna GP become part of the Formula 1 calendar?",
+      "correct_answer": "2020.",
+      "wrong_options": [
+        "2021",
+        "2019",
+        "2022"
+      ]
+    },
+    {
+      "question": "What is a triple-header in Formula 1?",
+      "correct_answer": "Three consecutive races held in different locations over a three-week period.",
+      "wrong_options": [
+        "Three races held on the same circuit in one weekend.",
+        "Three races with different teams competing.",
+        "Three races with the same driver lineup."
+      ]
+    }
+  ]
+}

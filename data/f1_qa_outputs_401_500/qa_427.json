@@ -1,0 +1,36 @@
+{
+  "article_number": 427,
+  "source": "Motorsport Magazine",
+  "title": "F1's poisoned chalice: Team boss Oakes latest to leave Alpine",
+  "summary": "Alpine has become the revolving door of F1, with team principal Oliver Oakes the latest to join a long list of senior staff shown the exit",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/alpine-f1s-poisoned-chalice-oakes-latest-to-be-axed/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for having a high turnover of senior staff in Formula 1?",
+      "correct_answer": "Alpine",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What position did Oliver Oakes hold at Alpine before his departure?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Chief Engineer",
+        "Technical Director",
+        "Race Strategist"
+      ]
+    },
+    {
+      "question": "In Formula 1, what term is often used to describe a team that frequently changes its management or personnel?",
+      "correct_answer": "Revolving door",
+      "wrong_options": [
+        "Pit stop",
+        "Driver carousel",
+        "Team shuffle"
+      ]
+    }
+  ]
+}

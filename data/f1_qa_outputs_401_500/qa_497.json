@@ -1,0 +1,36 @@
+{
+  "article_number": 497,
+  "source": "Motorsport Magazine",
+  "title": "Facing an enemy within, struggling Norris needs to find answers fast",
+  "summary": "A second F1 win in three grands prix has made Oscar Piastri look like the stronger McLaren driver, as Lando Norris admitted he is struggling to find answers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/facing-an-enemy-within-struggling-norris-needs-to-find-answers-fast/",
+  "qa_pairs": [
+    {
+      "question": "Which McLaren driver recently secured two wins in three races?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Daniel Ricciardo",
+        "Kevin Magnussen"
+      ]
+    },
+    {
+      "question": "What has Lando Norris admitted regarding his performance?",
+      "correct_answer": "He is struggling to find answers.",
+      "wrong_options": [
+        "He is leading the championship.",
+        "He feels confident in his car's setup.",
+        "He has no concerns about his performance."
+      ]
+    },
+    {
+      "question": "What is the significance of the recent performance comparison between Piastri and Norris?",
+      "correct_answer": "Piastri is perceived as the stronger driver at McLaren.",
+      "wrong_options": [
+        "Norris has outperformed Piastri consistently.",
+        "Both drivers are equally matched this season.",
+        "McLaren is facing severe financial issues."
+      ]
+    }
+  ]
+}

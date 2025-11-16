@@ -1,0 +1,36 @@
+{
+  "article_number": 441,
+  "source": "Motorsport Magazine",
+  "title": "Horner: Verstappen the greatest F1 driver Red Bull has had",
+  "summary": "Horner believes Verstappen is on a different level to Red Bull's other four-time world champion Vettel",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/horner-verstappen-the-greatest-f1-driver-red-bull-has-had/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Guenther Steiner"
+      ]
+    },
+    {
+      "question": "How many world championships has Sebastian Vettel won with Red Bull Racing?",
+      "correct_answer": "Four",
+      "wrong_options": [
+        "Three",
+        "Five",
+        "Two"
+      ]
+    },
+    {
+      "question": "As of 2023, which driver is considered by Christian Horner to be the greatest driver Red Bull has had?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Sebastian Vettel",
+        "Mark Webber"
+      ]
+    }
+  ]
+}

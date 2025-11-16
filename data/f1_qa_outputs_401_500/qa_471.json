@@ -1,0 +1,36 @@
+{
+  "article_number": 471,
+  "source": "Motorsport Magazine",
+  "title": "Senna's Lotus 97T: exclusive shoot of F1 legend's first winner",
+  "summary": "It's 40 years since Ayrton Senna's incredible first F1 win at Estoril – we captured the brilliant grand prix car he did it in for this month's magazine",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/sennas-lotus-97t-exclusive-shoot-of-f1-legends-first-winner/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Ayrton Senna achieve his first Formula 1 victory?",
+      "correct_answer": "1985",
+      "wrong_options": [
+        "1984",
+        "1986",
+        "1987"
+      ]
+    },
+    {
+      "question": "What model of car did Ayrton Senna drive to his first F1 win?",
+      "correct_answer": "Lotus 97T",
+      "wrong_options": [
+        "McLaren MP4/2",
+        "Ferrari 640",
+        "Williams FW14B"
+      ]
+    },
+    {
+      "question": "At which circuit did Ayrton Senna secure his first Formula 1 win?",
+      "correct_answer": "Estoril",
+      "wrong_options": [
+        "Monaco",
+        "Silverstone",
+        "Suzuka"
+      ]
+    }
+  ]
+}

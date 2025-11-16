@@ -1,0 +1,36 @@
+{
+  "article_number": 432,
+  "source": "Motorsport Magazine",
+  "title": "Ferrari's radio show not its biggest issue - Miami GP takeaways",
+  "summary": "McLaren stole the show at the 2025 Miami Grand Prix with a dominant 1-2 finish that left rivals trembling. Here are the key takeaways from a pivotal weekend in Formula 1",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/ferraris-radio-show-not-its-biggest-issue-miami-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which team achieved a 1-2 finish at the 2025 Miami Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What was a significant outcome of the 2025 Miami Grand Prix for McLaren?",
+      "correct_answer": "A dominant 1-2 finish",
+      "wrong_options": [
+        "Failing to score points",
+        "Finishing outside the top 10",
+        "A retirement from the race"
+      ]
+    },
+    {
+      "question": "In what year did the Miami Grand Prix take place where McLaren had a standout performance?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2026",
+        "2023"
+      ]
+    }
+  ]
+}

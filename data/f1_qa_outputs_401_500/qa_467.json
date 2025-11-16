@@ -1,0 +1,36 @@
+{
+  "article_number": 467,
+  "source": "Motorsport Magazine",
+  "title": "Norris must deal with Piastri's pace – or suffer Mark Webber's fate",
+  "summary": "As Oscar Piastri moved into the championship lead, his manager Mark Webber's example should serve as a warning to Lando Norris, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-must-deal-with-piastris-pace-or-suffer-mark-webbers-fate/",
+  "qa_pairs": [
+    {
+      "question": "Who is currently leading the championship as mentioned in the context?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which former driver is Oscar Piastri's manager?",
+      "correct_answer": "Mark Webber",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Sebastian Vettel",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What should Lando Norris be wary of according to the context?",
+      "correct_answer": "Oscar Piastri's pace",
+      "wrong_options": [
+        "Team strategy changes",
+        "Car performance issues",
+        "Pit stop strategies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 423,
+  "source": "Motorsport Magazine",
+  "title": "The challenges facing Carlos Sainz Sr if he runs for FIA president",
+  "summary": "Carlos Sainz Sr is considering challenging FIA president Mohammed Ben Sulayem in this year's election for the top job at racing's governing body. But he'll have to overturn the odds to succeed",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-challenges-facing-carlos-sainz-sr-if-he-runs-for-fia-president/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA that Carlos Sainz Sr is considering challenging?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What position is Carlos Sainz Sr considering running for in the FIA?",
+      "correct_answer": "FIA president",
+      "wrong_options": [
+        "FIA vice president",
+        "FIA council member",
+        "FIA race director"
+      ]
+    },
+    {
+      "question": "What is the primary challenge facing Carlos Sainz Sr in the FIA presidential election?",
+      "correct_answer": "Overcoming the odds to succeed",
+      "wrong_options": [
+        "Lack of experience in motorsport",
+        "Insufficient support from drivers",
+        "Issues with FIA regulations"
+      ]
+    }
+  ]
+}

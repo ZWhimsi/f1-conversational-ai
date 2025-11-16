@@ -1,0 +1,36 @@
+{
+  "article_number": 415,
+  "source": "Motorsport Magazine",
+  "title": "Does Imola deserve its F1 slot? Our verdict on its most recent races",
+  "summary": "Since Imola returned to the F1 calendar in 2020 it has served up a mixed bag of grands prix. With its future in doubt, we give our verdict on each of the races this decade",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/does-imola-deserve-its-f1-slot-our-verdict-on-its-most-recent-races/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Imola make its return to the Formula 1 calendar?",
+      "correct_answer": "2020",
+      "wrong_options": [
+        "2018",
+        "2021",
+        "2019"
+      ]
+    },
+    {
+      "question": "What is the primary concern regarding Imola's position on the F1 calendar?",
+      "correct_answer": "Its future is in doubt.",
+      "wrong_options": [
+        "Lack of fan attendance",
+        "High costs of hosting",
+        "Poor weather conditions"
+      ]
+    },
+    {
+      "question": "How has the performance of races at Imola been characterized since its return?",
+      "correct_answer": "A mixed bag of grands prix.",
+      "wrong_options": [
+        "Consistently high quality",
+        "Always wet conditions",
+        "Unpredictable weather"
+      ]
+    }
+  ]
+}

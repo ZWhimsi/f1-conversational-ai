@@ -1,0 +1,36 @@
+{
+  "article_number": 500,
+  "source": "Motorsport Magazine",
+  "title": "The Ferrari updates Hamilton hopes will fix his car problems in Bahrain",
+  "summary": "Ferrari is the Formula 1 team bringing the biggest update for its car in the Bahrain Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-ferrari-updates-hamilton-hopes-will-fix-his-car-problems-in-bahrain/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for bringing significant updates to their car during the Bahrain Grand Prix?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the main purpose of car updates in Formula 1 races?",
+      "correct_answer": "To improve performance and address issues",
+      "wrong_options": [
+        "To change driver line-ups",
+        "To alter race strategies",
+        "To increase fuel efficiency"
+      ]
+    },
+    {
+      "question": "In which month is the Bahrain Grand Prix typically held?",
+      "correct_answer": "March",
+      "wrong_options": [
+        "April",
+        "February",
+        "May"
+      ]
+    }
+  ]
+}

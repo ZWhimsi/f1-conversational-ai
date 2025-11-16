@@ -1,0 +1,36 @@
+{
+  "article_number": 496,
+  "source": "Motorsport Magazine",
+  "title": "What helped Hamilton finally make progress at Ferrari",
+  "summary": "After struggling to get to grips with his Ferrari, Lewis Hamilton says moving towards Charles Leclerc's set-up made a difference in Bahrain",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-has-helped-hamilton-finally-made-progress-at-ferrari/",
+  "qa_pairs": [
+    {
+      "question": "Which driver did Lewis Hamilton adjust his car setup to resemble in order to improve his performance?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Sebastian Vettel",
+        "Carlos Sainz",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "At which Grand Prix did Lewis Hamilton find success after changing his setup?",
+      "correct_answer": "Bahrain Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "British Grand Prix"
+      ]
+    },
+    {
+      "question": "What team is Lewis Hamilton associated with during his challenges in the summary?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 468,
+  "source": "Motorsport Magazine",
+  "title": "What Cadillac's delayed F1 engine really means",
+  "summary": "General Motors has pushed back its F1 entry as an engine supplier to 2029, but what does it mean?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-cadillacs-delayed-f1-engine-really-means/",
+  "qa_pairs": [
+    {
+      "question": "Which year is General Motors planning to enter Formula 1 as an engine supplier?",
+      "correct_answer": "2029",
+      "wrong_options": [
+        "2025",
+        "2027",
+        "2030"
+      ]
+    },
+    {
+      "question": "What major automotive company is set to supply engines to Formula 1 in 2029?",
+      "correct_answer": "General Motors",
+      "wrong_options": [
+        "Ford",
+        "Honda",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What impact might a delayed entry of an engine supplier like General Motors have on the F1 teams?",
+      "correct_answer": "It could affect competitive balance and engine supply options.",
+      "wrong_options": [
+        "It will have no impact on the teams.",
+        "It guarantees more competitive engines for all teams.",
+        "It ensures that all teams use the same engine model."
+      ]
+    }
+  ]
+}

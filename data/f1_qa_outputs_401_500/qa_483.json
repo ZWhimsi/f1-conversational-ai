@@ -1,0 +1,36 @@
+{
+  "article_number": 483,
+  "source": "Motorsport Magazine",
+  "title": "2025 Saudi Arabian GP FP1 results - Gasly quickest from Norris",
+  "summary": "Formula 1's 2025 Saudi Arabian Grand Prix weekend kicked off with Pierre Gasly on top of the times in first practice at Jeddah",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-saudi-arabian-gp-fp1-results-gasly-quickest-from-norris/",
+  "qa_pairs": [
+    {
+      "question": "Who was the fastest driver in the first practice session of the 2025 Saudi Arabian Grand Prix?",
+      "correct_answer": "Pierre Gasly",
+      "wrong_options": [
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "In which city is the Saudi Arabian Grand Prix held?",
+      "correct_answer": "Jeddah",
+      "wrong_options": [
+        "Riyadh",
+        "Dammam",
+        "Mecca"
+      ]
+    },
+    {
+      "question": "What year is the Saudi Arabian Grand Prix mentioned in the context of the first practice results?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    }
+  ]
+}

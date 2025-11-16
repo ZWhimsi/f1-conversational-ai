@@ -1,0 +1,36 @@
+{
+  "article_number": 461,
+  "source": "Motorsport Magazine",
+  "title": "50 years since a woman scored (half) an F1 point, why aren't we closer to another?",
+  "summary": "In 1975, Lella Lombardi was the last — and only — woman F1 driver to finish in the points. 50 years on and we're nowhere near seeing another, saysKaty Fairman. In fact, progress seems to have reversed",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/50-years-since-a-woman-scored-half-an-f1-point-why-arent-we-closer-to-another/",
+  "qa_pairs": [
+    {
+      "question": "Who was the first woman to score points in Formula 1?",
+      "correct_answer": "Lella Lombardi",
+      "wrong_options": [
+        "Danica Patrick",
+        "Susie Wolff",
+        "Maria de Villota"
+      ]
+    },
+    {
+      "question": "In what year did Lella Lombardi achieve her historic points finish?",
+      "correct_answer": "1975",
+      "wrong_options": [
+        "1980",
+        "1970",
+        "1985"
+      ]
+    },
+    {
+      "question": "What is the significance of Lella Lombardi's achievement in F1 history?",
+      "correct_answer": "She is the only woman to finish in the points.",
+      "wrong_options": [
+        "She won the championship.",
+        "She was the first woman to race in F1.",
+        "She scored the most points in a single season."
+      ]
+    }
+  ]
+}

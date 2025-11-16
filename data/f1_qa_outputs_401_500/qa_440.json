@@ -1,0 +1,36 @@
+{
+  "article_number": 440,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Can Red Bull do a 'McLaren' and turn F1 on its head again?",
+  "summary": "One year ago McLaren scored a shock Miami win, but it proved a changing of the F1 guard – can Red Bull do the same to fight back in Florida this weekend, asksMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/can-red-bull-do-a-mclaren-and-turn-f1-on-its-head-again/",
+  "qa_pairs": [
+    {
+      "question": "Which team shocked the F1 world with a win at the Miami Grand Prix a year ago?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is the significance of McLaren's win at the Miami Grand Prix in the context of Formula 1?",
+      "correct_answer": "It marked a changing of the F1 guard.",
+      "wrong_options": [
+        "It was their first race of the season.",
+        "It secured their championship title.",
+        "It was a one-off performance."
+      ]
+    },
+    {
+      "question": "What is Red Bull Racing aiming to achieve in the upcoming Miami Grand Prix?",
+      "correct_answer": "A comeback to fight back in Florida.",
+      "wrong_options": [
+        "To dominate the entire season",
+        "To secure pole position",
+        "To maintain their current championship lead"
+      ]
+    }
+  ]
+}

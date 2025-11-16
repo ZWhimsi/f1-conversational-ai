@@ -1,0 +1,36 @@
+{
+  "article_number": 485,
+  "source": "Motorsport Magazine",
+  "title": "Alonso: Verstappen not a threat to my Aston Martin F1 seat",
+  "summary": "Fernando Alonso says it's \"very unlikely\" Max Verstappen will be his team-mate, and rejected the idea that he could be replaced by the Dutchman",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/alonso-verstappen-not-a-threat-to-my-aston-martin-f1-seat/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Fernando Alonso drive for in Formula 1?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who is the current reigning World Champion in Formula 1 as of 2023?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is the primary role of a Formula 1 driver in a team?",
+      "correct_answer": "Compete in races and contribute to team performance",
+      "wrong_options": [
+        "Design the car",
+        "Manage team finances",
+        "Conduct media training"
+      ]
+    }
+  ]
+}

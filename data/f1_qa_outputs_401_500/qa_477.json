@@ -1,0 +1,36 @@
+{
+  "article_number": 477,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen refuses to discuss Saudi Arabian GP penalty",
+  "summary": "Verstappen didn't want to talk about his Saudi Arabian GP penalty to avoid getting in trouble",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-refuses-to-discuss-saudi-arabian-gp-penalty/",
+  "qa_pairs": [
+    {
+      "question": "Which driver received a penalty at the Saudi Arabian Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What was Max Verstappen's response regarding his penalty at the Saudi Arabian GP?",
+      "correct_answer": "He refused to discuss it.",
+      "wrong_options": [
+        "He accepted it without complaint.",
+        "He defended his actions.",
+        "He asked for it to be reviewed."
+      ]
+    },
+    {
+      "question": "What is a common reason drivers might avoid discussing penalties after a race?",
+      "correct_answer": "To avoid getting in trouble with the FIA.",
+      "wrong_options": [
+        "To maintain team secrecy.",
+        "To protect their public image.",
+        "To distract from performance issues."
+      ]
+    }
+  ]
+}
