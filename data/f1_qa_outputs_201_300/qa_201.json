@@ -1,0 +1,36 @@
+{
+  "article_number": 201,
+  "source": "Motorsport Magazine",
+  "title": "'Now you're quiet, Jos Verstappen?' Up, Down in Belgium",
+  "summary": "The 2025 Belgian GP signified a new status quo being established at the Red Bull F1 team – and it has a distinctly Dutch flavour",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/now-youre-quiet-jos-verstappen-up-down-in-belgium/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Jos Verstappen's son, Max Verstappen, drive for during the 2025 Belgian GP?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "In which country is the Belgian Grand Prix held?",
+      "correct_answer": "Belgium",
+      "wrong_options": [
+        "Netherlands",
+        "Germany",
+        "France"
+      ]
+    },
+    {
+      "question": "What notable trend was observed at Red Bull Racing during the 2025 season?",
+      "correct_answer": "A distinctly Dutch flavor",
+      "wrong_options": [
+        "Increased competitiveness from Ferrari",
+        "Significant driver changes",
+        "A shift to hybrid engines"
+      ]
+    }
+  ]
+}

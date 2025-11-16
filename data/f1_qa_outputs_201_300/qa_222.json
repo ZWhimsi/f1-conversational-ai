@@ -1,0 +1,36 @@
+{
+  "article_number": 222,
+  "source": "Motorsport Magazine",
+  "title": "The questions behind F1’s Net Zero claims",
+  "summary": "Formula 1 has made real progress in cutting its carbon footprint - but staying on track to Net Zero by 2030 might demand tougher decisions",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-questions-behind-f1s-net-zero-claims/",
+  "qa_pairs": [
+    {
+      "question": "What is Formula 1's target year for achieving Net Zero carbon emissions?",
+      "correct_answer": "2030",
+      "wrong_options": [
+        "2025",
+        "2035",
+        "2040"
+      ]
+    },
+    {
+      "question": "What is one of the primary goals of Formula 1 regarding its environmental impact?",
+      "correct_answer": "To cut its carbon footprint",
+      "wrong_options": [
+        "To increase team budgets",
+        "To enhance fan engagement",
+        "To expand race locations"
+      ]
+    },
+    {
+      "question": "What type of decisions might Formula 1 need to make to stay on track for Net Zero by 2030?",
+      "correct_answer": "Tougher decisions",
+      "wrong_options": [
+        "Easier decisions",
+        "More races per season",
+        "Increased sponsorship deals"
+      ]
+    }
+  ]
+}

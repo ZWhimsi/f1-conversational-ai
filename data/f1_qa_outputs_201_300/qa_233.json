@@ -1,0 +1,36 @@
+{
+  "article_number": 233,
+  "source": "Motorsport Magazine",
+  "title": "The F1 drivers who left their teams before their contracts expired",
+  "summary": "In Formula 1, driver contracts may look iron-clad on paper, but history shows that some of its biggest stars have made dramatic early exits",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-f1-drivers-who-left-their-teams-before-their-contracts-expired/",
+  "qa_pairs": [
+    {
+      "question": "Which of the following drivers is known for leaving a team before the end of their contract in Formula 1?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Kimi Räikkönen"
+      ]
+    },
+    {
+      "question": "What can influence a driver to leave their team before their contract expires?",
+      "correct_answer": "Performance issues or team dynamics",
+      "wrong_options": [
+        "Weather conditions",
+        "Sponsorship deals",
+        "Track layout"
+      ]
+    },
+    {
+      "question": "Which team has experienced notable early driver exits in its history?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes"
+      ]
+    }
+  ]
+}

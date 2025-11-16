@@ -1,0 +1,36 @@
+{
+  "article_number": 279,
+  "source": "Motorsport Magazine",
+  "title": "Karun Chandhok: Have Max Verstappen’s rivals sensed his weakness?",
+  "summary": "Legacy is a fascinating topic in the motor racing world. For knowledgeable and passionate Formula 1 fans, which the readers of Motor Sport magazine are, ranking a driver in the…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/17/karun-chandhok-have-max-verstappens-rivals-sensed-his-weakness/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently dominating the Formula 1 scene and often considered a benchmark for his rivals?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is a key factor that can influence a driver's legacy in Formula 1?",
+      "correct_answer": "Race wins and championships",
+      "wrong_options": [
+        "Team popularity",
+        "Car color",
+        "Number of fans"
+      ]
+    },
+    {
+      "question": "In Formula 1, what term is often used to describe a driver's ability to perform under pressure?",
+      "correct_answer": "Mental toughness",
+      "wrong_options": [
+        "Technical skill",
+        "Physical endurance",
+        "Strategic thinking"
+      ]
+    }
+  ]
+}

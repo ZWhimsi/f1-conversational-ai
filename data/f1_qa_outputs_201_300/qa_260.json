@@ -1,0 +1,36 @@
+{
+  "article_number": 260,
+  "source": "Motorsport Magazine",
+  "title": "Who is Laurent Mekies? New Red Bull F1 team boss replacing Horner",
+  "summary": "Laurent Mekies steps into the spotlight as the new Red Bull F1 team boss, succeeding Christian Horner and bringing a fresh chapter to the squad",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-laurent-mekies-new-red-bull-f1-team-boss-replacing-horner/",
+  "qa_pairs": [
+    {
+      "question": "Who did Laurent Mekies replace as the team boss of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "What role did Laurent Mekies hold before becoming the team boss of Red Bull Racing?",
+      "correct_answer": "He was previously associated with Scuderia Ferrari.",
+      "wrong_options": [
+        "He was a race engineer at Mercedes.",
+        "He was a driver for Toro Rosso.",
+        "He was the chief strategist for McLaren."
+      ]
+    },
+    {
+      "question": "What is a significant change in Red Bull Racing with Laurent Mekies' appointment?",
+      "correct_answer": "He brings a fresh chapter to the squad.",
+      "wrong_options": [
+        "It marks the return of a previous team principal.",
+        "The team will switch to a different engine supplier.",
+        "The team is expected to focus solely on driver development."
+      ]
+    }
+  ]
+}

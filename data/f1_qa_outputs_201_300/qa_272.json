@@ -1,0 +1,36 @@
+{
+  "article_number": 272,
+  "source": "Motorsport Magazine",
+  "title": "Norris and Piastri F1 clash was only a matter of time",
+  "summary": "“Yes, we said a few times that it wasn’t a matter of ‘if’ there was going to be contact between Oscar and Lando but ‘when’ and we now know the…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/77/norris-and-piastri-f1-clash-was-only-a-matter-of-time/",
+  "qa_pairs": [
+    {
+      "question": "Which two drivers were involved in a clash during a recent F1 event?",
+      "correct_answer": "Lando Norris and Oscar Piastri",
+      "wrong_options": [
+        "Lewis Hamilton and George Russell",
+        "Charles Leclerc and Carlos Sainz",
+        "Max Verstappen and Sergio Perez"
+      ]
+    },
+    {
+      "question": "What is a common phrase used to describe the inevitability of a clash between teammates in F1?",
+      "correct_answer": "'When' rather than 'if'",
+      "wrong_options": [
+        "'If' rather than 'when'",
+        "'Always' rather than 'never'",
+        "'Soon' rather than 'later'"
+      ]
+    },
+    {
+      "question": "Which team do Lando Norris and Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    }
+  ]
+}

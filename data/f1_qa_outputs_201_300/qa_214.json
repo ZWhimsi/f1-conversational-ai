@@ -1,0 +1,36 @@
+{
+  "article_number": 214,
+  "source": "Motorsport Magazine",
+  "title": "Why Mekies hung up the phone when he was offered Red Bull F1 job",
+  "summary": "New Red Bull boss admits he needed a moment to consider the offer to replace Horner",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mekies-thought-about-it-for-a-few-hours-before-accepting-red-bull-job/",
+  "qa_pairs": [
+    {
+      "question": "Who was the previous team principal of Red Bull Racing before the new appointment?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "Which team did Red Bull Racing compete against for the Constructors' Championship in recent seasons?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is a key responsibility of a team principal in Formula 1?",
+      "correct_answer": "Overseeing team strategy and operations",
+      "wrong_options": [
+        "Designing the car chassis",
+        "Driving the car during races",
+        "Managing the team's finances exclusively"
+      ]
+    }
+  ]
+}

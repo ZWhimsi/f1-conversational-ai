@@ -1,0 +1,36 @@
+{
+  "article_number": 280,
+  "source": "Motorsport Magazine",
+  "title": "Why Ferrari will suffer F1 if team boss Vasseur really is under threat",
+  "summary": "The inability of the rear damper to control the Ferrari’s ride height has snowballed into a tricky political situation for team principal Frédéric Vasseur, one in which he may be…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/14/why-ferrari-will-suffer-f1-if-team-boss-vasseur-really-is-under-threat/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary function of a rear damper in a Formula 1 car?",
+      "correct_answer": "To control the car's ride height and manage suspension dynamics.",
+      "wrong_options": [
+        "To enhance aerodynamic downforce.",
+        "To improve fuel efficiency.",
+        "To increase tire grip on the track."
+      ]
+    },
+    {
+      "question": "Who is the current team principal of Scuderia Ferrari as of the 2023 season?",
+      "correct_answer": "Frédéric Vasseur.",
+      "wrong_options": [
+        "Mattia Binotto",
+        "Otmar Szafnauer",
+        "Christian Horner"
+      ]
+    },
+    {
+      "question": "What could be a potential consequence of a team principal being under threat in Formula 1?",
+      "correct_answer": "It can lead to instability within the team and affect performance.",
+      "wrong_options": [
+        "Increased funding for new car development.",
+        "Guaranteed performance improvements in the next race.",
+        "A higher driver salary budget."
+      ]
+    }
+  ]
+}

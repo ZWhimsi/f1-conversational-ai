@@ -1,0 +1,36 @@
+{
+  "article_number": 275,
+  "source": "Motorsport Magazine",
+  "title": "Lando Norris vs Oscar Piastri: it’s crunch time in F1 title race",
+  "summary": "Oscar Piastri or Lando Norris? Unless Max Verstappen pulls off an Alain Prost 1986-style miracle, this year’s world championship battle will answer that question. The Australian seized the initiative in…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/52/lando-norris-vs-oscar-piastri-its-crunch-time-in-f1-title-race/",
+  "qa_pairs": [
+    {
+      "question": "Which team do Lando Norris and Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "Who is the current reigning champion in Formula 1 as of 2023?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What significant event happened in the 1986 F1 season involving Alain Prost?",
+      "correct_answer": "Prost lost the championship in the final race to Nelson Piquet.",
+      "wrong_options": [
+        "Prost won the championship before the last race.",
+        "Prost retired mid-season.",
+        "Prost switched teams during the season."
+      ]
+    }
+  ]
+}

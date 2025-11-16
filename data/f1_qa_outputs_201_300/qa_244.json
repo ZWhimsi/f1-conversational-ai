@@ -1,0 +1,36 @@
+{
+  "article_number": 244,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen and Wolff's 'holiday date' – will F1 champ move to Mercedes?",
+  "summary": "Keen-eyed observers have spied Max Verstappen and Toto Wolff's heading to Sardinia at the same time – it's the latest development in the 'Verstappen to Mercedes' rumours",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-and-wolffs-holiday-date-will-f1-champ-move-to-mercedes/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Max Verstappen currently race for in Formula 1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who is the team principal of Mercedes-AMG Petronas Formula One Team?",
+      "correct_answer": "Toto Wolff",
+      "wrong_options": [
+        "Christian Horner",
+        "Mattia Binotto",
+        "Zac Brown"
+      ]
+    },
+    {
+      "question": "What country is known for hosting the Formula 1 race known as the Sardinia Grand Prix?",
+      "correct_answer": "Italy",
+      "wrong_options": [
+        "Spain",
+        "France",
+        "Monaco"
+      ]
+    }
+  ]
+}

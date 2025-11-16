@@ -1,0 +1,36 @@
+{
+  "article_number": 256,
+  "source": "Motorsport Magazine",
+  "title": "Max Verstappen reacts to Christian Horner's Red Bull F1 exit",
+  "summary": "Max Verstappen has now had his say after Red Bull confirmed his former F1 boss had left the team",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/max-verstappen-reacts-to-christian-horners-red-bull-f1-exit/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current driver for Red Bull Racing known for multiple championship wins?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Sergio Pérez",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What role did Christian Horner hold at Red Bull Racing before his exit?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Technical Director",
+        "Chief Engineer",
+        "Head of Strategy"
+      ]
+    },
+    {
+      "question": "In what year did Max Verstappen win his first Formula 1 World Championship?",
+      "correct_answer": "2021",
+      "wrong_options": [
+        "2020",
+        "2022",
+        "2019"
+      ]
+    }
+  ]
+}

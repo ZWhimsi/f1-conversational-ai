@@ -1,0 +1,36 @@
+{
+  "article_number": 221,
+  "source": "Motorsport Magazine",
+  "title": "The day Eau Rouge humbled an F1 world champion and a rookie",
+  "summary": "One one afternoon in 1999, Eau Rouge proved why it was one of the most feared corners in Formula 1",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-day-eau-rouge-humbled-an-f1-world-champion-and-a-rookie/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Eau Rouge corner in Formula 1?",
+      "correct_answer": "Eau Rouge is known for its challenging and steep gradient, making it one of the most feared corners in the sport.",
+      "wrong_options": [
+        "It is the slowest corner on the circuit.",
+        "It has the highest speed limit in F1.",
+        "It is known for its wide entry and exit."
+      ]
+    },
+    {
+      "question": "In which year did Eau Rouge humble a world champion and a rookie during a notable incident?",
+      "correct_answer": "1999",
+      "wrong_options": [
+        "1995",
+        "2001",
+        "2005"
+      ]
+    },
+    {
+      "question": "Which famous circuit features the Eau Rouge corner?",
+      "correct_answer": "Circuit de Spa-Francorchamps",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    }
+  ]
+}

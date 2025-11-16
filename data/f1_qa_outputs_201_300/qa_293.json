@@ -1,0 +1,36 @@
+{
+  "article_number": 293,
+  "source": "Motorsport Magazine",
+  "title": "Who is Tim Mayer? FIA presidential candidate's background and manifesto",
+  "summary": "Fired FIA Formula 1 steward Mayer will go against Ben Sulayem in December's election",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-fia-presidential-candidate-tim-mayer/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA as of 2023?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Charlie Whiting",
+        "Max Mosley"
+      ]
+    },
+    {
+      "question": "What role did Tim Mayer hold within the FIA before his dismissal?",
+      "correct_answer": "Formula 1 steward",
+      "wrong_options": [
+        "Race director",
+        "Technical delegate",
+        "Safety officer"
+      ]
+    },
+    {
+      "question": "When is the FIA presidential election scheduled to take place?",
+      "correct_answer": "December 2023",
+      "wrong_options": [
+        "March 2024",
+        "September 2023",
+        "November 2023"
+      ]
+    }
+  ]
+}

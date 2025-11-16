@@ -1,0 +1,36 @@
+{
+  "article_number": 242,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: Obvious deadline for Max to decide F1 future is looming",
+  "summary": "Will Max Verstappen decide to leave Red Bull at the end of the year or put his faith in the team that has delivered him four F1 world titles? Decision time is imminent",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-obvious-deadline-for-max-to-pick-f1-future-is-looming/",
+  "qa_pairs": [
+    {
+      "question": "How many World Championships has Max Verstappen won with Red Bull Racing?",
+      "correct_answer": "Four",
+      "wrong_options": [
+        "Two",
+        "Three",
+        "Five"
+      ]
+    },
+    {
+      "question": "What is the primary factor influencing Max Verstappen's decision about his F1 future?",
+      "correct_answer": "His faith in the team",
+      "wrong_options": [
+        "Financial incentives",
+        "Rival teams' performance",
+        "Personal interests"
+      ]
+    },
+    {
+      "question": "What is the significance of the deadline mentioned regarding Max Verstappen's decision?",
+      "correct_answer": "It indicates a critical point for his future with Red Bull Racing.",
+      "wrong_options": [
+        "It determines the next race schedule",
+        "It affects Red Bull's budget cap",
+        "It is related to driver contract lengths"
+      ]
+    }
+  ]
+}

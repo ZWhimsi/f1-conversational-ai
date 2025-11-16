@@ -1,0 +1,36 @@
+{
+  "article_number": 276,
+  "source": "Motorsport Magazine",
+  "title": "A long-time injustice is rectified - British GP takeaways",
+  "summary": "From long-overdue milestones to costly misjudgements, the 2025 British Grand Prix delivered plenty of drama and emotion",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/a-long-time-injustice-is-rectified-british-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "Which Formula 1 race is known for its historical significance and is often referred to as the British Grand Prix?",
+      "correct_answer": "Silverstone",
+      "wrong_options": [
+        "Monza",
+        "Spa-Francorchamps",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "What is a common term for significant mistakes made by teams or drivers during a race that can affect their performance?",
+      "correct_answer": "Costly misjudgement",
+      "wrong_options": [
+        "Strategic error",
+        "Pit stop blunder",
+        "Tactical failure"
+      ]
+    },
+    {
+      "question": "In what year did the British Grand Prix take place that is noted for delivering drama and emotion?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

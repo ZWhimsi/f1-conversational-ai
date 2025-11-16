@@ -1,0 +1,36 @@
+{
+  "article_number": 225,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The truly brilliant racer who's been largely forgotten",
+  "summary": "Even those who recognise the name will know him simply as 'The other Ascari', but this pre-war racer who died a century ago was one of the all-time greats.Matt Bishoptells the tragically short tale of Antonio Ascari",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-truly-brilliant-racer-whos-been-largely-forgotten/",
+  "qa_pairs": [
+    {
+      "question": "Who is often referred to as 'The other Ascari' in racing history?",
+      "correct_answer": "Antonio Ascari",
+      "wrong_options": [
+        "Alberto Ascari",
+        "Nino Farina",
+        "Juan Manuel Fangio"
+      ]
+    },
+    {
+      "question": "In which era did Antonio Ascari compete in motor racing?",
+      "correct_answer": "Pre-war era",
+      "wrong_options": [
+        "Post-war era",
+        "Modern era",
+        "Golden era"
+      ]
+    },
+    {
+      "question": "Which notable racing family does Antonio Ascari belong to?",
+      "correct_answer": "Ascari family",
+      "wrong_options": [
+        "Ferrari family",
+        "Senna family",
+        "Prost family"
+      ]
+    }
+  ]
+}

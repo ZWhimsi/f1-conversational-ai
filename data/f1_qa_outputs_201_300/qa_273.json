@@ -1,0 +1,36 @@
+{
+  "article_number": 273,
+  "source": "Motorsport Magazine",
+  "title": "McLaren dodges pitfall to tighten grip on F1 title",
+  "summary": "With McLaren’s advantage very apparent into the nitty-gritty mid-part of the season, there was hope among rivals that the new technical directive regarding front wing flex (which took effect from…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/74/mclaren-dodges-pitfall-to-tighten-grip-on-f1-title/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of technical directives in Formula 1?",
+      "correct_answer": "To regulate car design and ensure fairness in competition.",
+      "wrong_options": [
+        "To increase the speed of the cars.",
+        "To limit the number of pit stops.",
+        "To enhance driver safety."
+      ]
+    },
+    {
+      "question": "What aspect of car design was addressed by the new technical directive mentioned?",
+      "correct_answer": "Front wing flex.",
+      "wrong_options": [
+        "Rear suspension geometry.",
+        "Tire compound usage.",
+        "Engine mapping."
+      ]
+    },
+    {
+      "question": "Which team has shown a strong performance in the mid-part of the current F1 season?",
+      "correct_answer": "McLaren.",
+      "wrong_options": [
+        "Ferrari.",
+        "Red Bull Racing.",
+        "Mercedes."
+      ]
+    }
+  ]
+}

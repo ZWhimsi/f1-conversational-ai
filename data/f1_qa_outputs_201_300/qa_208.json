@@ -1,0 +1,36 @@
+{
+  "article_number": 208,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: How Piastri's fearless Eau Rouge gamble decided the Belgian GP",
+  "summary": "A race that began with caution ended in strategic clarity, as Oscar Piastri calmly fended off team-mate Lando Norris to win the Belgian Grand Prix and tighten his grip on the F1 title race.Mark Hughesanalyses the Spa event",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-how-rain-delayed-start-defined-mclarens-spa-strategic-showdown/",
+  "qa_pairs": [
+    {
+      "question": "Which track is known for the challenging Eau Rouge corner?",
+      "correct_answer": "Circuit de Spa-Francorchamps",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "Who was Oscar Piastri's teammate during the Belgian Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Lando Norris",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What was the outcome of the Belgian Grand Prix for Oscar Piastri?",
+      "correct_answer": "He won the race.",
+      "wrong_options": [
+        "He finished second.",
+        "He retired from the race.",
+        "He finished third."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 219,
+  "source": "Motorsport Magazine",
+  "title": "Hamilton issues Ferrari with written demands in urgent chase for F1 title",
+  "summary": "Lewis Hamilton has revealed that he’s leading the charge to win an F1 championship with Ferrari, submitting reports and summoning bosses to meetings as he challenges the team in “every area”",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hamilton-issues-ferrari-with-written-demands-in-urgent-chase-for-f1-title/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is leading the charge for an F1 championship with Ferrari?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Sebastian Vettel",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What action has Lewis Hamilton taken to challenge Ferrari in his pursuit of the championship?",
+      "correct_answer": "Submitting reports and summoning bosses to meetings",
+      "wrong_options": [
+        "Changing the team strategy",
+        "Focusing on individual performance",
+        "Requesting new car upgrades"
+      ]
+    },
+    {
+      "question": "In which sport is Lewis Hamilton competing for a championship title?",
+      "correct_answer": "Formula 1",
+      "wrong_options": [
+        "Formula E",
+        "IndyCar",
+        "NASCAR"
+      ]
+    }
+  ]
+}

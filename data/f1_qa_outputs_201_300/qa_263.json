@@ -1,0 +1,36 @@
+{
+  "article_number": 263,
+  "source": "Motorsport Magazine",
+  "title": "The key staff who quit Red Bull: Horner pushed out after mass exodus",
+  "summary": "Christian Horner's dismissal as Red Bull's team principal follows a race to the exit by high-ranking staff, including Adrian Newey. Can it regroup?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-key-staff-who-quit-red-bull-horner-pushed-out-after-mass-exodus/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Red Bull Racing prior to their dismissal?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "Which prominent engineer known for his aerodynamic expertise left Red Bull Racing?",
+      "correct_answer": "Adrian Newey",
+      "wrong_options": [
+        "James Allison",
+        "Pat Symonds",
+        "Mike Elliott"
+      ]
+    },
+    {
+      "question": "What is a potential consequence for Red Bull Racing after losing key staff members?",
+      "correct_answer": "Difficulty regrouping and maintaining performance",
+      "wrong_options": [
+        "Immediate championship victory",
+        "Increased sponsorship deals",
+        "A new car design launch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 228,
+  "source": "Motorsport Magazine",
+  "title": "How Mercedes and Aston Martin F1 safety cars compare",
+  "summary": "Formula 1 uses both Mercedes and Aston Martin safety cars. Here's why - and how they are different",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-mercedes-and-aston-martin-f1-safety-cars-compare/",
+  "qa_pairs": [
+    {
+      "question": "Which two brands are primarily used as safety cars in Formula 1?",
+      "correct_answer": "Mercedes and Aston Martin",
+      "wrong_options": [
+        "Ferrari and McLaren",
+        "Red Bull and Renault",
+        "Alfa Romeo and Haas"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of a safety car in Formula 1?",
+      "correct_answer": "To control the pace of the race during hazardous conditions.",
+      "wrong_options": [
+        "To provide technical support to teams",
+        "To test new car models",
+        "To assist in pit stops"
+      ]
+    },
+    {
+      "question": "Which team is known for its long-standing partnership as a safety car provider in F1?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Williams",
+        "Toro Rosso"
+      ]
+    }
+  ]
+}

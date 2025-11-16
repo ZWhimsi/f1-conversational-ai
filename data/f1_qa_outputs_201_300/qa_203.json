@@ -1,0 +1,36 @@
+{
+  "article_number": 203,
+  "source": "Motorsport Magazine",
+  "title": "All the key aspects changing on F1's 2026 engines",
+  "summary": "Formula 1's 2026 engine rules usher in a new era of hybrid technology. Here's a look at all the key changes to the power units",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/all-the-key-aspects-changing-on-f1s-2026-engines/",
+  "qa_pairs": [
+    {
+      "question": "What year will the new engine regulations in Formula 1 come into effect?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2027"
+      ]
+    },
+    {
+      "question": "What type of technology will the 2026 Formula 1 engines focus on enhancing?",
+      "correct_answer": "Hybrid technology",
+      "wrong_options": [
+        "Pure electric technology",
+        "V8 engines",
+        "Natural gas technology"
+      ]
+    },
+    {
+      "question": "Which aspect of Formula 1 cars is primarily affected by engine regulations?",
+      "correct_answer": "Power units",
+      "wrong_options": [
+        "Aerodynamics",
+        "Tires",
+        "Chassis design"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 247,
+  "source": "Motorsport Magazine",
+  "title": "Seven unmissable highlights at the 2025 Goodwood Festival of Speed",
+  "summary": "From Formula 1 icons to futuristic tech and lots of action, here are seven things not to miss at the 2025 Goodwood Festival of Speed",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/seven-unmissable-highlights-at-the-2025-goodwood-festival-of-speed/",
+  "qa_pairs": [
+    {
+      "question": "What is the Goodwood Festival of Speed known for?",
+      "correct_answer": "Celebrating motorsport with a variety of vehicles and events.",
+      "wrong_options": [
+        "Hosting Formula 1 races",
+        "Being a testing ground for new F1 cars",
+        "Serving as a driver training camp"
+      ]
+    },
+    {
+      "question": "Which F1 drivers are often considered icons in the sport?",
+      "correct_answer": "Drivers like Michael Schumacher and Ayrton Senna.",
+      "wrong_options": [
+        "Daniel Ricciardo and George Russell",
+        "Kimi Räikkönen and Lando Norris",
+        "Lewis Hamilton and Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What type of technology is often showcased at the Goodwood Festival of Speed?",
+      "correct_answer": "Futuristic automotive technology and innovations.",
+      "wrong_options": [
+        "Only vintage car technology",
+        "Basic engine mechanics",
+        "Aerodynamic testing equipment"
+      ]
+    }
+  ]
+}

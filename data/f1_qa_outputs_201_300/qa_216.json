@@ -1,0 +1,36 @@
+{
+  "article_number": 216,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Ferrari's hopes hinge on Hamilton's hands-on overhaul",
+  "summary": "With time running out, Lewis Hamilton is driving a radical internal push at Ferrari — and the team’s future success may hinge on how it responds, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-ferraris-hopes-hinge-on-hamiltons-hands-on-overhaul/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is reportedly influencing a significant change within Ferrari?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Sebastian Vettel",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "What is the primary focus of the changes being driven at Ferrari?",
+      "correct_answer": "Internal overhaul",
+      "wrong_options": [
+        "Aerodynamic upgrades",
+        "Driver changes",
+        "Sponsorship deals"
+      ]
+    },
+    {
+      "question": "How critical is the response of Ferrari to the changes being implemented?",
+      "correct_answer": "Very critical for future success",
+      "wrong_options": [
+        "Not important",
+        "Somewhat important",
+        "Only important for the next race"
+      ]
+    }
+  ]
+}

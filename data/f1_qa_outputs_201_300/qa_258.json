@@ -1,0 +1,36 @@
+{
+  "article_number": 258,
+  "source": "Motorsport Magazine",
+  "title": "What next for Red Bull after Christian Horner's exit?",
+  "summary": "With the sudden departure of Horner, Red Bull faces a pivotal crossroads as it navigates the future of its Formula 1 team and leadership",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-next-for-red-bull-after-christian-horners-exit/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Andreas Seidl"
+      ]
+    },
+    {
+      "question": "What critical challenge does Red Bull Racing face following a leadership change?",
+      "correct_answer": "Navigating the future of its team and leadership",
+      "wrong_options": [
+        "Improving aerodynamics",
+        "Expanding its driver lineup",
+        "Increasing sponsorship revenue"
+      ]
+    },
+    {
+      "question": "What role does the team principal play in a Formula 1 team?",
+      "correct_answer": "Overseeing team operations and strategy",
+      "wrong_options": [
+        "Designing the car",
+        "Managing the pit crew",
+        "Conducting driver training"
+      ]
+    }
+  ]
+}

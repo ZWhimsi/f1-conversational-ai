@@ -1,0 +1,36 @@
+{
+  "article_number": 235,
+  "source": "Motorsport Magazine",
+  "title": "Lando Norris takes one step closer to becoming F1's modern racing tycoon",
+  "summary": "As he fights for the F1 title, Lando Norris cements his influence off track with the sale of Quadrant to esports powerhouse Veloce",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lando-norris-takes-one-step-closer-to-becoming-f1s-modern-racing-tycoon/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently fighting for the F1 title and has expanded his business influence off the track?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What company did Lando Norris sell to strengthen his business interests in esports?",
+      "correct_answer": "Quadrant",
+      "wrong_options": [
+        "McLaren",
+        "Veloce",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "Which esports organization acquired Lando Norris's Quadrant?",
+      "correct_answer": "Veloce",
+      "wrong_options": [
+        "FaZe Clan",
+        "Team Liquid",
+        "G2 Esports"
+      ]
+    }
+  ]
+}

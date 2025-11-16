@@ -1,0 +1,36 @@
+{
+  "article_number": 300,
+  "source": "Motorsport Magazine",
+  "title": "Is Silverstone Hamilton's best chance to salvage his 2025 F1 season?",
+  "summary": "Ferrari's upgrades, and Hamilton's mastery of Silverstone, could offer him the chance to score his 10th home win",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-silverstone-hamiltons-best-chance-to-salvage-his-2025-f1-season/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is aiming for his 10th home win at Silverstone?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "Which team is mentioned as having upgrades that could impact the race at Silverstone?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is significant about Silverstone for Lewis Hamilton?",
+      "correct_answer": "It is his home race.",
+      "wrong_options": [
+        "It is a night race.",
+        "It is the final race of the season.",
+        "It is known for its high-speed corners."
+      ]
+    }
+  ]
+}

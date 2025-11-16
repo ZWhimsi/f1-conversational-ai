@@ -1,0 +1,36 @@
+{
+  "article_number": 210,
+  "source": "Motorsport Magazine",
+  "title": "Piastri takes commanding win from Norris in delayed Belgian GP",
+  "summary": "Championship leader Piastri took a controlled victory over Norris in a rain-delayed Belgian GP",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-takes-commanding-win-from-norris-2025-belgian-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the Belgian GP in the most recent race?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What type of weather caused a delay during the Belgian GP?",
+      "correct_answer": "Rain",
+      "wrong_options": [
+        "Fog",
+        "Extreme heat",
+        "Snow"
+      ]
+    },
+    {
+      "question": "Which driver was in second place behind Piastri in the Belgian GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "George Russell",
+        "Sergio Perez",
+        "Max Verstappen"
+      ]
+    }
+  ]
+}

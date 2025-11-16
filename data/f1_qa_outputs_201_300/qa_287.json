@@ -1,0 +1,36 @@
+{
+  "article_number": 287,
+  "source": "Motorsport Magazine",
+  "title": "Silverstone circuit: how F1's spiritual home has evolved",
+  "summary": "From wartime airfield to Formula 1 icon, Silverstone's evolution tells the story of how a series of British runways became a global motor sport landmark",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/silverstone-circuit-how-f1s-spiritual-home-has-evolved/",
+  "qa_pairs": [
+    {
+      "question": "What was the original purpose of the Silverstone circuit before it became a Formula 1 venue?",
+      "correct_answer": "It was a wartime airfield.",
+      "wrong_options": [
+        "A motorcycle racing track",
+        "A rally stage",
+        "A car manufacturing plant"
+      ]
+    },
+    {
+      "question": "In which country is the Silverstone circuit located?",
+      "correct_answer": "United Kingdom",
+      "wrong_options": [
+        "Germany",
+        "France",
+        "Italy"
+      ]
+    },
+    {
+      "question": "What is Silverstone often referred to in the context of Formula 1?",
+      "correct_answer": "F1's spiritual home",
+      "wrong_options": [
+        "The birthplace of F1",
+        "The fastest circuit",
+        "The oldest track"
+      ]
+    }
+  ]
+}

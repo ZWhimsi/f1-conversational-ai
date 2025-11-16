@@ -1,0 +1,36 @@
+{
+  "article_number": 278,
+  "source": "Motorsport Magazine",
+  "title": "Longford circuit: Australia’s original, terrifying, high-speed arena",
+  "summary": "Sometimes known as the ‘Reims of the South Pacific’ due to its long, fast straights and undulations, Longford has a special place in the hearts of Australian motor racing fans…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/25/longford-circuit-australias-original-terrifying-high-speed-arena/",
+  "qa_pairs": [
+    {
+      "question": "What nickname is sometimes given to the Longford circuit in Australia?",
+      "correct_answer": "Reims of the South Pacific",
+      "wrong_options": [
+        "Monaco of the South Pacific",
+        "Spa of the Southern Hemisphere",
+        "Silverstone of Australia"
+      ]
+    },
+    {
+      "question": "What type of circuit is Longford primarily known for?",
+      "correct_answer": "High-speed arena",
+      "wrong_options": [
+        "Street circuit",
+        "Technical circuit",
+        "Rally stage"
+      ]
+    },
+    {
+      "question": "Why do Australian motor racing fans have a special affection for Longford?",
+      "correct_answer": "It has long, fast straights and undulations",
+      "wrong_options": [
+        "It is the oldest circuit in Australia",
+        "It hosted the first Formula 1 race in Australia",
+        "It features a unique night race setup"
+      ]
+    }
+  ]
+}

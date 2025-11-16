@@ -1,0 +1,36 @@
+{
+  "article_number": 224,
+  "source": "Motorsport Magazine",
+  "title": "2025 Belgian Grand Prix start time: how to watch, live stream, F1 schedule and weather",
+  "summary": "F1 returns from a three-week break for the Belgian Grand Prix at Spa. Here's your quick guide to the start time, how to watch, live stream options, full F1 schedule, and weather forecast",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-belgian-grand-prix-start-time-how-to-watch-live-stream-f1-schedule-and-weather/",
+  "qa_pairs": [
+    {
+      "question": "What is the traditional location for the Belgian Grand Prix in Formula 1?",
+      "correct_answer": "Circuit de Spa-Francorchamps",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Silverstone Circuit",
+        "Suzuka Circuit"
+      ]
+    },
+    {
+      "question": "How long is the typical break between Formula 1 races during the season?",
+      "correct_answer": "Approximately three weeks",
+      "wrong_options": [
+        "One week",
+        "Two weeks",
+        "Four weeks"
+      ]
+    },
+    {
+      "question": "What type of weather conditions can typically be expected at the Belgian Grand Prix?",
+      "correct_answer": "Variable weather, often including rain",
+      "wrong_options": [
+        "Consistently dry and sunny",
+        "Snowy conditions",
+        "High winds"
+      ]
+    }
+  ]
+}

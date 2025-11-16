@@ -1,0 +1,36 @@
+{
+  "article_number": 252,
+  "source": "Motorsport Magazine",
+  "title": "‘Thank you Nicholas Latifi’ – Christian Horner’s greatest quotes",
+  "summary": "Former Red Bull boss Christian Horner was never lost for words – here are some of his best soundbites from 20 years in F1",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/thank-you-nicholas-latifi-christian-horners-greatest-quotes/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Red Bull Racing for over 20 years?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Guenther Steiner",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "Which driver is often associated with Christian Horner's memorable quotes due to his time at Williams?",
+      "correct_answer": "Nicholas Latifi",
+      "wrong_options": [
+        "Lance Stroll",
+        "Daniel Ricciardo",
+        "Kevin Magnussen"
+      ]
+    },
+    {
+      "question": "What role does a team principal play in a Formula 1 team?",
+      "correct_answer": "Overseeing team operations and strategy",
+      "wrong_options": [
+        "Designing the car",
+        "Managing driver contracts",
+        "Conducting pit stops"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 251,
+  "source": "Motorsport Magazine",
+  "title": "F1's brutal axe: the team bosses who were ruthlessly sacked",
+  "summary": "From shock Zoom calls to ruthless midnight firings, F1’s history is littered with team principals and executives who are in command one moment and unceremoniously sacked the next",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1s-brutal-axe-the-team-bosses-who-were-ruthlessly-sacked/",
+  "qa_pairs": [
+    {
+      "question": "What is a common method used by F1 teams to inform team principals of their dismissal?",
+      "correct_answer": "Shock Zoom calls",
+      "wrong_options": [
+        "Formal letters",
+        "Public announcements",
+        "Text messages"
+      ]
+    },
+    {
+      "question": "What is a significant factor that can lead to the sacking of a team principal in Formula 1?",
+      "correct_answer": "Poor team performance",
+      "wrong_options": [
+        "Strong media presence",
+        "High driver salaries",
+        "Technical innovations"
+      ]
+    },
+    {
+      "question": "In what time frame have some team principals been dismissed, highlighting the urgency of such decisions?",
+      "correct_answer": "Midnight firings",
+      "wrong_options": [
+        "During race weekends",
+        "At team retreats",
+        "After board meetings"
+      ]
+    }
+  ]
+}

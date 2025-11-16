@@ -1,0 +1,36 @@
+{
+  "article_number": 274,
+  "source": "Motorsport Magazine",
+  "title": "Oscar Piastri is probably the next F1 champion, thanks to a dose of Aussie grit",
+  "summary": "Cricket’s inaugural Test of March 1877 set the tone. An England party that was already exhausted by a hectic schedule – this match in Melbourne was to be the 19th…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/62/oscar-piastri-is-probably-the-next-f1-champion-thanks-to-a-dose-of-aussie-grit/",
+  "qa_pairs": [
+    {
+      "question": "Which Australian driver made a significant impact in Formula 1 and is considered a potential future champion?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Mark Webber",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "In which year did Formula 1 driver Oscar Piastri make his debut?",
+      "correct_answer": "2021",
+      "wrong_options": [
+        "2020",
+        "2019",
+        "2022"
+      ]
+    },
+    {
+      "question": "What characteristic is often associated with successful drivers from Australia in Formula 1?",
+      "correct_answer": "Grit",
+      "wrong_options": [
+        "Speed",
+        "Technical knowledge",
+        "Team loyalty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 241,
+  "source": "Motorsport Magazine",
+  "title": "V8 engines back in F1: Realistic or pure fantasy?",
+  "summary": "A return to V8 engines in Formula 1 may stir nostalgia, but how realistic is it under the sport’s current push for sustainability and hybrid innovation?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/v8-engines-back-in-f1-realistic-or-pure-fantasy/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary focus of Formula 1 in recent years regarding engine technology?",
+      "correct_answer": "Sustainability and hybrid innovation.",
+      "wrong_options": [
+        "Purely mechanical performance",
+        "V8 engine revival",
+        "Turbocharged engines only"
+      ]
+    },
+    {
+      "question": "What type of engines were used in Formula 1 before the current hybrid power units?",
+      "correct_answer": "V8 engines.",
+      "wrong_options": [
+        "V6 engines",
+        "V10 engines",
+        "V12 engines"
+      ]
+    },
+    {
+      "question": "Which aspect of engineering has become a crucial part of Formula 1's strategy for the future?",
+      "correct_answer": "Hybrid technology.",
+      "wrong_options": [
+        "Aerodynamics only",
+        "Mechanical simplicity",
+        "V8 engine efficiency"
+      ]
+    }
+  ]
+}

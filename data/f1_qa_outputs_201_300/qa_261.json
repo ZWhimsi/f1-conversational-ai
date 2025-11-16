@@ -1,0 +1,36 @@
+{
+  "article_number": 261,
+  "source": "Motorsport Magazine",
+  "title": "The Christian Horner texting scandal that split Red Bull",
+  "summary": "Allegations of inappropriate behaviour made against Red Bull F1 team boss Christian Horner were dismissed twice, but heralded a series of big-name departures from the team, and ultimately his sacking",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-christian-horner-texting-scandal-that-split-red-bull/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing F1 team?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Zhou Guanyu"
+      ]
+    },
+    {
+      "question": "What was the outcome for Christian Horner following the allegations made against him?",
+      "correct_answer": "He was sacked from his position.",
+      "wrong_options": [
+        "He was promoted",
+        "He resigned voluntarily",
+        "He was suspended temporarily"
+      ]
+    },
+    {
+      "question": "Which of the following is a common consequence of internal team scandals in Formula 1?",
+      "correct_answer": "Big-name departures from the team.",
+      "wrong_options": [
+        "Increased sponsorship deals",
+        "More successful race performances",
+        "Strengthened team unity"
+      ]
+    }
+  ]
+}

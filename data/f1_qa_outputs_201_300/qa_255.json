@@ -1,0 +1,36 @@
+{
+  "article_number": 255,
+  "source": "Motorsport Magazine",
+  "title": "Christian Horner 'proud of achievements' after Red Bull sacking, one year on from scandal",
+  "summary": "Christian Horner has been released from his position as Red Bull F1 team principal and will be replaced by Racing Bulls' Laurent Mekies",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/christian-horner-sacked-by-red-bull-one-year-on-from-scancal/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Red Bull Racing before Laurent Mekies?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Frederic Vasseur"
+      ]
+    },
+    {
+      "question": "What team is Laurent Mekies associated with after the change in Red Bull's leadership?",
+      "correct_answer": "Racing Bulls",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What major event led to Christian Horner's departure from Red Bull Racing?",
+      "correct_answer": "A scandal",
+      "wrong_options": [
+        "A championship loss",
+        "Driver contract disputes",
+        "Technical rule violations"
+      ]
+    }
+  ]
+}

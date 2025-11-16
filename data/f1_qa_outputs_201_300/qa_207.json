@@ -1,0 +1,36 @@
+{
+  "article_number": 207,
+  "source": "Motorsport Magazine",
+  "title": "Russell's future clearing up - What you missed at the Belgian GP",
+  "summary": "While Spa's skies kept everyone guessing, some real action was unfolding off-track - from driver market shifts and new power plays at Red Bull to karting obsession and calendar complications. Here's what you may have missed at the Belgian GP weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/russells-future-clearing-up-what-you-missed-at-the-belgian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for its recent power plays and strategic shifts in the driver market?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What racing event is Spa-Francorchamps most commonly associated with in the Formula 1 calendar?",
+      "correct_answer": "Belgian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "Singapore Grand Prix"
+      ]
+    },
+    {
+      "question": "In addition to F1, what type of racing has seen a resurgence in popularity among drivers during the off-season?",
+      "correct_answer": "Karting",
+      "wrong_options": [
+        "Rallying",
+        "IndyCar",
+        "Touring Car Racing"
+      ]
+    }
+  ]
+}

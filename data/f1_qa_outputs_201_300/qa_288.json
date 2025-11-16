@@ -1,0 +1,36 @@
+{
+  "article_number": 288,
+  "source": "Motorsport Magazine",
+  "title": "Norris quickest from Ferrari drivers - 2025 British GP practice results",
+  "summary": "Austrian GP winner Norris went quickest at Silverstone during the Friday F1 practice sessions ahead of the 2025 British Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-quickest-from-ferrari-drivers-2025-british-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the Austrian Grand Prix in 2025?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Carlos Sainz",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What team does Lando Norris drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "Where is the British Grand Prix held?",
+      "correct_answer": "Silverstone",
+      "wrong_options": [
+        "Brands Hatch",
+        "Donington Park",
+        "Birmingham Circuit"
+      ]
+    }
+  ]
+}

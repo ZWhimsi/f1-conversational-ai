@@ -1,0 +1,36 @@
+{
+  "article_number": 294,
+  "source": "Motorsport Magazine",
+  "title": "The best British drivers who never won at home in Formula 1",
+  "summary": "They say that winning your home race is one of the best feelings in Formula 1, but plenty of top UK talents have never made it to the top step of the British Grand Prix podium",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-best-british-drivers-who-never-won-at-home-in-formula-1/",
+  "qa_pairs": [
+    {
+      "question": "Which British driver is known for his exceptional career but never won the British Grand Prix?",
+      "correct_answer": "Nigel Mansell",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Jenson Button",
+        "David Coulthard"
+      ]
+    },
+    {
+      "question": "What is the significance of winning a home race in Formula 1?",
+      "correct_answer": "It is considered one of the best feelings for a driver.",
+      "wrong_options": [
+        "It guarantees a championship title.",
+        "It secures a contract for the next season.",
+        "It provides extra points towards the championship."
+      ]
+    },
+    {
+      "question": "As of October 2023, which British driver holds the record for the most wins at the British Grand Prix?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Jenson Button",
+        "Nigel Mansell",
+        "Damon Hill"
+      ]
+    }
+  ]
+}

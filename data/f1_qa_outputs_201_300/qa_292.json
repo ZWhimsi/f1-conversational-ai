@@ -1,0 +1,36 @@
+{
+  "article_number": 292,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 British GP",
+  "summary": "The field is tightening up ahead of the 2025 British GP F1 Fantasy round. Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is historically known for its strong performance at the British Grand Prix?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What strategy might fantasy players consider when selecting drivers for a specific race like the British GP?",
+      "correct_answer": "Choosing drivers with a strong track record at the circuit.",
+      "wrong_options": [
+        "Selecting only rookie drivers",
+        "Avoiding drivers from the top teams",
+        "Focusing solely on the lowest priced drivers"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is the purpose of using chips during a race weekend?",
+      "correct_answer": "To maximize points through strategic boosts.",
+      "wrong_options": [
+        "To reduce the number of drivers selected",
+        "To replace a driver mid-race",
+        "To decrease overall team costs"
+      ]
+    }
+  ]
+}

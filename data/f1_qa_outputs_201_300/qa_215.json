@@ -1,0 +1,36 @@
+{
+  "article_number": 215,
+  "source": "Motorsport Magazine",
+  "title": "Piastri quickest from Verstappen at Spa - 2025 Belgian GP practice results",
+  "summary": "Championship leader Piastri goes quickest at Spa from Verstappen and Norris",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-tops-practice-from-verstappen-2025-belgian-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Who was the quickest driver during the practice session at the 2025 Belgian GP?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lando Norris",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which team is Oscar Piastri driving for in the 2025 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What position did Max Verstappen achieve during the practice session at Spa?",
+      "correct_answer": "Second",
+      "wrong_options": [
+        "First",
+        "Third",
+        "Fourth"
+      ]
+    }
+  ]
+}

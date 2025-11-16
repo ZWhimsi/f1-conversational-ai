@@ -1,0 +1,36 @@
+{
+  "article_number": 229,
+  "source": "Motorsport Magazine",
+  "title": "12 moments that defined the first 12 F1 races of 2025",
+  "summary": "From dramatic races to shocking plot twists and standout performances, these are the 12 pivotal moments that shaped the opening half the 2025 Formula 1 season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/12-moments-that-defined-the-first-12-f1-races-of-2025/",
+  "qa_pairs": [
+    {
+      "question": "What is a common factor in defining pivotal moments in Formula 1 races?",
+      "correct_answer": "Dramatic incidents or standout performances.",
+      "wrong_options": [
+        "Driver penalties",
+        "Team budget increases",
+        "Weather conditions"
+      ]
+    },
+    {
+      "question": "Which element often contributes to shocking plot twists in an F1 race?",
+      "correct_answer": "Unexpected strategy changes.",
+      "wrong_options": [
+        "Consistent lap times",
+        "Same tire compounds",
+        "Pre-race predictions"
+      ]
+    },
+    {
+      "question": "What can be a significant impact of standout performances during a season?",
+      "correct_answer": "Influencing championship standings.",
+      "wrong_options": [
+        "Increasing team budget",
+        "Changing tire manufacturers",
+        "Altering race locations"
+      ]
+    }
+  ]
+}

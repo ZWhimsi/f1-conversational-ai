@@ -1,0 +1,36 @@
+{
+  "article_number": 213,
+  "source": "Motorsport Magazine",
+  "title": "Piastri destroys field as Hamilton spins out of Belgian GP sprint qualifying",
+  "summary": "Championship leader Piastri dominates sprint qualifying to grab pole from Verstappen and Norris",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-takes-pole-by-0-477sec-from-verstappen-2025-belgian-gp-sprint-qualifying-results/",
+  "qa_pairs": [
+    {
+      "question": "Who was the championship leader during the Belgian GP sprint qualifying?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "Which driver secured pole position in the Belgian GP sprint qualifying?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Carlos Sainz",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What major incident occurred involving Lewis Hamilton during the sprint qualifying?",
+      "correct_answer": "He spun out",
+      "wrong_options": [
+        "He collided with another driver",
+        "He received a penalty",
+        "He set the fastest lap"
+      ]
+    }
+  ]
+}

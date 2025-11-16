@@ -1,0 +1,36 @@
+{
+  "article_number": 223,
+  "source": "Motorsport Magazine",
+  "title": "McLaren backs F1 champions display at 2025 Silverstone Festival",
+  "summary": "McLaren will play a major role in this summer’s Silverstone Festival as it backs a landmark exhibition celebrating the 75th anniversary of the Formula 1 world championship. The Woking-based team…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-backs-f1-champions-display-at-2025-silverstone-festival/",
+  "qa_pairs": [
+    {
+      "question": "What milestone anniversary will be celebrated at the 2025 Silverstone Festival?",
+      "correct_answer": "75th anniversary of the Formula 1 world championship",
+      "wrong_options": [
+        "50th anniversary of the Formula 1 world championship",
+        "100th anniversary of the Silverstone circuit",
+        "25th anniversary of the McLaren team"
+      ]
+    },
+    {
+      "question": "Which F1 team is backing the exhibition at the 2025 Silverstone Festival?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "In what year will the Silverstone Festival celebrating the 75th anniversary of F1 take place?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2026",
+        "2023"
+      ]
+    }
+  ]
+}

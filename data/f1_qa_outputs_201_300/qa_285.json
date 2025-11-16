@@ -1,0 +1,36 @@
+{
+  "article_number": 285,
+  "source": "Motorsport Magazine",
+  "title": "Norris wins after Piastri penalty; Hülkenberg on podium - 2025 British GP results",
+  "summary": "Norris takes home victory in dramatic British Grand Prix as Piastri is hit with a penalty",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-wins-after-piastri-penalty-hulkenberg-on-podium-2025-british-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 British Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Nico Hülkenberg",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What caused Oscar Piastri to lose his position in the 2025 British Grand Prix?",
+      "correct_answer": "A penalty",
+      "wrong_options": [
+        "Mechanical failure",
+        "Fuel issues",
+        "Accident on track"
+      ]
+    },
+    {
+      "question": "Which driver finished on the podium alongside Lando Norris and Oscar Piastri at the 2025 British GP?",
+      "correct_answer": "Nico Hülkenberg",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Carlos Sainz",
+        "Max Verstappen"
+      ]
+    }
+  ]
+}

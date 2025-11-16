@@ -1,0 +1,36 @@
+{
+  "article_number": 217,
+  "source": "Motorsport Magazine",
+  "title": "Hamilton pours cold water on Ferrari's new suspension hype",
+  "summary": "Ferrari fans have been hoping that a new suspension upgrade could put the team in the mix for F1 victory at Spa, but Lewis Hamilton doesn't share their optimism",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hamilton-pours-cold-water-on-ferraris-new-suspension-hype/",
+  "qa_pairs": [
+    {
+      "question": "Which driver expressed skepticism about Ferrari's new suspension upgrades?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is the significance of the Spa circuit in Formula 1?",
+      "correct_answer": "It is known for its challenging layout and elevation changes.",
+      "wrong_options": [
+        "It is the shortest circuit on the calendar.",
+        "It features a street circuit layout.",
+        "It is primarily known for its high-speed straights."
+      ]
+    },
+    {
+      "question": "What was the expectation among Ferrari fans regarding the new suspension?",
+      "correct_answer": "They hoped it would improve the team's chances of victory.",
+      "wrong_options": [
+        "They expected it to reduce tire wear dramatically.",
+        "They believed it would enhance engine performance.",
+        "They thought it would lead to a complete redesign of the car."
+      ]
+    }
+  ]
+}

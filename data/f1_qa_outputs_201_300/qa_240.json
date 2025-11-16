@@ -1,0 +1,36 @@
+{
+  "article_number": 240,
+  "source": "Motorsport Magazine",
+  "title": "Häkkinen remembers his near-death F1 crash: 'The pain was unbelievable'",
+  "summary": "Thirty years on from his nearly-fatal Adelaide F1 crash, Mika Häkkinen has recalled the harrowing journey back to competing on the grid again. The Finn told Motor Sport about the…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hakkinen-remembers-his-near-death-f1-crash-the-pain-was-unbelievable/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Mika Häkkinen experience his near-fatal crash in Adelaide?",
+      "correct_answer": "1995",
+      "wrong_options": [
+        "1996",
+        "1994",
+        "1997"
+      ]
+    },
+    {
+      "question": "Mika Häkkinen won the Formula 1 World Championship titles in which years?",
+      "correct_answer": "1998 and 1999",
+      "wrong_options": [
+        "1996 and 1997",
+        "2000 and 2001",
+        "1995 and 1996"
+      ]
+    },
+    {
+      "question": "What was the primary cause of Mika Häkkinen's crash in the 1995 Adelaide Grand Prix?",
+      "correct_answer": "Loss of control due to a mechanical failure",
+      "wrong_options": [
+        "Driver error",
+        "Weather conditions",
+        "Collision with another car"
+      ]
+    }
+  ]
+}

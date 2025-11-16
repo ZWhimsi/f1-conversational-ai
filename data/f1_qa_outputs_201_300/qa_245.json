@@ -1,0 +1,36 @@
+{
+  "article_number": 245,
+  "source": "Motorsport Magazine",
+  "title": "Why Senna and Prost were held back by 'strange fear' of each other",
+  "summary": "Ayrton Senna and Alain Prost were more concerned about losing ground to the other than taking a risk to maximise their own performance, says McLaren designer Neil Oatley in a newMotor Sportinterview",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-senna-and-prost-were-held-back-by-strange-fear-of-each-other/",
+  "qa_pairs": [
+    {
+      "question": "Which two legendary Formula 1 drivers had a famous rivalry during the late 1980s and early 1990s?",
+      "correct_answer": "Ayrton Senna and Alain Prost",
+      "wrong_options": [
+        "Niki Lauda and James Hunt",
+        "Michael Schumacher and Mika Hakkinen",
+        "Lewis Hamilton and Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What team were Ayrton Senna and Alain Prost driving for during their intense rivalry?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Williams",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What psychological factor reportedly affected Senna and Prost's performance against each other?",
+      "correct_answer": "'Strange fear' of losing to one another",
+      "wrong_options": [
+        "Fear of technical failures",
+        "Injury concerns",
+        "Pressure from media"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 205,
+  "source": "Motorsport Magazine",
+  "title": "The fears and criticisms triggered by the 2026 F1 rules",
+  "summary": "The overhaul of F1 regulations for 2026 has sparked widespread fears and criticism among drivers, teams, and fans, who worry about the complexity, cost, and performance of the new cars",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-fears-and-criticisms-triggered-by-the-2026-f1-rules/",
+  "qa_pairs": [
+    {
+      "question": "What major change is being introduced in Formula 1 for the 2026 season?",
+      "correct_answer": "An overhaul of the regulations.",
+      "wrong_options": [
+        "Introduction of hybrid engines only.",
+        "New tire compounds for wet conditions.",
+        "Elimination of DRS technology."
+      ]
+    },
+    {
+      "question": "Which stakeholders in Formula 1 have expressed concerns about the 2026 regulations?",
+      "correct_answer": "Drivers, teams, and fans.",
+      "wrong_options": [
+        "Only team principals.",
+        "FIA officials only.",
+        "Media representatives."
+      ]
+    },
+    {
+      "question": "What are the main concerns regarding the new cars for the 2026 season?",
+      "correct_answer": "Complexity, cost, and performance.",
+      "wrong_options": [
+        "Increased horsepower and speed.",
+        "Reduced pit stop times.",
+        "More overtaking opportunities."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 262,
+  "source": "Motorsport Magazine",
+  "title": "Christian Horner: From aspiring F1 driver to Red Bull team principal",
+  "summary": "Christian Horner hoped he would end up racing in Formula 1; fell into the team manager role; and became one of the most successful bosses in the series' history. Here's his story, from early days of racing in Formula Renault to managing Red Bull to multiple F1 title triumphs – and his exit after a controversial final season",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/christian-horner-from-aspiring-f1-driver-to-red-bull-team-principal/",
+  "qa_pairs": [
+    {
+      "question": "What role did Christian Horner take on after his aspirations of becoming an F1 driver?",
+      "correct_answer": "Team principal",
+      "wrong_options": [
+        "Technical director",
+        "Race engineer",
+        "Driver manager"
+      ]
+    },
+    {
+      "question": "Which team did Christian Horner manage to multiple F1 title triumphs?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which racing series did Christian Horner begin his early career?",
+      "correct_answer": "Formula Renault",
+      "wrong_options": [
+        "Formula 3",
+        "GP2",
+        "IndyCar"
+      ]
+    }
+  ]
+}

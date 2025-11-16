@@ -1,0 +1,36 @@
+{
+  "article_number": 271,
+  "source": "Motorsport Magazine",
+  "title": "Norris was lucky, Piastri was better driver – British GP Up/Down",
+  "summary": "Was Oscar Piastri the real winner in the long run after Silverstone? asksJames Elson",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-was-lucky-piastri-was-better-driver-british-gp-up-down/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Oscar Piastri drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Alpine",
+        "Ferrari",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What notable event took place at the British Grand Prix?",
+      "correct_answer": "Oscar Piastri's strong performance",
+      "wrong_options": [
+        "Lewis Hamilton's victory",
+        "Max Verstappen's pole position",
+        "Sergio Perez's retirement"
+      ]
+    },
+    {
+      "question": "Which driver is often associated with McLaren alongside Oscar Piastri?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Carlos Sainz",
+        "Charles Leclerc"
+      ]
+    }
+  ]
+}

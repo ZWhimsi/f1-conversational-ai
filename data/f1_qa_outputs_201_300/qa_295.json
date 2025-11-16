@@ -1,0 +1,36 @@
+{
+  "article_number": 295,
+  "source": "Motorsport Magazine",
+  "title": "How Russell reacted to Verstappen - Mercedes rumours at Silverstone",
+  "summary": "George Russell says his chances of leaving Mercedes at the end of the year are \"exceptionally low\"",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-russell-reacted-to-verstappen-mercedes-rumours-at-silverstone/",
+  "qa_pairs": [
+    {
+      "question": "Which team does George Russell currently drive for in Formula 1?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What was George Russell's reaction regarding rumors of leaving Mercedes?",
+      "correct_answer": "He stated that his chances of leaving are exceptionally low.",
+      "wrong_options": [
+        "He is considering other teams.",
+        "He confirmed he will leave Mercedes.",
+        "He has not thought about it."
+      ]
+    },
+    {
+      "question": "As of 2023, who is the reigning World Champion in Formula 1?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ]
+    }
+  ]
+}

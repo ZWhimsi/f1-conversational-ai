@@ -1,0 +1,36 @@
+{
+  "article_number": 248,
+  "source": "Motorsport Magazine",
+  "title": "Brands Hatch: F1's beloved countryside amphitheatre",
+  "summary": "On this day in 1964, the roar of F1 engines echoed through the Kent countryside for the first time, as Brands Hatch made its debut on the world stage",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/brands-hatch-f1s-beloved-countryside-amphitheatre/",
+  "qa_pairs": [
+    {
+      "question": "In what year did Brands Hatch make its Formula 1 debut?",
+      "correct_answer": "1964",
+      "wrong_options": [
+        "1966",
+        "1962",
+        "1970"
+      ]
+    },
+    {
+      "question": "In which county is Brands Hatch located?",
+      "correct_answer": "Kent",
+      "wrong_options": [
+        "Surrey",
+        "Essex",
+        "Sussex"
+      ]
+    },
+    {
+      "question": "What type of event was held at Brands Hatch when it debuted in 1964?",
+      "correct_answer": "Formula 1 race",
+      "wrong_options": [
+        "IndyCar race",
+        "Le Mans race",
+        "MotoGP race"
+      ]
+    }
+  ]
+}

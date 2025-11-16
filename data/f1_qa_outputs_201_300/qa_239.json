@@ -1,0 +1,36 @@
+{
+  "article_number": 239,
+  "source": "Motorsport Magazine",
+  "title": "Who are F1’s 10 youngest world champions?",
+  "summary": "Through the years records have tumbled and world titles have been claimed by increasingly youthful drivers – but who makes the top ten of F1's youngest ever champions?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-are-f1s-10-youngest-world-champions/",
+  "qa_pairs": [
+    {
+      "question": "Who was the youngest driver to win a Formula 1 World Championship?",
+      "correct_answer": "Sebastian Vettel",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Michael Schumacher"
+      ]
+    },
+    {
+      "question": "Which team did Sebastian Vettel drive for when he became the youngest world champion?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Toro Rosso"
+      ]
+    },
+    {
+      "question": "As of 2023, who is the second youngest world champion in Formula 1 history?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Nico Rosberg",
+        "Alain Prost",
+        "Jenson Button"
+      ]
+    }
+  ]
+}

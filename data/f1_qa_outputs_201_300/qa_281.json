@@ -1,0 +1,36 @@
+{
+  "article_number": 281,
+  "source": "Motorsport Magazine",
+  "title": "Haas keeps rejecting offers for the F1 team - What you missed at the British GP",
+  "summary": "From a Sauber fairytale to a Lego trophy, political tremors to paddock surprises, the 2025 British Grand Prix weekend delivered drama, emotion and headlines on and off the track that few saw coming",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-haas-offers-keep-on-coming-what-you-missed-at-the-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known for its fairytale story in Formula 1, particularly highlighted during the British Grand Prix weekend?",
+      "correct_answer": "Sauber",
+      "wrong_options": [
+        "Haas",
+        "Williams",
+        "Alfa Romeo"
+      ]
+    },
+    {
+      "question": "What type of trophy was notably mentioned in relation to the British Grand Prix?",
+      "correct_answer": "Lego trophy",
+      "wrong_options": [
+        "Crystal trophy",
+        "Gold trophy",
+        "Silver trophy"
+      ]
+    },
+    {
+      "question": "What kind of events besides racing typically occur during a Grand Prix weekend that can affect team dynamics?",
+      "correct_answer": "Political tremors",
+      "wrong_options": [
+        "Weather changes",
+        "Driver injuries",
+        "Fan protests"
+      ]
+    }
+  ]
+}

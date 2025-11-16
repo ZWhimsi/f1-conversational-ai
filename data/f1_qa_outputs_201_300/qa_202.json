@@ -1,0 +1,36 @@
+{
+  "article_number": 202,
+  "source": "Motorsport Magazine",
+  "title": "F1 2026: The ultimate guide to new rules and changes",
+  "summary": "Find out everything that will change in Formula 1 in 2026, from engines to new teams and rules",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-2026-the-ultimate-guide-to-new-rules-and-changes/",
+  "qa_pairs": [
+    {
+      "question": "What significant change regarding engines is set to occur in Formula 1 starting in 2026?",
+      "correct_answer": "The introduction of new power unit regulations requiring more sustainable fuels.",
+      "wrong_options": [
+        "The elimination of hybrid technology.",
+        "The return to naturally aspirated engines.",
+        "The use of V10 engines exclusively."
+      ]
+    },
+    {
+      "question": "Which new teams are expected to join the Formula 1 grid in 2026?",
+      "correct_answer": "Potential new teams are not officially confirmed, but candidates include Audi and Porsche.",
+      "wrong_options": [
+        "Prodrive and Jaguar",
+        "BMW and Toyota",
+        "Lotus and Minardi"
+      ]
+    },
+    {
+      "question": "How will the rules regarding car design change in F1 for the 2026 season?",
+      "correct_answer": "There will be stricter regulations to improve safety and reduce costs.",
+      "wrong_options": [
+        "Complete freedom in design with no limitations.",
+        "A return to ground effect aerodynamics.",
+        "Mandatory use of a single chassis supplier."
+      ]
+    }
+  ]
+}

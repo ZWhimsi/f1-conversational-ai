@@ -1,0 +1,36 @@
+{
+  "article_number": 289,
+  "source": "Motorsport Magazine",
+  "title": "Why 2024 British GP was Hamilton's greatest F1 win",
+  "summary": "Lewis Hamilton hadn't won in almost three years – and then produced a sensational victory at Silverstone 2024.James Elsonexplains why it was his best ever",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-2024-british-gp-was-hamiltons-greatest-f1-win/",
+  "qa_pairs": [
+    {
+      "question": "Which driver secured a victory at the 2024 British Grand Prix?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "How long had it been since Lewis Hamilton last won a Formula 1 race before his 2024 British GP victory?",
+      "correct_answer": "Almost three years",
+      "wrong_options": [
+        "One year",
+        "Two years",
+        "Five years"
+      ]
+    },
+    {
+      "question": "What is significant about Lewis Hamilton's win at Silverstone in 2024?",
+      "correct_answer": "It was considered his greatest F1 win.",
+      "wrong_options": [
+        "It was his first race win",
+        "It marked his retirement",
+        "It was his last race of the season"
+      ]
+    }
+  ]
+}

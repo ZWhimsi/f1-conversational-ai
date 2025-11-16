@@ -1,0 +1,36 @@
+{
+  "article_number": 290,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Doubts over 'science project' 2026 F1 cars are not going away",
+  "summary": "As more drivers get a feel for the 2026 Formula 1 cars in simulators, concern is growing that the new regulations may sacrifice driving enjoyment in pursuit of technical ambition, asMark Hughesreports",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-doubts-over-science-project-2026-f1-cars-are-not-going-away/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary focus of the new regulations for the 2026 Formula 1 cars?",
+      "correct_answer": "Technical ambition",
+      "wrong_options": [
+        "Increased horsepower",
+        "Lower costs for teams",
+        "Enhanced aerodynamics"
+      ]
+    },
+    {
+      "question": "What are drivers currently testing in relation to the 2026 Formula 1 season?",
+      "correct_answer": "Simulators",
+      "wrong_options": [
+        "Actual race tracks",
+        "Pre-season testing",
+        "Team wind tunnels"
+      ]
+    },
+    {
+      "question": "What concern is being expressed by drivers about the 2026 F1 cars?",
+      "correct_answer": "Sacrifice of driving enjoyment",
+      "wrong_options": [
+        "Increased fuel efficiency",
+        "Greater safety measures",
+        "Higher speeds"
+      ]
+    }
+  ]
+}

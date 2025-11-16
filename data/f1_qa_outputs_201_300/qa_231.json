@@ -1,0 +1,36 @@
+{
+  "article_number": 231,
+  "source": "Motorsport Magazine",
+  "title": "MPH: To the man trying to fill Christian Horner's shoes: good luck!",
+  "summary": "Laurent Mekies arrives as Red Bull F1 team principal with a series of immediate challenges to solve and long-term issues to tackle. He'll either sink or swim, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-to-the-man-trying-to-fill-christian-horners-shoes-good-luck/",
+  "qa_pairs": [
+    {
+      "question": "Who is the new team principal of Red Bull Racing as of the latest season?",
+      "correct_answer": "Laurent Mekies",
+      "wrong_options": [
+        "Christian Horner",
+        "Toto Wolff",
+        "Mattia Binotto"
+      ]
+    },
+    {
+      "question": "What kind of challenges is Laurent Mekies expected to face as the new team principal?",
+      "correct_answer": "Immediate challenges and long-term issues",
+      "wrong_options": [
+        "Only long-term issues",
+        "No significant challenges",
+        "Only immediate challenges"
+      ]
+    },
+    {
+      "question": "Which team did Christian Horner lead prior to Laurent Mekies' appointment?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    }
+  ]
+}

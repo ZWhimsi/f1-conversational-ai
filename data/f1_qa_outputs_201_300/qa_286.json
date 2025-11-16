@@ -1,0 +1,36 @@
+{
+  "article_number": 286,
+  "source": "Motorsport Magazine",
+  "title": "Gallery: Bearman & Brundle let rip in cars from 1950 British GP",
+  "summary": "To celebrate 75 years of F1, Ollie Bearman and Martin Brundle got behind the wheel of cars involved in the 1950 British GP – They toldMotor Sportabout the thrilling experience",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/gallery-bearman-brundle-let-rip-in-cars-from-1950-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "What significant event does the 1950 British Grand Prix represent in Formula 1 history?",
+      "correct_answer": "It was the inaugural Formula 1 World Championship race.",
+      "wrong_options": [
+        "It was the first night race in F1 history.",
+        "It introduced hybrid engines to F1.",
+        "It was the first race held outside Europe."
+      ]
+    },
+    {
+      "question": "Who are Ollie Bearman and Martin Brundle?",
+      "correct_answer": "Ollie Bearman is a racing driver and Martin Brundle is a former F1 driver and current commentator.",
+      "wrong_options": [
+        "Both are current F1 team principals.",
+        "Both are legendary F1 engineers.",
+        "Both are famous F1 team owners."
+      ]
+    },
+    {
+      "question": "Which notable achievement was celebrated alongside the 1950 British GP in 2023?",
+      "correct_answer": "The 75th anniversary of Formula 1.",
+      "wrong_options": [
+        "The introduction of electric cars in F1.",
+        "The first season of F1's sprint races.",
+        "The opening of a new F1 circuit in the UK."
+      ]
+    }
+  ]
+}

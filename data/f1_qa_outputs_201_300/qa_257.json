@@ -1,0 +1,36 @@
+{
+  "article_number": 257,
+  "source": "Motorsport Magazine",
+  "title": "‘Horner lost political war after creating one-car Red Bull team’",
+  "summary": "Christian Horner's Red Bull team developed an F1  car that only Max Verstappen can race successfully and now he's had to carry the can, says Karun Chandhok",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/karun-chandhok-horner-sacked-for-creating-one-car-team/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently the standout performer for Red Bull Racing?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Sergio Pérez",
+        "Daniel Ricciardo",
+        "Lando Norris"
+      ]
+    },
+    {
+      "question": "What term describes a team that develops a car primarily suited for one driver's style?",
+      "correct_answer": "One-car team",
+      "wrong_options": [
+        "Two-car team",
+        "Single-seater team",
+        "Multi-chassis team"
+      ]
+    },
+    {
+      "question": "Who is the team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Zoran Stojadinovic"
+      ]
+    }
+  ]
+}

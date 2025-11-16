@@ -1,0 +1,36 @@
+{
+  "article_number": 267,
+  "source": "Motorsport Magazine",
+  "title": "Aintree: Britain’s forgotten F1 circuit",
+  "summary": "Just how good was Aintree, the circuit situated six miles north of Liverpool’s city centre? Created on the hallowed precincts of the Grand National horse race, it opened to international-class…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/101/aintree-britains-forgotten-f1-circuit/",
+  "qa_pairs": [
+    {
+      "question": "Which famous horse race is associated with the Aintree circuit?",
+      "correct_answer": "The Grand National",
+      "wrong_options": [
+        "The Derby",
+        "Preakness Stakes",
+        "Belmont Stakes"
+      ]
+    },
+    {
+      "question": "Aintree is located near which major British city?",
+      "correct_answer": "Liverpool",
+      "wrong_options": [
+        "Manchester",
+        "Birmingham",
+        "London"
+      ]
+    },
+    {
+      "question": "What type of racing circuit was Aintree known for hosting?",
+      "correct_answer": "Formula 1 races",
+      "wrong_options": [
+        "MotoGP races",
+        "IndyCar races",
+        "Touring car races"
+      ]
+    }
+  ]
+}

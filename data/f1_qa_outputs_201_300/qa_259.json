@@ -1,0 +1,36 @@
+{
+  "article_number": 259,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes analysis: Why Red Bull sacked Christian Horner",
+  "summary": "Christian Horner's dismissal well and truly marks the end of a wildly successful era for Red Bull.Mark Hughesexamines how the team started to crumble",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-analysis-why-red-bull-sacked-christian-horner/",
+  "qa_pairs": [
+    {
+      "question": "What role did Christian Horner hold at Red Bull Racing?",
+      "correct_answer": "Team Principal",
+      "wrong_options": [
+        "Chief Engineer",
+        "Technical Director",
+        "Lead Driver"
+      ]
+    },
+    {
+      "question": "Which team has won the most Constructors' Championships in recent years?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is a common reason for team management changes in Formula 1?",
+      "correct_answer": "Poor performance or results",
+      "wrong_options": [
+        "Driver contract negotiations",
+        "Sponsorship deals",
+        "New technical regulations"
+      ]
+    }
+  ]
+}

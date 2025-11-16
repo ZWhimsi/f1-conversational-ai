@@ -1,0 +1,36 @@
+{
+  "article_number": 243,
+  "source": "Motorsport Magazine",
+  "title": "Who is Sonny Hayes based on? Real-life F1 comebacks just as dramatic as the movie",
+  "summary": "Long before Brad Pitt'sF1movie put the spotlight on fictional driver Sonny Hayes' return to the grid, Formula 1 was being shaped by the real-life comebacks that inspired many. Plus, more reasons why the character resembles genuine drivers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-sonny-hayes-based-on-real-life-f1-comebacks-just-as-dramatic-as-the-movie/",
+  "qa_pairs": [
+    {
+      "question": "Which famous driver made a dramatic comeback in Formula 1 after retiring in 2006?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Kimi Räikkönen",
+        "Fernando Alonso",
+        "Nico Rosberg"
+      ]
+    },
+    {
+      "question": "What is a notable reason drivers may return to Formula 1 after retirement?",
+      "correct_answer": "Passion for racing",
+      "wrong_options": [
+        "Increased salary",
+        "Team loyalty",
+        "Changes in regulations"
+      ]
+    },
+    {
+      "question": "Which driver famously returned to F1 in 2021 after a two-year absence?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Sebastian Vettel",
+        "Jenson Button",
+        "Lewis Hamilton"
+      ]
+    }
+  ]
+}

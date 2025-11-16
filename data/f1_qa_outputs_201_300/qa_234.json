@@ -1,0 +1,36 @@
+{
+  "article_number": 234,
+  "source": "Motorsport Magazine",
+  "title": "Coulthard: 'George Harrison played me unheard Bernie Ecclestone F1 song'",
+  "summary": "Former McLaren F1 ace toldJames Elsonabout his private audience with The Beatles' George Harrison, who played an unreleased grand prix-themed song",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/coulthard-george-harrison-played-me-unheard-bernie-ecclestone-f1-song/",
+  "qa_pairs": [
+    {
+      "question": "Which former McLaren driver had a private audience with George Harrison?",
+      "correct_answer": "David Coulthard",
+      "wrong_options": [
+        "Mika Hakkinen",
+        "Kimi Räikkönen",
+        "Jenson Button"
+      ]
+    },
+    {
+      "question": "What famous band was George Harrison a part of?",
+      "correct_answer": "The Beatles",
+      "wrong_options": [
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Queen"
+      ]
+    },
+    {
+      "question": "Who was the long-time F1 commercial rights holder known for his influence on the sport?",
+      "correct_answer": "Bernie Ecclestone",
+      "wrong_options": [
+        "Jean Todt",
+        "Ross Brawn",
+        "Max Mosley"
+      ]
+    }
+  ]
+}

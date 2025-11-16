@@ -1,0 +1,36 @@
+{
+  "article_number": 269,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat",
+  "summary": "On the eve of the Canadian Grand Prix, Derek Warwick was handed a one-race suspension from his role as an FIA steward by the governing body for quotes attributed to…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/80/word-on-the-beat-15/",
+  "qa_pairs": [
+    {
+      "question": "What is the role of a steward in Formula 1?",
+      "correct_answer": "To oversee the race and ensure that all regulations are followed.",
+      "wrong_options": [
+        "To manage team strategies during the race.",
+        "To provide commentary during the broadcast.",
+        "To design the racing circuits."
+      ]
+    },
+    {
+      "question": "Which Grand Prix was taking place when Derek Warwick received his suspension?",
+      "correct_answer": "Canadian Grand Prix.",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "Italian Grand Prix"
+      ]
+    },
+    {
+      "question": "What can lead to a steward being suspended in Formula 1?",
+      "correct_answer": "Inappropriate comments or behavior that violates FIA regulations.",
+      "wrong_options": [
+        "Poor performance in officiating races.",
+        "Technical errors in race management.",
+        "Conflict with team principals."
+      ]
+    }
+  ]
+}

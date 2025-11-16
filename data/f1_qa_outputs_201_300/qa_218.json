@@ -1,0 +1,36 @@
+{
+  "article_number": 218,
+  "source": "Motorsport Magazine",
+  "title": "Sainz on 'very complicated' 2026 F1 car: 'It occupies a lot of brain space'",
+  "summary": "Next year's new-generation F1 cars will overload drivers with their technical demands in the first part of the 2026 season, says Carlos Sainz",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/sainz-on-very-complicated-2026-f1-car-it-occupies-a-lot-of-brain-space/",
+  "qa_pairs": [
+    {
+      "question": "What major changes are expected for the 2026 Formula 1 season?",
+      "correct_answer": "Introduction of new-generation cars with increased technical demands.",
+      "wrong_options": [
+        "Change in tire regulations",
+        "New race formats",
+        "Addition of hybrid engines"
+      ]
+    },
+    {
+      "question": "Which driver expressed concerns about the technical complexity of the 2026 F1 cars?",
+      "correct_answer": "Carlos Sainz",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What impact are the new-generation F1 cars expected to have on drivers in 2026?",
+      "correct_answer": "They will require more mental focus and adaptation due to their complexity.",
+      "wrong_options": [
+        "Less physical training needed",
+        "Simplified driving techniques",
+        "No change in performance metrics"
+      ]
+    }
+  ]
+}

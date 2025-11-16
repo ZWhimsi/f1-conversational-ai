@@ -1,0 +1,36 @@
+{
+  "article_number": 246,
+  "source": "Motorsport Magazine",
+  "title": "Horner's departure shows age of the maverick F1 boss is over",
+  "summary": "Christian Horner has now left Red Bull, the last of a certain breed of F1 team principal",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/horners-departure-shows-age-of-the-maverick-f1-boss-is-over/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Red Bull Racing before departing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Franz Tost"
+      ]
+    },
+    {
+      "question": "Which team is known for its significant success in Formula 1, especially in the 2010s?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is a common term used to describe a team principal who is unconventional or independent-minded?",
+      "correct_answer": "Maverick",
+      "wrong_options": [
+        "Traditionalist",
+        "Conservative",
+        "Innovator"
+      ]
+    }
+  ]
+}

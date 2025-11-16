@@ -1,0 +1,36 @@
+{
+  "article_number": 230,
+  "source": "Motorsport Magazine",
+  "title": "Why can't F1 cars race in heavy rain? The reasons we rarely see full wet tyres",
+  "summary": "What's wrong with F1's wet tyres? All too often heavy rain heralds a red flag in grands prix, before drivers even have a chance to put on the most extreme rubber. But that's not necessarily Pirelli's fault...",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-cant-f1-cars-race-in-heavy-rain-the-reasons-we-rarely-see-full-wet-tyres/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary function of full wet tyres in Formula 1?",
+      "correct_answer": "To provide optimal grip and control on extremely wet track conditions.",
+      "wrong_options": [
+        "To increase straight-line speed in dry conditions.",
+        "To enhance fuel efficiency during races.",
+        "To reduce tire wear on dry tracks."
+      ]
+    },
+    {
+      "question": "What typically happens during heavy rain in F1 races?",
+      "correct_answer": "Races are often halted with a red flag to ensure driver safety.",
+      "wrong_options": [
+        "Drivers change to slick tyres immediately.",
+        "The race continues without interruption.",
+        "Teams are penalized for not using wet tyres."
+      ]
+    },
+    {
+      "question": "Who is the official tire supplier for Formula 1?",
+      "correct_answer": "Pirelli.",
+      "wrong_options": [
+        "Michelin",
+        "Bridgestone",
+        "Goodyear"
+      ]
+    }
+  ]
+}

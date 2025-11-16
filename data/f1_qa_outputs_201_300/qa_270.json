@@ -1,0 +1,36 @@
+{
+  "article_number": 270,
+  "source": "Motorsport Magazine",
+  "title": "How McLaren played the long game as Verstappen raced away in Spain",
+  "summary": "Barcelona: it was the third lap, as race leader Oscar Piastri pulled himself out of Max Verstappen’s DRS range, which gave the first indication to Verstappen and Red Bull that…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/78/how-mclaren-played-the-long-game-as-verstappen-raced-away-in-spain/",
+  "qa_pairs": [
+    {
+      "question": "What is DRS in Formula 1?",
+      "correct_answer": "Drag Reduction System, a technology that reduces aerodynamic drag to increase speed.",
+      "wrong_options": [
+        "Dynamic Racing Speed, a type of race strategy.",
+        "Dual Rear Spoiler, a type of car design.",
+        "Direct Race Simulation, a training method."
+      ]
+    },
+    {
+      "question": "Which team does Max Verstappen drive for?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who was the race leader mentioned in the context of the race in Spain?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    }
+  ]
+}

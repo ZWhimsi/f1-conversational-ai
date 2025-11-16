@@ -1,0 +1,36 @@
+{
+  "article_number": 277,
+  "source": "Motorsport Magazine",
+  "title": "Does F1: The Movie have the winning formula?",
+  "summary": "Racing films have always had a reputation for being comedically unrealistic, and unfortunately this production is another to add to the list.There’s no denying that it is beautifully shot, with…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/30/does-f1-the-movie-have-the-winning-formula/",
+  "qa_pairs": [
+    {
+      "question": "Which team has historically been known for a strong performance in Formula 1 and is often associated with championship wins?",
+      "correct_answer": "Scuderia Ferrari",
+      "wrong_options": [
+        "Williams Racing",
+        "Haas F1 Team",
+        "Alfa Romeo Racing"
+      ]
+    },
+    {
+      "question": "What is a common criticism of racing films in general?",
+      "correct_answer": "They tend to be comedically unrealistic.",
+      "wrong_options": [
+        "They lack exciting visuals.",
+        "They focus too much on technical details.",
+        "They rarely feature famous drivers."
+      ]
+    },
+    {
+      "question": "Which aspect is often praised in filmmaking, particularly in racing films?",
+      "correct_answer": "Cinematography and visuals",
+      "wrong_options": [
+        "Character development",
+        "Realistic sound design",
+        "Historical accuracy"
+      ]
+    }
+  ]
+}

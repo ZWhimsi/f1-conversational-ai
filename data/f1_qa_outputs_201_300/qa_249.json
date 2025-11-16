@@ -1,0 +1,36 @@
+{
+  "article_number": 249,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Hülkenberg mutiny earned podium, but it began with 1 lap in 2020",
+  "summary": "Nico Hülkenberg's long-awaited first podium at Silverstone came after a virtuoso drive, but it only came about thanks to one unforgettable qualifying lap in 2020, asMark Hughesrecalls",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-hulkenberg-mutiny-earned-podium-but-it-was-five-years-in-making/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved their first podium finish at the Silverstone circuit?",
+      "correct_answer": "Nico Hülkenberg",
+      "wrong_options": [
+        "Lance Stroll",
+        "Kevin Magnussen",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What year did Nico Hülkenberg secure his first podium finish in Formula 1?",
+      "correct_answer": "2020",
+      "wrong_options": [
+        "2019",
+        "2021",
+        "2022"
+      ]
+    },
+    {
+      "question": "What was significant about the qualifying lap that led to Hülkenberg's podium?",
+      "correct_answer": "It was an unforgettable lap.",
+      "wrong_options": [
+        "It was the fastest lap of the season.",
+        "It was his slowest qualifying time.",
+        "It was the first lap he ever completed."
+      ]
+    }
+  ]
+}

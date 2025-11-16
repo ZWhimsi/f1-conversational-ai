@@ -1,0 +1,36 @@
+{
+  "article_number": 212,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Belgian GP",
+  "summary": "Can Oscar Piastri strike back in the 2025 Belgian GP F1 Fantasy round? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-belgian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is highlighted for a potential strong performance in the 2025 Belgian GP F1 Fantasy round?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is the purpose of using chips during a race weekend?",
+      "correct_answer": "To maximize points based on driver performance and race conditions.",
+      "wrong_options": [
+        "To reduce car weight",
+        "To enhance tire performance",
+        "To increase team budget"
+      ]
+    },
+    {
+      "question": "What is a common strategy for F1 Fantasy players when selecting drivers for a specific race?",
+      "correct_answer": "Choosing drivers based on their recent form and track suitability.",
+      "wrong_options": [
+        "Selecting only drivers from the same team",
+        "Prioritizing drivers with the lowest points",
+        "Choosing only rookie drivers"
+      ]
+    }
+  ]
+}

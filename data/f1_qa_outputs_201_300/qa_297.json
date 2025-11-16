@@ -1,0 +1,36 @@
+{
+  "article_number": 297,
+  "source": "Motorsport Magazine",
+  "title": "Is Verstappen out of F1 title race? - What to look for at the British GP",
+  "summary": "As F1 returns to Silverstone, Max Verstappen is slipping out of contention, Lando Norris is chasing a dream home win, and the midfield battle is tighter than ever",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/is-verstappen-out-of-f1-title-race-what-to-look-for-at-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently considered to be slipping out of contention for the F1 title?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "Which driver is aiming for a home win at the British Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "George Russell",
+        "Daniel Ricciardo",
+        "Lance Stroll"
+      ]
+    },
+    {
+      "question": "What aspect of the race is described as being tighter than ever?",
+      "correct_answer": "The midfield battle",
+      "wrong_options": [
+        "The title fight",
+        "Pit stop strategies",
+        "Qualifying times"
+      ]
+    }
+  ]
+}

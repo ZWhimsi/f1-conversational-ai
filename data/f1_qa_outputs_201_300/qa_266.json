@@ -1,0 +1,36 @@
+{
+  "article_number": 266,
+  "source": "Motorsport Magazine",
+  "title": "McLaren’s unstoppable force: Neil Oatley designed Senna's F1 title winners. Now he’s targeting Le Mans",
+  "summary": "Here is a bold claim with which to kick off an interview/profile: no one has ever devoted to motor sport so great a proportion of such a long working life…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/108/mclarens-unstoppable-force-neil-oatley-designed-f1-title-winners-for-senna-now-hes-working-on-a-new-le-mans-car/",
+  "qa_pairs": [
+    {
+      "question": "Who was the designer behind Ayrton Senna's championship-winning cars for McLaren?",
+      "correct_answer": "Neil Oatley",
+      "wrong_options": [
+        "Adrian Newey",
+        "Gordon Murray",
+        "Ross Brawn"
+      ]
+    },
+    {
+      "question": "In which prestigious endurance race is Neil Oatley currently aiming to compete?",
+      "correct_answer": "Le Mans",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Indianapolis 500",
+        "24 Hours of Spa"
+      ]
+    },
+    {
+      "question": "What notable achievement is associated with Neil Oatley during his tenure at McLaren?",
+      "correct_answer": "Designing championship-winning cars for Ayrton Senna",
+      "wrong_options": [
+        "Winning races as a driver",
+        "Leading the team as a principal",
+        "Developing tire technology"
+      ]
+    }
+  ]
+}

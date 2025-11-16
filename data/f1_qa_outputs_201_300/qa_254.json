@@ -1,0 +1,36 @@
+{
+  "article_number": 254,
+  "source": "Motorsport Magazine",
+  "title": "Not just a title race: Norris & Piastri's fight to make McLaren 'their' F1 team",
+  "summary": "The battle between McLaren's two F1 drivers is on a knife edge and the stakes are sky-high: whoever wins is set to claim the 2025 championship, but could also shape the team's future",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/not-just-a-title-race-norris-piastris-fight-to-make-mclaren-their-f1-team/",
+  "qa_pairs": [
+    {
+      "question": "Which two drivers are currently competing within McLaren for dominance in the team?",
+      "correct_answer": "Lando Norris and Oscar Piastri",
+      "wrong_options": [
+        "Daniel Ricciardo and Lando Norris",
+        "Oscar Piastri and Carlos Sainz",
+        "Lando Norris and Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What significant impact could the outcome of the internal competition between Norris and Piastri have?",
+      "correct_answer": "It could shape the team's future.",
+      "wrong_options": [
+        "It will determine the next engine supplier.",
+        "It will decide the next team principal.",
+        "It will influence driver line-up for other teams."
+      ]
+    },
+    {
+      "question": "In what year is the championship title being contested between the two McLaren drivers?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2026",
+        "2023"
+      ]
+    }
+  ]
+}

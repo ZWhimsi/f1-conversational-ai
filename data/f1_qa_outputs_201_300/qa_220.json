@@ -1,0 +1,36 @@
+{
+  "article_number": 220,
+  "source": "Motorsport Magazine",
+  "title": "Spa circuit: How safety and speed shaped an F1 classic",
+  "summary": "Carved into the Ardennes forest and steeped in over a century of speed, danger, and evolution, Spa is not just a circuit - it’s a living monument to the changing face of motor sport",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/spa-circuit-how-safety-and-speed-shaped-an-f1-classic/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary characteristic of the Spa circuit that distinguishes it from other F1 tracks?",
+      "correct_answer": "Its combination of high-speed straights and challenging corners.",
+      "wrong_options": [
+        "Its flat layout with minimal elevation changes.",
+        "Its short length compared to other circuits.",
+        "Its focus on low-speed technical sections."
+      ]
+    },
+    {
+      "question": "Which geographical feature is the Spa circuit located within?",
+      "correct_answer": "The Ardennes forest.",
+      "wrong_options": [
+        "The Alps mountain range.",
+        "The Black Forest.",
+        "The Scottish Highlands."
+      ]
+    },
+    {
+      "question": "What aspect of the Spa circuit contributes to its reputation as a classic in Formula 1?",
+      "correct_answer": "Its history of speed, danger, and continuous evolution.",
+      "wrong_options": [
+        "Its modern facilities and amenities.",
+        "Its numerous overtaking zones.",
+        "Its flat and simple layout."
+      ]
+    }
+  ]
+}

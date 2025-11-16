@@ -1,0 +1,36 @@
+{
+  "article_number": 237,
+  "source": "Motorsport Magazine",
+  "title": "British drivers can claim first-ever motor sport grand slam in 2025",
+  "summary": "In a potentially unprecedented year for British motor sport, 2025 could see drivers from the UK claim the world titles in Formula 1, WRC, WEC and Formula E - a clean sweep no nation has ever achieved...",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/british-drivers-can-claim-first-ever-motor-sport-grand-slam-in-2025/",
+  "qa_pairs": [
+    {
+      "question": "Which British driver won the Formula 1 World Championship in 2020?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Jenson Button",
+        "David Coulthard",
+        "Nigel Mansell"
+      ]
+    },
+    {
+      "question": "What does WRC stand for in motorsport?",
+      "correct_answer": "World Rally Championship",
+      "wrong_options": [
+        "World Racing Championship",
+        "World Rally Cup",
+        "World Road Championship"
+      ]
+    },
+    {
+      "question": "Which team is associated with the Formula E championship?",
+      "correct_answer": "DS Techeetah",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Mercedes-AMG Petronas",
+        "Ferrari"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 299,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Something extraordinary about Norris in a McLaren at Austria",
+  "summary": "There's something about the Red Bull Ring that consistently brings out the very best in Lando Norris and McLaren — and last weekend's domination was just the latest chapter in a story that's been quietly building for six years",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-theres-something-extraordinary-about-norris-in-a-mclaren-at-austria/",
+  "qa_pairs": [
+    {
+      "question": "Which driver has shown exceptional performance at the Red Bull Ring?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "Which team is Lando Norris associated with?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is the significance of the Red Bull Ring for Lando Norris and McLaren?",
+      "correct_answer": "It consistently brings out their best performance.",
+      "wrong_options": [
+        "It is known for its technical challenges.",
+        "It has the longest straight in F1.",
+        "It is where they first won a championship."
+      ]
+    }
+  ]
+}

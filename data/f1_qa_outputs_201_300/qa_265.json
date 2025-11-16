@@ -1,0 +1,36 @@
+{
+  "article_number": 265,
+  "source": "Motorsport Magazine",
+  "title": "All the F1 drivers and teams expected at 2025 Goodwood Festival of Speed",
+  "summary": "The 2025 Goodwood Festival of Speed will feature enough F1 drivers to fill almost two GP grids as it celebrates 75 years of the world championship. Here are all of the confirmed attendees and F1 teams",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/all-the-f1-drivers-and-teams-expected-at-2025-goodwood-festival-of-speed/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the 2025 Goodwood Festival of Speed in relation to Formula 1?",
+      "correct_answer": "It celebrates 75 years of the world championship.",
+      "wrong_options": [
+        "It marks the introduction of hybrid engines.",
+        "It is the first festival held in a new venue.",
+        "It coincides with the F1 season finale."
+      ]
+    },
+    {
+      "question": "How many F1 drivers are expected to attend the 2025 Goodwood Festival of Speed?",
+      "correct_answer": "Enough to fill almost two GP grids.",
+      "wrong_options": [
+        "Only the current season's drivers.",
+        "A maximum of 20 drivers.",
+        "All retired drivers."
+      ]
+    },
+    {
+      "question": "What type of event is the Goodwood Festival of Speed?",
+      "correct_answer": "An automotive and motorsport festival.",
+      "wrong_options": [
+        "A Formula 1 race.",
+        "A car manufacturing expo.",
+        "A driver training camp."
+      ]
+    }
+  ]
+}

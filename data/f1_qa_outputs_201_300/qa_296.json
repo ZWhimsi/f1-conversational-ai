@@ -1,0 +1,36 @@
+{
+  "article_number": 296,
+  "source": "Motorsport Magazine",
+  "title": "If F1 went retro for 75th anniversary: a classic livery for each team",
+  "summary": "MotoGP celebrated 75 years of the motorcycle world championship last year at Silverstone with each of its 12 teams racing in classic liveries, inspired by memorable years or title-winning figures…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/if-f1-went-retro-for-75th-anniversary-a-classic-livery-for-each-team/",
+  "qa_pairs": [
+    {
+      "question": "What is a livery in the context of Formula 1?",
+      "correct_answer": "A livery refers to the design and color scheme of a Formula 1 team's car.",
+      "wrong_options": [
+        "The engine type used by the team.",
+        "The driver lineup for the season.",
+        "The pit stop strategy employed during a race."
+      ]
+    },
+    {
+      "question": "Which Formula 1 team is known for its iconic red color scheme?",
+      "correct_answer": "Ferrari.",
+      "wrong_options": [
+        "McLaren",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What significant milestone did MotoGP celebrate in the previous year?",
+      "correct_answer": "75 years of the motorcycle world championship.",
+      "wrong_options": [
+        "50 years of the championship",
+        "100 races in the season",
+        "75 years of MotoGP racing technology"
+      ]
+    }
+  ]
+}

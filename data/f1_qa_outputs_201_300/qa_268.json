@@ -1,0 +1,36 @@
+{
+  "article_number": 268,
+  "source": "Motorsport Magazine",
+  "title": "Was Stirling Moss’s 1955 British Grand Prix win a fix?",
+  "summary": "This was a race which has been the subject of debate and argument almost since the flag fell on it. Not that it had been a particularly complex duel on…",
+  "link": "https://www.motorsportmagazine.com/archive/article/august-2025/92/fangio-vs-moss-at-aintree-1955-was-it-a-fix/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 1955 British Grand Prix?",
+      "correct_answer": "Stirling Moss",
+      "wrong_options": [
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Jim Clark"
+      ]
+    },
+    {
+      "question": "What year did Stirling Moss win the British Grand Prix that is now debated for its fairness?",
+      "correct_answer": "1955",
+      "wrong_options": [
+        "1954",
+        "1956",
+        "1957"
+      ]
+    },
+    {
+      "question": "Stirling Moss is often regarded as one of the greatest drivers who never won a World Championship. What is one of his notable achievements?",
+      "correct_answer": "Winning the 1955 British Grand Prix",
+      "wrong_options": [
+        "Winning the 1958 World Championship",
+        "Winning the 1960 Monaco Grand Prix",
+        "Winning the 1959 Italian Grand Prix"
+      ]
+    }
+  ]
+}

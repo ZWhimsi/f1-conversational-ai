@@ -1,0 +1,36 @@
+{
+  "article_number": 204,
+  "source": "Motorsport Magazine",
+  "title": "The new teams and engine manufacturers coming to F1 in 2026",
+  "summary": "The F1 grid will expand to 11 teams with the arrival of Cadillac in 2026. Audi will also join the series and five engine manufacturers (Audi, Ferrari, Honda, Mercedes, and Red Bull Powertrains) are confirmed",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-new-teams-and-engine-manufacturers-coming-to-f1-in-2026/",
+  "qa_pairs": [
+    {
+      "question": "How many teams will be on the F1 grid with the arrival of new teams in 2026?",
+      "correct_answer": "11 teams",
+      "wrong_options": [
+        "10 teams",
+        "12 teams",
+        "9 teams"
+      ]
+    },
+    {
+      "question": "Which new team is set to join Formula 1 in 2026?",
+      "correct_answer": "Cadillac",
+      "wrong_options": [
+        "Porsche",
+        "Lotus",
+        "Sauber"
+      ]
+    },
+    {
+      "question": "Which engine manufacturers are confirmed to be in F1 for 2026?",
+      "correct_answer": "Audi, Ferrari, Honda, Mercedes, and Red Bull Powertrains",
+      "wrong_options": [
+        "Renault, Toyota, BMW, Honda, and Mercedes",
+        "Ferrari, Mercedes, Ford, Honda, and Audi",
+        "Porsche, Renault, Ferrari, and Mercedes"
+      ]
+    }
+  ]
+}

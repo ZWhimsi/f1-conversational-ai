@@ -1,0 +1,36 @@
+{
+  "article_number": 284,
+  "source": "Motorsport Magazine",
+  "title": "Norris: British GP win 'everything I've ever wanted to achieve'",
+  "summary": "\"It's beautiful. Everything I dreamed of,\" says British GP winner Norris",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-british-gp-win-everything-ive-ever-wanted-to-achieve/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the British Grand Prix in 2023?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "George Russell",
+        "Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "What is a significant emotional impact of winning a home race for a driver?",
+      "correct_answer": "It fulfills a dream and brings immense personal satisfaction.",
+      "wrong_options": [
+        "It guarantees the championship title.",
+        "It results in a substantial financial bonus.",
+        "It secures a contract extension with the team."
+      ]
+    },
+    {
+      "question": "What team does Lando Norris drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Ferrari"
+      ]
+    }
+  ]
+}

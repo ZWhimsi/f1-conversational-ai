@@ -1,0 +1,36 @@
+{
+  "article_number": 250,
+  "source": "Motorsport Magazine",
+  "title": "Radio messages reveal how Hülkenberg overruled team on way to sensational British GP podium",
+  "summary": "Nico Hülkenberg's first F1 podium followed a faultless British GP drive where he went against his team with strategy calls that proved crucial in wet weather at Silverstone. Here are the radio messages that show how he pulled it off",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/from-p19-to-first-f1-podium-hulkenbergs-sensational-british-gp-drive/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved their first Formula 1 podium at the British Grand Prix?",
+      "correct_answer": "Nico Hülkenberg",
+      "wrong_options": [
+        "Lando Norris",
+        "Carlos Sainz",
+        "Pierre Gasly"
+      ]
+    },
+    {
+      "question": "What type of weather conditions did Hülkenberg navigate during the British GP to secure his podium?",
+      "correct_answer": "Wet weather",
+      "wrong_options": [
+        "Dry conditions",
+        "Foggy conditions",
+        "Sunny conditions"
+      ]
+    },
+    {
+      "question": "Which team did Nico Hülkenberg go against regarding strategy calls during the British GP?",
+      "correct_answer": "His own team",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Red Bull Racing"
+      ]
+    }
+  ]
+}

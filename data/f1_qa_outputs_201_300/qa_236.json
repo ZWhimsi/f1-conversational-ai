@@ -1,0 +1,36 @@
+{
+  "article_number": 236,
+  "source": "Motorsport Magazine",
+  "title": "The 15 best F1 drivers of all time",
+  "summary": "With Max Verstappen already on four Formula 1 titles, where should he sit in the list of the greatest Formula 1 drivers in history? Here's our latest verdict on the top 15",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-15-best-f1-drivers-of-all-time/",
+  "qa_pairs": [
+    {
+      "question": "Who holds the record for the most Formula 1 World Championships?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Michael Schumacher",
+        "Juan Manuel Fangio",
+        "Alain Prost"
+      ]
+    },
+    {
+      "question": "Which driver is known for winning his first championship in 2021?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Sebastian Vettel",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What is the minimum number of championships a driver must have to be considered among the greatest in Formula 1?",
+      "correct_answer": "It varies, but typically at least 3 titles are considered significant.",
+      "wrong_options": [
+        "1 title",
+        "5 titles",
+        "2 titles"
+      ]
+    }
+  ]
+}

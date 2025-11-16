@@ -1,0 +1,36 @@
+{
+  "article_number": 227,
+  "source": "Motorsport Magazine",
+  "title": "Everything you need to know about the F1 safety car",
+  "summary": "Formula 1 is often celebrated for its speed and cutting-edge technology, but behind all the action is a carefully orchestrated system designed to ensure the safety of drivers, marshals, and…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/everything-you-need-to-know-about-the-f1-safety-car/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary purpose of the safety car in Formula 1?",
+      "correct_answer": "To ensure the safety of drivers and officials during hazardous conditions.",
+      "wrong_options": [
+        "To increase the speed of the race.",
+        "To provide entertainment during the race.",
+        "To help teams strategize tire changes."
+      ]
+    },
+    {
+      "question": "When is the safety car typically deployed in a Formula 1 race?",
+      "correct_answer": "During accidents, hazardous weather, or debris on the track.",
+      "wrong_options": [
+        "During the formation lap.",
+        "When a driver requests it.",
+        "At the start of the race."
+      ]
+    },
+    {
+      "question": "What happens to the race leader when the safety car is deployed?",
+      "correct_answer": "The race leader maintains their position behind the safety car until it comes back in.",
+      "wrong_options": [
+        "The race leader must pit immediately.",
+        "The race leader loses their position to the second-place driver.",
+        "The race is halted completely."
+      ]
+    }
+  ]
+}

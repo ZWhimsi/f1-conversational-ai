@@ -1,0 +1,36 @@
+{
+  "article_number": 226,
+  "source": "Motorsport Magazine",
+  "title": "Red Bull's first ever F1 weekend without Horner - What to watch for at Belgian GP",
+  "summary": "With Red Bull reeling from Christian Horner's departure, Lando Norris on a hot streak, and Max Verstappen facing swirling rumours, the 2025 Belgian Grand Prix promises drama both on and off the track",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/red-bulls-first-ever-f1-weekend-without-horner-what-to-watch-for-at-belgian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing known for his long tenure?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Guenther Steiner"
+      ]
+    },
+    {
+      "question": "Which driver is currently on a hot streak leading into the Belgian Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "Which team has Max Verstappen been associated with during his F1 career?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Alpine"
+      ]
+    }
+  ]
+}

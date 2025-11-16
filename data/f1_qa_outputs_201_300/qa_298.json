@@ -1,0 +1,36 @@
+{
+  "article_number": 298,
+  "source": "Motorsport Magazine",
+  "title": "Keanu Reeves to chronicle birth of Cadillac F1 team in new docuseries",
+  "summary": "Hollywood star to tell \"remarkable\" story of American bid to join Formula 1 elite ahead of 2026 debut",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/keanu-reeves-to-chronicle-birth-of-cadillac-f1-team-in-new-docuseries/",
+  "qa_pairs": [
+    {
+      "question": "What year is the Cadillac F1 team scheduled to make its debut in Formula 1?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2024",
+        "2025",
+        "2027"
+      ]
+    },
+    {
+      "question": "Which Hollywood actor is set to document the story of the Cadillac F1 team's entry into Formula 1?",
+      "correct_answer": "Keanu Reeves",
+      "wrong_options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise"
+      ]
+    },
+    {
+      "question": "What is the main focus of the upcoming docuseries featuring the Cadillac F1 team?",
+      "correct_answer": "The American bid to join Formula 1 elite",
+      "wrong_options": [
+        "The history of F1 racing",
+        "The technology of F1 cars",
+        "The rivalries between F1 teams"
+      ]
+    }
+  ]
+}

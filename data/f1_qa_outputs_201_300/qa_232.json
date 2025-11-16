@@ -1,0 +1,36 @@
+{
+  "article_number": 232,
+  "source": "Motorsport Magazine",
+  "title": "'It got frosty!' Häkkinen and Coulthard to take F1 rivalry on tour",
+  "summary": "Former McLaren F1 team-mates Mika Häkkinen and David Coulthard are set to renew old rivalries in a newEvening with...tour – they toldJames Elsonall about it",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/it-got-frosty-hakkinen-and-coulthard-to-take-f1-rivalry-on-tour/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Mika Häkkinen and David Coulthard both drive for during their Formula 1 careers?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Williams",
+        "Red Bull"
+      ]
+    },
+    {
+      "question": "What type of event are Mika Häkkinen and David Coulthard participating in to showcase their rivalry?",
+      "correct_answer": "Tour",
+      "wrong_options": [
+        "Charity race",
+        "F1 exhibition",
+        "Panel discussion"
+      ]
+    },
+    {
+      "question": "During which decade did Mika Häkkinen and David Coulthard have their notable rivalry in Formula 1?",
+      "correct_answer": "1990s",
+      "wrong_options": [
+        "2000s",
+        "1980s",
+        "2010s"
+      ]
+    }
+  ]
+}

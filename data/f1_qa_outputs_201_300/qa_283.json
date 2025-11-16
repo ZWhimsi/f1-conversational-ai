@@ -1,0 +1,36 @@
+{
+  "article_number": 283,
+  "source": "Motorsport Magazine",
+  "title": "Hülkenberg was 'in denial' about first F1 podium in British GP",
+  "summary": "Hülkenberg went from almost last to third in the British Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/hulkenberg-was-in-denial-about-first-f1-podium-in-british-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved their first Formula 1 podium at the British Grand Prix?",
+      "correct_answer": "Nico Hülkenberg",
+      "wrong_options": [
+        "Lance Stroll",
+        "Daniel Ricciardo",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What position did Hülkenberg start from in the British Grand Prix before finishing third?",
+      "correct_answer": "Almost last",
+      "wrong_options": [
+        "Fifth",
+        "Tenth",
+        "Second"
+      ]
+    },
+    {
+      "question": "In which year did the British Grand Prix take place where Hülkenberg finished third?",
+      "correct_answer": "2023",
+      "wrong_options": [
+        "2021",
+        "2020",
+        "2022"
+      ]
+    }
+  ]
+}

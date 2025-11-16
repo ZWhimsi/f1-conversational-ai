@@ -1,0 +1,36 @@
+{
+  "article_number": 264,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: The wild French GP circuit that was too dangerous for F1",
+  "summary": "France's narrow Clermont-Ferrand circuit threaded through volcanic rock faces, sheer drops, and untamed countryside, posing one of F1's greatest-ever tests of nerve. No wonder only the very best drivers won there, saysMatt Bishop",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-the-wild-french-gp-circuit-that-was-too-dangerous-for-f1/",
+  "qa_pairs": [
+    {
+      "question": "Which type of terrain characterized the Clermont-Ferrand circuit in France?",
+      "correct_answer": "Volcanic rock faces and countryside.",
+      "wrong_options": [
+        "Desert dunes and flat plains.",
+        "Snowy mountains and icy roads.",
+        "Urban streets and high-rise buildings."
+      ]
+    },
+    {
+      "question": "What aspect of the Clermont-Ferrand circuit made it particularly challenging for drivers?",
+      "correct_answer": "Its narrow layout and sheer drops.",
+      "wrong_options": [
+        "High-speed straights and wide corners.",
+        "Wet weather conditions and visibility issues.",
+        "Long pit lanes and complex tire strategies."
+      ]
+    },
+    {
+      "question": "What is a key reason that only the best drivers succeeded at the Clermont-Ferrand circuit?",
+      "correct_answer": "It posed one of F1's greatest tests of nerve.",
+      "wrong_options": [
+        "It had the fastest lap times in F1 history.",
+        "It was the most technically advanced circuit ever designed.",
+        "It featured the most overtaking opportunities in the sport."
+      ]
+    }
+  ]
+}

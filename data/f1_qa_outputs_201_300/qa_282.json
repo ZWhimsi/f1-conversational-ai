@@ -1,0 +1,36 @@
+{
+  "article_number": 282,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: So many obstacles, but Norris overcame all to realise British GP dream",
+  "summary": "Lando Norris finally realised his childhood dream of winning the British Grand Prix, overcoming fierce rivals, chaotic weather and a race full of peril to triumph at Silverstone.Mark Hughesexplains how the McLaren driver did it",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-the-obstacles-norris-overcame-to-realise-british-gp-dream/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the British Grand Prix in 2023?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "George Russell"
+      ]
+    },
+    {
+      "question": "What team does Lando Norris drive for?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What type of weather challenges did Lando Norris face during the race?",
+      "correct_answer": "Chaotic weather",
+      "wrong_options": [
+        "Sunny conditions",
+        "Heavy fog",
+        "Strong winds"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 291,
+  "source": "Motorsport Magazine",
+  "title": "Who is Arvid Lindblad? Red Bull junior has F1 race weekend debut at Silverstone",
+  "summary": "Red Bull protege Arvid Lindblad made his F1 race weekend debut at the 2025 British Grand Prix when he drove Yuki Tsunoda's Red Bull in FP1 — but who is Red Bull's next great hope?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lindblad-granted-f1-superlicence-but-where-does-that-leave-him/",
+  "qa_pairs": [
+    {
+      "question": "Which team did Arvid Lindblad make his F1 race weekend debut with?",
+      "correct_answer": "Red Bull",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "In which session did Arvid Lindblad debut during the race weekend at Silverstone?",
+      "correct_answer": "FP1",
+      "wrong_options": [
+        "Qualifying",
+        "FP2",
+        "Race"
+      ]
+    },
+    {
+      "question": "Who was the regular driver that Arvid Lindblad replaced for his debut in FP1?",
+      "correct_answer": "Yuki Tsunoda",
+      "wrong_options": [
+        "Max Verstappen",
+        "Sergio Perez",
+        "Lando Norris"
+      ]
+    }
+  ]
+}

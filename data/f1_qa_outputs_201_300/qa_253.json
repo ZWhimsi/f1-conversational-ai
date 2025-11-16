@@ -1,0 +1,36 @@
+{
+  "article_number": 253,
+  "source": "Motorsport Magazine",
+  "title": "Will Verstappen leave next? Horner exit doesn't settle Red Bull fear",
+  "summary": "Red Bull may have sacked Christian Horner partly to try and keep Max Verstappen but, writesChris Medland, it will take much more to turn the F1 team around",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-verstappen-leave-next-horner-exit-doesnt-settle-red-bull-fear/",
+  "qa_pairs": [
+    {
+      "question": "Who is the team principal of Red Bull Racing?",
+      "correct_answer": "Christian Horner",
+      "wrong_options": [
+        "Toto Wolff",
+        "Mattia Binotto",
+        "Otmar Szafnauer"
+      ]
+    },
+    {
+      "question": "What is the primary concern surrounding Max Verstappen's future with Red Bull Racing?",
+      "correct_answer": "Retention amid team instability",
+      "wrong_options": [
+        "Lack of performance",
+        "Contract expiration",
+        "Desire to race for Ferrari"
+      ]
+    },
+    {
+      "question": "Which driver is currently associated with Red Bull Racing and is a two-time World Champion?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Pérez"
+      ]
+    }
+  ]
+}

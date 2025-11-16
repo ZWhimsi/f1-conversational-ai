@@ -1,0 +1,36 @@
+{
+  "article_number": 238,
+  "source": "Motorsport Magazine",
+  "title": "What are black flags in F1? The drivers disqualified from grands prix",
+  "summary": "It's the ultimate sanction in a Formula 1 race: the black flag results in instant disqualification. Here's when the flag can be waved and the sometimes bizarre cases where it has been shown in a grand prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/what-are-black-flags-in-f1-the-drivers-disqualified-from-grands-prix/",
+  "qa_pairs": [
+    {
+      "question": "What does a black flag signify in a Formula 1 race?",
+      "correct_answer": "Disqualification from the race.",
+      "wrong_options": [
+        "Penalty for speeding in the pit lane.",
+        "Warning for unsafe driving.",
+        "Mandatory tire change."
+      ]
+    },
+    {
+      "question": "Under what circumstances can a driver receive a black flag during a race?",
+      "correct_answer": "For serious breaches of regulations or unsportsmanlike conduct.",
+      "wrong_options": [
+        "For exceeding track limits.",
+        "For being the slowest on the track.",
+        "For not completing a qualifying lap."
+      ]
+    },
+    {
+      "question": "Which notable F1 team has had a driver disqualified due to a black flag in the past?",
+      "correct_answer": "McLaren.",
+      "wrong_options": [
+        "Ferrari.",
+        "Red Bull Racing.",
+        "Mercedes."
+      ]
+    }
+  ]
+}

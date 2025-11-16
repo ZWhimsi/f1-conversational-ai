@@ -1,0 +1,36 @@
+{
+  "article_number": 206,
+  "source": "Motorsport Magazine",
+  "title": "How the F1 chassis is changing under 2026 regulations",
+  "summary": "Here's a look at everything that's changing on the chassis side of Formula 1's 2026 cars",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-the-f1-chassis-is-changing-under-2026-regulations/",
+  "qa_pairs": [
+    {
+      "question": "What is a major focus of the 2026 Formula 1 chassis regulations?",
+      "correct_answer": "Sustainability and the use of more environmentally friendly materials.",
+      "wrong_options": [
+        "Increasing engine size",
+        "Reducing car weight by 20%",
+        "Standardizing chassis components across all teams"
+      ]
+    },
+    {
+      "question": "Which component of the car is primarily affected by the 2026 regulations?",
+      "correct_answer": "The chassis.",
+      "wrong_options": [
+        "The engine",
+        "The tires",
+        "The aerodynamics"
+      ]
+    },
+    {
+      "question": "What is one expected outcome of the changes to the chassis for 2026?",
+      "correct_answer": "Improved safety for drivers.",
+      "wrong_options": [
+        "Faster lap times by 5 seconds",
+        "Increased horsepower by 100 hp",
+        "Mandatory use of hybrid powertrains"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 209,
+  "source": "Motorsport Magazine",
+  "title": "Piastri feared rolling start would ruin chance to pass Norris at Spa",
+  "summary": "Belgian Grand Prix winner Oscar Piastri feared the rolling start was going to rob him of a chance to pass team-mate Lando Norris at the start of the race. Championship…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-feared-rolling-start-would-ruin-chance-to-pass-norris-at-spa/",
+  "qa_pairs": [
+    {
+      "question": "What type of start is commonly used in Formula 1 races?",
+      "correct_answer": "Rolling start",
+      "wrong_options": [
+        "Standing start",
+        "Le Mans start",
+        "Safety car start"
+      ]
+    },
+    {
+      "question": "Which team do Oscar Piastri and Lando Norris drive for?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What event did Oscar Piastri win at Spa?",
+      "correct_answer": "Belgian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "Dutch Grand Prix"
+      ]
+    }
+  ]
+}
