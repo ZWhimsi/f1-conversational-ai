@@ -1,0 +1,36 @@
+{
+  "article_number": 326,
+  "source": "Motorsport Magazine",
+  "title": "Russell wins as Piastri and Norris clash - 2025 Canadian GP results",
+  "summary": "Russell takes first F1 win of 2025 as Piastri and Norris clash",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/russel-wins-as-piastri-and-norris-clash-2025-canadian-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who secured their first Formula 1 victory in the 2025 Canadian Grand Prix?",
+      "correct_answer": "George Russell",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Lando Norris",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "Which two drivers were involved in a clash during the 2025 Canadian Grand Prix?",
+      "correct_answer": "Oscar Piastri and Lando Norris",
+      "wrong_options": [
+        "Max Verstappen and Sergio Perez",
+        "Charles Leclerc and Carlos Sainz",
+        "Daniel Ricciardo and Fernando Alonso"
+      ]
+    },
+    {
+      "question": "In what year did George Russell achieve his first F1 win?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2022"
+      ]
+    }
+  ]
+}

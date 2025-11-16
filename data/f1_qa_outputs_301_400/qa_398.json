@@ -1,0 +1,36 @@
+{
+  "article_number": 398,
+  "source": "Motorsport Magazine",
+  "title": "Who was Antony Noghès? All you need to know about the Monaco GP creator",
+  "summary": "Where others saw a route around Monte-Carlo, Anthony Noghès saw a race track. This is the story of the man who created the Monaco Grand Prix circuit — and also introduced the chequered flag to motor sport",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-was-antony-noghes-all-you-need-to-know-about-the-monaco-gp-creator/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of Antony Noghès in Formula 1 history?",
+      "correct_answer": "He created the Monaco Grand Prix circuit.",
+      "wrong_options": [
+        "He was a famous driver in the 1960s.",
+        "He designed the first Formula 1 car.",
+        "He was the first team principal of Ferrari."
+      ]
+    },
+    {
+      "question": "What iconic motorsport symbol did Antony Noghès introduce?",
+      "correct_answer": "The chequered flag.",
+      "wrong_options": [
+        "The red flag.",
+        "The yellow flag.",
+        "The blue flag."
+      ]
+    },
+    {
+      "question": "Which city is home to the famous Grand Prix created by Antony Noghès?",
+      "correct_answer": "Monte-Carlo.",
+      "wrong_options": [
+        "Monza.",
+        "Silverstone.",
+        "Spa-Francorchamps."
+      ]
+    }
+  ]
+}

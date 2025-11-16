@@ -1,0 +1,36 @@
+{
+  "article_number": 353,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes on why no one should write off Max Verstappen",
+  "summary": "This sequence gave us three very distinct circuit characteristics to further piece together the competitive jigsaw of how the 2025 cars compare. Miami confirmed with more certainty two things suggested…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/76/mark-hughes-on-why-no-one-should-write-off-max-verstappen/",
+  "qa_pairs": [
+    {
+      "question": "What year did Max Verstappen win his first Formula 1 World Championship?",
+      "correct_answer": "2021",
+      "wrong_options": [
+        "2019",
+        "2020",
+        "2022"
+      ]
+    },
+    {
+      "question": "Which team does Max Verstappen drive for in Formula 1?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is a key factor that influences car performance in Formula 1 races?",
+      "correct_answer": "Circuit characteristics",
+      "wrong_options": [
+        "Driver's age",
+        "Team budget",
+        "Tire color"
+      ]
+    }
+  ]
+}

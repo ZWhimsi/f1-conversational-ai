@@ -1,0 +1,36 @@
+{
+  "article_number": 395,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: 'Farewell Imola, you don't belong in today's tamed F1 era'",
+  "summary": "This year's Emilia-Romagna GP was probably Imola's last F1 race, but the circuit was already pushing its luck in an age of safer and fairer racing — that lacks the rawness of the past, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-farewell-imola-you-dont-belong-in-todays-tamed-f1-era/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Emilia-Romagna Grand Prix in the context of the Imola circuit?",
+      "correct_answer": "It was likely the last Formula 1 race held at Imola.",
+      "wrong_options": [
+        "It marked the return of the Imola circuit to the F1 calendar.",
+        "It was the first F1 race at Imola since its revival.",
+        "It confirmed Imola as a permanent fixture in the F1 calendar."
+      ]
+    },
+    {
+      "question": "What aspect of modern Formula 1 does the summary suggest has changed compared to the past?",
+      "correct_answer": "It has become safer and fairer, lacking the rawness of previous eras.",
+      "wrong_options": [
+        "It has become more dangerous and unpredictable.",
+        "It has introduced more technical restrictions on cars.",
+        "It has less emphasis on driver skill and more on technology."
+      ]
+    },
+    {
+      "question": "Which driver or team is specifically mentioned in the title or summary regarding the Imola circuit's future?",
+      "correct_answer": "No specific driver or team is mentioned; the focus is on the circuit itself.",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Scuderia Ferrari",
+        "Max Verstappen"
+      ]
+    }
+  ]
+}

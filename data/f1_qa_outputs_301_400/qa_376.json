@@ -1,0 +1,36 @@
+{
+  "article_number": 376,
+  "source": "Motorsport Magazine",
+  "title": "When Alonso threw out Sainz's lucky charm during his F1 rookie year",
+  "summary": "A 'lucky hat' had brought Sainz great results across his junior career and into F1, until his hero Fernando Alonso chucked it into a crowd of Spanish fans",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/when-alonso-threw-out-sainzs-lucky-charm-during-his-f1-rookie-year/",
+  "qa_pairs": [
+    {
+      "question": "Which Spanish driver is known for throwing away Carlos Sainz's lucky hat during his rookie year in Formula 1?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Pedro de la Rosa",
+        "Alfonso de Portago",
+        "Luis Pérez-Sala"
+      ]
+    },
+    {
+      "question": "What item did Carlos Sainz consider to be a 'lucky charm' during his racing career?",
+      "correct_answer": "A hat",
+      "wrong_options": [
+        "A bracelet",
+        "A necklace",
+        "A pair of gloves"
+      ]
+    },
+    {
+      "question": "In which series did Carlos Sainz achieve great results before entering Formula 1?",
+      "correct_answer": "Junior racing series",
+      "wrong_options": [
+        "Formula E",
+        "IndyCar",
+        "World Rally Championship"
+      ]
+    }
+  ]
+}

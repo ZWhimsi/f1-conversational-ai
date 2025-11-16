@@ -1,0 +1,36 @@
+{
+  "article_number": 388,
+  "source": "Motorsport Magazine",
+  "title": "Leclerc fastest despite Stroll clash: Friday F1 practice at the 2025 Monaco GP",
+  "summary": "Local hero and last year's winner Charles Leclerc topped both Friday practice sessions ahead of the 2025 Monaco Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/everything-that-happened-in-monaco-gps-friday-practice/",
+  "qa_pairs": [
+    {
+      "question": "Which driver topped both Friday practice sessions at the 2025 Monaco Grand Prix?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Lance Stroll",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What notable event involved Charles Leclerc during the Friday practice sessions?",
+      "correct_answer": "A clash with Lance Stroll",
+      "wrong_options": [
+        "A pit stop error",
+        "A mechanical failure",
+        "A collision with Max Verstappen"
+      ]
+    },
+    {
+      "question": "In which year did Charles Leclerc win the Monaco Grand Prix prior to the 2025 event?",
+      "correct_answer": "2024",
+      "wrong_options": [
+        "2023",
+        "2022",
+        "2021"
+      ]
+    }
+  ]
+}

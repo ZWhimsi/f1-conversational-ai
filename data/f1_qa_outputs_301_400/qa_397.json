@@ -1,0 +1,36 @@
+{
+  "article_number": 397,
+  "source": "Motorsport Magazine",
+  "title": "Modernising Monaco: how to get more F1 overtaking at the Grand Prix?",
+  "summary": "Despite its F1 heritage, the Monaco Grand Prix has struggled to put on a show in recent years - but there are some ideas for changes that could keep it relevant for the foreseeable future",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/modernising-monaco-how-to-get-more-f1-overtaking-at-the-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "What is a common criticism of the Monaco Grand Prix in recent years?",
+      "correct_answer": "It has struggled to provide overtaking opportunities.",
+      "wrong_options": [
+        "It has the fastest lap times.",
+        "It features the most competitive teams.",
+        "It has the longest race duration."
+      ]
+    },
+    {
+      "question": "Which feature of the Monaco circuit makes overtaking particularly challenging?",
+      "correct_answer": "Narrow track layout and tight corners.",
+      "wrong_options": [
+        "High-speed straights",
+        "Wide circuit design",
+        "Multiple DRS zones"
+      ]
+    },
+    {
+      "question": "What is one proposed solution to enhance racing at the Monaco Grand Prix?",
+      "correct_answer": "Implementing changes to the track layout.",
+      "wrong_options": [
+        "Increasing tire degradation",
+        "Reducing the number of laps",
+        "Changing the weather conditions"
+      ]
+    }
+  ]
+}

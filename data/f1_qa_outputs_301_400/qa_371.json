@@ -1,0 +1,36 @@
+{
+  "article_number": 371,
+  "source": "Motorsport Magazine",
+  "title": "Why F1 drivers think 'boring' Monaco GP will never change",
+  "summary": "Formula 1 drivers believe it should be accepted that the Monaco Grand Prix will always be boring, and that it has to be appreciated for what it is. The Monte…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-f1-drivers-think-boring-monaco-gp-will-never-change/",
+  "qa_pairs": [
+    {
+      "question": "What is a common criticism of the Monaco Grand Prix among F1 drivers?",
+      "correct_answer": "It is often considered boring due to its lack of overtaking opportunities.",
+      "wrong_options": [
+        "It is too dangerous for drivers.",
+        "The track is too short for F1 races.",
+        "The weather conditions are always unpredictable."
+      ]
+    },
+    {
+      "question": "Which characteristic of the Monaco GP contributes to its unique status in the F1 calendar?",
+      "correct_answer": "Its narrow streets and tight corners make overtaking extremely difficult.",
+      "wrong_options": [
+        "It has the longest lap of the season.",
+        "It features the highest average speed per lap.",
+        "It is run on a permanent race track."
+      ]
+    },
+    {
+      "question": "How do drivers generally feel about the tradition of the Monaco Grand Prix?",
+      "correct_answer": "They appreciate it for its historical significance despite its perceived lack of excitement.",
+      "wrong_options": [
+        "They want it removed from the calendar.",
+        "They prefer racing on more modern tracks.",
+        "They believe it should have more laps."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 333,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Ferrari to sack Vasseur? It's the same cycle of F1 failure",
+  "summary": "Reports that Fred Vasseur is under pressure don't seem to bode well for the Ferrari F1 boss. Will the team once more take the short-term approach and ignore its tested blueprint for success, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-ferrari-to-sack-vasseur-its-the-same-cycle-of-f1-failure/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current team principal of Ferrari as of 2023?",
+      "correct_answer": "Fred Vasseur",
+      "wrong_options": [
+        "Mattia Binotto",
+        "Christian Horner",
+        "Toto Wolff"
+      ]
+    },
+    {
+      "question": "What is a common criticism of Ferrari's approach to team management in Formula 1?",
+      "correct_answer": "Short-term decision-making",
+      "wrong_options": [
+        "Over-reliance on young drivers",
+        "Lack of technological innovation",
+        "Ignoring historical data"
+      ]
+    },
+    {
+      "question": "Which Formula 1 team is known for having a long-standing rivalry with Ferrari?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Mercedes",
+        "Alpine"
+      ]
+    }
+  ]
+}

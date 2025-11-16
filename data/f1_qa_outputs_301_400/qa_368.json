@@ -1,0 +1,36 @@
+{
+  "article_number": 368,
+  "source": "Motorsport Magazine",
+  "title": "McLaren the only F1 team without updates for Spanish GP",
+  "summary": "McLaren is not bringing any updates to Barcelona, having already tested its more rigid front wing at Imola",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-the-only-f1-team-without-updates-for-spanish-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is known to have not brought any updates to the Spanish Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What specific component did McLaren test at Imola before the Spanish GP?",
+      "correct_answer": "a more rigid front wing",
+      "wrong_options": [
+        "rear wing",
+        "brake system",
+        "engine upgrade"
+      ]
+    },
+    {
+      "question": "In Formula 1, what is the significance of a team bringing updates to a race?",
+      "correct_answer": "It can improve car performance and competitiveness.",
+      "wrong_options": [
+        "It increases the team's budget.",
+        "It guarantees a podium finish.",
+        "It is mandatory for all teams."
+      ]
+    }
+  ]
+}

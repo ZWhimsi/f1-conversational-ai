@@ -1,0 +1,36 @@
+{
+  "article_number": 323,
+  "source": "Motorsport Magazine",
+  "title": "Norris's grave prediction comes true - What we learned at the Canadian GP",
+  "summary": "A \"stupid\" accident left Norris 22 points adrift of team-mate Piastri on a Canadian GP weekend where the Briton looked faster. Here are the main takeaways from the Montreal weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norriss-grave-prediction-comes-true-what-we-learned-at-the-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is Lando Norris's team-mate at McLaren?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Daniel Ricciardo",
+        "Carlos Sainz",
+        "Kevin Magnussen"
+      ]
+    },
+    {
+      "question": "What was the impact of the accident on Norris's points standings during the Canadian GP weekend?",
+      "correct_answer": "He fell 22 points behind Piastri",
+      "wrong_options": [
+        "He gained 10 points",
+        "He remained even with Piastri",
+        "He fell 10 points behind Piastri"
+      ]
+    },
+    {
+      "question": "In which city did the Canadian Grand Prix take place?",
+      "correct_answer": "Montreal",
+      "wrong_options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa"
+      ]
+    }
+  ]
+}

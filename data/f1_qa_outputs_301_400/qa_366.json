@@ -1,0 +1,36 @@
+{
+  "article_number": 366,
+  "source": "Motorsport Magazine",
+  "title": "McLaren sets Friday pace amid flexi-wing changes - 2025 Spanish GP practice results",
+  "summary": "McLaren dominated Friday's running for the Spanish Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclaren-sets-friday-pace-amid-flexi-wing-changes-2025-spanish-gp-practice-results/",
+  "qa_pairs": [
+    {
+      "question": "Which team had the fastest time during the practice sessions for the 2025 Spanish Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What significant aerodynamic feature was discussed in relation to the teams during the lead-up to the Spanish Grand Prix?",
+      "correct_answer": "flexi-wings",
+      "wrong_options": [
+        "ground effect",
+        "active suspension",
+        "DRS zones"
+      ]
+    },
+    {
+      "question": "In what year did McLaren dominate the practice sessions for the Spanish Grand Prix?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    }
+  ]
+}

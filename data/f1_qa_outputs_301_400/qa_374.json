@@ -1,0 +1,36 @@
+{
+  "article_number": 374,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Spanish GP",
+  "summary": "A constructor question looms over this weekend's 2025 Spanish F1 Fantasy round. Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-spanish-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team in Formula 1 is known for its strong performance in fantasy leagues due to consistent podium finishes?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Haas",
+        "Alfa Romeo",
+        "Williams"
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, which strategy is commonly used to maximize points during a race weekend?",
+      "correct_answer": "Using a wildcard chip",
+      "wrong_options": [
+        "Double points chip",
+        "Team swap",
+        "Driver boost"
+      ]
+    },
+    {
+      "question": "What is a common reason for avoiding certain drivers in F1 Fantasy selections?",
+      "correct_answer": "Poor recent performance or reliability issues",
+      "wrong_options": [
+        "High salary cap",
+        "New team changes",
+        "Track familiarity"
+      ]
+    }
+  ]
+}

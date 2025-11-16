@@ -1,0 +1,36 @@
+{
+  "article_number": 389,
+  "source": "Motorsport Magazine",
+  "title": "MPH: How Monaco GP might go from procession to pandemonium",
+  "summary": "This year’s Monaco Grand Prix brings the prospect of unprecedented chaos and intrigue, as the new two-stop rule throws strategy - and the race outcome - wide open.Mark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-how-monaco-gp-might-go-from-procession-to-pandemonium/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the two-stop rule in Formula 1 races?",
+      "correct_answer": "It allows teams to change tires twice during a race, potentially altering strategies and outcomes.",
+      "wrong_options": [
+        "It restricts teams to only one tire change.",
+        "It mandates all drivers to start on hard tires.",
+        "It prevents drivers from pitting during the race."
+      ]
+    },
+    {
+      "question": "Why is the Monaco Grand Prix often considered a challenging race for overtaking?",
+      "correct_answer": "The narrow and winding streets make it difficult to pass other cars.",
+      "wrong_options": [
+        "It has the longest straight on the calendar.",
+        "The track is very wide, allowing for easy overtaking.",
+        "There are multiple DRS zones available throughout the lap."
+      ]
+    },
+    {
+      "question": "What impact can changing strategies have on the outcome of a Formula 1 race?",
+      "correct_answer": "It can create opportunities for drivers to gain positions or lose time based on tire performance.",
+      "wrong_options": [
+        "It has no impact on the race outcome.",
+        "It only affects drivers who start in the top positions.",
+        "It guarantees a faster lap time for all drivers."
+      ]
+    }
+  ]
+}

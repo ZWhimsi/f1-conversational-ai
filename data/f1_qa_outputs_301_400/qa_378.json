@@ -1,0 +1,36 @@
+{
+  "article_number": 378,
+  "source": "Motorsport Magazine",
+  "title": "Lost in translation? Hamilton's radio woes continue in Monaco",
+  "summary": "Hamilton’s challenging adaptation to life at Ferrari was on full display in Monaco, where a series of confusing radio exchanges highlighted ongoing communication issues between the seven-time world champion and his engineer",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lost-in-translation-hamiltons-radio-woes-continue-in-monaco/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Lewis Hamilton currently racing for as of the latest season?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What communication issue is often critical for a driver's performance during a race?",
+      "correct_answer": "Radio exchanges with the engineer",
+      "wrong_options": [
+        "Pit stop timing",
+        "Tire selection",
+        "Fuel strategy"
+      ]
+    },
+    {
+      "question": "In which Grand Prix did Hamilton experience notable radio communication issues?",
+      "correct_answer": "Monaco Grand Prix",
+      "wrong_options": [
+        "Italian Grand Prix",
+        "British Grand Prix",
+        "Singapore Grand Prix"
+      ]
+    }
+  ]
+}

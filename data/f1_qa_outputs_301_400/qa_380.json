@@ -1,0 +1,36 @@
+{
+  "article_number": 380,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: 'I discovered Monaco's magic despite the dull F1 race'",
+  "summary": "There's plenty to love about Monaco — just don't expect it to serve up a thrilling F1 race saysMatt Bishopwho, in 1995, discovered an alternative — and unrepeatable — way to experience the grand prix weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-i-discovered-monacos-magic-despite-the-dull-f1-race/",
+  "qa_pairs": [
+    {
+      "question": "What is the Monaco Grand Prix known for in terms of its racing characteristics?",
+      "correct_answer": "It is often criticized for being less thrilling due to its narrow streets and lack of overtaking opportunities.",
+      "wrong_options": [
+        "It always provides dramatic crashes and high-speed action.",
+        "It is known for its high-speed straights and overtaking zones.",
+        "It has the most car retirements of any race on the calendar."
+      ]
+    },
+    {
+      "question": "In what year did Matt Bishop first experience the Monaco Grand Prix?",
+      "correct_answer": "1995",
+      "wrong_options": [
+        "2000",
+        "1985",
+        "1990"
+      ]
+    },
+    {
+      "question": "What aspect of the Monaco Grand Prix does Matt Bishop suggest can be appreciated despite the race's lack of excitement?",
+      "correct_answer": "The unique atmosphere and charm of the event.",
+      "wrong_options": [
+        "The high competitiveness between teams.",
+        "The technological advancements in car design.",
+        "The unpredictability of race outcomes."
+      ]
+    }
+  ]
+}

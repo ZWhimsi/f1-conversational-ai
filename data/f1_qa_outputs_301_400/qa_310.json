@@ -1,0 +1,36 @@
+{
+  "article_number": 310,
+  "source": "Motorsport Magazine",
+  "title": "The simply brilliant Brabham BT49: F1 track test",
+  "summary": "In the end, it is just a car. You sit with a steering wheel in your hands. You change gear by shifting a lever fore and aft, working your way…",
+  "link": "https://www.motorsportmagazine.com/archive/article/may-1999/46/simply-the-best/",
+  "qa_pairs": [
+    {
+      "question": "Which team did the Brabham BT49 represent in Formula 1?",
+      "correct_answer": "Brabham",
+      "wrong_options": [
+        "Lotus",
+        "Ferrari",
+        "Williams"
+      ]
+    },
+    {
+      "question": "What type of control does a driver use to shift gears in a Formula 1 car?",
+      "correct_answer": "A lever",
+      "wrong_options": [
+        "Paddle shifters",
+        "Foot pedal",
+        "Steering wheel buttons"
+      ]
+    },
+    {
+      "question": "In which era was the Brabham BT49 primarily used in Formula 1 racing?",
+      "correct_answer": "1980s",
+      "wrong_options": [
+        "1970s",
+        "1990s",
+        "2000s"
+      ]
+    }
+  ]
+}

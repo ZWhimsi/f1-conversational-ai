@@ -1,0 +1,36 @@
+{
+  "article_number": 346,
+  "source": "Motorsport Magazine",
+  "title": "The last king of old Spa: Pedro Rodríguez's unforgettable 1970 win",
+  "summary": "Pedro Rodríguez delivered one of F1's most legendary drives at the old Spa in 1970, taming one of the world's fastest circuits to claim his second GP win after a relentless duel with Chris Amon",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-last-king-of-old-spa-pedro-rodriguezs-unforgettable-1970-win/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 1970 Belgian Grand Prix at the old Spa circuit?",
+      "correct_answer": "Pedro Rodríguez",
+      "wrong_options": [
+        "Chris Amon",
+        "Jackie Stewart",
+        "Graham Hill"
+      ]
+    },
+    {
+      "question": "What was significant about the 1970 Belgian Grand Prix for Pedro Rodríguez?",
+      "correct_answer": "It was his second Grand Prix win.",
+      "wrong_options": [
+        "It was his first Grand Prix win.",
+        "It was his last race.",
+        "He set a lap record."
+      ]
+    },
+    {
+      "question": "Which circuit is known for being one of the fastest in the world and hosted the 1970 Belgian Grand Prix?",
+      "correct_answer": "Spa-Francorchamps",
+      "wrong_options": [
+        "Monza",
+        "Suzuka",
+        "Silverstone"
+      ]
+    }
+  ]
+}

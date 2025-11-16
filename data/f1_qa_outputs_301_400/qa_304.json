@@ -1,0 +1,36 @@
+{
+  "article_number": 304,
+  "source": "Motorsport Magazine",
+  "title": "2025 is F1’s most polite title battle ever – Up/Down in Austria",
+  "summary": "Describing this year's championship race as a 'battle' might be slightly over-egging it, writesJames Elson",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-is-f1s-most-polite-title-battle-ever-up-down-in-austria/",
+  "qa_pairs": [
+    {
+      "question": "Which year is being referred to as F1’s most polite title battle?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2022"
+      ]
+    },
+    {
+      "question": "What is the general perception of the title battle in the 2025 F1 season?",
+      "correct_answer": "It is considered polite.",
+      "wrong_options": [
+        "It is highly competitive.",
+        "It is controversial.",
+        "It is dominated by a single team."
+      ]
+    },
+    {
+      "question": "In which country did the recent race mentioned in the context of the title battle take place?",
+      "correct_answer": "Austria",
+      "wrong_options": [
+        "Italy",
+        "Germany",
+        "France"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 309,
+  "source": "Motorsport Magazine",
+  "title": "Bizarre F1 episodes in Austria: Five GPs that took an unexpected turn",
+  "summary": "From four-legged intruders to controversy and crashing at the finish line, the Austrian Grand Prix has seen its fair share of Formula 1 drama over the years",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/bizarre-f1-episodes-in-austria-five-gps-that-took-an-unexpected-turn/",
+  "qa_pairs": [
+    {
+      "question": "What unusual event occurred during an Austrian Grand Prix involving animals?",
+      "correct_answer": "A four-legged intruder on the track.",
+      "wrong_options": [
+        "A bird striking a car",
+        "A snake crossing the circuit",
+        "A horse running alongside the cars"
+      ]
+    },
+    {
+      "question": "Which type of incident has frequently characterized the Austrian Grand Prix?",
+      "correct_answer": "Crashes at the finish line.",
+      "wrong_options": [
+        "Engine failures",
+        "Tire blowouts",
+        "Rain delays"
+      ]
+    },
+    {
+      "question": "What has been a source of controversy in the history of the Austrian Grand Prix?",
+      "correct_answer": "Disputes over track limits.",
+      "wrong_options": [
+        "Team orders violations",
+        "Driver penalties for unsafe driving",
+        "Car performance discrepancies"
+      ]
+    }
+  ]
+}

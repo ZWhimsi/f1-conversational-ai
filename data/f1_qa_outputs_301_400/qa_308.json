@@ -1,0 +1,36 @@
+{
+  "article_number": 308,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Will Ferrari find its happy place with new F1 upgrades?",
+  "summary": "Lewis Hamilton and Charles Leclerc have been working around Ferrari's flawed 2025 F1 car for most of the season. Upgrades arriving over the next two races could finally see them in the fight for regular race wins",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-will-ferrari-find-its-happy-place-with-new-f1-upgrades/",
+  "qa_pairs": [
+    {
+      "question": "Which team is expected to introduce upgrades to improve their performance in the 2025 F1 season?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who are the two drivers mentioned as working with Ferrari's 2025 car?",
+      "correct_answer": "Lewis Hamilton and Charles Leclerc",
+      "wrong_options": [
+        "Max Verstappen and Sergio Perez",
+        "Carlos Sainz and Lando Norris",
+        "George Russell and Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "What is the anticipated outcome of Ferrari's upgrades in the next two races?",
+      "correct_answer": "To be in the fight for regular race wins",
+      "wrong_options": [
+        "To secure pole positions",
+        "To improve tire management",
+        "To develop a new engine"
+      ]
+    }
+  ]
+}

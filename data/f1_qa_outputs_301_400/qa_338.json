@@ -1,0 +1,36 @@
+{
+  "article_number": 338,
+  "source": "Motorsport Magazine",
+  "title": "2025 Canadian Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Watch F1 via live stream or on TV: dates and start time for the 2025 Canadian Grand Prix, including all sessions",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-canadian-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the typical weekend schedule for a Formula 1 Grand Prix event?",
+      "correct_answer": "Practice sessions on Friday, qualifying on Saturday, and the race on Sunday.",
+      "wrong_options": [
+        "Race on Friday, qualifying on Saturday, practice on Sunday.",
+        "Practice sessions on Saturday, race on Sunday, no qualifying.",
+        "Only one practice session before the race on Sunday."
+      ]
+    },
+    {
+      "question": "Which Canadian city hosts the Formula 1 Canadian Grand Prix?",
+      "correct_answer": "Montreal.",
+      "wrong_options": [
+        "Toronto",
+        "Vancouver",
+        "Calgary"
+      ]
+    },
+    {
+      "question": "What is the common way to watch Formula 1 races live?",
+      "correct_answer": "Through live streams or on dedicated sports television channels.",
+      "wrong_options": [
+        "Only through DVD releases",
+        "Exclusively in movie theaters",
+        "Via local radio broadcasts"
+      ]
+    }
+  ]
+}

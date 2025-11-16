@@ -1,0 +1,36 @@
+{
+  "article_number": 317,
+  "source": "Motorsport Magazine",
+  "title": "Seven F1 champions confirmed for 2025 Goodwood Festival of Speed",
+  "summary": "Prost, Fittipaldi, Stewart, Andretti, Mansell, Häkkinen and Villeneuve will be driving their championship-winning machinery",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/seven-f1-champions-confirmed-for-2025-goodwood-festival-of-speed/",
+  "qa_pairs": [
+    {
+      "question": "Which event will feature seven Formula 1 champions showcasing their championship-winning cars in 2025?",
+      "correct_answer": "Goodwood Festival of Speed",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Silverstone Classic",
+        "Le Mans 24 Hours"
+      ]
+    },
+    {
+      "question": "Which of the following drivers is NOT among the confirmed seven F1 champions for the 2025 event?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Alain Prost",
+        "Mika Häkkinen",
+        "Nigel Mansell"
+      ]
+    },
+    {
+      "question": "What type of machinery will the seven F1 champions be driving at the Goodwood Festival of Speed?",
+      "correct_answer": "Championship-winning cars",
+      "wrong_options": [
+        "Current F1 cars",
+        "Formula E cars",
+        "Historical sports cars"
+      ]
+    }
+  ]
+}

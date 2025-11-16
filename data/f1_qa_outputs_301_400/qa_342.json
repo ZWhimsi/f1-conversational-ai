@@ -1,0 +1,36 @@
+{
+  "article_number": 342,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Verstappen's self-destructive rage has put him on brink of F1 race ban",
+  "summary": "Max Verstappen is just one offence away from an F1 race ban and a pattern has emerged in the way he's racked up penalty points, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-the-pattern-that-got-verstappen-close-to-an-f1-race-ban/",
+  "qa_pairs": [
+    {
+      "question": "What is the consequence of accumulating too many penalty points in Formula 1?",
+      "correct_answer": "A race ban.",
+      "wrong_options": [
+        "A points deduction for the team.",
+        "Disqualification from the championship.",
+        "A grid penalty for the next race."
+      ]
+    },
+    {
+      "question": "Who is the driver mentioned as being close to receiving a race ban due to penalty points?",
+      "correct_answer": "Max Verstappen.",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What is a common reason drivers accumulate penalty points in Formula 1?",
+      "correct_answer": "Infringements of racing regulations.",
+      "wrong_options": [
+        "Winning races too frequently.",
+        "Improper car setup.",
+        "Not following team orders."
+      ]
+    }
+  ]
+}

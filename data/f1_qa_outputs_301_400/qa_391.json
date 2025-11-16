@@ -1,0 +1,36 @@
+{
+  "article_number": 391,
+  "source": "Motorsport Magazine",
+  "title": "F1 Fantasy: top picks & predictions for the 2025 Monaco GP",
+  "summary": "Is it the right moment to bring in a big-hitter to your F1 Fantasy line-up for the 2025 Monaco GP? Here are our predictions; tips on drivers to avoid; which chips to play and further analysis",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-fantasy-top-picks-predictions-for-the-2025-monaco-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the Monaco Grand Prix in the Formula 1 calendar?",
+      "correct_answer": "It is one of the most prestigious and challenging races, known for its tight streets and rich history.",
+      "wrong_options": [
+        "It is the longest race on the calendar.",
+        "It takes place on a high-speed oval circuit.",
+        "It is held in the winter season."
+      ]
+    },
+    {
+      "question": "In F1 Fantasy, what is a 'big-hitter'?",
+      "correct_answer": "A high-performing driver who consistently scores a lot of points.",
+      "wrong_options": [
+        "A driver who frequently crashes.",
+        "A rookie driver with little experience.",
+        "A team with the lowest budget."
+      ]
+    },
+    {
+      "question": "What is a common strategy for F1 Fantasy players during high-stakes races like Monaco?",
+      "correct_answer": "To use chips effectively to maximize points based on driver performance and race conditions.",
+      "wrong_options": [
+        "To select only rookie drivers to save budget.",
+        "To avoid selecting top teams to minimize risk.",
+        "To focus solely on constructors rather than drivers."
+      ]
+    }
+  ]
+}

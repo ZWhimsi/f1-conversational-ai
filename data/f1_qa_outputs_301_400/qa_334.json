@@ -1,0 +1,36 @@
+{
+  "article_number": 334,
+  "source": "Motorsport Magazine",
+  "title": "The six drivers who took their maiden F1 win at the Canadian GP",
+  "summary": "Montreal has seen six drivers claim their maiden F1 win at the circuit. Some went on to become the greatest drivers the sport has ever seen. But for others, it would be the highlight of their careers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-six-drivers-who-took-their-maiden-f1-win-at-the-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which famous circuit is known for hosting the first F1 wins of multiple drivers?",
+      "correct_answer": "Montreal",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "What can be a significant career milestone for Formula 1 drivers during a race?",
+      "correct_answer": "Achieving their maiden win",
+      "wrong_options": [
+        "Setting the fastest lap",
+        "Winning the Constructors' Championship",
+        "Leading the most laps"
+      ]
+    },
+    {
+      "question": "Which of the following drivers is known for having won their first race at the Canadian Grand Prix?",
+      "correct_answer": "Jacques Villeneuve",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Sebastian Vettel"
+      ]
+    }
+  ]
+}

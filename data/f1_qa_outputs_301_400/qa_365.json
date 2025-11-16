@@ -1,0 +1,36 @@
+{
+  "article_number": 365,
+  "source": "Motorsport Magazine",
+  "title": "F1 in Barcelona: Circuit de Catalunya's explosive opening and evolution",
+  "summary": "Built in 1991 as part of a major regional initiative, the Circuit de Barcelona-Catalunya been home of the Spanish GP ever since, witnessing legendary moments in both F1 history",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-in-barcelona-circuit-de-catalunyas-explosive-opening-and-evolution/",
+  "qa_pairs": [
+    {
+      "question": "In which year was the Circuit de Barcelona-Catalunya officially opened?",
+      "correct_answer": "1991",
+      "wrong_options": [
+        "1988",
+        "1995",
+        "2000"
+      ]
+    },
+    {
+      "question": "What major Formula 1 event has traditionally been held at the Circuit de Barcelona-Catalunya?",
+      "correct_answer": "Spanish Grand Prix",
+      "wrong_options": [
+        "European Grand Prix",
+        "Catalan Grand Prix",
+        "Spanish Open"
+      ]
+    },
+    {
+      "question": "Which type of motorsport event has the Circuit de Barcelona-Catalunya primarily hosted since its opening?",
+      "correct_answer": "Formula 1",
+      "wrong_options": [
+        "MotoGP",
+        "World Rally Championship",
+        "IndyCar Series"
+      ]
+    }
+  ]
+}

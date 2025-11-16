@@ -1,0 +1,36 @@
+{
+  "article_number": 303,
+  "source": "Motorsport Magazine",
+  "title": "Cadillac’s F1 moonshot: how Apollo mission is guiding new team",
+  "summary": "Cadillac's Formula 1 entry was approved just 364 days before its first grand prix weekend. We took a look inside its Silverstone base to find out how it's building a brand new team from scratch",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/cadillacs-f1-moonshot-how-apollo-mission-is-guiding-new-team/",
+  "qa_pairs": [
+    {
+      "question": "When was Cadillac's Formula 1 entry officially approved?",
+      "correct_answer": "364 days before its first grand prix weekend.",
+      "wrong_options": [
+        "Six months before the first race.",
+        "One year before the first race.",
+        "Three months before its first grand prix weekend."
+      ]
+    },
+    {
+      "question": "What is the significance of the Apollo mission in relation to Cadillac's F1 team?",
+      "correct_answer": "It serves as a guiding inspiration for building the new team.",
+      "wrong_options": [
+        "It is a historical event that Cadillac is commemorating.",
+        "It represents the technological advancements in F1.",
+        "It is a marketing campaign for Cadillac's brand."
+      ]
+    },
+    {
+      "question": "Where is Cadillac's Formula 1 base located?",
+      "correct_answer": "Silverstone.",
+      "wrong_options": [
+        "Monaco.",
+        "Maranello.",
+        "Woking."
+      ]
+    }
+  ]
+}

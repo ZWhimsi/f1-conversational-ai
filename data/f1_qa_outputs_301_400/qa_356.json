@@ -1,0 +1,36 @@
+{
+  "article_number": 356,
+  "source": "Motorsport Magazine",
+  "title": "'FIA must ban Verstappen – now' – Going Up, Going Down in Spain",
+  "summary": "When will the FIA take serious action against dangerous F1 driving? asksJames Elson",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fia-must-ban-verstappen-now-going-up-going-down-in-spain/",
+  "qa_pairs": [
+    {
+      "question": "What does FIA stand for in the context of Formula 1?",
+      "correct_answer": "Fédération Internationale de l'Automobile",
+      "wrong_options": [
+        "Formula International Association",
+        "Federation of International Automotive",
+        "Formula One Administration"
+      ]
+    },
+    {
+      "question": "Which driver has been frequently associated with controversial driving incidents in recent seasons?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What is the primary role of the FIA in Formula 1?",
+      "correct_answer": "To regulate and oversee the sport's rules and safety standards",
+      "wrong_options": [
+        "To manage team finances",
+        "To develop car technologies",
+        "To organize race schedules"
+      ]
+    }
+  ]
+}

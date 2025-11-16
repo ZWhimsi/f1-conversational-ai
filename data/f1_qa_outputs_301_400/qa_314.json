@@ -1,0 +1,36 @@
+{
+  "article_number": 314,
+  "source": "Motorsport Magazine",
+  "title": "When Hunt the underdog bit back with a shock maiden F1 victory",
+  "summary": "James Hunt and a Hesketh in Holland. It all aligned 50 years ago when the future world champion pulled off one of F1's most unlikely wins at Zandvoort, asMatt Bishoprecounts",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/when-hunt-the-underdog-bit-back-with-a-shock-maiden-f1-victory/",
+  "qa_pairs": [
+    {
+      "question": "Which driver achieved an unexpected victory at the 1975 Dutch Grand Prix?",
+      "correct_answer": "James Hunt",
+      "wrong_options": [
+        "Niki Lauda",
+        "Emerson Fittipaldi",
+        "Jackie Stewart"
+      ]
+    },
+    {
+      "question": "What was the name of the team that James Hunt drove for during his surprise win at Zandvoort?",
+      "correct_answer": "Hesketh Racing",
+      "wrong_options": [
+        "McLaren",
+        "Ferrari",
+        "Brabham"
+      ]
+    },
+    {
+      "question": "In which year did James Hunt win his first Formula 1 race at the Dutch Grand Prix?",
+      "correct_answer": "1975",
+      "wrong_options": [
+        "1974",
+        "1976",
+        "1977"
+      ]
+    }
+  ]
+}

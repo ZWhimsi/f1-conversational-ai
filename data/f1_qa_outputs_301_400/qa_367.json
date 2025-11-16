@@ -1,0 +1,36 @@
+{
+  "article_number": 367,
+  "source": "Motorsport Magazine",
+  "title": "Aston Martin F1 staff must stick to the truth or Newey will catch them out, says Alonso",
+  "summary": "Adrian Newey joined Aston Martin at a race weekend for the first time in Monaco, and it was clear to see how the team upped its game as a result, said Fernando Alonso",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-newey-elevated-aston-martins-level-with-his-presence/",
+  "qa_pairs": [
+    {
+      "question": "Who is the Chief Technical Officer known for his significant contributions to multiple F1 teams, including Red Bull Racing?",
+      "correct_answer": "Adrian Newey",
+      "wrong_options": [
+        "James Allison",
+        "Pat Symonds",
+        "Ross Brawn"
+      ]
+    },
+    {
+      "question": "Which driver emphasized the importance of honesty within the Aston Martin team during a recent race weekend?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lance Stroll",
+        "Sebastian Vettel",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "At which race weekend did Adrian Newey make his first appearance with Aston Martin?",
+      "correct_answer": "Monaco",
+      "wrong_options": [
+        "Bahrain",
+        "Silverstone",
+        "Monza"
+      ]
+    }
+  ]
+}

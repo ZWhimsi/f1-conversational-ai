@@ -1,0 +1,36 @@
+{
+  "article_number": 351,
+  "source": "Motorsport Magazine",
+  "title": "Gaming the system, but result is the same",
+  "summary": "After last year’s Monaco Grand Prix was red-flagged on the opening lap following a three-car accident between Sergio Perez and the two Haas cars up the hill out of Ste…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/80/gaming-the-system-but-result-is-the-same/",
+  "qa_pairs": [
+    {
+      "question": "What event caused the red flag during the 2022 Monaco Grand Prix?",
+      "correct_answer": "A three-car accident involving Sergio Perez and two Haas cars.",
+      "wrong_options": [
+        "A tire failure on Charles Leclerc's car.",
+        "A collision between Lewis Hamilton and Max Verstappen.",
+        "Bad weather conditions leading to poor visibility."
+      ]
+    },
+    {
+      "question": "Which team did Sergio Perez drive for during the 2022 Monaco Grand Prix?",
+      "correct_answer": "Red Bull Racing.",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the typical consequence of a red flag in a Formula 1 race?",
+      "correct_answer": "The race is temporarily halted.",
+      "wrong_options": [
+        "The race is immediately canceled.",
+        "Drivers are allowed to change tires freely.",
+        "Points are awarded based on the last completed lap."
+      ]
+    }
+  ]
+}

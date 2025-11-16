@@ -1,0 +1,36 @@
+{
+  "article_number": 393,
+  "source": "Motorsport Magazine",
+  "title": "Lost traditions: How Monaco GP has fallen in line with F1 calendar",
+  "summary": "From four-day grand prix weekends to having its own broadcaster, the Monaco Grand Prix has had several unique traditions that it has been losing over the years...",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/lost-traditions-how-monaco-gp-has-fallen-in-line-with-f1-calendar/",
+  "qa_pairs": [
+    {
+      "question": "What is one of the unique traditions that the Monaco Grand Prix has historically offered?",
+      "correct_answer": "A four-day grand prix weekend",
+      "wrong_options": [
+        "Night race format",
+        "Mandatory pit stops",
+        "Double points for the race winner"
+      ]
+    },
+    {
+      "question": "Which aspect of broadcasting has changed for the Monaco Grand Prix?",
+      "correct_answer": "Having its own broadcaster",
+      "wrong_options": [
+        "Increased international coverage",
+        "Live streaming on social media",
+        "Exclusive rights for local channels"
+      ]
+    },
+    {
+      "question": "What is a characteristic feature of the Monaco Grand Prix that differentiates it from other races?",
+      "correct_answer": "Its street circuit layout",
+      "wrong_options": [
+        "High-speed oval track",
+        "Permanent racing circuit",
+        "Mixed surface types"
+      ]
+    }
+  ]
+}

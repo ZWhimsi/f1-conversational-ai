@@ -1,0 +1,36 @@
+{
+  "article_number": 305,
+  "source": "Motorsport Magazine",
+  "title": "Russell's real feelings over stalled F1 contract: what you missed at the Austrian GP",
+  "summary": "You had to read between the lines at the 2025 Austrian Grand Prix as George Russell dropped hints over about his dissatisfaction, and F1 sent a message to FIA president Mohammed Ben Sulayem",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/russells-real-feelings-over-stalled-f1-contract-what-you-missed-at-the-austrian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team does George Russell drive for in Formula 1?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who is the president of the FIA as of 2023?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Bernie Ecclestone",
+        "Chase Carey"
+      ]
+    },
+    {
+      "question": "In which year did George Russell express his dissatisfaction regarding his contract during the Austrian Grand Prix?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

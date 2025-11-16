@@ -1,0 +1,36 @@
+{
+  "article_number": 377,
+  "source": "Motorsport Magazine",
+  "title": "F1 in Barcelona and Madrid: why Spain will have two grands prix in 2026",
+  "summary": "This weekend, the Circuit de Barcelona-Catalunya will host its last Spanish Grand Prix, but it will also be on the F1 calendar next year, along with Madrid. Its future looks less certain after 2026, however",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-in-barcelona-and-madrid-why-spain-will-have-two-grands-prix-in-2026/",
+  "qa_pairs": [
+    {
+      "question": "Which two cities in Spain are set to host Grands Prix in 2026?",
+      "correct_answer": "Barcelona and Madrid",
+      "wrong_options": [
+        "Barcelona and Valencia",
+        "Madrid and Seville",
+        "Valencia and Bilbao"
+      ]
+    },
+    {
+      "question": "What is the name of the circuit that will host its last Spanish Grand Prix this weekend?",
+      "correct_answer": "Circuit de Barcelona-Catalunya",
+      "wrong_options": [
+        "Circuit de Jerez",
+        "Circuit de Valencia",
+        "Circuit de Montmelo"
+      ]
+    },
+    {
+      "question": "As of 2026, what is uncertain regarding the Spanish Grand Prix?",
+      "correct_answer": "Its future beyond 2026",
+      "wrong_options": [
+        "Its location",
+        "The number of laps",
+        "The starting time"
+      ]
+    }
+  ]
+}

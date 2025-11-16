@@ -1,0 +1,36 @@
+{
+  "article_number": 370,
+  "source": "Motorsport Magazine",
+  "title": "'It won't change the world' - F1 drivers on flexi-wing clampdown",
+  "summary": "The impact of the Spanish GP technical directive remains a big mystery for all",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/it-wont-change-the-world-f1-drivers-on-flexi-wing-clampdown/",
+  "qa_pairs": [
+    {
+      "question": "What was the main purpose of the technical directive introduced at the Spanish Grand Prix?",
+      "correct_answer": "To limit the use of flexible wings in Formula 1.",
+      "wrong_options": [
+        "To increase engine power",
+        "To reduce tire wear",
+        "To implement a new fuel type"
+      ]
+    },
+    {
+      "question": "How do flexible wings affect the performance of a Formula 1 car?",
+      "correct_answer": "They can provide additional downforce by bending at high speeds.",
+      "wrong_options": [
+        "They decrease drag significantly",
+        "They improve fuel efficiency",
+        "They enhance braking performance"
+      ]
+    },
+    {
+      "question": "Which team is often associated with the innovative use of flexible wings in F1?",
+      "correct_answer": "Mercedes.",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    }
+  ]
+}

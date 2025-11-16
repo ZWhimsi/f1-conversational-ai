@@ -1,0 +1,36 @@
+{
+  "article_number": 321,
+  "source": "Motorsport Magazine",
+  "title": "Will Norris ever learn how to race? Up/Down in Canada",
+  "summary": "Lando Norris's wrecked McLaren was some metaphor for his racing aptitude over the last 12 months",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-norris-ever-learn-how-to-race-up-down-in-canada/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Lando Norris drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which country did Lando Norris experience a significant race incident mentioned in the context?",
+      "correct_answer": "Canada",
+      "wrong_options": [
+        "Australia",
+        "Italy",
+        "Singapore"
+      ]
+    },
+    {
+      "question": "What does a wrecked car often symbolize in the context of a driver's performance?",
+      "correct_answer": "Struggles or mistakes in racing",
+      "wrong_options": [
+        "Technical superiority",
+        "Team success",
+        "Consistent podium finishes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 358,
+  "source": "Motorsport Magazine",
+  "title": "Major F1 change was 'waste of money' - What we learned at the Spanish GP",
+  "summary": "From Piastri's commanding win to Verstappen's dramatic incident, the Spanish GP delivered high stakes and unforgettable moments. Here's what we learned from it",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/major-f1-change-was-waste-of-money-what-we-learned-at-the-spanish-gp/",
+  "qa_pairs": [
+    {
+      "question": "Who won the Spanish Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What type of incident did Max Verstappen experience during the Spanish GP?",
+      "correct_answer": "Dramatic incident",
+      "wrong_options": [
+        "Mechanical failure",
+        "Collision",
+        "Pit stop error"
+      ]
+    },
+    {
+      "question": "What does a commanding win typically indicate about a driver's performance?",
+      "correct_answer": "Dominance in the race",
+      "wrong_options": [
+        "Struggled with car setup",
+        "Had multiple pit stops",
+        "Finished in the midfield"
+      ]
+    }
+  ]
+}

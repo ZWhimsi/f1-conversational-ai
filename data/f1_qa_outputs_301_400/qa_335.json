@@ -1,0 +1,36 @@
+{
+  "article_number": 335,
+  "source": "Motorsport Magazine",
+  "title": "FIA hands more powers to Ben Sulayem, including veto over presidential challengers",
+  "summary": "New statutes for the FIA have been approved, giving current president Mohammed Ben Sulayem the power to bar candidates from running against him",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fia-hands-more-powers-to-ben-sulayem-including-veto-over-presidential-challengers/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA as of 2023?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What new power has been granted to the FIA president under the new statutes?",
+      "correct_answer": "The power to veto presidential challengers",
+      "wrong_options": [
+        "The power to change race regulations",
+        "The power to appoint race stewards",
+        "The power to approve team entries"
+      ]
+    },
+    {
+      "question": "Which organization governs the rules and regulations of Formula 1?",
+      "correct_answer": "FIA (Fédération Internationale de l'Automobile)",
+      "wrong_options": [
+        "FOM (Formula One Management)",
+        "FIA Formula E",
+        "WEC (World Endurance Championship)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 357,
+  "source": "Motorsport Magazine",
+  "title": "Top 5... Jochen Mass’s five greatest drives",
+  "summary": "1. 1976 German GP Jochen Mass took no pleasure from his only Formula 1 win, the tragic and truncated 1975 Spanish GP. So let’s skip that and focus instead on…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/21/top-5-jochen-mass-drives/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Jochen Mass achieve his only Formula 1 victory?",
+      "correct_answer": "1975",
+      "wrong_options": [
+        "1976",
+        "1977",
+        "1978"
+      ]
+    },
+    {
+      "question": "What tragic event is associated with Jochen Mass's only Formula 1 win?",
+      "correct_answer": "The 1975 Spanish GP",
+      "wrong_options": [
+        "The 1976 German GP",
+        "The 1974 Monaco GP",
+        "The 1973 Italian GP"
+      ]
+    },
+    {
+      "question": "Which Grand Prix is noted as Jochen Mass's only win in Formula 1?",
+      "correct_answer": "1975 Spanish GP",
+      "wrong_options": [
+        "1976 German GP",
+        "1977 British GP",
+        "1978 French GP"
+      ]
+    }
+  ]
+}

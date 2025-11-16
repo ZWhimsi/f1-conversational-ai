@@ -1,0 +1,36 @@
+{
+  "article_number": 396,
+  "source": "Motorsport Magazine",
+  "title": "The freak wave that wiped out half the grid in 1950 Monaco Grand Prix",
+  "summary": "75 years ago today the Monaco Grand Prix made its F1 world championship debut, but an unusual incident on the opening lap resulted in over half the grid retiring – so what happened?",
+  "link": "https://www.motorsportmagazine.com/articles/history/the-freak-wave-that-wiped-out-half-the-grid-in-1950-monaco-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "What significant event occurred during the 1950 Monaco Grand Prix that affected many drivers?",
+      "correct_answer": "A freak wave caused over half the grid to retire.",
+      "wrong_options": [
+        "A major collision on the first corner.",
+        "Technical failures in the pit lane.",
+        "Severe tire wear during the race."
+      ]
+    },
+    {
+      "question": "In what year did the Monaco Grand Prix make its debut as part of the F1 World Championship?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1949",
+        "1951",
+        "1952"
+      ]
+    },
+    {
+      "question": "What is a notable characteristic of the Monaco Grand Prix known for its challenging conditions?",
+      "correct_answer": "It features narrow streets and tight corners.",
+      "wrong_options": [
+        "It has a high-speed oval layout.",
+        "It is held on a completely flat circuit.",
+        "It includes multiple long straights."
+      ]
+    }
+  ]
+}

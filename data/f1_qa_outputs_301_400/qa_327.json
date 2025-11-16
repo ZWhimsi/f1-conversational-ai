@@ -1,0 +1,36 @@
+{
+  "article_number": 327,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen vs Russell: how the explosive F1 rivalry began",
+  "summary": "Max Verstappen and George Russell are set to fight for the lead of the 2025 Canadian Grand Prix from the front row. This is why their rivalry is so charged",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-vs-russell-how-the-the-explosive-f1-rivalry-began/",
+  "qa_pairs": [
+    {
+      "question": "Which two drivers are central to the rivalry discussed in the context of the 2025 Canadian Grand Prix?",
+      "correct_answer": "Max Verstappen and George Russell",
+      "wrong_options": [
+        "Lewis Hamilton and Charles Leclerc",
+        "Sergio Perez and Lando Norris",
+        "Carlos Sainz and Fernando Alonso"
+      ]
+    },
+    {
+      "question": "In what year is the Canadian Grand Prix featuring Verstappen and Russell's rivalry taking place?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    },
+    {
+      "question": "What position are Verstappen and Russell starting from in the 2025 Canadian Grand Prix?",
+      "correct_answer": "Front row",
+      "wrong_options": [
+        "Midfield",
+        "Back row",
+        "Second row"
+      ]
+    }
+  ]
+}

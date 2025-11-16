@@ -1,0 +1,36 @@
+{
+  "article_number": 383,
+  "source": "Motorsport Magazine",
+  "title": "The driver who was unluckier than Alonso: what you missed at the Monaco GP",
+  "summary": "The race win that wasn't:Chris Medlandon the bits you missed from Monaco, including the latest on an African race and why Cadillac's entry might Monte Carlo over the limit",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-driver-who-was-unluckier-than-alonso-what-you-missed-at-the-monaco-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is often mentioned alongside the idea of bad luck in Formula 1?",
+      "correct_answer": "Fernando Alonso",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What is significant about Cadillac's entry into Formula 1?",
+      "correct_answer": "It might push the limits of regulations at Monaco.",
+      "wrong_options": [
+        "It is the first American team in F1",
+        "They have won multiple championships",
+        "They are using a hybrid engine"
+      ]
+    },
+    {
+      "question": "What is a key feature of the Monaco Grand Prix that often leads to unexpected race outcomes?",
+      "correct_answer": "Narrow streets and limited overtaking opportunities.",
+      "wrong_options": [
+        "High-speed straights",
+        "Weather variability",
+        "Long pit stops"
+      ]
+    }
+  ]
+}

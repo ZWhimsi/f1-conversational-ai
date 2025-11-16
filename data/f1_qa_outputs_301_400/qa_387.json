@@ -1,0 +1,36 @@
+{
+  "article_number": 387,
+  "source": "Motorsport Magazine",
+  "title": "Monaco GP dreams crushed: 5 F1 drivers who crashed while ahead",
+  "summary": "It doesn't matter how big your lead is at Monaco: the circuit is ready and waiting to punish the tiniest mistake, as these five drivers, who looked to be on course for victory, found to their cost",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/monaco-gp-dreams-crushed-5-f1-drivers-who-crashed-while-ahead/",
+  "qa_pairs": [
+    {
+      "question": "Which F1 circuit is known for its narrow streets and challenging layout, often leading to crashes even for leading drivers?",
+      "correct_answer": "Monaco",
+      "wrong_options": [
+        "Silverstone",
+        "Monza",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "What is a common consequence for drivers making mistakes on the Monaco GP circuit?",
+      "correct_answer": "Crashing out of the race",
+      "wrong_options": [
+        "Gaining time",
+        "Increasing tire grip",
+        "Completing a pit stop"
+      ]
+    },
+    {
+      "question": "Which factor is most critical for maintaining a lead during the Monaco Grand Prix?",
+      "correct_answer": "Precision and control",
+      "wrong_options": [
+        "Engine power",
+        "Aerodynamic efficiency",
+        "Pit stop strategy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 302,
+  "source": "Motorsport Magazine",
+  "title": "'Not even the best F1 driver in his family' - Pain of being the other Schumacher",
+  "summary": "He has always been overshadowed by his older brother but Ralf Schumacher’s 50-year story is more layered, and more human, than the stats alone suggest, saysMatt Bishop",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/ralf-at-50-the-complicated-capable-career-of-f1s-other-schumacher/",
+  "qa_pairs": [
+    {
+      "question": "Who is considered the more successful Schumacher in Formula 1?",
+      "correct_answer": "Michael Schumacher",
+      "wrong_options": [
+        "Ralf Schumacher",
+        "David Schumacher",
+        "Mick Schumacher"
+      ]
+    },
+    {
+      "question": "What is the relationship between Ralf Schumacher and Michael Schumacher?",
+      "correct_answer": "They are brothers.",
+      "wrong_options": [
+        "Cousins",
+        "Uncle and Nephew",
+        "Father and Son"
+      ]
+    },
+    {
+      "question": "How many Formula 1 championships did Michael Schumacher win?",
+      "correct_answer": "7",
+      "wrong_options": [
+        "5",
+        "6",
+        "8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 372,
+  "source": "Motorsport Magazine",
+  "title": "How F1's flexi-wing clampdown works and what effect it will have",
+  "summary": "Will the front wing flexibility clampdown introduced at the Spanish GP be a reset of Formula 1's competitive order?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-f1s-flexi-wing-clampdown-works-and-what-effect-it-will-have/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of the front wing flexibility clampdown in Formula 1?",
+      "correct_answer": "To ensure that front wings comply with stricter regulations on flexibility for fair competition.",
+      "wrong_options": [
+        "To increase downforce for all teams.",
+        "To reduce drag on the cars.",
+        "To allow teams more freedom in wing design."
+      ]
+    },
+    {
+      "question": "Which Grand Prix was the front wing flexibility clampdown introduced at?",
+      "correct_answer": "The Spanish Grand Prix.",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "Italian Grand Prix"
+      ]
+    },
+    {
+      "question": "How might the front wing flexibility clampdown affect the competitive order in F1?",
+      "correct_answer": "It could level the playing field by reducing performance advantages of teams that exploited flexible wings.",
+      "wrong_options": [
+        "It will likely increase the performance gap between teams.",
+        "It will have no effect on team dynamics.",
+        "It will only benefit the top teams."
+      ]
+    }
+  ]
+}

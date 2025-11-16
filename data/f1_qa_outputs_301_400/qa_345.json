@@ -1,0 +1,36 @@
+{
+  "article_number": 345,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Overhyped flexi-wing clampdown repeated a 2001 F1 story",
+  "summary": "Just like the much-anticipated traction control rule change in 2001, F1’s latest flexi-wing clampdown in Spain proved more hype than genuine shake-up, asMark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-overhyped-flexi-wing-clampdown-repeated-a-2001-f1-story/",
+  "qa_pairs": [
+    {
+      "question": "What was the main focus of the 2001 rule change in Formula 1?",
+      "correct_answer": "The ban on traction control.",
+      "wrong_options": [
+        "Introduction of hybrid engines.",
+        "Increase in tire width.",
+        "Modification of pit stop regulations."
+      ]
+    },
+    {
+      "question": "What is a flexi-wing in Formula 1?",
+      "correct_answer": "A wing that can flex at high speeds, potentially altering its aerodynamic properties.",
+      "wrong_options": [
+        "A type of tire designed for wet conditions.",
+        "A component used for engine cooling.",
+        "A safety feature in the cockpit."
+      ]
+    },
+    {
+      "question": "Which country hosted the Formula 1 race where the flexi-wing clampdown was highlighted?",
+      "correct_answer": "Spain.",
+      "wrong_options": [
+        "Italy.",
+        "Germany.",
+        "United Kingdom."
+      ]
+    }
+  ]
+}

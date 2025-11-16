@@ -1,0 +1,36 @@
+{
+  "article_number": 319,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: McLaren F1 driver falls for Montreal trap... again",
+  "summary": "When Norris's bold attempt to pass Piastri ended with a crash into the Montreal pitwall, it stirred memories of McLaren's infamous 2011 clash between Button and Hamilton at the very same circuit, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-mclaren-driver-falls-for-montreal-trap-again/",
+  "qa_pairs": [
+    {
+      "question": "Which McLaren drivers were involved in the infamous 2011 clash at Montreal?",
+      "correct_answer": "Jenson Button and Lewis Hamilton",
+      "wrong_options": [
+        "Fernando Alonso and Kimi Räikkönen",
+        "Lando Norris and Oscar Piastri",
+        "Mika Häkkinen and David Coulthard"
+      ]
+    },
+    {
+      "question": "What incident occurred involving Lando Norris during the Montreal race?",
+      "correct_answer": "A crash into the Montreal pitwall while attempting to pass Piastri",
+      "wrong_options": [
+        "A collision with a rival in the first corner",
+        "A pit stop error that cost him time",
+        "A mechanical failure on the last lap"
+      ]
+    },
+    {
+      "question": "What type of racing maneuver did Lando Norris attempt that resulted in a crash?",
+      "correct_answer": "A bold attempt to pass another driver",
+      "wrong_options": [
+        "A defensive move to block another driver",
+        "A late braking maneuver",
+        "An overtake on the inside line"
+      ]
+    }
+  ]
+}

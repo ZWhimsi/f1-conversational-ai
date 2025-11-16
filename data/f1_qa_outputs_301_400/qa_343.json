@@ -1,0 +1,36 @@
+{
+  "article_number": 343,
+  "source": "Motorsport Magazine",
+  "title": "The candidates to replace Lance Stroll if he can't race in Canadian GP",
+  "summary": "With Lance Stroll's participation in the Canadian Grand Prix uncertain, Aston Martin faces several options for a potential stand-in driver",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-candidates-to-replace-lance-stroll-if-he-cant-race-in-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Lance Stroll drive for in Formula 1?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What event is Lance Stroll's participation uncertain for?",
+      "correct_answer": "Canadian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "British Grand Prix",
+        "Italian Grand Prix"
+      ]
+    },
+    {
+      "question": "What is typically considered when a team selects a stand-in driver?",
+      "correct_answer": "Driver experience and compatibility with the car",
+      "wrong_options": [
+        "Driver height and weight",
+        "Driver nationality",
+        "Driver popularity on social media"
+      ]
+    }
+  ]
+}

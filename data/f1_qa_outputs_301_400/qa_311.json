@@ -1,0 +1,36 @@
+{
+  "article_number": 311,
+  "source": "Motorsport Magazine",
+  "title": "Who is Harry Benjamin? F1 commentator replaces David Croft at 2025 Azerbaijan GP",
+  "summary": "BBC 5 Live commentator Harry Benjamin will replace David Croft for the third time in 2025, calling the racing action for Sky Sports F1 at the Azerbaijan Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-is-harry-benjamin-croftys-commentary-replacement-at-imola/",
+  "qa_pairs": [
+    {
+      "question": "Who is the commentator that will replace David Croft for the 2025 Azerbaijan Grand Prix?",
+      "correct_answer": "Harry Benjamin",
+      "wrong_options": [
+        "Martin Brundle",
+        "Jenson Button",
+        "Ted Kravitz"
+      ]
+    },
+    {
+      "question": "In which year will Harry Benjamin commentate at the Azerbaijan Grand Prix?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    },
+    {
+      "question": "Which broadcasting network will Harry Benjamin be working for during the 2025 Azerbaijan GP?",
+      "correct_answer": "Sky Sports F1",
+      "wrong_options": [
+        "BBC 5 Live",
+        "ESPN F1",
+        "Formula 1 TV"
+      ]
+    }
+  ]
+}

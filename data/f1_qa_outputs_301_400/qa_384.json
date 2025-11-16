@@ -1,0 +1,36 @@
+{
+  "article_number": 384,
+  "source": "Motorsport Magazine",
+  "title": "How Norris ended Leclerc's best 2025 F1 win shot amid Monaco GP 'fun and games'",
+  "summary": "Lando Norris realised his dream of winning the Monaco Grand Prix in 2025, as the new mandatory two-stop rule brought creative strategies in the midfield, writesMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/how-norris-ended-leclercs-best-2025-f1-win-shot-amid-monaco-gp-fun-and-games/",
+  "qa_pairs": [
+    {
+      "question": "Who won the Monaco Grand Prix in 2025?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What new rule was introduced in the 2025 Monaco Grand Prix that influenced race strategies?",
+      "correct_answer": "Mandatory two-stop rule",
+      "wrong_options": [
+        "One-stop rule",
+        "Soft tire compound only",
+        "Sprint race format"
+      ]
+    },
+    {
+      "question": "Which driver was affected by Norris's win in the context of their championship aspirations?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Sergio Perez",
+        "George Russell",
+        "Carlos Sainz"
+      ]
+    }
+  ]
+}

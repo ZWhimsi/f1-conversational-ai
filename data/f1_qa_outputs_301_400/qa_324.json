@@ -1,0 +1,36 @@
+{
+  "article_number": 324,
+  "source": "Motorsport Magazine",
+  "title": "Mr Saturday: How scorching pole secured Russell's Montreal win",
+  "summary": "George Russell took command of the Canadian GP with an imperious qualifying performance –Mark Hughesanalyses the full Montreal F1 weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mr-saturday-how-scorching-pole-secured-russells-montreal-win/",
+  "qa_pairs": [
+    {
+      "question": "Who secured pole position at the 2023 Canadian Grand Prix?",
+      "correct_answer": "George Russell",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What is the significance of securing pole position in a Formula 1 race?",
+      "correct_answer": "It allows the driver to start at the front of the grid.",
+      "wrong_options": [
+        "It guarantees a race win.",
+        "It allows for a strategic pit stop.",
+        "It provides extra championship points."
+      ]
+    },
+    {
+      "question": "Which team did George Russell drive for during the 2023 Canadian Grand Prix?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "McLaren"
+      ]
+    }
+  ]
+}

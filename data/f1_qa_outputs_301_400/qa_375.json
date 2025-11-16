@@ -1,0 +1,36 @@
+{
+  "article_number": 375,
+  "source": "Motorsport Magazine",
+  "title": "Will flexi-wing rule reshuffle F1? - What to look for at the Spanish GP",
+  "summary": "The Spanish Grand Prix marks the end of F1’s second triple-header in a hectic start to 2025, with new flexi-wing regulations set to potentially disrupt the competitive order ahead of round nine",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-flexi-wing-clampdown-change-f1-order-what-to-watch-out-for-at-2025-spanish-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of flexi-wing regulations in Formula 1?",
+      "correct_answer": "To limit the aerodynamic flexibility of wings during races.",
+      "wrong_options": [
+        "To increase the overall weight of the car.",
+        "To enhance engine performance.",
+        "To alter tire specifications."
+      ]
+    },
+    {
+      "question": "How many races are typically included in a triple-header in Formula 1?",
+      "correct_answer": "Three races.",
+      "wrong_options": [
+        "Two races.",
+        "Four races.",
+        "Five races."
+      ]
+    },
+    {
+      "question": "Which event is mentioned as occurring at the end of F1's second triple-header in 2025?",
+      "correct_answer": "The Spanish Grand Prix.",
+      "wrong_options": [
+        "The Monaco Grand Prix.",
+        "The British Grand Prix.",
+        "The Italian Grand Prix."
+      ]
+    }
+  ]
+}

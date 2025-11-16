@@ -1,0 +1,36 @@
+{
+  "article_number": 392,
+  "source": "Motorsport Magazine",
+  "title": "Verstappen explains absence from F1 movie preview",
+  "summary": "Max Verstappen says Formula 1 bosses were aware that he would not attend the preview of the F1 movie on Wednesday, saying he wanted to spend his time at home.…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-explains-absence-from-f1-movie-preview/",
+  "qa_pairs": [
+    {
+      "question": "Which driver was absent from the preview of the F1 movie?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sebastian Vettel"
+      ]
+    },
+    {
+      "question": "What reason did Max Verstappen give for his absence from the F1 movie preview?",
+      "correct_answer": "He wanted to spend his time at home.",
+      "wrong_options": [
+        "He was attending a different event.",
+        "He was in a training camp.",
+        "He was unwell."
+      ]
+    },
+    {
+      "question": "What role do Formula 1 bosses play in events like movie previews?",
+      "correct_answer": "They coordinate and manage the participation of drivers and teams.",
+      "wrong_options": [
+        "They direct the movie.",
+        "They participate as actors.",
+        "They fund the production."
+      ]
+    }
+  ]
+}

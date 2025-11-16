@@ -1,0 +1,36 @@
+{
+  "article_number": 381,
+  "source": "Motorsport Magazine",
+  "title": "F1's two-stop experiment flops - 2025 Monaco GP takeaways",
+  "summary": "The two-stop experiment didn't make much of a difference to the racing as Lando Norris produced his most convincing weekend of 2025. Here's what we learned from the Monaco Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1s-two-stop-experiment-flops-2025-monaco-gp-takeaways/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the two-stop strategy in Formula 1 races?",
+      "correct_answer": "It involves drivers making two pit stops during the race to change tires, aiming for faster lap times.",
+      "wrong_options": [
+        "It allows drivers to refuel during the race.",
+        "It requires drivers to change cars halfway through the race.",
+        "It is a strategy that only applies to wet races."
+      ]
+    },
+    {
+      "question": "Which driver had a standout performance during the 2025 Monaco Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "question": "What is a common challenge teams face when implementing new race strategies like the two-stop?",
+      "correct_answer": "Balancing tire degradation and pit stop timing for optimal performance.",
+      "wrong_options": [
+        "Ensuring all drivers follow the same tire strategy.",
+        "Increasing the car's top speed to compensate for extra pit stops.",
+        "Reducing the number of laps in the race."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 379,
+  "source": "Motorsport Magazine",
+  "title": "2025 Spanish Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Formula 1 descends at the Circuit de Barcelona-Catalunya for the 2025 Spanish Grand Prix,  with McLaren's Oscar Piastri narrowly leading the drivers' championship and Lando Norris hot on his heels…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-spanish-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Oscar Piastri race for in the 2025 Formula 1 season?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What is the name of the circuit where the 2025 Spanish Grand Prix is held?",
+      "correct_answer": "Circuit de Barcelona-Catalunya",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "Who is in close contention with Oscar Piastri for the drivers' championship in 2025?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Sergio Perez"
+      ]
+    }
+  ]
+}

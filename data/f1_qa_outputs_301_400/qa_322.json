@@ -1,0 +1,36 @@
+{
+  "article_number": 322,
+  "source": "Motorsport Magazine",
+  "title": "Who are F1's youngest podium finishers?",
+  "summary": "At the 2025 Canadian Grand Prix, Kimi Antonelli joined a select group of Formula 1 drivers who have been on the podium as teenagers. Here's a look at the youngest top-three finishers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-are-f1s-youngest-podium-finishers/",
+  "qa_pairs": [
+    {
+      "question": "Who is the youngest driver to finish on the podium in Formula 1 history?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lando Norris",
+        "Charles Leclerc",
+        "Kimi Antonelli"
+      ]
+    },
+    {
+      "question": "In which year did Kimi Antonelli achieve his podium finish?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    },
+    {
+      "question": "At which Grand Prix did Kimi Antonelli secure his podium finish as a teenager?",
+      "correct_answer": "Canadian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "British Grand Prix"
+      ]
+    }
+  ]
+}

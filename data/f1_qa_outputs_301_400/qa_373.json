@@ -1,0 +1,36 @@
+{
+  "article_number": 373,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: 'Leclerc is Senna-like at Monaco but his Ferrari's a dud'",
+  "summary": "We've only seen flashes of Charles Leclerc's brilliance at Monaco, writesMark Hughes, but the Ferrari F1 driver merits a place among the greatest to race in Monte-Carlo",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-leclerc-is-senna-like-at-monaco-but-his-ferraris-a-dud/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is noted for their exceptional talent at the Monaco Grand Prix?",
+      "correct_answer": "Charles Leclerc",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Fernando Alonso"
+      ]
+    },
+    {
+      "question": "What is the reputation of Charles Leclerc when racing in Monaco?",
+      "correct_answer": "He is compared to Ayrton Senna.",
+      "wrong_options": [
+        "He struggles under pressure.",
+        "He has never finished in the top three.",
+        "He is known for poor qualifying performances."
+      ]
+    },
+    {
+      "question": "What team is Charles Leclerc currently driving for in Formula 1?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "Mercedes",
+        "Red Bull Racing",
+        "Alpine"
+      ]
+    }
+  ]
+}

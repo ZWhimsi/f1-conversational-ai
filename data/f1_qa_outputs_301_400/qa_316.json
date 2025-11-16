@@ -1,0 +1,36 @@
+{
+  "article_number": 316,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Emotional Norris is making bad calls in fight with cool-headed Piastri",
+  "summary": "A third of the way through the 2025 F1 season, McLaren's title fight is shaping into a psychological duel as much as a physical one — with one key element giving Oscar Piastri's the edge over Lando Norris, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-the-one-element-giving-piastri-the-edge-over-norris/",
+  "qa_pairs": [
+    {
+      "question": "Which two McLaren drivers are noted for their contrasting psychological approaches during the 2025 F1 season?",
+      "correct_answer": "Lando Norris and Oscar Piastri",
+      "wrong_options": [
+        "Daniel Ricciardo and Lando Norris",
+        "Oscar Piastri and Lewis Hamilton",
+        "Lando Norris and Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What aspect of the competition between Norris and Piastri is highlighted as crucial in the 2025 F1 season?",
+      "correct_answer": "Psychological duel",
+      "wrong_options": [
+        "Technical superiority",
+        "Pit stop strategy",
+        "Car performance"
+      ]
+    },
+    {
+      "question": "As of the third of the way into the 2025 season, which driver is suggested to have the edge in terms of composure?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Max Verstappen",
+        "George Russell"
+      ]
+    }
+  ]
+}

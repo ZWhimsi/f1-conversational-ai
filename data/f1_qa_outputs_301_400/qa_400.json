@@ -1,0 +1,36 @@
+{
+  "article_number": 400,
+  "source": "Motorsport Magazine",
+  "title": "McLaren's Monaco miracle: when Hamilton was blessed by F1 racing gods",
+  "summary": "Lewis Hamilton's victory in the 2008 Monaco Grand Prix reinvigorated his charge to a first world title. But asMatt Bishoprecalls, luck had a lot to do with this turning point in the championship",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mclarens-monaco-miracle-the-year-hamilton-was-blessed-by-f1-racing-gods/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Lewis Hamilton win his first Monaco Grand Prix?",
+      "correct_answer": "2008",
+      "wrong_options": [
+        "2007",
+        "2009",
+        "2010"
+      ]
+    },
+    {
+      "question": "What significant outcome resulted from Hamilton's victory in the 2008 Monaco Grand Prix?",
+      "correct_answer": "It reinvigorated his charge to a first world title.",
+      "wrong_options": [
+        "It secured his second world title.",
+        "It led to a major rule change.",
+        "It ended his championship hopes."
+      ]
+    },
+    {
+      "question": "Which team did Lewis Hamilton drive for during his 2008 Monaco Grand Prix victory?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    }
+  ]
+}

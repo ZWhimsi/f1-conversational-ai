@@ -1,0 +1,36 @@
+{
+  "article_number": 339,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: Jean Alesi's only F1 win in a 13-year career of hard-luck stories",
+  "summary": "Jean Alesi burst onto the F1 scene in 1989, the start of what looked to be a glittering career. But, writesMatt Bishop, after 201 grands prix, his 1995 victory in Canada remains the only F1 win for a special talent",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-jean-alesis-only-f1-win-in-a-13-year-career-of-hard-luck-stories/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Jean Alesi achieve his only Formula 1 victory?",
+      "correct_answer": "1995",
+      "wrong_options": [
+        "1992",
+        "1998",
+        "1990"
+      ]
+    },
+    {
+      "question": "How many Grand Prix races did Jean Alesi compete in during his Formula 1 career?",
+      "correct_answer": "201",
+      "wrong_options": [
+        "150",
+        "250",
+        "175"
+      ]
+    },
+    {
+      "question": "Which country hosted the Grand Prix where Jean Alesi secured his sole victory?",
+      "correct_answer": "Canada",
+      "wrong_options": [
+        "France",
+        "Italy",
+        "United Kingdom"
+      ]
+    }
+  ]
+}

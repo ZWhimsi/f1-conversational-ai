@@ -1,0 +1,36 @@
+{
+  "article_number": 341,
+  "source": "Motorsport Magazine",
+  "title": "2026 F1 calendar: Full 24-race schedule and start times",
+  "summary": "F1 announces its 2026 schedule: 24 races on the calendar as Imola is dropped, Madrid arrives and the Canadian Grand Prix clashes directly with the Indianapolis 500",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2026-f1-calendar-full-24-race-schedule-revealed/",
+  "qa_pairs": [
+    {
+      "question": "Which new city is set to host a Formula 1 race starting in 2026?",
+      "correct_answer": "Madrid",
+      "wrong_options": [
+        "Berlin",
+        "Paris",
+        "Amsterdam"
+      ]
+    },
+    {
+      "question": "How many races are scheduled in the 2026 Formula 1 calendar?",
+      "correct_answer": "24",
+      "wrong_options": [
+        "22",
+        "20",
+        "26"
+      ]
+    },
+    {
+      "question": "Which traditional motorsport event conflicts with the Canadian Grand Prix in 2026?",
+      "correct_answer": "Indianapolis 500",
+      "wrong_options": [
+        "Le Mans 24 Hours",
+        "Monaco Grand Prix",
+        "Daytona 500"
+      ]
+    }
+  ]
+}

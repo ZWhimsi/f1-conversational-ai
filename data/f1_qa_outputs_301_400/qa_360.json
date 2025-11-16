@@ -1,0 +1,36 @@
+{
+  "article_number": 360,
+  "source": "Motorsport Magazine",
+  "title": "Did McLaren design error lead it to F1 success?",
+  "summary": "Sometimes in F1 when a technical problem is encountered, the learning taken from it can be competitive gold dust. McLaren’s current rear brake duct design has been the focus of…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/14/did-mclaren-design-error-lead-it-to-f1-success/",
+  "qa_pairs": [
+    {
+      "question": "What is one potential benefit of encountering technical problems in Formula 1?",
+      "correct_answer": "It can provide valuable learning experiences that enhance competitiveness.",
+      "wrong_options": [
+        "It leads to immediate disqualification from races.",
+        "It guarantees a championship win in the following season.",
+        "It results in increased funding from sponsors."
+      ]
+    },
+    {
+      "question": "Which team is mentioned in relation to a design error that could lead to success?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "question": "What component of McLaren's car is specifically highlighted as having a design issue?",
+      "correct_answer": "Rear brake duct",
+      "wrong_options": [
+        "Front wing",
+        "Suspension system",
+        "Tire management system"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 394,
+  "source": "Motorsport Magazine",
+  "title": "Will two-stop rule work or backfire? What to watch out for at 2025 Monaco GP",
+  "summary": "The Monaco GP will look different this year as a result of the mandatory two-stop strategy, but could the move backfire? We look at the main questions ahead of the Monte Carlo round",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-two-stop-rule-work-or-backfire-what-to-watch-out-for-at-2025-monaco-gp/",
+  "qa_pairs": [
+    {
+      "question": "What is a common strategy used in Formula 1 races that involves changing tires multiple times?",
+      "correct_answer": "Two-stop strategy",
+      "wrong_options": [
+        "One-stop strategy",
+        "Three-stop strategy",
+        "No-stop strategy"
+      ]
+    },
+    {
+      "question": "Which Grand Prix is known for its tight corners and lack of overtaking opportunities, making tire strategy crucial?",
+      "correct_answer": "Monaco GP",
+      "wrong_options": [
+        "Belgian GP",
+        "Italian GP",
+        "Singapore GP"
+      ]
+    },
+    {
+      "question": "What potential risk does a mandatory two-stop strategy introduce for teams during a race?",
+      "correct_answer": "Increased chance of pit stop errors",
+      "wrong_options": [
+        "Decreased tire wear",
+        "Faster lap times",
+        "Less fuel consumption"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 332,
+  "source": "Motorsport Magazine",
+  "title": "F1 title contenders prepare for fireworks: what the drivers said ahead of the Canadian GP",
+  "summary": "The 2025 Canadian GP media day was packed with headline moments. Here's what you may have missed",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-title-contenders-prepare-for-fireworks-what-the-drivers-said-ahead-of-the-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team won the Constructors' Championship in the 2025 F1 season?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "Who were the main title contenders for the 2025 F1 season?",
+      "correct_answer": "Lewis Hamilton and Max Verstappen",
+      "wrong_options": [
+        "Charles Leclerc and Sergio Perez",
+        "Carlos Sainz and Lando Norris",
+        "Sebastian Vettel and Daniel Ricciardo"
+      ]
+    },
+    {
+      "question": "What is the significance of the Canadian GP in the F1 calendar?",
+      "correct_answer": "It is known for its challenging street circuit and passionate fans.",
+      "wrong_options": [
+        "It is the season opener.",
+        "It is a night race.",
+        "It features a high-speed oval layout."
+      ]
+    }
+  ]
+}

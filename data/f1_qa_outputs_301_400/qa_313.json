@@ -1,0 +1,36 @@
+{
+  "article_number": 313,
+  "source": "Motorsport Magazine",
+  "title": "F1: The Movie review – Why this film is 'the pits'",
+  "summary": "Lewis Hamilton and Brad Pitt's F1 movie does championship and women in racing little justice, writesKaty Fairman",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-the-movie-review-why-this-film-is-the-pits/",
+  "qa_pairs": [
+    {
+      "question": "Who is the driver that has won multiple championships in Formula 1 and is known for his contributions to diversity in the sport?",
+      "correct_answer": "Lewis Hamilton",
+      "wrong_options": [
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Michael Schumacher"
+      ]
+    },
+    {
+      "question": "In what year did the first Formula 1 race take place?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1947",
+        "1955",
+        "1960"
+      ]
+    },
+    {
+      "question": "Which Formula 1 team is known for its iconic silver livery and has been very successful in the hybrid era?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    }
+  ]
+}

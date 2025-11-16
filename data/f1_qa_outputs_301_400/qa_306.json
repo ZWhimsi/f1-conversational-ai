@@ -1,0 +1,36 @@
+{
+  "article_number": 306,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Norris bounce back in Austria was spectacular",
+  "summary": "From zero to hero: in a pacy McLaren, at one of his favourite F1 circuits, Lando Norris picked himself up from a disastrous Canadian race to reign supreme in the 2025 Austrian Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-norris-bounce-back-in-austria-was-spectacular/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the 2025 Austrian Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What team does Lando Norris drive for?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What notable performance did Lando Norris achieve in Austria after a poor race in Canada?",
+      "correct_answer": "He bounced back to win the race.",
+      "wrong_options": [
+        "He finished in the top five.",
+        "He retired from the race.",
+        "He set the fastest lap."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 312,
+  "source": "Motorsport Magazine",
+  "title": "2025 Austrian Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Watch F1 via live stream or on TV: dates and start time for the 2025 Austrian Grand Prix, including all sessions",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-austrian-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "What is the typical duration of a Formula 1 Grand Prix race?",
+      "correct_answer": "Approximately 1.5 to 2 hours.",
+      "wrong_options": [
+        "30 minutes",
+        "3 hours",
+        "5 hours"
+      ]
+    },
+    {
+      "question": "Which team has historically been one of the most successful at the Austrian Grand Prix?",
+      "correct_answer": "Red Bull Racing.",
+      "wrong_options": [
+        "Ferrari",
+        "Mercedes",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What is the usual format for a Formula 1 race weekend?",
+      "correct_answer": "Practice sessions, qualifying, and the race.",
+      "wrong_options": [
+        "Only practice sessions and the race",
+        "Practice sessions and qualifying only",
+        "Qualifying and two races"
+      ]
+    }
+  ]
+}

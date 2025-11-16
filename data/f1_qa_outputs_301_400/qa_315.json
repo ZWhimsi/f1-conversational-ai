@@ -1,0 +1,36 @@
+{
+  "article_number": 315,
+  "source": "Motorsport Magazine",
+  "title": "'It was like a mafia scene' - Scheckter recalls Ferrari meeting that shaped 1979 F1 season",
+  "summary": "\"An old man with white hair, in a suit, wearing dark glasses, in a dark office, with bodyguards all around.”",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/it-was-like-a-mafia-scene-scheckter-recalls-ferrari-meeting-that-shaped-1979-f1-season/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 1979 Formula 1 World Championship?",
+      "correct_answer": "Jody Scheckter",
+      "wrong_options": [
+        "Gilles Villeneuve",
+        "Nelson Piquet",
+        "James Hunt"
+      ]
+    },
+    {
+      "question": "Which team did Jody Scheckter drive for during the 1979 season?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Williams",
+        "Brabham"
+      ]
+    },
+    {
+      "question": "What was a significant aspect of Ferrari's performance in the 1979 season?",
+      "correct_answer": "They won the Constructors' Championship.",
+      "wrong_options": [
+        "They had the fastest car on the grid.",
+        "They faced multiple driver retirements.",
+        "They did not win any races."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 331,
+  "source": "Motorsport Magazine",
+  "title": "The turbulent recent history of Ferrari's F1 team principals",
+  "summary": "Amidst relentless pressure from fans, media, and Ferrari's own upper management, the Scuderia has cycled through a series of team principals in recent years, each facing intense scrutiny",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-turbulent-recent-history-of-ferraris-f1-team-principals/",
+  "qa_pairs": [
+    {
+      "question": "Which F1 team is known as Scuderia?",
+      "correct_answer": "Ferrari",
+      "wrong_options": [
+        "McLaren",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What role does a team principal play in an F1 team?",
+      "correct_answer": "Overseeing team operations and strategy",
+      "wrong_options": [
+        "Designing the car",
+        "Driving the car",
+        "Managing finances"
+      ]
+    },
+    {
+      "question": "Which of the following factors contributes to the pressure on F1 team principals?",
+      "correct_answer": "Performance results and fan expectations",
+      "wrong_options": [
+        "Weather conditions",
+        "Car color",
+        "Driver nationality"
+      ]
+    }
+  ]
+}

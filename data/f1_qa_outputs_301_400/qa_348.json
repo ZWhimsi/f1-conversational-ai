@@ -1,0 +1,36 @@
+{
+  "article_number": 348,
+  "source": "Motorsport Magazine",
+  "title": "Silverstone Museum opens new exhibition spanning 75 years of F1",
+  "summary": "May 13, 1950: Drivers including Juan Manuel Fangio, Reg Parnell and Nino Farina gather at the start of Farm Straight at Silverstone before the Grand Prix of Europe. May 13,…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/98/silverstone-museum-opens-new-exhibition-spanning-75-years-of-f1/",
+  "qa_pairs": [
+    {
+      "question": "Which driver won the first-ever Formula 1 World Championship race?",
+      "correct_answer": "Giuseppe Farina",
+      "wrong_options": [
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Mike Hawthorn"
+      ]
+    },
+    {
+      "question": "What is the significance of the Silverstone circuit in Formula 1 history?",
+      "correct_answer": "It hosted the first-ever Formula 1 World Championship race.",
+      "wrong_options": [
+        "It is known for the fastest lap records.",
+        "It has the longest straight on the calendar.",
+        "It is the only night race in Formula 1."
+      ]
+    },
+    {
+      "question": "In what year was the inaugural Formula 1 race held at Silverstone?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1948",
+        "1952",
+        "1960"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 340,
+  "source": "Motorsport Magazine",
+  "title": "Canadian GP/Indy 500 clash: F1 arrogance or sustainable move?",
+  "summary": "A direct clash between the Canadian GP and the Indianapolis 500 in 2026 appears to be a baffling decision by F1. So what's the reasoning behind it?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/canadian-gp-indy-500-clash-f1-arrogance-or-sustainable-move/",
+  "qa_pairs": [
+    {
+      "question": "What year will the Canadian Grand Prix and the Indianapolis 500 clash on the same weekend?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2027",
+        "2024"
+      ]
+    },
+    {
+      "question": "Which racing series is hosting the Canadian Grand Prix?",
+      "correct_answer": "Formula 1",
+      "wrong_options": [
+        "IndyCar",
+        "NASCAR",
+        "Formula E"
+      ]
+    },
+    {
+      "question": "What is one potential reason for a scheduling clash between the Canadian GP and the Indianapolis 500?",
+      "correct_answer": "Strategic decision by F1",
+      "wrong_options": [
+        "Driver availability issues",
+        "Weather considerations",
+        "Track renovations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 349,
+  "source": "Motorsport Magazine",
+  "title": "F1 legend Jackie Stewart recalls his greatest moments",
+  "summary": "Were he to have his time again and had the blessing of choice, would Sir Jackie Stewart have raced in a different era? He’d surely have enjoyed the money Formula…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/94/f1-legend-jackie-stewart-recalls-his-greatest-moments/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is known for his legendary status and the nickname 'The Flying Scot'?",
+      "correct_answer": "Jackie Stewart",
+      "wrong_options": [
+        "James Hunt",
+        "Niki Lauda",
+        "Ayrton Senna"
+      ]
+    },
+    {
+      "question": "In which era did Jackie Stewart predominantly compete in Formula 1?",
+      "correct_answer": "1960s and 1970s",
+      "wrong_options": [
+        "1980s and 1990s",
+        "1950s and 1960s",
+        "2000s and 2010s"
+      ]
+    },
+    {
+      "question": "What significant aspect of Formula 1 has changed since Jackie Stewart's racing days?",
+      "correct_answer": "Financial rewards and sponsorship",
+      "wrong_options": [
+        "Car aerodynamics",
+        "Race distances",
+        "Track safety regulations"
+      ]
+    }
+  ]
+}

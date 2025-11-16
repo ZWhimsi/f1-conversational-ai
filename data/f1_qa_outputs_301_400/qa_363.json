@@ -1,0 +1,36 @@
+{
+  "article_number": 363,
+  "source": "Motorsport Magazine",
+  "title": "Piastri wins from Norris as Verstappen gets penalised - 2025 Spanish GP results",
+  "summary": "Piastri takes commanding win from Norris as Verstappen gets penalised for late crash in Spanish Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/piastri-wins-from-norris-as-verstappen-gets-penalised-2025-spanish-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Spanish Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lando Norris",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What was the reason for Max Verstappen's penalty during the 2025 Spanish Grand Prix?",
+      "correct_answer": "Late crash",
+      "wrong_options": [
+        "Speeding in the pit lane",
+        "Unsafe release",
+        "Collision with another driver"
+      ]
+    },
+    {
+      "question": "Which driver finished in second place in the 2025 Spanish Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Carlos Sainz",
+        "George Russell"
+      ]
+    }
+  ]
+}

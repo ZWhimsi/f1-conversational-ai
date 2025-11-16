@@ -1,0 +1,36 @@
+{
+  "article_number": 318,
+  "source": "Motorsport Magazine",
+  "title": "F1's bid to return to Africa boosted by Kyalami Grade 1 upgrade approval",
+  "summary": "Over the next three years, Kyalami will be upgraded to Grade 1 standards, making it eligible to host a Formula 1 race",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1s-return-to-africa-boosted-by-kyalami-grade-1-upgrade-approval/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of a circuit achieving Grade 1 status in Formula 1?",
+      "correct_answer": "It means the circuit meets the highest safety and technical standards required to host F1 races.",
+      "wrong_options": [
+        "It indicates the circuit has hosted multiple F1 races in the past.",
+        "It means the circuit has a minimum number of grandstands.",
+        "It signifies the circuit has a permanent paddock facility."
+      ]
+    },
+    {
+      "question": "Which circuit in South Africa is undergoing upgrades to potentially host Formula 1 races?",
+      "correct_answer": "Kyalami",
+      "wrong_options": [
+        "Zwartkops",
+        "Durban Street Circuit",
+        "Cape Town Circuit"
+      ]
+    },
+    {
+      "question": "How long is the planned upgrade to Kyalami expected to take?",
+      "correct_answer": "Three years",
+      "wrong_options": [
+        "One year",
+        "Five years",
+        "Two years"
+      ]
+    }
+  ]
+}

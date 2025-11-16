@@ -1,0 +1,36 @@
+{
+  "article_number": 330,
+  "source": "Motorsport Magazine",
+  "title": "F1 in Montreal: How Circuit Gilles Villeneuve was built in the middle of a river",
+  "summary": "The Circuit Gilles Villeneuve is, like other venues on the Formula 1 calendar, the indirect result of a city hosting a major event unrelated to racing. In this case, of…",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-in-montreal-how-circuit-gilles-villeneuve-was-built-in-the-middle-of-a-river/",
+  "qa_pairs": [
+    {
+      "question": "What major event led to the construction of the Circuit Gilles Villeneuve?",
+      "correct_answer": "Expo 67",
+      "wrong_options": [
+        "World Expo 2010",
+        "FIFA World Cup 1970",
+        "Olympic Games 1988"
+      ]
+    },
+    {
+      "question": "In which city is the Circuit Gilles Villeneuve located?",
+      "correct_answer": "Montreal",
+      "wrong_options": [
+        "Toronto",
+        "Vancouver",
+        "Quebec City"
+      ]
+    },
+    {
+      "question": "What is a unique feature of the Circuit Gilles Villeneuve's location?",
+      "correct_answer": "It is built on an island in the St. Lawrence River.",
+      "wrong_options": [
+        "It is located in a desert area.",
+        "It is surrounded by mountains.",
+        "It is built on a former military base."
+      ]
+    }
+  ]
+}

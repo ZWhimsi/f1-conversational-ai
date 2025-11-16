@@ -1,0 +1,36 @@
+{
+  "article_number": 382,
+  "source": "Motorsport Magazine",
+  "title": "Monaco showed F1 badly needs new cars – Up/Down in Monte Carlo",
+  "summary": "For all the huff-and-puff about strategy at the 2025 Monaco GP, the race showed pitstops aren't F1's main problem there",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/monaco-showed-f1-badly-needs-new-cars-up-down-in-monte-carlo/",
+  "qa_pairs": [
+    {
+      "question": "What is a common issue that has been highlighted regarding the Monaco Grand Prix in recent years?",
+      "correct_answer": "The need for new car designs to improve racing.",
+      "wrong_options": [
+        "Inadequate pit stop strategies.",
+        "Insufficient qualifying sessions.",
+        "Lack of driver skill."
+      ]
+    },
+    {
+      "question": "Which aspect of Formula 1 racing is often debated in relation to the Monaco GP?",
+      "correct_answer": "Car performance and design.",
+      "wrong_options": [
+        "Tire management strategies.",
+        "Fuel efficiency regulations.",
+        "Weather conditions during the race."
+      ]
+    },
+    {
+      "question": "What factor is often considered less critical than car performance in the context of the Monaco GP?",
+      "correct_answer": "Pit stop strategies.",
+      "wrong_options": [
+        "Driver experience.",
+        "Team communication.",
+        "Track layout."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 385,
+  "source": "Motorsport Magazine",
+  "title": "Norris holds off Leclerc to win - 2025 Monaco GP results",
+  "summary": "Norris took victory from pole in Monaco as the mandatory two stops added some intrigue but didn't make an impact at the front of the field",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/norris-holds-off-leclerc-to-win-2025-monaco-gp-results/",
+  "qa_pairs": [
+    {
+      "question": "Who won the 2025 Monaco Grand Prix?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What position did Lando Norris start from in the 2025 Monaco GP?",
+      "correct_answer": "Pole position",
+      "wrong_options": [
+        "Second",
+        "Third",
+        "Fourth"
+      ]
+    },
+    {
+      "question": "How many mandatory pit stops were required during the 2025 Monaco Grand Prix?",
+      "correct_answer": "Two pit stops",
+      "wrong_options": [
+        "One pit stop",
+        "Three pit stops",
+        "No pit stops"
+      ]
+    }
+  ]
+}

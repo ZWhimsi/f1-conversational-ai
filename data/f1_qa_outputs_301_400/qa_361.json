@@ -1,0 +1,36 @@
+{
+  "article_number": 361,
+  "source": "Motorsport Magazine",
+  "title": "Mark Hughes: Needless F1 team order enraged already-beaten Verstappen",
+  "summary": "Max Verstappen had looked to be in with a shot of winning the 2025 Spanish Grand Prix.Mark Hughesexplains why Oscar Piastri ended up leading a comfortable McLaren 1-2 while the Red Bull F1 driver rammed into George Russell",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-enraged-verstappen-was-already-beaten-before-needless-team-order/",
+  "qa_pairs": [
+    {
+      "question": "Which driver was involved in a collision with George Russell during the 2025 Spanish Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Oscar Piastri",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "What team achieved a 1-2 finish in the 2025 Spanish Grand Prix?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "In which year did the events of the Spanish Grand Prix involving Verstappen and Piastri take place?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    }
+  ]
+}

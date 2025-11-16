@@ -1,0 +1,36 @@
+{
+  "article_number": 399,
+  "source": "Motorsport Magazine",
+  "title": "How Ascari's final F1 race ended with  dramatic drop into Monaco harbour",
+  "summary": "This is the story of how two-time F1 champion Alberto Ascari ended up in the Monaco harbour, in what would be his last-ever Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/history/how-ascaris-final-f1-race-ended-with-a-dramatic-visit-into-the-monaco-harbour/",
+  "qa_pairs": [
+    {
+      "question": "Who was the two-time F1 champion involved in a dramatic incident at the Monaco Grand Prix?",
+      "correct_answer": "Alberto Ascari",
+      "wrong_options": [
+        "Juan Manuel Fangio",
+        "Nelson Piquet",
+        "Ayrton Senna"
+      ]
+    },
+    {
+      "question": "What significant event marked Alberto Ascari's final F1 race?",
+      "correct_answer": "He fell into the Monaco harbour.",
+      "wrong_options": [
+        "He won the race.",
+        "He crashed into another car.",
+        "He retired due to mechanical failure."
+      ]
+    },
+    {
+      "question": "In which year did Alberto Ascari's last F1 race take place?",
+      "correct_answer": "1955",
+      "wrong_options": [
+        "1950",
+        "1960",
+        "1957"
+      ]
+    }
+  ]
+}

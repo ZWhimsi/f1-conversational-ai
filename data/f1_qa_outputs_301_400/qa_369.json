@@ -1,0 +1,36 @@
+{
+  "article_number": 369,
+  "source": "Motorsport Magazine",
+  "title": "MPH: Why science alone can't unlock secrets of ground effect F1 cars",
+  "summary": "As F1 enters the final year of its ground effect era, teams are discovering that success now depends as much on intuition and adaptability as on traditional engineering precision, asMark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-why-science-alone-couldnt-crack-ground-effect-f1-cars/",
+  "qa_pairs": [
+    {
+      "question": "What is the primary aerodynamic feature being discussed in relation to F1 cars in the current context?",
+      "correct_answer": "Ground effect",
+      "wrong_options": [
+        "Drag reduction",
+        "Active suspension",
+        "Floor venturi effect"
+      ]
+    },
+    {
+      "question": "In the context of F1, what qualities have become increasingly important for teams as they work with ground effect cars?",
+      "correct_answer": "Intuition and adaptability",
+      "wrong_options": [
+        "Strict adherence to engineering precision",
+        "Reliance on simulation data",
+        "Focus on tire performance"
+      ]
+    },
+    {
+      "question": "What significant change is F1 experiencing as it approaches the end of the ground effect era?",
+      "correct_answer": "A shift towards a combination of intuition and engineering",
+      "wrong_options": [
+        "Introduction of hybrid engines",
+        "Elimination of downforce",
+        "Complete reliance on data analytics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 344,
+  "source": "Motorsport Magazine",
+  "title": "The frenetic F1 race with three starts and drivers sprinting to make the grid",
+  "summary": "25 years ago, Formula 1 prepared for the opening laps of the 2000 Monaco Grand Prix. However, what followed was not one, not two, but three attempts at the start",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-frenetic-f1-race-with-three-starts-and-drivers-sprinting-to-make-the-grid/",
+  "qa_pairs": [
+    {
+      "question": "What is the significance of the 2000 Monaco Grand Prix in Formula 1 history?",
+      "correct_answer": "It featured three starts due to multiple incidents before the race could begin.",
+      "wrong_options": [
+        "It was the first race of the hybrid era.",
+        "It was the last race for a particular tire manufacturer.",
+        "It was the race where a driver achieved their first victory."
+      ]
+    },
+    {
+      "question": "Which famous F1 circuit hosted the race that experienced three starts in 2000?",
+      "correct_answer": "Monaco.",
+      "wrong_options": [
+        "Silverstone",
+        "Monza",
+        "Suzuka"
+      ]
+    },
+    {
+      "question": "What can cause multiple starts in a Formula 1 race?",
+      "correct_answer": "Incidents such as crashes or poor track conditions.",
+      "wrong_options": [
+        "Fuel strategy changes",
+        "Weather updates",
+        "Pit stop regulations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 320,
+  "source": "Motorsport Magazine",
+  "title": "Matt Bishop: F1's self-destruction at Indianapolis - inside the 2005 US GP",
+  "summary": "Twenty years on from the infamous 2005 United States Grand Prix,Matt Bishoprevisits how a catastrophic tyre failure, leadership deadlock, and political infighting turned an F1 race into a global embarrassment",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/matt-bishop-f1s-self-destruction-at-indianapolis-inside-the-2005-us-gp/",
+  "qa_pairs": [
+    {
+      "question": "What major incident affected the 2005 United States Grand Prix?",
+      "correct_answer": "Catastrophic tyre failure",
+      "wrong_options": [
+        "Fuel contamination",
+        "Engine failure",
+        "Rain conditions"
+      ]
+    },
+    {
+      "question": "Which factor contributed to the controversy surrounding the 2005 US GP?",
+      "correct_answer": "Leadership deadlock",
+      "wrong_options": [
+        "Driver error",
+        "Team order violations",
+        "Technical regulations changes"
+      ]
+    },
+    {
+      "question": "What was the overall impact of the events during the 2005 US GP on Formula 1's reputation?",
+      "correct_answer": "Turned into a global embarrassment",
+      "wrong_options": [
+        "Enhanced team rivalries",
+        "Boosted fan engagement",
+        "Showcased driver talent"
+      ]
+    }
+  ]
+}

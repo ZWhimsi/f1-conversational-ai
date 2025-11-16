@@ -1,0 +1,36 @@
+{
+  "article_number": 307,
+  "source": "Motorsport Magazine",
+  "title": "Why now is the moment Austria polesitter Norris can turn his F1 season around",
+  "summary": "On pole position in Austria, Lando Norris isn't just in prime position to win at the Red Bull Ring, he could be at the start of a run which returns him to the lead of the championship",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-now-is-the-moment-austria-polesitter-norris-can-turn-his-f1-season-around/",
+  "qa_pairs": [
+    {
+      "question": "What is pole position in Formula 1?",
+      "correct_answer": "The starting position at the front of the grid determined by the fastest qualifying lap.",
+      "wrong_options": [
+        "The position assigned to the last car on the grid",
+        "A position awarded to the fastest lap in the race",
+        "A penalty position for slow performance"
+      ]
+    },
+    {
+      "question": "Which track is referred to as the Red Bull Ring?",
+      "correct_answer": "A motorsport circuit located in Spielberg, Austria.",
+      "wrong_options": [
+        "A track in Monaco",
+        "A circuit in Silverstone, UK",
+        "An F1 venue in Suzuka, Japan"
+      ]
+    },
+    {
+      "question": "Who is Lando Norris' current team in Formula 1 as of the 2023 season?",
+      "correct_answer": "McLaren.",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "Mercedes"
+      ]
+    }
+  ]
+}

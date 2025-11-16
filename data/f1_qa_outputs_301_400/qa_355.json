@@ -1,0 +1,36 @@
+{
+  "article_number": 355,
+  "source": "Motorsport Magazine",
+  "title": "The tragedy of Antonio Ascari — killed at track he’d said was a safety risk",
+  "summary": "In this year of significant anniversaries – 75 years of the Formula 1 World Championship (NB – NOT as the marketeers would like us to believe “of Formula 1”, which…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/33/models-art-and-mclaren-hawaii-shirt/",
+  "qa_pairs": [
+    {
+      "question": "What year did the Formula 1 World Championship first take place?",
+      "correct_answer": "1950",
+      "wrong_options": [
+        "1947",
+        "1955",
+        "1960"
+      ]
+    },
+    {
+      "question": "Which driver tragically lost their life at a track they deemed unsafe?",
+      "correct_answer": "Antonio Ascari",
+      "wrong_options": [
+        "Ayrton Senna",
+        "Gilles Villeneuve",
+        "Ronnie Peterson"
+      ]
+    },
+    {
+      "question": "What is a significant concern that has been highlighted in motorsport regarding safety?",
+      "correct_answer": "Driver safety at racing tracks",
+      "wrong_options": [
+        "Car aerodynamic efficiency",
+        "Pit stop strategies",
+        "Tire compound choices"
+      ]
+    }
+  ]
+}

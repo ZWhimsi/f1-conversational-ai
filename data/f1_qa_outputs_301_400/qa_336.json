@@ -1,0 +1,36 @@
+{
+  "article_number": 336,
+  "source": "Motorsport Magazine",
+  "title": "Stroll returns for Canadian GP after surgery and Paul Ricard test",
+  "summary": "The Aston Martin driver has recovered from surgery in time for the Canadian Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/stroll-returns-for-canadian-gp-after-surgery-and-paul-ricard-test/",
+  "qa_pairs": [
+    {
+      "question": "Which Formula 1 team does Lance Stroll drive for?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What event did Lance Stroll return for after recovering from surgery?",
+      "correct_answer": "Canadian Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "French Grand Prix",
+        "Belgian Grand Prix"
+      ]
+    },
+    {
+      "question": "What type of medical procedure did Lance Stroll undergo before returning to racing?",
+      "correct_answer": "Surgery",
+      "wrong_options": [
+        "Physical therapy",
+        "Injury rehabilitation",
+        "Dental surgery"
+      ]
+    }
+  ]
+}

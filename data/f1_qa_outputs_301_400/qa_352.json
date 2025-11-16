@@ -1,0 +1,36 @@
+{
+  "article_number": 352,
+  "source": "Motorsport Magazine",
+  "title": "Racing to the guidelines",
+  "summary": "In the opening seconds of the Miami Grand Prix it looked like Lando Norris was going to wrest the lead from Max Verstappen into Turn 2, as the McLaren driver…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/79/racing-to-the-guidelines/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Lando Norris drive for in Formula 1?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Mercedes",
+        "Ferrari"
+      ]
+    },
+    {
+      "question": "Who was the driver leading at the start of the Miami Grand Prix?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "In which race did Lando Norris attempt to take the lead from Max Verstappen?",
+      "correct_answer": "Miami Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "British Grand Prix"
+      ]
+    }
+  ]
+}

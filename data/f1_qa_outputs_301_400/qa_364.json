@@ -1,0 +1,36 @@
+{
+  "article_number": 364,
+  "source": "Motorsport Magazine",
+  "title": "Today’s F1 starting grid for the 2025 Spanish Grand Prix after Stroll pulls out",
+  "summary": "Oscar Piastri will start on pole for the 2025 Spanish Grand Prix after a devastatingly fast qualifying lap. Here's how the starting grid — with only 19 drivers — looks for Sunday's race in Barcelona",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/tomorrows-f1-starting-grid-for-the-2025-spanish-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Who secured pole position for the 2025 Spanish Grand Prix?",
+      "correct_answer": "Oscar Piastri",
+      "wrong_options": [
+        "Lance Stroll",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "question": "What was the total number of drivers participating in the 2025 Spanish Grand Prix?",
+      "correct_answer": "19 drivers",
+      "wrong_options": [
+        "20 drivers",
+        "18 drivers",
+        "17 drivers"
+      ]
+    },
+    {
+      "question": "What is the significance of Oscar Piastri's qualifying performance?",
+      "correct_answer": "He achieved the fastest lap to start from pole position.",
+      "wrong_options": [
+        "He finished second in qualifying.",
+        "He had the slowest lap time.",
+        "He was disqualified from qualifying."
+      ]
+    }
+  ]
+}

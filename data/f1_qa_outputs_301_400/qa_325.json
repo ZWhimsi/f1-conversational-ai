@@ -1,0 +1,36 @@
+{
+  "article_number": 325,
+  "source": "Motorsport Magazine",
+  "title": "Russell strengthens hand in Mercedes F1 contract talks - What you missed at the Canadian GP",
+  "summary": "Mercedes is still trying to figure out how much Russell is valued, drivers prepare for theF1movie premiere, and the 2026 Indy 500 clash anger is dying down... Here's what you missed from the Canadian GP weekend",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/russell-strengthens-hand-in-mercedes-f1-contract-talks-what-you-missed-at-the-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which team is George Russell currently driving for in Formula 1?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Red Bull Racing",
+        "Ferrari",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What major event is mentioned alongside the Canadian GP that drivers are preparing for?",
+      "correct_answer": "the F1 movie premiere",
+      "wrong_options": [
+        "the Monaco GP",
+        "the Belgian GP",
+        "the Formula E championship"
+      ]
+    },
+    {
+      "question": "What year is mentioned for the planned Indy 500 clash that has caused some controversy?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2025",
+        "2024",
+        "2023"
+      ]
+    }
+  ]
+}

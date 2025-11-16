@@ -1,0 +1,36 @@
+{
+  "article_number": 301,
+  "source": "Motorsport Magazine",
+  "title": "2025 British Grand Prix start time: how to watch, live stream and F1 schedule",
+  "summary": "Watch F1 via live stream or on TV: dates and start time for the 2025 British Grand Prix, including all sessions",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-british-grand-prix-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "In what year is the British Grand Prix scheduled to take place as per the latest information?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2026"
+      ]
+    },
+    {
+      "question": "What type of event is the British Grand Prix in the context of Formula 1?",
+      "correct_answer": "Race",
+      "wrong_options": [
+        "Practice",
+        "Qualifying",
+        "Test session"
+      ]
+    },
+    {
+      "question": "What is a common method for fans to watch Formula 1 races live?",
+      "correct_answer": "Live stream",
+      "wrong_options": [
+        "Radio broadcast",
+        "Newspaper highlights",
+        "Television news"
+      ]
+    }
+  ]
+}

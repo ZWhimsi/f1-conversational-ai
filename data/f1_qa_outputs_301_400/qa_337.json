@@ -1,0 +1,36 @@
+{
+  "article_number": 337,
+  "source": "Motorsport Magazine",
+  "title": "Will race ban threat affect Verstappen? - What to watch out for at the Canadian GP",
+  "summary": "The Canadian GP arrives Verstappen under pressure, McLaren’s title fight heating up, Ferrari chasing momentum, and the midfield poised for a shake-up on Montreal’s unpredictable circuit",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/will-race-ban-threat-affect-verstappen-what-to-watch-out-for-at-the-canadian-gp/",
+  "qa_pairs": [
+    {
+      "question": "Which driver is currently under pressure heading into the Canadian GP?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "Which team is noted for having a title fight heating up as the Canadian GP approaches?",
+      "correct_answer": "McLaren",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull",
+        "Mercedes"
+      ]
+    },
+    {
+      "question": "What characteristic of the Montreal circuit is highlighted in relation to the midfield teams?",
+      "correct_answer": "Unpredictability",
+      "wrong_options": [
+        "High-speed straights",
+        "Technical complexity",
+        "Low grip levels"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 350,
+  "source": "Motorsport Magazine",
+  "title": "Word on the beat",
+  "summary": "The resignation of Alpine team principal Oliver Oakes on the Sunday of the Miami Grand Prix was initially assumed to be an outcome of his disagreement with executive director Flavio…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/82/word-on-the-beat-14/",
+  "qa_pairs": [
+    {
+      "question": "Who was the team principal of Alpine who resigned during the Miami Grand Prix weekend?",
+      "correct_answer": "Oliver Oakes",
+      "wrong_options": [
+        "Flavio Briatore",
+        "Laurent Rossi",
+        "Otmar Szafnauer"
+      ]
+    },
+    {
+      "question": "Which Grand Prix coincided with the resignation of Alpine's team principal?",
+      "correct_answer": "Miami Grand Prix",
+      "wrong_options": [
+        "Monaco Grand Prix",
+        "Canadian Grand Prix",
+        "Austrian Grand Prix"
+      ]
+    },
+    {
+      "question": "What role did Flavio Briatore hold at Alpine during the time of Oliver Oakes' resignation?",
+      "correct_answer": "Executive Director",
+      "wrong_options": [
+        "Technical Director",
+        "Team Principal",
+        "Chief Engineer"
+      ]
+    }
+  ]
+}

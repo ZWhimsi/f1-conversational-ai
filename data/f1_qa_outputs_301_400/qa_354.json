@@ -1,0 +1,36 @@
+{
+  "article_number": 354,
+  "source": "Motorsport Magazine",
+  "title": "What's the full story of Lance Stroll's Spanish GP absence? What you missed in Barcelona",
+  "summary": "The mysteries of the 2025 Spanish Grand Prix paddock: Why wasn't Christian Horner out defending his star driver? When will F1 talk to IndyCar? And what did happen to Lance Stroll?",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/whats-the-full-story-of-lance-strolls-spanish-gp-absence-what-you-missed-in-barcelona/",
+  "qa_pairs": [
+    {
+      "question": "Which team does Lance Stroll drive for in Formula 1?",
+      "correct_answer": "Aston Martin",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is the role of Christian Horner in Formula 1?",
+      "correct_answer": "Team Principal of Red Bull Racing",
+      "wrong_options": [
+        "Driver for Mercedes",
+        "Chief Engineer at Ferrari",
+        "Team Principal of Williams"
+      ]
+    },
+    {
+      "question": "In which year was the mentioned Spanish Grand Prix held?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    }
+  ]
+}

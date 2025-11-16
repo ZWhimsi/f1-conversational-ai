@@ -1,0 +1,36 @@
+{
+  "article_number": 328,
+  "source": "Motorsport Magazine",
+  "title": "Tomorrow's F1 starting grid for the 2025 Canadian Grand Prix",
+  "summary": "George Russell will start on pole for the 2025 Canadian Grand Prix. Here's how the starting grid — with only 19 drivers — looks for Sunday's race in Montreal",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/tomorrows-f1-starting-grid-for-the-2025-canadian-grand-prix/",
+  "qa_pairs": [
+    {
+      "question": "Who secured the pole position for the 2025 Canadian Grand Prix?",
+      "correct_answer": "George Russell",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "How many drivers will compete in the 2025 Canadian Grand Prix starting grid?",
+      "correct_answer": "19 drivers",
+      "wrong_options": [
+        "20 drivers",
+        "18 drivers",
+        "21 drivers"
+      ]
+    },
+    {
+      "question": "In which city is the 2025 Canadian Grand Prix taking place?",
+      "correct_answer": "Montreal",
+      "wrong_options": [
+        "Toronto",
+        "Vancouver",
+        "Calgary"
+      ]
+    }
+  ]
+}

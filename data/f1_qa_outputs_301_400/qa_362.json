@@ -1,0 +1,36 @@
+{
+  "article_number": 362,
+  "source": "Motorsport Magazine",
+  "title": "Explained: The penalty that left Verstappen one point away from an F1 race ban",
+  "summary": "The world champion was left furious after being asked to give up his position to Russell",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/explained-the-penalty-that-left-verstappen-one-point-away-from-an-f1-race-ban/",
+  "qa_pairs": [
+    {
+      "question": "What is the consequence of a driver accumulating 12 penalty points on their super license within a 12-month period in Formula 1?",
+      "correct_answer": "They receive a one-race ban.",
+      "wrong_options": [
+        "They are disqualified from the season.",
+        "They must start from the back of the grid.",
+        "They lose their championship points."
+      ]
+    },
+    {
+      "question": "Which driver was involved in a position controversy with Max Verstappen in this incident?",
+      "correct_answer": "George Russell.",
+      "wrong_options": [
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Sergio Perez"
+      ]
+    },
+    {
+      "question": "What action can race stewards take if a driver is deemed to have violated racing rules?",
+      "correct_answer": "They can impose penalty points on the driver's super license.",
+      "wrong_options": [
+        "They can award extra championship points.",
+        "They can require a driver to change their car setup.",
+        "They can impose time penalties that do not affect the race."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 347,
+  "source": "Motorsport Magazine",
+  "title": "Jody Scheckter: ‘Lewis Hamilton bought my Monaco penthouse’",
+  "summary": "When you consider that Jody Scheckter’s driving style earned him the nickname ‘Sideways Scheckter’ in his early days, that he continued to drive racing cars that way right up to…",
+  "link": "https://www.motorsportmagazine.com/archive/article/july-2025/100/jody-scheckter-lewis-hamilton-bought-my-monaco-penthouse/",
+  "qa_pairs": [
+    {
+      "question": "What nickname was Jody Scheckter known by due to his driving style?",
+      "correct_answer": "Sideways Scheckter",
+      "wrong_options": [
+        "Fast Scheckter",
+        "Drift King",
+        "Scheckter the Great"
+      ]
+    },
+    {
+      "question": "In which famous location did Jody Scheckter sell a penthouse to Lewis Hamilton?",
+      "correct_answer": "Monaco",
+      "wrong_options": [
+        "Barcelona",
+        "Singapore",
+        "Abu Dhabi"
+      ]
+    },
+    {
+      "question": "Which former F1 driver won the World Championship in 1979?",
+      "correct_answer": "Jody Scheckter",
+      "wrong_options": [
+        "Niki Lauda",
+        "James Hunt",
+        "Alan Jones"
+      ]
+    }
+  ]
+}
