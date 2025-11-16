@@ -39,7 +39,7 @@ This repository contains the complete implementation of a research project focus
 │   ├── alternateFiles/                                # Alternative files for loading QA dataset and formatting multiple choice questions
 │   ├── 02a_mistral_7b_evaluation.ipynb                # Evaluates Mistral 7B on the F1 QA dataset with multiple choice questions
 │   ├── 02b_phi3_mini_evaluation.ipynb                 # Evaluates Phi-3 Mini on the F1 QA dataset with multiple choice questions
-│   ├── 02c_llama_2_7b_chat_hf_evaluation.ipynb        # Evaluates Llama 2 7B Instruct on the F1 QA dataset with multiple choice questions
+│   ├── 02c_llama_2_7b_chat_hf_evaluation.ipynb        # Evaluates Llama 2 7B and Llama 2 7B Chat on the F1 QA dataset with multiple choice questions
 │   ├── 02c_llama_3_1_8b_evaluation.ipynb              # Evaluates Llama 3.1 8B Instruct on the F1 QA dataset with multiple choice questions
 │   ├── HUGGINGFACE_APPROACH.md                        # Outlines a faster and more reliable F1 QA evaluation workflow that now loads models directly from Hugging Face Hub instead of Google Drive.
 │   ├── README.md                                      # ExpJupyter notebooks for analysis
