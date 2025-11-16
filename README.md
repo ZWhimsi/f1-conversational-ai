@@ -137,124 +137,19 @@ Key dependencies include:
 - `seaborn` - Statistical visualization
 - `wandb` - Experiment tracking
 
-## Project Phases
+## Data Management
 
-### Phase 1: Data Curation
+### Data Sources
 
-**Objective**: Collect, clean, and prepare F1-specific training data
+- Web Scraping: F1 news sites, official F1 statistics
+- Kaggle: Structured F1 datasets
+- Generated: GPT-4 assisted instruction-response pairs
 
-**Key Components**:
+### Data Storage
 
-- Web scraping scripts for F1 news, statistics, and historical data
-- Kaggle dataset integration for structured F1 data
-- Data preprocessing and cleaning pipelines
-- GPT-4 assisted instruction-response dataset generation
-
-**Scripts**:
-
-- `notebooks/f1_data_aggregator.ipynb`
-- `notebooks/f1_data_preprocessing.ipynb `
-
-### Phase 2: Baseline Modeling
-
-**Objective**: Evaluate pre-trained model performance on F1 tasks
-
-**Key Components**:
-
-- Inference scripts for Gemma-7B and LLaMA 2-7B
-- Curated F1-specific prompt evaluation set
-- Performance metrics collection
-
-**Scripts**:
-
-- `scripts/phase2_baseline/inference_gemma_base.py`
-- `scripts/phase2_baseline/inference_llama_base.py`
-- `scripts/phase2_baseline/evaluate_baseline.py`
-
-### Phase 3: Core Experimentation
-
-**Objective**: Implement and execute fine-tuning experiments
-
-**Key Components**:
-
-- Full-parameter fine-tuning implementation
-- LoRA fine-tuning implementation
-- Training configuration management
-- Model checkpointing and artifact storage
-
-**Scripts**:
-
-- `scripts/phase3_training/train_full.py`
-- `scripts/phase3_training/train_lora.py`
-- `scripts/phase3_training/training_config.py`
-
-### Phase 4: Evaluation
-
-**Objective**: Comprehensive model evaluation using LLM-as-judge
-
-**Key Components**:
-
-- Automated evaluation framework
-- LLM-as-judge implementation
-- Performance metrics collection
-- System resource monitoring
-
-**Scripts**:
-
-- `scripts/phase4_evaluation/llm_judge.py`
-- `scripts/phase4_evaluation/evaluate_models.py`
-- `scripts/phase4_evaluation/metrics_collection.py`
-
-### Phase 5: Reporting & Deliverables
-
-**Objective**: Synthesize findings and create deliverables
-
-**Key Components**:
-
-- Results visualization and analysis
-- Performance comparison reports
-- Live demonstration preparation
-- Final documentation
-
-**Scripts**:
-
-- `scripts/phase5_reporting/generate_visualizations.py`
-- `scripts/phase5_reporting/create_report.py`
-- `scripts/phase5_reporting/prepare_demo.py`
-
-## Usage
-
-### Running Individual Phases
-
-1. **Data Curation**
-
-   ```bash
-   python scripts/phase1_data_curation/main.py
-   ```
-
-2. **Baseline Evaluation**
-
-   ```bash
-   python scripts/phase2_baseline/main.py
-   ```
-
-3. **Training**
-
-   ```bash
-   python scripts/phase3_training/train_full.py --config config/training_config.yaml
-   python scripts/phase3_training/train_lora.py --config config/lora_config.yaml
-   ```
-
-4. **Evaluation**
-
-   ```bash
-   python scripts/phase4_evaluation/main.py
-   ```
-
-5. **Reporting**
-   ```bash
-   python scripts/phase5_reporting/main.py
-   ```
+- Large datasets are stored in cloud storage (Google Cloud Storage)
+- Local data directory contains processed and curated datasets
+- Raw data is preserved for reproducibility
 
 ### Configuration
 
@@ -265,38 +160,25 @@ Configuration files are stored in the `config/` directory:
 - `evaluation_config.yaml` - Evaluation parameters
 - `.env` - Environment variables and API keys
 
-## Data Management
-
-### Data Sources
-
-- **Web Scraping**: F1 news sites, official F1 statistics
-- **Kaggle**: Structured F1 datasets
-- **Generated**: GPT-4 assisted instruction-response pairs
-
-### Data Storage
-
-- Large datasets are stored in cloud storage (Google Cloud Storage)
-- Local data directory contains processed and curated datasets
-- Raw data is preserved for reproducibility
-
 ## Model Management
 
 ### Base Models
 
-- Gemma-7B (Google)
-- LLaMA 2-7B (Meta)
+- Mistral-7B
+- Phi-3-Mini-4K-Instruct
+- Falcon-7B-Instruct
 
 ### Fine-tuned Models
 
 - Full-parameter fine-tuned versions
 - LoRA fine-tuned versions
-- Model artifacts stored in `models/artifacts/`
+- Model artifacts stored in `models/`
 
 ## Evaluation Framework
 
 ### Metrics
 
-- **Qualitative**: LLM-as-judge evaluation scores
+- **Qualitative**: LLM-as-judge evaluation scores based on Relevance, Coherence, Factuality, Fluency, Comprehensiveness, and Conciseness.
 - **Quantitative**: BLEU, ROUGE, perplexity
 - **System**: GPU usage, training time, memory consumption
 
@@ -304,8 +186,8 @@ Configuration files are stored in the `config/` directory:
 
 1. Automated test set generation
 2. Model inference on test prompts
-3. LLM-as-judge scoring
-4. Performance metrics calculation
+3. LLM-as-judge scoring (using scripts/eval_framework/eval.py)
+4. Heuristic-based quality scoring (using scripts/response_quality_evaluator.py)
 5. Results visualization and analysis
 
 ## Results
@@ -338,6 +220,11 @@ Run the test suite:
 
 ```bash
 pytest tests/
+```
+You can also test model loading with:
+
+```bash
+python test_model_loading.py
 ```
 
 ## Documentation
