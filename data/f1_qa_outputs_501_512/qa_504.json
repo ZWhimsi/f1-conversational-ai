@@ -1,0 +1,36 @@
+{
+  "article_number": 504,
+  "source": "Motorsport Magazine",
+  "title": "MPH: F1 in 'crisis meeting' as engine civil war threatens to erupt",
+  "summary": "Friday's summit in Bahrain between the FIA, teams and manufacturers may have been dressed up as a gathering to discuss the idea of a return to V10 engines. But make no mistake: they're crunch talks as the 2026 rules continue to create problems, saysMark Hughes",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-f1-in-crisis-meeting-as-engine-civil-war-threatens-erupt/",
+  "qa_pairs": [
+    {
+      "question": "What type of engine configuration is being discussed for a potential return in Formula 1?",
+      "correct_answer": "V10 engines",
+      "wrong_options": [
+        "V6 engines",
+        "V8 engines",
+        "Hybrid engines"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the summit held in Bahrain regarding Formula 1?",
+      "correct_answer": "To discuss the 2026 rules and engine regulations",
+      "wrong_options": [
+        "To plan the next race schedule",
+        "To negotiate driver contracts",
+        "To discuss tire regulations"
+      ]
+    },
+    {
+      "question": "Which organizations were involved in the summit in Bahrain regarding F1 engine regulations?",
+      "correct_answer": "FIA, teams, and manufacturers",
+      "wrong_options": [
+        "FOM, drivers, and sponsors",
+        "FIA, teams, and media",
+        "FOM, engineers, and promoters"
+      ]
+    }
+  ]
+}

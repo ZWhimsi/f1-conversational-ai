@@ -1,0 +1,36 @@
+{
+  "article_number": 506,
+  "source": "Motorsport Magazine",
+  "title": "Why Verstappen's latest Suzuka win was different from all the rest",
+  "summary": "While Max Verstappen winning at Suzuka is nothing new, his 2025 victory stood out from those previous, asMark Hughesexplains",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mark-hughes-the-greatness-in-verstappens-japanese-gp-win/",
+  "qa_pairs": [
+    {
+      "question": "In which year did Max Verstappen achieve a notable victory at Suzuka that was highlighted for being different from his previous wins?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2023",
+        "2022"
+      ]
+    },
+    {
+      "question": "What is the name of the circuit where Max Verstappen secured his unique victory in 2025?",
+      "correct_answer": "Suzuka",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Spa-Francorchamps"
+      ]
+    },
+    {
+      "question": "Max Verstappen is a driver for which Formula 1 team as of 2025?",
+      "correct_answer": "Red Bull Racing",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren"
+      ]
+    }
+  ]
+}

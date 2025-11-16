@@ -1,0 +1,36 @@
+{
+  "article_number": 501,
+  "source": "Motorsport Magazine",
+  "title": "F1 rules out 2026 V10s – but engine 'adjustments' still being discussed",
+  "summary": "The FIA says engine manufacturers have committed to the planned 2026 rules, with some modifications",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-rules-out-2026-v10s-but-engine-adjustments-still-being-discussed/",
+  "qa_pairs": [
+    {
+      "question": "What type of engine configuration is being ruled out for the 2026 Formula 1 season?",
+      "correct_answer": "V10",
+      "wrong_options": [
+        "V6",
+        "V8",
+        "V12"
+      ]
+    },
+    {
+      "question": "Which organization is responsible for the regulations regarding Formula 1 engines?",
+      "correct_answer": "FIA",
+      "wrong_options": [
+        "FOM",
+        "Pirelli",
+        "Teams Association"
+      ]
+    },
+    {
+      "question": "What year is targeted for the introduction of the new engine regulations in Formula 1?",
+      "correct_answer": "2026",
+      "wrong_options": [
+        "2024",
+        "2025",
+        "2027"
+      ]
+    }
+  ]
+}

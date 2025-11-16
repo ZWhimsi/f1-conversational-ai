@@ -1,0 +1,36 @@
+{
+  "article_number": 502,
+  "source": "Motorsport Magazine",
+  "title": "Desert storm: F1's biggest Bahrain Grand Prix controversies",
+  "summary": "Over the years, the Bahrain Grand Prix has offered plenty of on-track - and some off-track - drama. These are the top controversies from the Sakhir event",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/desert-storm-f1s-biggest-bahrain-grand-prix-controversies/",
+  "qa_pairs": [
+    {
+      "question": "What year did the Bahrain Grand Prix first take place?",
+      "correct_answer": "2004",
+      "wrong_options": [
+        "2005",
+        "2006",
+        "2003"
+      ]
+    },
+    {
+      "question": "Which team has faced significant controversies during the Bahrain Grand Prix?",
+      "correct_answer": "Mercedes",
+      "wrong_options": [
+        "Ferrari",
+        "Red Bull Racing",
+        "McLaren"
+      ]
+    },
+    {
+      "question": "What type of incidents have historically characterized the Bahrain Grand Prix?",
+      "correct_answer": "On-track and off-track controversies",
+      "wrong_options": [
+        "Only technical failures",
+        "Weather-related incidents",
+        "Driver retirements"
+      ]
+    }
+  ]
+}

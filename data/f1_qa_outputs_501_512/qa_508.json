@@ -1,0 +1,36 @@
+{
+  "article_number": 508,
+  "source": "Motorsport Magazine",
+  "title": "Mohammed Ben Sulayem: every big controversy so far as FIA president is under attack in election year",
+  "summary": "After angering F1 drivers, FIA president Mohammed Ben Sulayem has been accused of issuing \"gagging orders\" to senior racing officials in the latest controversy affecting his term — as rumours swirl that he'll face a challenge in his bid to be re-elected. We explore his tumultuous four-year reign",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mohammed-ben-sulayem-fia-presidents-controversial-reign-so-far/",
+  "qa_pairs": [
+    {
+      "question": "Who is the current president of the FIA as of 2023?",
+      "correct_answer": "Mohammed Ben Sulayem",
+      "wrong_options": [
+        "Jean Todt",
+        "Max Mosley",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What has Mohammed Ben Sulayem been accused of during his presidency?",
+      "correct_answer": "Issuing 'gagging orders' to senior racing officials",
+      "wrong_options": [
+        "Improving driver safety regulations",
+        "Increasing race frequencies",
+        "Enhancing technical regulations"
+      ]
+    },
+    {
+      "question": "What significant event is Mohammed Ben Sulayem facing in the context of his presidency?",
+      "correct_answer": "A challenge in his bid to be re-elected",
+      "wrong_options": [
+        "Retirement from the FIA",
+        "A merger with Formula E",
+        "Hosting a new racing championship"
+      ]
+    }
+  ]
+}

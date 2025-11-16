@@ -1,0 +1,36 @@
+{
+  "article_number": 505,
+  "source": "Motorsport Magazine",
+  "title": "Sainz explains 'biggest' struggle in adapting to Williams F1 car",
+  "summary": "Carlos Sainz has pinpointed the area he is most getting to grips with in his new Williams F1 car",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/sainz-explains-biggest-struggle-in-adapting-to-williams-f1-car/",
+  "qa_pairs": [
+    {
+      "question": "Which team is Carlos Sainz currently adapting to in Formula 1?",
+      "correct_answer": "Williams",
+      "wrong_options": [
+        "Ferrari",
+        "McLaren",
+        "Alpine"
+      ]
+    },
+    {
+      "question": "What is a common challenge drivers face when switching teams in Formula 1?",
+      "correct_answer": "Adapting to the new car's handling and performance characteristics",
+      "wrong_options": [
+        "Learning the pit stop procedures",
+        "Getting used to the team’s communication style",
+        "Understanding the team’s sponsorship deals"
+      ]
+    },
+    {
+      "question": "Who is responsible for developing the car that drivers like Carlos Sainz must adapt to?",
+      "correct_answer": "The engineering team of the respective Formula 1 team",
+      "wrong_options": [
+        "The drivers themselves",
+        "The team principal",
+        "The FIA"
+      ]
+    }
+  ]
+}

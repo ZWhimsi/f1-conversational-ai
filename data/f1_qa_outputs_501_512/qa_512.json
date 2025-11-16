@@ -1,0 +1,36 @@
+{
+  "article_number": 512,
+  "source": "Motorsport Magazine",
+  "title": "2025 Bahrain GP start time: how to watch, live stream and F1 schedule",
+  "summary": "The 2025 Formula 1 season is set to hot up in Sakhir – watch F1 via live stream or on TV: dates and start time for the 2025 Bahrain Grand Prix",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/2025-bahrain-gp-start-time-how-to-watch-live-stream-and-f1-schedule/",
+  "qa_pairs": [
+    {
+      "question": "In which year is the Bahrain Grand Prix mentioned in the context of the Formula 1 season?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2024",
+        "2026",
+        "2023"
+      ]
+    },
+    {
+      "question": "Where is the Bahrain Grand Prix held?",
+      "correct_answer": "Sakhir",
+      "wrong_options": [
+        "Manama",
+        "Marsa Alam",
+        "Bahrain City"
+      ]
+    },
+    {
+      "question": "What is one way to watch the Bahrain Grand Prix according to the context?",
+      "correct_answer": "Live stream",
+      "wrong_options": [
+        "In-person attendance",
+        "Radio broadcast",
+        "Social media"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_number": 507,
+  "source": "Motorsport Magazine",
+  "title": "FIA deputy resigns in protest while Richards rages against 'shift of moral compass'",
+  "summary": "More controversy has enveloped motor sport's governing body the FIA after its deputy president for sport resigned and Motorsport UK chairman David Richards took his recent grievances public in an open letter",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/fia-deputy-resigns-while-richards-rages-against-shift-of-moral-compass/",
+  "qa_pairs": [
+    {
+      "question": "Who is the deputy president for sport of the FIA that recently resigned?",
+      "correct_answer": "The identity of the deputy president is not specified.",
+      "wrong_options": [
+        "Jean Todt",
+        "Mohammed Ben Sulayem",
+        "Charlie Whiting"
+      ]
+    },
+    {
+      "question": "What position does David Richards hold in the motorsport community?",
+      "correct_answer": "Chairman of Motorsport UK",
+      "wrong_options": [
+        "CEO of Formula 1",
+        "Team Principal of Aston Martin",
+        "Director of the FIA"
+      ]
+    },
+    {
+      "question": "What type of document did David Richards use to express his grievances?",
+      "correct_answer": "An open letter",
+      "wrong_options": [
+        "A press release",
+        "A personal blog",
+        "An official statement"
+      ]
+    }
+  ]
+}

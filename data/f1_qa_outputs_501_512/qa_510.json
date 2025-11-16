@@ -1,0 +1,36 @@
+{
+  "article_number": 510,
+  "source": "Motorsport Magazine",
+  "title": "Why McLaren can strike back – What to watch for at Bahrain GP",
+  "summary": "Lando Norris leads Max Verstappen by a single point going into the fourth round of the season in the Bahrain GP following the Red Bull driver's win in Japan. Here's what to look out for at Sakhir",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/why-mclaren-can-strike-back-what-to-watch-out-for-in-the-bahrain-gp/",
+  "qa_pairs": [
+    {
+      "question": "Who is currently leading the drivers' championship heading into the Bahrain GP?",
+      "correct_answer": "Lando Norris",
+      "wrong_options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Charles Leclerc"
+      ]
+    },
+    {
+      "question": "Which driver won the previous race before the Bahrain GP?",
+      "correct_answer": "Max Verstappen",
+      "wrong_options": [
+        "Lando Norris",
+        "Sergio Perez",
+        "Carlos Sainz"
+      ]
+    },
+    {
+      "question": "What is the location of the Bahrain Grand Prix?",
+      "correct_answer": "Sakhir",
+      "wrong_options": [
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ]
+    }
+  ]
+}

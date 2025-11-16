@@ -1,0 +1,36 @@
+{
+  "article_number": 509,
+  "source": "Motorsport Magazine",
+  "title": "Who are all the F1 rookies driving in FP1 in 2025?",
+  "summary": "This season, every F1 team must give multiple rookies time behind the wheel during Friday practice sessions. Here's a look at all the drivers",
+  "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/who-are-all-the-f1-rookies-driving-in-fp1-in-2025/",
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of allowing rookies to drive during Friday practice sessions in F1?",
+      "correct_answer": "To give them experience and familiarize them with the car and circuit.",
+      "wrong_options": [
+        "To test new tire compounds",
+        "To evaluate team strategies for the race",
+        "To determine the starting grid for the race"
+      ]
+    },
+    {
+      "question": "In what year did the regulation requiring F1 teams to give rookies time during Friday practice sessions come into effect?",
+      "correct_answer": "2025",
+      "wrong_options": [
+        "2023",
+        "2024",
+        "2026"
+      ]
+    },
+    {
+      "question": "Which of the following teams is required to allow rookies to participate in FP1 sessions?",
+      "correct_answer": "All teams",
+      "wrong_options": [
+        "Mercedes",
+        "Ferrari",
+        "Red Bull Racing"
+      ]
+    }
+  ]
+}
