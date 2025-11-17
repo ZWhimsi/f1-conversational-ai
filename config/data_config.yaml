@@ -5,9 +5,7 @@ sources:
   web_scraping:
     enabled: true
     sources:
-      - "https://www.formula1.com"
-      - "https://www.espn.com/f1"
-      - "https://www.bbc.com/sport/formula1"
+      - "https://www.motorsportmagazine.com/articles/category/single-seaters/f1/?date_query={year}+{month_name}"
     selectors:
       title: "h1, h2, h3"
       content: "p, div.article-content"
