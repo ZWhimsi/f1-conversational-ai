@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formula 1 - Official Website</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>FORMULA 1</h1>
+            </div>
+            <nav class="nav">
+                <a href="#home">Home</a>
+                <a href="#drivers">Drivers</a>
+                <a href="#teams">Teams</a>
+                <a href="#races">Races</a>
+                <a href="#news">News</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2>Welcome to Formula 1</h2>
+            <p>The pinnacle of motorsport</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <section class="content-section">
+                <h2>Latest News</h2>
+                <div class="news-grid">
+                    <article class="news-card">
+                        <h3>2024 Season Highlights</h3>
+                        <p>Relive the most exciting moments from the 2024 Formula 1 season.</p>
+                    </article>
+                    <article class="news-card">
+                        <h3>Driver Standings</h3>
+                        <p>Check out the current championship standings and driver statistics.</p>
+                    </article>
+                    <article class="news-card">
+                        <h3>Upcoming Races</h3>
+                        <p>Don't miss the next Grand Prix events on the calendar.</p>
+                    </article>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Chatbot Widget -->
+    <div class="chatbot-container" id="chatbotContainer">
+        <div class="chatbot-header" id="chatbotHeader">
+            <h3>F1 Assistant</h3>
+            <button class="close-btn" id="closeChatbot">×</button>
+        </div>
+        <div class="chatbot-messages" id="chatbotMessages">
+            <div class="message bot-message">
+                <p>Hello! I'm your F1 assistant. Ask me anything about Formula 1!</p>
+            </div>
+        </div>
+        <div class="chatbot-input-container">
+            <input type="text" id="chatbotInput" placeholder="Ask about F1..." />
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+
+    <!-- Chatbot Toggle Button -->
+    <button class="chatbot-toggle" id="chatbotToggle">
+        💬
+    </button>
+
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+</body>
+</html>
+
