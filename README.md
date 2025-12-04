@@ -39,7 +39,7 @@ To prevent data leakage, we developed a distinct **Evaluation Benchmark** consis
 | **Training Time** | ~78 minutes (collapsed) | ~82 minutes (converged) |
 
 ### 3.2 Hardware Environment
-* **Compute:** [Insert GPU used, e.g., NVIDIA A100 / T4]
+* **Compute:** 1x NVIDIA H100
 * **Frameworks:** PyTorch 2.0, Hugging Face `peft`, `transformers`.
 
 ---
